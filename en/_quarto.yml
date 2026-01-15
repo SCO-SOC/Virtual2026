@@ -1,0 +1,43 @@
+project:
+  output-dir: ../docs/en
+  type: website    
+
+website:
+  title: "SCO-SOC Virtual Meeting 2026"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Welcome
+      - href: participate.qmd
+        text: Participate
+      - href: program.qmd
+        text: Program
+      - href: sponsors.qmd
+        text: Sponsors
+      - href: resources.qmd
+        text: Resources
+    right:
+      - text: EN
+        menu:
+        - text: FR
+          href: "../fr/{{< meta filename >}}.html"
+  page-footer: |
+    [Society of Canadian Ornithologists](https://www.sco-soc.ca)
+  site-url: https://sco-soc.github.io/Virtual2026/en/
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "Details to come"
+  #   type: primary
+  #   position: below-navbar
+
+format:
+  html:
+    respect-user-color-scheme: true
+    theme:
+      - flatly
+      - ../styles.scss
+    toc: true
+
+
+
