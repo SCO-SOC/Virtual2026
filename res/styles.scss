@@ -1,0 +1,32 @@
+/*-- scss:defaults --*/
+// Base document colors
+$navbar-bg: #2d3e22;
+$body-bg: #e3dbc7;
+$link-color: #2d3e22;
+$navbar-hl: #b09a8dff;
+$navbar-fg: #e3dbc7;
+$alert-border-radius: 0;
+
+/*-- scss:rules --*/
+.navbar-nav .dropdown-menu {
+    min-width: 50px;
+}
+
+@media (max-width: 575px) {
+    div.column {
+        display: initial;
+    }
+}
+
+.img-right {
+    float: right;
+    max-width: 40%;
+    padding: 15px;
+}
+
+@media (max-width: 400px) {
+    .img-right {
+        width: 100%;
+        max-width: 100%;
+    }
+}

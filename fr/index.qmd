@@ -3,6 +3,14 @@ title: "Réunion virtuel"
 filename: index
 ---
 
+::::{.columns}
+
+:::{.column width=20%}
+![](figs/sco_logo.png){style="max-width:100px" fig-alt=""}
+:::
+
+:::{.column width=80%}
+
 **5 au 7 octobre 2026**
 
 Ateliers le 5 octobre, sessions les 6 et 7 octobre.
@@ -10,3 +18,10 @@ Ateliers le 5 octobre, sessions les 6 et 7 octobre.
 Plus d'informations à venir.
 
 Nous espérons vous y voir!
+
+:::
+::::
+
+::: {.column-screen}
+![](figs/Three-toed_woodpecker_narrow_cc0.jpg){fig-alt=""}
+:::

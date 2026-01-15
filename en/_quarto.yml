@@ -1,10 +1,14 @@
 project:
   output-dir: ../docs/en
   type: website    
+  resources: 
+    - "/figs/*"
 
 website:
   title: "SCO-SOC Virtual Meeting 2026"
+
   navbar:
+    logo: figs/sco_logo.png
     left:
       - href: index.qmd
         text: Welcome
@@ -36,8 +40,7 @@ format:
     respect-user-color-scheme: true
     theme:
       - flatly
-      - ../styles.scss
-    toc: true
+      - ../res/styles.scss
 
 
 

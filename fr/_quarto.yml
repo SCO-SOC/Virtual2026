@@ -5,6 +5,7 @@ project:
 website:
   title: "SCO-SOC Réunion Virtuel 2026"
   navbar:
+    logo: figs/sco_logo.png
     left:
       - href: index.qmd
         text: Bienvenue
@@ -36,8 +37,7 @@ format:
     respect-user-color-scheme: true
     theme:
       - flatly
-      - ../styles.scss
-    toc: true
+      - ../res/styles.scss
 
 
 

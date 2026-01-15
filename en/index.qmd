@@ -3,6 +3,14 @@ title: "Virtual Meeting"
 filename: index
 ---
 
+::::{.columns}
+
+:::{.column width=20%}
+![](figs/sco_logo.png){style="max-width:100px" fig-alt=""}
+:::
+
+:::{.column width=80%}
+
 **October 5-7, 2026**
 
 Workshops on October 5th, sessions on October 6th and 7th.
@@ -10,3 +18,10 @@ Workshops on October 5th, sessions on October 6th and 7th.
 Save the date, details to come.
 
 We hope to see you there!
+
+:::
+::::
+
+::: {.column-screen}
+![](figs/Three-toed_woodpecker_narrow_cc0.jpg){fig-alt=""}
+:::
