@@ -6,7 +6,7 @@ filename: index
 ::::{.columns}
 
 :::{.column width=20%}
-![](figs/sco_logo.png){style="max-width:100px" fig-alt=""}
+![](figs/sco_logo.png){style="max-width:90px" fig-alt=""}
 :::
 
 :::{.column width=80%}
