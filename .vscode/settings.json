@@ -1,0 +1,59 @@
+{
+    "cSpell.language": "en-CA, fr",
+    "quarto.visualEditor.spellingDictionary": "en_CA",
+    "cSpell.overrides": [
+        {
+            // glob to match the file name
+            "filename": "**/fr/**/*.qmd",
+            "language": "fr"
+        }
+    ],
+    "cSpell.words": [
+        "align",
+        "Audubon's",
+        "Banding",
+        "Bird",
+        "colour",
+        "column",
+        "columns",
+        "colwidths",
+        "conduct",
+        "Council",
+        "disheveled",
+        "dismissable",
+        "Ethical",
+        "Ethier",
+        "figs",
+        "flex",
+        "funders",
+        "github",
+        "GITHUB",
+        "hide",
+        "left",
+        "margin",
+        "narrow",
+        "participate",
+        "Photography",
+        "president",
+        "program",
+        "right",
+        "Saskatoon",
+        "SCOSOC",
+        "screen",
+        "taxonomiquement",
+        "toed",
+        "true",
+        "Videography",
+        "Viña",
+        "width",
+        "woodpecker"
+    ],
+    "[r]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "Posit.air-vscode"
+    },
+    "[quarto]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "quarto.quarto"
+    }
+}
