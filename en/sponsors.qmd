@@ -1,6 +1,49 @@
 ---
 title: "Sponsors"
 filename: sponsors
+toc: true
 ---
 
-In progress...
+*Position your brand as a leader in the field of bird science and conservation!*
+
+We invite you to partner with the Society of Canadian Ornithologists to advance scientific research and conservation efforts for birds while fostering the professional development of the ornithological community. By becoming a sponsor of the SCO-SOC 2026 virtual conference, you play a vital role in supporting this important initiative.
+
+### About the Conference
+
+The Society of Canadian Ornithologists holds annual meetings, frequently in collaboration with other societies, to share scientific research and strengthen our conservation community. Our conferences feature a diverse array of workshops, plenary talks, oral and poster sessions, and symposia covering a wide range of topics. We also provide training and professional development opportunities for students and early-career professionals.
+
+This year's conference will be virtual, engaging a broader community of participants from across Canada and beyond. Our last virtual conference was a resounding success, engaging more than 175 participants, which we anticipate we will exceed in 2026. Approximately half of our attendees will hold advanced degrees and conduct bird-related research at universities, provincial and federal agencies, private industry, or environmental NGOs focused on conservation and the biology of wild birds. The other half will comprise amateur ornithologists and students, who will be the next generation of avian conservation practitioners in Canada.
+
+### Why Sponsor the SCO-SOC 2026 Virtual Conference?
+
+The SCO-SOC 2026 Virtual Conference offers a unique platform to showcase cutting-edge science that is vital for biodiversity conservation in Canada. Here’s why you should consider becoming a sponsor:
+
+- **Engage with a passionate online audience**: Reach attendees who are actively looking for new tools, technologies, optics, field gear, and digital resources to enhance their research and conservation work.
+- **Showcase your innovations**: Present your products and services in a focused virtual environment to researchers, conservation professionals, and students who are seeking solutions they can apply immediately.
+- **Build meaningful partnerships**: Take advantage of interactive virtual networking spaces to connect with key stakeholders, potential collaborators, and future employees across the ornithological community.
+- **Gain visibility and recognition**: Your brand will be highlighted throughout the virtual venue and conference communications, ensuring prominent recognition among scientific and conservation leaders.
+- **Make a lasting impact**: Sponsorship directly supports ornithological research and conservation initiatives, helping to safeguard Canada’s avian biodiversity and promote a sustainable future for wild birds.
+
+
+### Sponsorship Levels
+
+
+Sponsorship Opportunities | Platinum ($500) | Gold ($300) | Silver ($200) | Student ($100) |
+:-------------------------|:---------------:|:-----------:|:-------------:|:--------------:|
+Logo featured on conference t-shit | {{< fa check aria-label="yes">}} | {{< fa check aria-label="yes">}} | {{< fa x aria-label="no">}} | {{< fa x aria-label="no">}} |
+Logo featured before plenary sessions | Large | Medium | Small | Listed |
+Logo featured before all regular sessions | Large | Medium | Small | Listed |
+Logo featured at student awards ceremony | {{< fa x aria-label="no">}}  | {{< fa x aria-label="no">}}  | {{< fa x aria-label="no">}}  | {{< fa check aria-label="yes">}} |
+Website Presence | Logo with link to website|Logo with link to website|Logo with link to website |Logo|
+Workshop opportunity *optional | {{< fa check aria-label="yes">}} | {{< fa x aria-label="no">}} | {{< fa x aria-label="no">}} | {{< fa x aria-label="no">}} |
+
+
+Sponsorship are contributions made to the SCO-SOC for which the sponsor receives promotional, civic engagement, and community relations value. Sponsorship levels are customizable. Please reach out to discuss how we can customize your sponsorship package that meets your organization's needs: (dethier@birdscanada.org). 
+
+
+Thank you for your support!
+
+Dr. Danielle Ethier  
+President   
+Society of Canadian Ornithologists   
+<president@sco-soc.ca>

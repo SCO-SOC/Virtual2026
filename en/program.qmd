@@ -1,6 +1,17 @@
 ---
 title: "Program"
 filename: program
+toc: true
 ---
 
-In progress...
+### Program {.hide}
+
+Each day's programs will run from 12:00-4:30 ET  
+*The current schedule is tentative and subject to change.*
+
+Date | Program
+---- | --------------------
+**Monday October 5** | • Workshops<br>• AGM
+**Tuesday October 6** | • Student Presentations (including 3 minute thesis, 3MT) 
+**Wednesday October 7** | • ECR Award Plenary<br>• Cross Country Research Showcase (Symposiums)<br>• Award Ceremony
+: {tbl-colwidths="[25,75]"}

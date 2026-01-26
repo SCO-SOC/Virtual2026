@@ -3,25 +3,20 @@ title: "Réunion virtuel"
 filename: index
 ---
 
-::::{.columns}
+::::{style="display:flex; align-items: center;"}
+![](figs/Logo_colour_small.png){style="float:left; max-width:120px; margin-right:20px;" fig-alt=""}
 
-:::{.column width=20%}
-![](figs/sco_logo.png){style="max-width:90px" fig-alt=""}
-:::
-
-:::{.column width=80%}
+:::{width=80%}
 
 **5 au 7 octobre 2026**
 
-Ateliers le 5 octobre, sessions les 6 et 7 octobre.
+Nous sommes ravis d'annoncer que notre conférence de 2026 se déroulera en ligne, ouvrant ainsi ses portes à une communauté de participants vaste et diversifiée provenant du monde entier! Le thème de cette année, Déployer nos ailes, célèbre l’accessibilité, les échanges et la joie de la découverte, de part notre communauté de recherche. Nous avons hâte d’échanger avec nos membres et d’explorer de nouvelles façons d’apprendre et de collaborer ensemble.
 
-Plus d'informations à venir.
-
-Nous espérons vous y voir!
+Prenez note de ces dates! Les détails concernant la soumission d'ateliers, de symposiums et de résumés scientifiques seront communiqués prochainement.
 
 :::
 ::::
 
-::: {.column-screen}
+::: {.column-screen style="margin-top: 20px"}
 ![](figs/Three-toed_woodpecker_narrow_cc0.jpg){fig-alt=""}
 :::

@@ -3,25 +3,20 @@ title: "Virtual Meeting"
 filename: index
 ---
 
-::::{.columns}
 
-:::{.column width=20%}
-![](figs/sco_logo.png){style="max-width:90px" fig-alt=""}
-:::
+::::{style="display:flex; align-items: center;"}
+![](figs/Logo_colour_small.png){style="float:left; max-width:120px; margin-right:20px;" fig-alt=""}
 
-:::{.column width=80%}
-
+:::{width=80%}
 **October 5-7, 2026**
 
-Workshops on October 5th, sessions on October 6th and 7th.
+We're thrilled to announce that our 2026 Conference will take place online—opening the doors to a broad, diverse community of participants from across the globe! This year's theme, **Spreading Our Wings**, celebrates accessibility, connection, and the joy of shared discovery within our research community. We can't wait to engage with our members and explore new ways to learn and collaborate together.
 
-Save the date, details to come.
-
-We hope to see you there!
+Save the dates! Details on submitting workshops, symposiums, and abstracts will be shared soon.
 
 :::
 ::::
 
-::: {.column-screen}
+::: {.column-screen style="margin-top: 20px"}
 ![](figs/Three-toed_woodpecker_narrow_cc0.jpg){fig-alt=""}
 :::

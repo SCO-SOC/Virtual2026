@@ -5,25 +5,34 @@ project:
 website:
   title: "SCO-SOC Réunion Virtuel 2026"
   navbar:
-    logo: figs/sco_logo.png
     left:
-      - href: index.qmd
-        text: Bienvenue
-      - href: participate.qmd
-        text: Participer
-      - href: program.qmd
-        text: Programme
-      - href: sponsors.qmd
-        text: Commanditaires
-      - href: resources.qmd
-        text: Ressources
+      - text: Bienvenue
+        href: index.qmd
+      - text: Participer
+        href: participate.qmd
+      - text: Programme
+        href: program.qmd
+      - text: Commanditaires
+        href: sponsors.qmd
+      - text: Ressources
+        href: resources.qmd
     right:
+      - text: Code de conduite
+        href: code-of-conduct.qmd
       - text: FR
         menu:
         - text: EN
           href: "../en/{{< meta filename >}}.html"
-  page-footer: |
-    [Société des ornithologistes du Canada](https://www.sco-soc.ca/fr)
+  page-footer: 
+    left: 
+      - text: "Société des ornithologistes du Canada"
+        href: https://www.sco-soc.ca/fr
+    center: 
+      - text: "Code de conduite"
+        href: code-of-conduct.qmd
+    right: 
+      - text: "Proposer une correction pour cette page"
+        href: https://github.com/SCO-SOC/Virtual2026/issues/new?template=edit-a-page.md
   site-url: https://sco-soc.github.io/Virtual2026/fr
   # announcement: 
   #   icon: info-circle

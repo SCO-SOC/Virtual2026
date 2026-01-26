@@ -1,7 +1,39 @@
 ---
 title: "Participer"
 filename: participate
+toc: true
 ---
 
+### Participer {.hide}
 
-En cours...
+L'appel aux candidatures pour les ateliers et les symposiums de recherche ouvrira en avril.
+Les applications pour présentations étudiantes individuelles et pour le concours « Ma thèse en 3 minutes » (3MT) débuteront en mai.
+
+**Inscription:** La conférence de cette année est gratuite pour les membres!
+
+Pas encore membre ? Inscrivez-vous ici : <https://www.zeffy.com/fr-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610>
+
+Lors de votre inscription, nous vous encourageons à faire un don à l'association. Ce don permettra de financer directement le voyage des étudiants à notre conférence conjointe de 2027 à Viña del Mar, au Chili! 
+
+**Le portail d'inscription et de dons ouvrira en juin. Restez à l’affût!**
+
+
+![Participants de la réunion de 2025 à Saskatoon](figs/meetings.jpg){width=100% fig-alt=""}
+
+---
+
+### Ateliers
+- Des ateliers en ligne d'une heure, de deux heures et d'une demi-journée seront proposés dans le cadre de la conférence de cette année. 
+- Les sponsors Platine auront également la possibilité d'animer un atelier pour présenter leurs produits aux participants. 
+- De plus amples informations et les modalités d'inscription seront communiquées ultérieurement.
+
+### Symposium des laboratoires de recherche
+Le programme de cette année comprendra un Symposium des laboratoires de recherche. Ce symposium mettra en lumière les travaux des principaux groupes de recherche en ornithologie du Canada. Chaque séance soulignera les recherches thématiques menées au sein d'un laboratoire ou d'un groupe de recherche, que ce soit en milieu universitaire, gouvernemental ou à but non lucratif. Ce symposium vise à faire connaître les contributions de chacun dans la communauté de recherche ornithologique, favorisant ainsi une meilleure compréhension des recherches de chacun, de nouvelles collaborations et des occasions d'échange de connaissances. Plus de détails et les modalités de soumission seront communiqués ultérieurement.
+
+### Présentations des étudiants
+- Des présentations étudiantes traditionnelles permettront aux jeunes ornithologues de partager leurs travaux. 
+- Les exposés seront regroupés par thème. 
+- Plus de détails et les modalités de soumission seront communiqués ultérieurement.
+
+### Thèse en 3 minutes (3MT)
+Nous organiserons un concours 3MT non-officiel: les étudiants devront y présenter leur thèse en 3 minutes. Pratiquez-vous dès maintenant! Plus d’informations et modalités de participation à venir.

@@ -1,6 +1,40 @@
 ---
 title: "Participate"
 filename: participate
+toc: true
 ---
 
-In progress...
+### Participate {.hide}
+
+The call for workshop and research lab symposiums will be opening in April. 
+Individual student presentation and 3 minute thesis (3MT) will be opening in May. 
+
+**Registration:** This year's conference is free to members! 
+
+Not a member? Join here: <https://www.zeffy.com/en-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610>
+
+At the time of registration you are encouraged to make a donation to the society, which will directly support student travel to our 2027 joint conference in Viña del Mar, Chile! 
+
+**The registration and donation portal will open in June! Stay tuned.**
+
+![Participants of the 2025 SCO-SOC Meeting in Saskatoon](figs/meetings.jpg){width=100% fig-alt=""}
+
+---
+
+### Workshops
+- 1 hour, 2 hour, and ½ days online workshops will be offered as part of this year's conference. 
+- Platinum sponsors will also be offered a workshop spot to feature their products to our participants. 
+- Details and submission information to come.
+
+### Research Lab Symposiums
+This year’s program will feature *Research Lab Symposiums* showcasing the work of leading research groups in ornithology from across Canada. Each symposium will highlight the thematic research being carried out within a lab or collaborative group—whether in academia, government, or the non-profit sector. These sessions are designed to spotlight who is doing what in the ornithological research community, fostering greater awareness, new collaborations, and opportunities for knowledge exchange. Details and submission information to come.
+
+### Student Presentations
+- Traditional student presentations will enable early career ornithologists to share their work.
+- Talks will be grouped thematically.
+- Details and submission information to come.
+
+### 3 Minute Thesis (3MT)
+We will be hosting an unofficial 3MT competition for students to share an overview of their thesis in 3 
+minutes. Start practicing your elevator pitch! Details and submission information to come.
+

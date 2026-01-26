@@ -12,6 +12,19 @@ $alert-border-radius: 0;
     min-width: 50px;
 }
 
+.navbar-logo {
+    max-height: 100px;
+  }
+
+/* Allow hiding headers from body but not from TOC */
+h2.hide, h3.hide {
+    display:none;
+}
+
+td {
+    vertical-align: middle;
+}
+
 @media (max-width: 575px) {
     div.column {
         display: initial;

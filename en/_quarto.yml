@@ -6,28 +6,39 @@ project:
 
 website:
   title: "SCO-SOC Virtual Meeting 2026"
-
+  repo-url: https://github.com/sco-soc/Virtual2026
+  repo-subdir: en
   navbar:
-    logo: figs/sco_logo.png
     left:
-      - href: index.qmd
-        text: Welcome
-      - href: participate.qmd
-        text: Participate
-      - href: program.qmd
-        text: Program
-      - href: sponsors.qmd
-        text: Sponsors
-      - href: resources.qmd
-        text: Resources
+      - text: Welcome
+        href: index.qmd
+      - text: Participate
+        href: participate.qmd
+      - text: Program
+        href: program.qmd
+      - text: Sponsors
+        href: sponsors.qmd
+      - text: Resources
+        href: resources.qmd
     right:
+      - text: Code of Conduct
+        href: code-of-conduct.qmd        
       - text: EN
         menu:
         - text: FR
           href: "../fr/{{< meta filename >}}.html"
-  page-footer: |
-    [Society of Canadian Ornithologists](https://www.sco-soc.ca)
+  page-footer: 
+    left: 
+      - text: "Society of Canadian Ornithologists"
+        href: https://www.sco-soc.ca
+    center: 
+      - text: "Code of Conduct"
+        href: code-of-conduct.qmd
+    right: 
+      - text: "Suggest an edit to this page"
+        href: https://github.com/SCO-SOC/Virtual2026/issues/new?template=edit-a-page.md
   site-url: https://sco-soc.github.io/Virtual2026/en/
+
   # announcement: 
   #   icon: info-circle
   #   dismissable: true

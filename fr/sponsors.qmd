@@ -1,7 +1,48 @@
 ---
 title: "Commanditaires"
 filename: sponsors
+toc: true
 ---
 
+*Positionnez votre entreprise en tant que leader dans le domaine de la science et de la conservation des oiseaux!*
 
-En cours...
+Nous vous invitons à vous associer à la Société des Ornithologistes du Canada afin de faire progresser la recherche scientifique et les efforts de conservation des oiseaux, tout en favorisant le perfectionnement professionnel de la communauté ornithologique. En devenant commanditaire du congrès virtuel SCO-SOC 2026, vous contribuez de manière essentielle à cette importante initiative.
+
+### À propos de la conférence
+
+La Société des Ornithologistes du Canada tient des conférences annuelles, souvent en collaboration avec d'autres sociétés, afin de diffuser la recherche scientifique et de renforcer notre communauté de conservation. Nos congrès proposent une grande variété d'ateliers, de conférences plénières, de séances de communications orales et d'affiches, ainsi que de symposiums couvrant un large éventail de sujets. Nous offrons également des formations et des possibilités de perfectionnement professionnel aux étudiants et aux jeunes professionnels.
+
+La conférence de cette année se tiendra en ligne, permettant ainsi à un plus grand nombre de participants de partout au Canada et d'ailleurs d'y participer. Notre dernière conférence virtuelle a connu un franc succès, réunissant plus de 175 participants, un nombre que nous prévoyons dépasser en 2026. Environ la moitié des participants sont titulaires de diplômes d'études supérieures et mènent des recherches sur les oiseaux dans des universités, des organismes provinciaux et fédéraux, des entreprises privées ou des ONG environnementales axées sur la conservation et la biologie des oiseaux sauvages. L'autre moitié est composée d'ornithologues amateurs et d'étudiants, qui représenteront la prochaine génération de spécialistes de la conservation des oiseaux au Canada.
+
+### Pourquoi sponsoriser la conférence virtuelle SCO-SOC 2026 ?
+
+La conférence virtuelle SCO-SOC 2026 offre une plateforme unique pour présenter des recherches scientifiques de pointe essentielles à la conservation de la biodiversité au Canada. Voici pourquoi vous devriez envisager de devenir commanditaire:
+
+- **Interagissez avec un public en ligne passionné**: Ciblez les participants qui recherchent activement de nouveaux outils, technologies, systèmes optiques, équipements de terrain et ressources numériques pour améliorer leurs travaux de recherche et de conservation.
+- **Mettez en valeur vos innovations**: Présentez vos produits et services dans un environnement virtuel ciblant les chercheurs, les professionnels de la conservation et les étudiants qui recherchent des solutions applicables immédiatement.
+- **Établissez des partenariats significatifs**: Profitez des espaces de réseautage virtuels interactifs pour entrer en contact avec les principaux acteurs, les collaborateurs potentiels et les futurs employés de la communauté ornithologique.
+- **Gagnez en visibilité et en reconnaissance**: Votre entreprise sera mise en valeur tout au long de l'événement virtuel et des communications de la conférence, vous assurant une visibilité importante auprès des leaders du domaine scientifique et de la conservation.
+- **Ayez un impact durable**: Le parrainage soutient directement la recherche ornithologique et les initiatives de conservation, contribuant ainsi à préserver la biodiversité aviaire du Canada et à promouvoir un avenir durable pour les oiseaux sauvages.
+
+
+### Niveaux de parrainage
+
+
+Opportunités de parrainage | Platine (500 $) | Or (300 $) | Argent (200 $) | Étudiant (100 $) |
+:-------------------------|:---------------:|:-----------:|:-------------:|:--------------:|
+Logo figurant sur le t-shirt de la conférence | {{< fa check aria-label="yes">}} | {{< fa check aria-label="yes">}} | {{< fa x aria-label="no">}} | {{< fa x aria-label="no">}} |
+Logo affiché avant les séances plénières | Grand | Moyen | Petit | Inscrit |
+Logo affiché avant chaque session régulière | Grand | Moyen | Petit | Inscrit |
+Logo présenté lors de la cérémonie de remise des prix aux étudiants | {{< fa x aria-label="no">}}  | {{< fa x aria-label="no">}}  | {{< fa x aria-label="no">}}  | {{< fa check aria-label="yes">}} |
+Présence sur le site Web | Logo avec lien vers le site web | Logo avec lien vers le site web | Logo avec lien vers le site web | Logo |
+Opportunité d'atelier *facultatif | {{< fa check aria-label="yes">}} | {{< fa x aria-label="no">}} | {{< fa x aria-label="no">}} | {{< fa x aria-label="no">}} |
+
+Le parrainage est une contribution faite à la SCO-SOC en échange de laquelle le parrain bénéficie d'avantages promotionnels, d'un engagement civique accru et de relations avec la communauté. Les niveaux de parrainage sont personnalisables. Veuillez nous contacter pour discuter de la manière dont nous pouvons personnaliser votre forfait de parrainage afin qu'il réponde aux besoins de votre organisation: (dethier@birdscanada.org).
+
+
+Merci pour votre soutien !
+
+Dr Danielle Ethier  
+Présidente   
+Société des ornithologistes du Canada   
+<president@sco-soc.ca>

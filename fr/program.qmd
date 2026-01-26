@@ -1,7 +1,14 @@
 ---
-title: "Programme"
+title: "Programmation"
 filename: program
 ---
 
+À chaque jour, la conférence se tiendra de 12h00 à 16h30 heure de l'Est.  
+*Le calendrier actuel est provisoire et susceptible de modifications.*
 
-En cours...
+Date | Programmation
+---- | --------------------
+**Lundi 5 octobre** | • Ateliers<br>• Assemblée générale annuelle
+**Mardi 6 octobre** | • Présentations des étudiants, y compris le concours<br>« Ma thèse en 3 minutes » (3MT)
+**Mercredi 7 octobre** | • Séance plénière de remise des prix ECR<br>• Présentation de la recherche en cross-country (symposiums)<br>• Cérémonie de remise des prix
+: {tbl-colwidths="[25,75]"}
