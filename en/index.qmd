@@ -3,20 +3,17 @@ title: "Virtual Meeting"
 filename: index
 ---
 
+![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt=""}
 
-::::{style="display:flex; align-items: center;"}
-![](figs/Logo_colour_small.png){style="float:left; max-width:120px; margin-right:20px;" fig-alt=""}
-
-:::{width=80%}
 **October 5-7, 2026**
 
 We're thrilled to announce that our 2026 Conference will take place online—opening the doors to a broad, diverse community of participants from across the globe! This year's theme, **Spreading Our Wings**, celebrates accessibility, connection, and the joy of shared discovery within our research community. We can't wait to engage with our members and explore new ways to learn and collaborate together.
 
 Save the dates! Details on submitting workshops, symposiums, and abstracts will be shared soon.
 
-:::
-::::
 
-::: {.column-screen style="margin-top: 20px"}
+![](figs/Logo_colour_small.png){fig-align="center" style="max-width:100px;" fig-alt=""}
+
+::: {.column-screen}
 ![](figs/Three-toed_woodpecker_narrow_cc0.jpg){fig-alt=""}
 :::

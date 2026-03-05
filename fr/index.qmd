@@ -3,10 +3,7 @@ title: "Réunion virtuel"
 filename: index
 ---
 
-::::{style="display:flex; align-items: center;"}
-![](figs/Logo_colour_small.png){style="float:left; max-width:120px; margin-right:20px;" fig-alt=""}
-
-:::{width=80%}
+![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt=""}
 
 **5 au 7 octobre 2026**
 
@@ -14,9 +11,8 @@ Nous sommes ravis d'annoncer que notre conférence de 2026 se déroulera en lign
 
 Prenez note de ces dates! Les détails concernant la soumission d'ateliers, de symposiums et de résumés scientifiques seront communiqués prochainement.
 
-:::
-::::
+![](figs/Logo_colour_small.png){fig-align="center" style="max-width:100px;" fig-alt=""}
 
-::: {.column-screen style="margin-top: 20px"}
+::: {.column-screen}
 ![](figs/Three-toed_woodpecker_narrow_cc0.jpg){fig-alt=""}
 :::
