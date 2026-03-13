@@ -1,4 +1,4 @@
-Website for the SCO-SOC Virtual Meeting 2026
+[Website for the SCO-SOC Virtual Meeting 2026](https://sco-soc.github.io/Virtual2026)
 
 **October 5-7, 2026**
 

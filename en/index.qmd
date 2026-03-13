@@ -11,8 +11,15 @@ We're thrilled to announce that our 2026 Conference will take place online—ope
 
 Save the dates! Details on submitting workshops, symposiums, and abstracts will be shared soon.
 
+### Sponsors
 
-![](figs/Logo_colour_small.png){fig-align="center" style="max-width:100px;" fig-alt=""}
+ <!-- ::: {.column-screen-inset layout-nrow=1 layout-valign="center"} FOR WHEN WE HAVE MORE -->
+
+::: {layout = "[[1,1]]" layout-valign="center"}
+[![](figs/Birds-Canada-Logo-2957104739.png){.logo fig-alt="Logo for sponsor Birds Canada"}](https://www.birdscanada.org/)
+
+[![](figs/Zeiss-Logo.png){.logo fig-alt="Logo for sponsor Zeiss"}](https://www.zeiss.ca/corporate/en/home.html)
+:::
 
 ::: {.column-screen}
 ![](figs/Three-toed_woodpecker_narrow_cc0.jpg){fig-alt=""}

@@ -11,7 +11,15 @@ Nous sommes ravis d'annoncer que notre conférence de 2026 se déroulera en lign
 
 Prenez note de ces dates! Les détails concernant la soumission d'ateliers, de symposiums et de résumés scientifiques seront communiqués prochainement.
 
-![](figs/Logo_colour_small.png){fig-align="center" style="max-width:100px;" fig-alt=""}
+### Sponsors
+
+ <!-- ::: {.column-screen-inset layout-nrow=1 layout-valign="center"} FOR WHEN WE HAVE MORE -->
+
+::: {layout = "[[1,1]]" layout-valign="center"}
+[![](figs/Birds-Canada-Logo-2957104739.png){.logo fig-alt="Logo du commanditaire Oiseaux Canada"}](https://www.birdscanada.org/)
+
+[![](figs/Zeiss-Logo.png){.logo fig-alt="Logo du commanditaire Zeiss"}](https://www.zeiss.ca/corporate/en/home.html)
+:::
 
 ::: {.column-screen}
 ![](figs/Three-toed_woodpecker_narrow_cc0.jpg){fig-alt=""}

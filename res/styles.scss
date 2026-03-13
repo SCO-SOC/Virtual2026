@@ -16,6 +16,10 @@ $alert-border-radius: 0;
     max-height: 100px;
   }
 
+.logo {
+    padding: 15px;
+}
+
 /* Allow hiding headers from body but not from TOC */
 h2.hide, h3.hide {
     display:none;
