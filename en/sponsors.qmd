@@ -30,7 +30,7 @@ The SCO-SOC 2026 Virtual Conference offers a unique platform to showcase cutting
 
 Sponsorship Opportunities | Platinum ($500) | Gold ($300) | Silver ($200) | Student ($100) |
 :-------------------------|:---------------:|:-----------:|:-------------:|:--------------:|
-Logo featured on conference t-shit | {{< fa check aria-label="yes">}} | {{< fa check aria-label="yes">}} | {{< fa x aria-label="no">}} | {{< fa x aria-label="no">}} |
+Logo featured on conference t-shirt | {{< fa check aria-label="yes">}} | {{< fa check aria-label="yes">}} | {{< fa x aria-label="no">}} | {{< fa x aria-label="no">}} |
 Logo featured before plenary sessions | Large | Medium | Small | Listed |
 Logo featured before all regular sessions | Large | Medium | Small | Listed |
 Logo featured at student awards ceremony | {{< fa x aria-label="no">}}  | {{< fa x aria-label="no">}}  | {{< fa x aria-label="no">}}  | {{< fa check aria-label="yes">}} |
