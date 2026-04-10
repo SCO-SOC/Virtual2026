@@ -6,8 +6,9 @@ toc: true
 
 ### Participate {.hide}
 
-The call for workshop and research lab symposiums will be opening in April. 
-Individual student presentation and 3 minute thesis (3MT) will be opening in May. 
+> We are excited to open the submission window for [Workshops](#workshops) and our [Cross-Country Research Showcase](#showcase) for the virtual SCO-SCO 2026 Conference. The deadline for submission is **May 31st, 2026**. 
+
+Calls for individual student presentation and 3 minute thesis (3MT) will be opening in May. 
 
 **Registration:** This year's conference is free to members! 
 
@@ -21,13 +22,41 @@ At the time of registration you are encouraged to make a donation to the society
 
 ---
 
-### Workshops
-- 1 hour, 2 hour, and ½ days online workshops will be offered as part of this year's conference. 
-- Platinum sponsors will also be offered a workshop spot to feature their products to our participants. 
-- Details and submission information to come.
+### Workshops {#workshops}
 
-### Research Lab Symposiums
-This year’s program will feature *Research Lab Symposiums* showcasing the work of leading research groups in ornithology from across Canada. Each symposium will highlight the thematic research being carried out within a lab or collaborative group—whether in academia, government, or the non-profit sector. These sessions are designed to spotlight who is doing what in the ornithological research community, fostering greater awareness, new collaborations, and opportunities for knowledge exchange. Details and submission information to come.
+**Deadline**: May 31st 2026  
+**Workshop Date**: October 5th 2026   
+**Length**: 2 hour, ½ day, full day   
+**Apply**: [Application form](https://docs.google.com/forms/d/e/1FAIpQLSe6NuEXJcWqNxGP8QDGZyhQs7PeGCRmVThy2tJsPb7E42LSSg/viewform?usp=publish-editor)
+
+We invite proposals for interactive online workshops for members of our ornithology community. Workshops should provide practical skills, methodological training, or collaborative problem‑solving relevant to ornithological research, monitoring, conservation, and outreach across Canada.
+
+Sponsor workshops are offered to any organization [donating $500](sponsors.qmd) to support this year's conference. 
+
+
+
+### Cross‑Country Research Showcase {#showcase}
+**Deadline**: May 31st 2026  
+**Showcase Date**: October 7th 2026  
+**Length**: 20min  
+**Apply:** [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSffxdLPItpLTAIfn_eljevlvqOwuYYbLj3Ze5Lb9y-_oVzEGQ/viewform?usp=publish-editor)
+
+We invite lab groups from academic institutions, government agencies, and NGOs to submit research talks showcasing the breadth and depth of their work in Canadian ornithology. This symposium is a prime opportunity for your team to highlight:
+- the research themes and core questions your lab investigates
+- the ecosystems and regions you study across Canada
+- focal species and conservation or management implications
+- methods and collaborative approaches (field work, lab techniques, modelling, community science, Indigenous knowledge partnerships, etc.)
+
+#### Who should apply
+- University research labs and graduate student groups
+- Government research units and wildlife agencies
+- NGO conservation and research teams
+
+#### Benefits of presenting:
+- Increase visibility of your lab’s research across Canada
+- Foster new collaborations among academic, governmental, and NGO partners
+- Share methods, data, and ideas to advance bird conservation and science
+
 
 ### Student Presentations
 - Traditional student presentations will enable early career ornithologists to share their work.

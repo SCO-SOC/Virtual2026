@@ -3,13 +3,17 @@ title: "Réunion virtuel"
 filename: index
 ---
 
+**5 au 7 octobre 2026**
+
 ![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt=""}
 
-**5 au 7 octobre 2026**
+#### Actualités
+
+- [9 avril 2026] **Appel à [ateliers](participate.qmd#workshops) et [présentations pour la vitrine de recherche pancanadienne](participate.qmd#showcase)** - **Date limite: le 31 mai 2026**
 
 Nous sommes ravis d'annoncer que notre conférence de 2026 se déroulera en ligne, ouvrant ainsi ses portes à une communauté de participants vaste et diversifiée provenant du monde entier! Le thème de cette année, Déployer nos ailes, célèbre l’accessibilité, les échanges et la joie de la découverte, de part notre communauté de recherche. Nous avons hâte d’échanger avec nos membres et d’explorer de nouvelles façons d’apprendre et de collaborer ensemble.
 
-Prenez note de ces dates! Les détails concernant la soumission d'ateliers, de symposiums et de résumés scientifiques seront communiqués prochainement.
+Prenez note de ces dates! Les détails concernant la soumission de résumés scientifiques seront communiqués prochainement.
 
 ### Sponsors
 

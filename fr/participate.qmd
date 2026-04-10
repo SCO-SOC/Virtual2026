@@ -6,12 +6,13 @@ toc: true
 
 ### Participer {.hide}
 
-L'appel aux candidatures pour les ateliers et les symposiums de recherche ouvrira en avril.
+> Nous sommes heureux d’ouvrir la période de soumission pour les [ateliers](#workshops) ainsi que pour notre [vitrine de recherche pancanadienne](#showcase) dans le cadre de la conférence virtuelle SCO-SCO 2026. La date limite de soumission est le **31 mai 2026**.
+
 Les applications pour présentations étudiantes individuelles et pour le concours « Ma thèse en 3 minutes » (3MT) débuteront en mai.
 
 **Inscription:** La conférence de cette année est gratuite pour les membres!
 
-Pas encore membre ? Inscrivez-vous ici : <https://www.zeffy.com/fr-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610>
+Pas encore membre? Inscrivez-vous ici: <https://www.zeffy.com/fr-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610>
 
 Lors de votre inscription, nous vous encourageons à faire un don à l'association. Ce don permettra de financer directement le voyage des étudiants à notre conférence conjointe de 2027 à Viña del Mar, au Chili! 
 
@@ -22,13 +23,39 @@ Lors de votre inscription, nous vous encourageons à faire un don à l'associati
 
 ---
 
-### Ateliers
-- Des ateliers en ligne d'une heure, de deux heures et d'une demi-journée seront proposés dans le cadre de la conférence de cette année. 
-- Les sponsors Platine auront également la possibilité d'animer un atelier pour présenter leurs produits aux participants. 
-- De plus amples informations et les modalités d'inscription seront communiquées ultérieurement.
+### Ateliers {#workshops}
+**Date limite**: 31 mai 2026  
+**Date**: 5 octobre 2026  
+**Durée**: 2 heures, une demi-journée ou une journée complète  
+**Soumission:** [Formulaire](https://docs.google.com/forms/d/e/1FAIpQLSe6NuEXJcWqNxGP8QDGZyhQs7PeGCRmVThy2tJsPb7E42LSSg/viewform?usp=dialog)
 
-### Symposium des laboratoires de recherche
-Le programme de cette année comprendra un Symposium des laboratoires de recherche. Ce symposium mettra en lumière les travaux des principaux groupes de recherche en ornithologie du Canada. Chaque séance soulignera les recherches thématiques menées au sein d'un laboratoire ou d'un groupe de recherche, que ce soit en milieu universitaire, gouvernemental ou à but non lucratif. Ce symposium vise à faire connaître les contributions de chacun dans la communauté de recherche ornithologique, favorisant ainsi une meilleure compréhension des recherches de chacun, de nouvelles collaborations et des occasions d'échange de connaissances. Plus de détails et les modalités de soumission seront communiqués ultérieurement.
+Nous invitons des propositions d’ateliers interactifs en ligne destinés aux membres de notre communauté en ornithologie. Les ateliers devraient offrir des compétences pratiques, une formation méthodologique ou des activités collaboratives de résolution de problèmes pertinentes pour la recherche, le suivi, la conservation et la sensibilisation en ornithologie au Canada.
+Les ateliers commandités sont offerts à toute organisation faisant un [don de 500$](sponsors.qmd) pour soutenir la conférence de cette année.
+
+### Séance de présentation de la recherche pancanadienne {#showcase}
+
+**Date limite**: 31 mai 2026  
+**Date**: 7 octobre 2026  
+**Durée**: 20 minutes  
+**Soumission:** [Formulaire](https://docs.google.com/forms/d/e/1FAIpQLSffxdLPItpLTAIfn_eljevlvqOwuYYbLj3Ze5Lb9y-_oVzEGQ/viewform?usp=dialog)
+
+Nous invitons les groupes de recherche issus d’universités, d’organismes gouvernementaux et d’ONG à soumettre des présentations mettant en valeur l’étendue et la profondeur de leurs travaux en ornithologie canadienne. Ce symposium est une excellente occasion pour votre équipe de présenter:
+
+- les thèmes de recherche et les questions centrales de votre laboratoire
+- les écosystèmes et les régions étudiés à travers le Canada
+- les espèces ciblées et les implications pour la conservation ou la gestion
+- les méthodes et approches collaboratives (travail de terrain, techniques de laboratoire, modélisation, science citoyenne, partenariats avec les savoirs autochtones, etc.)
+
+#### Qui devrait soumettre?
+- Laboratoires universitaires et groupes d’étudiants aux cycles supérieurs
+- Unités de recherche gouvernementales et agences de la faune
+- Équipes de conservation et de recherche d’ONG
+
+#### Avantages de présenter:
+- Accroître la visibilité des recherches de votre laboratoire à l’échelle du Canada
+- Favoriser de nouvelles collaborations entre partenaires universitaires, gouvernementaux et communautaires
+- Partager des méthodes, des données et des idées pour faire progresser la conservation des oiseaux et la science
+
 
 ### Présentations des étudiants
 - Des présentations étudiantes traditionnelles permettront aux jeunes ornithologues de partager leurs travaux. 
