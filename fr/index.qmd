@@ -17,10 +17,8 @@ Prenez note de ces dates! Les détails concernant la soumission de résumés sci
 
 ### Sponsors
 
-::: {.column-page-inset layout-nrow=1 layout-valign="center"}
-
 <!--.column-page and .column-screen-inset, .column-screen > All progressively wider for when we have more -->
-
+::: {.column-page-inset layout-nrow=1 layout-valign="center"}
 [![](figs/Birds-Canada-Logo-2957104739.png){.logo fig-alt="Logo du commanditaire Oiseaux Canada"}](https://www.birdscanada.org/)
 
 [![](figs/Zeiss-Logo.png){.logo fig-alt="Logo du commanditaire Zeiss"}](https://www.zeiss.ca/corporate/en/home.html)

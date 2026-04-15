@@ -20,10 +20,8 @@ Save the dates! Details on submitting abstracts will be shared soon.
 
 ### Sponsors
 
-::: {.column-page-inset layout-nrow=1 layout-valign="center"}
-
 <!--.column-page and .column-screen-inset, .column-screen > All progressively wider for when we have more -->
-
+::: {.column-page-inset layout-nrow=1 layout-valign="center"}
 [![](figs/Birds-Canada-Logo-2957104739.png){.logo fig-alt="Logo for sponsor Birds Canada"}](https://www.birdscanada.org/)
 
 [![](figs/Zeiss-Logo.png){.logo fig-alt="Logo for sponsor Zeiss"}](https://www.zeiss.ca/corporate/en/home.html)
