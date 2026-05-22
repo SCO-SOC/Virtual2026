@@ -5,7 +5,7 @@ filename: index
 
 **5 au 7 octobre 2026**
 
-![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt=""}
+![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt="" title="Logo par Sunny Tseng"}
 
 #### Actualités
 
@@ -14,6 +14,8 @@ filename: index
 Nous sommes ravis d'annoncer que notre conférence de 2026 se déroulera en ligne, ouvrant ainsi ses portes à une communauté de participants vaste et diversifiée provenant du monde entier! Le thème de cette année, Déployer nos ailes, célèbre l’accessibilité, les échanges et la joie de la découverte, de part notre communauté de recherche. Nous avons hâte d’échanger avec nos membres et d’explorer de nouvelles façons d’apprendre et de collaborer ensemble.
 
 Prenez note de ces dates! Les détails concernant la soumission de résumés scientifiques seront communiqués prochainement.
+
+*Logo de la réunion virtuel 2026 de la SCO-SOC par [Sunny Tseng](https://sunnytseng.ca/design/).*
 
 ### Sponsors
 

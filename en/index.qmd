@@ -5,7 +5,8 @@ filename: index
 
 **October 5-7, 2026**
 
-![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt=""}
+![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt="" title="Logo by Sunny Tseng"}
+
 
 #### Updates
 
@@ -16,7 +17,7 @@ We're thrilled to announce that our 2026 Conference will take place online—ope
 Save the dates! Details on submitting abstracts will be shared soon.
 
 
-
+*SCO-SOC Virtual 2026 Meeting Logo by [Sunny Tseng](https://sunnytseng.ca/design/).*
 
 ### Sponsors
 
