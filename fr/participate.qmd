@@ -6,20 +6,24 @@ toc: true
 
 ### Participer {.hide}
 
-> Nous sommes heureux d’ouvrir la période de soumission pour les [ateliers](#workshops) ainsi que pour notre [vitrine de recherche pancanadienne](#showcase) dans le cadre de la conférence virtuelle SCO-SCO 2026. La date limite de soumission est le **31 mai 2026**.
+> **Appels en cours**
+>
+> - [Résumés](#presentations) (date limite **15 juillet 2026**)
+> - [Ateliers](#workshops) (date limite **31 mai 2026**)
+> - [Vitrine de recherche pancanadienne](#showcase) (date limite **31 mai 2026**)
 
-Les applications pour présentations étudiantes individuelles et pour le concours « Ma thèse en 3 minutes » (3MT) débuteront en mai.
+![Participants de la réunion de 2025 à Saskatoon](figs/meetings.jpg){width=75% fig-alt="" .center}
 
-**Inscription:** La conférence de cette année est gratuite pour les membres!
+### Inscription
 
-Pas encore membre? Inscrivez-vous ici: <https://www.zeffy.com/fr-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610>
+La conférence de cette année est gratuite pour les membres!
+
+Pas encore membre? [Inscrivez-vous!](https://www.zeffy.com/fr-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610)
 
 Lors de votre inscription, nous vous encourageons à faire un don à l'association. Ce don permettra de financer directement le voyage des étudiants à notre conférence conjointe de 2027 à Viña del Mar, au Chili! 
 
 **Le portail d'inscription et de dons ouvrira en juillet. Restez à l’affût!**
 
-
-![Participants de la réunion de 2025 à Saskatoon](figs/meetings.jpg){width=100% fig-alt=""}
 
 ---
 
@@ -57,10 +61,34 @@ Nous invitons les groupes de recherche issus d’universités, d’organismes go
 - Partager des méthodes, des données et des idées pour faire progresser la conservation des oiseaux et la science
 
 
-### Présentations des étudiants
-- Des présentations étudiantes traditionnelles permettront aux jeunes ornithologues de partager leurs travaux. 
-- Les exposés seront regroupés par thème. 
-- Plus de détails et les modalités de soumission seront communiqués ultérieurement.
+### Présentations {#presentations}
 
-### Thèse en 3 minutes (3MT)
-Nous organiserons un concours 3MT non-officiel: les étudiants devront y présenter leur thèse en 3 minutes. Pratiquez-vous dès maintenant! Plus d’informations et modalités de participation à venir.
+Nous invitons tous les étudiants et chercheurs en début de carrière en ornithologie à présenter leur recherche lors de la conférence annuelle 2026.
+Le thème de cette année, **Déployer nos ailes**, célèbre l’accessibilité, les échanges et la joie de la découverte partagée au sein de notre communauté de recherche.
+Nous avons hâte de découvrir les recherches passionnantes menées par nos collègues passionnés d’oiseaux.
+
+**Date limite**: 15 juillet 2026 à 23h59 (heure de l’Est)      
+**Formats**: Présentation orale de longueur régulière[^1] **ou** Ma thèse en 3 minutes (3MT)  
+**Soumission:** [Formulaire](https://forms.gle/4KQExMPyz5TwsJw6A)
+
+[^1]: Entre 10 et 15 minutes, incluant les questions. La durée exacte sera déterminée lors de l’élaboration du programme scientifique final.
+
+#### Appel à tous les présentateurs!
+Cette année, les participants peuvent choisir entre deux formats de présentation:
+
+1) une présentation orale de longueur régulière ou   
+2) Ma thèse en 3 minutes (3MT). 
+
+Les présentations mettront en valeur les travaux de recherche d’étudiants et de chercheurs en début de carrière (ayant obtenu leur dernier diplôme depuis moins de 5 ans).
+Les candidats auront la possibilité d’indiquer s’ils souhaitent être considérés pour le Prix de Présentation Étudiante. Les étudiants doivent être [membres actifs de la SCO-SOC](https://www.zeffy.com/fr-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610) pour être admissibles. 
+
+#### Instructions pour le résumé scientifique
+En général, votre résumé doit comprendre une ou deux phrases d’informations générales, suivies d’une ou deux phrases énonçant la question ou l’hypothèse abordée, un résumé des méthodes utilisées et un résumé des principaux résultats et de leur interprétation. 
+Soyez concis, utilisez la première personne et évitez les formulations qui n’apportent pas d’information (par exemple: "les résultats de nos analyses seront discutés"). 
+
+**Les résumés peuvent être en français ou en anglais et sont limités à 300 mots.**
+
+Si vous n'avez pas l'habitude de rédiger des résumés scientifiques, nous vous conseillons de consulter l'un des nombreux guides de rédaction en ligne. Voir exemples (anglais):
+
+- [BirdsCaribbean January 2019](https://docs.google.com/document/d/11t7SJ8FGBuTvBRQztKUwRVRRTDvjPjO2/edit?tab=t.0#heading=h.gjdgxs)
+- [Andrade 2011, "How to write a good abstract for a scientific paper or conference presentation"](https://pmc.ncbi.nlm.nih.gov/articles/PMC3136027/)

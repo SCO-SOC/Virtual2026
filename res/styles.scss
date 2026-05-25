@@ -20,6 +20,18 @@ $alert-border-radius: 0;
     padding: 15px;
 }
 
+.tbl-invisible table, table td, table th {
+    border: none;
+}
+
+.quarto-figure-center figcaption {
+    text-align: center;
+}
+
+.tbl-invisible thead {
+    display: none;
+}
+
 /* Allow hiding headers from body but not from TOC */
 h2.hide, h3.hide {
     display:none;

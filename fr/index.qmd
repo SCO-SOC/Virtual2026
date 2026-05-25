@@ -7,13 +7,19 @@ filename: index
 
 ![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt="" title="Logo par Sunny Tseng"}
 
-#### Actualités
+### Actualités
 
-- [9 avril 2026] **Appel à [ateliers](participate.qmd#workshops) et [présentations pour la vitrine de recherche pancanadienne](participate.qmd#showcase)** - **Date limite: le 31 mai 2026**
+::: {.tbl-invisible style="margin-bottom: 20px"}
+x | x | x |
+:------------ |:----------------------------------------|:---------------------:|
+25 mai 2026  | **Appel à [résumés](participate.qmd#presentations)** | Date limite **15 juillet 2026** |
+9 avril 2026 | **Appel à [ateliers](participate.qmd#workshops) et [présentations pour la vitrine de recherche pancanadienne](participate.qmd#showcase)** | Date limite **le 31 mai 2026** |
+
+: {tbl-colwidths="[13, 50, 25]"}
 
 Nous sommes ravis d'annoncer que notre conférence de 2026 se déroulera en ligne, ouvrant ainsi ses portes à une communauté de participants vaste et diversifiée provenant du monde entier! Le thème de cette année, Déployer nos ailes, célèbre l’accessibilité, les échanges et la joie de la découverte, de part notre communauté de recherche. Nous avons hâte d’échanger avec nos membres et d’explorer de nouvelles façons d’apprendre et de collaborer ensemble.
 
-Prenez note de ces dates! Les détails concernant la soumission de résumés scientifiques seront communiqués prochainement.
+Prenez note de ces dates!
 
 *Logo de la réunion virtuel 2026 de la SCO-SOC par [Sunny Tseng](https://sunnytseng.ca/design/).*
 
