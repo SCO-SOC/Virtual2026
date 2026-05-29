@@ -28,13 +28,15 @@ Save the dates!
 
 ### Sponsors
 
-<!--.column-page and .column-screen-inset, .column-screen > All progressively wider for when we have more -->
-::: {.column-page-inset layout-nrow=1 layout-valign="center"}
+<!--.column-page < .column-screen-inset < .column-screen > All progressively wider for when we have more -->
+::: {.column-screen-inset layout-nrow=1 layout-valign="center"}
 [![](figs/Birds-Canada-Logo-2957104739.png){.logo fig-alt="Logo for sponsor Birds Canada"}](https://www.birdscanada.org/)
 
 [![](figs/Zeiss-Logo.png){.logo fig-alt="Logo for sponsor Zeiss"}](https://www.zeiss.ca/corporate/en/home.html)
 
 [![](figs/ACELOGO.jpg){.logo fig-alt="Logo for sponsor ACE"}](https://ace-eco.org/)
+
+[![](figs/wildlife_acoustics.png){.logo fig-alt="Logo for sponsor Wildlife Acoustics"}](https://www.wildlifeacoustics.com/)
 :::
 
 ::: {.column-screen}
