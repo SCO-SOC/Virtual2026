@@ -12,56 +12,11 @@ toc: true
 
 ![Participants de la réunion de 2025 à Saskatoon](figs/meetings.jpg){width=75% fig-alt="" .center}
 
-### Inscription
-
-La conférence de cette année est gratuite pour les membres!
-
-Pas encore membre? [Inscrivez-vous!](https://www.zeffy.com/fr-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610)
-
-Lors de votre inscription, nous vous encourageons à faire un don à l'association. Ce don permettra de financer directement le voyage des étudiants à notre conférence conjointe de 2027 à Viña del Mar, au Chili! 
-
-**Le portail d'inscription et de dons ouvrira en août. Restez à l’affût!**
-
-
----
-
-### Ateliers {#workshops}
-**Date limite**: Terminé (~~31 mai 2026~~)  
-**Date**: 5 octobre 2026  
-**Durée**: 2 heures, une demi-journée ou une journée complète  
-**Soumission:** Terminé
-
-Nous invitons des propositions d’ateliers interactifs en ligne (en français ou en anglais) destinés aux membres de notre communauté en ornithologie. Les ateliers devraient offrir des compétences pratiques, une formation méthodologique ou des activités collaboratives de résolution de problèmes pertinentes pour la recherche, le suivi, la conservation et la sensibilisation en ornithologie au Canada.
-Les ateliers commandités sont offerts à toute organisation faisant un [don de 500$](sponsors.qmd) pour soutenir la conférence de cette année.
-
-### Séance de présentation de la recherche pancanadienne {#showcase}
-
-**Date limite**: Terminé (~~31 mai 2026~~)  
-**Date**: 7 octobre 2026  
-**Durée**: 20 minutes  
-**Soumission:** Terminé
-
-Nous invitons les groupes de recherche issus d’universités, d’organismes gouvernementaux et d’ONG à soumettre des présentations (en français ou en anglais) mettant en valeur l’étendue et la profondeur de leurs travaux en ornithologie canadienne. Ce symposium est une excellente occasion pour votre équipe de présenter:
-
-- les thèmes de recherche et les questions centrales de votre laboratoire
-- les écosystèmes et les régions étudiés à travers le Canada
-- les espèces ciblées et les implications pour la conservation ou la gestion
-- les méthodes et approches collaboratives (travail de terrain, techniques de laboratoire, modélisation, science citoyenne, partenariats avec les savoirs autochtones, etc.)
-
-#### Qui devrait soumettre?
-- Laboratoires universitaires et groupes d’étudiants aux cycles supérieurs
-- Unités de recherche gouvernementales et agences de la faune
-- Équipes de conservation et de recherche d’ONG
-
-#### Avantages de présenter:
-- Accroître la visibilité des recherches de votre laboratoire à l’échelle du Canada
-- Favoriser de nouvelles collaborations entre partenaires universitaires, gouvernementaux et communautaires
-- Partager des méthodes, des données et des idées pour faire progresser la conservation des oiseaux et la science
 
 
 ### Présentations {#presentations}
 
-Nous invitons tous les étudiants et chercheurs en début de carrière en ornithologie à présenter leur recherche lors de la conférence annuelle 2026.
+Nous invitons tous les **étudiants et chercheurs en début de carrière en ornithologie** à présenter leur recherche lors de la conférence annuelle 2026.
 Le thème de cette année, **Déployer nos ailes**, célèbre l’accessibilité, les échanges et la joie de la découverte partagée au sein de notre communauté de recherche.
 Nous avons hâte de découvrir les recherches passionnantes menées par nos collègues passionnés d’oiseaux.
 
@@ -90,3 +45,53 @@ Si vous n'avez pas l'habitude de rédiger des résumés scientifiques, nous vous
 
 - [BirdsCaribbean January 2019](https://docs.google.com/document/d/11t7SJ8FGBuTvBRQztKUwRVRRTDvjPjO2/edit?tab=t.0#heading=h.gjdgxs)
 - [Andrade 2011, "How to write a good abstract for a scientific paper or conference presentation"](https://pmc.ncbi.nlm.nih.gov/articles/PMC3136027/)
+
+---
+
+### Inscription
+
+La conférence de cette année est gratuite pour les membres!
+
+Pas encore membre? [Inscrivez-vous!](https://www.zeffy.com/fr-CA/ticketing/1d8439b2-5cea-4886-a00a-3fa734fa8610)
+
+Lors de votre inscription, nous vous encourageons à faire un don à l'association. Ce don permettra de financer directement le voyage des étudiants à notre conférence conjointe de 2027 à Viña del Mar, au Chili! 
+
+**Le portail d'inscription et de dons ouvrira en août. Restez à l’affût!**
+
+
+---
+
+### Ateliers {#workshops}
+**Date limite**: Terminé (~~31 mai 2026~~)  
+**Date**: 5 octobre 2026  
+**Durée**: 2 heures, une demi-journée ou une journée complète  
+**Soumission:** Terminé
+
+Nous invitons des propositions d’ateliers interactifs en ligne (en français ou en anglais) destinés aux membres de notre communauté en ornithologie. Les ateliers devraient offrir des compétences pratiques, une formation méthodologique ou des activités collaboratives de résolution de problèmes pertinentes pour la recherche, le suivi, la conservation et la sensibilisation en ornithologie au Canada.
+Les ateliers commandités sont offerts à toute organisation faisant un [don de 500$](sponsors.qmd) pour soutenir la conférence de cette année.
+
+---
+
+### Séance de présentation de la recherche pancanadienne {#showcase}
+
+**Date limite**: Terminé (~~31 mai 2026~~)  
+**Date**: 7 octobre 2026  
+**Durée**: 20 minutes  
+**Soumission:** Terminé
+
+Nous invitons les groupes de recherche issus d’universités, d’organismes gouvernementaux et d’ONG à soumettre des présentations (en français ou en anglais) mettant en valeur l’étendue et la profondeur de leurs travaux en ornithologie canadienne. Ce symposium est une excellente occasion pour votre équipe de présenter:
+
+- les thèmes de recherche et les questions centrales de votre laboratoire
+- les écosystèmes et les régions étudiés à travers le Canada
+- les espèces ciblées et les implications pour la conservation ou la gestion
+- les méthodes et approches collaboratives (travail de terrain, techniques de laboratoire, modélisation, science citoyenne, partenariats avec les savoirs autochtones, etc.)
+
+#### Qui devrait soumettre?
+- Laboratoires universitaires et groupes d’étudiants aux cycles supérieurs
+- Unités de recherche gouvernementales et agences de la faune
+- Équipes de conservation et de recherche d’ONG
+
+#### Avantages de présenter:
+- Accroître la visibilité des recherches de votre laboratoire à l’échelle du Canada
+- Favoriser de nouvelles collaborations entre partenaires universitaires, gouvernementaux et communautaires
+- Partager des méthodes, des données et des idées pour faire progresser la conservation des oiseaux et la science
