@@ -9,8 +9,6 @@ toc: true
 > **Appels en cours**
 >
 > - [Résumés](#presentations) (date limite **15 juillet 2026**)
-> - [Ateliers](#workshops) (date limite **31 mai 2026**)
-> - [Vitrine de recherche pancanadienne](#showcase) (date limite **31 mai 2026**)
 
 ![Participants de la réunion de 2025 à Saskatoon](figs/meetings.jpg){width=75% fig-alt="" .center}
 
@@ -28,20 +26,20 @@ Lors de votre inscription, nous vous encourageons à faire un don à l'associati
 ---
 
 ### Ateliers {#workshops}
-**Date limite**: 31 mai 2026  
+**Date limite**: Terminé (~~31 mai 2026~~)  
 **Date**: 5 octobre 2026  
 **Durée**: 2 heures, une demi-journée ou une journée complète  
-**Soumission:** [Formulaire](https://docs.google.com/forms/d/e/1FAIpQLSe6NuEXJcWqNxGP8QDGZyhQs7PeGCRmVThy2tJsPb7E42LSSg/viewform?usp=dialog)
+**Soumission:** Terminé
 
 Nous invitons des propositions d’ateliers interactifs en ligne (en français ou en anglais) destinés aux membres de notre communauté en ornithologie. Les ateliers devraient offrir des compétences pratiques, une formation méthodologique ou des activités collaboratives de résolution de problèmes pertinentes pour la recherche, le suivi, la conservation et la sensibilisation en ornithologie au Canada.
 Les ateliers commandités sont offerts à toute organisation faisant un [don de 500$](sponsors.qmd) pour soutenir la conférence de cette année.
 
 ### Séance de présentation de la recherche pancanadienne {#showcase}
 
-**Date limite**: 31 mai 2026  
+**Date limite**: Terminé (~~31 mai 2026~~)  
 **Date**: 7 octobre 2026  
 **Durée**: 20 minutes  
-**Soumission:** [Formulaire](https://docs.google.com/forms/d/e/1FAIpQLSffxdLPItpLTAIfn_eljevlvqOwuYYbLj3Ze5Lb9y-_oVzEGQ/viewform?usp=dialog)
+**Soumission:** Terminé
 
 Nous invitons les groupes de recherche issus d’universités, d’organismes gouvernementaux et d’ONG à soumettre des présentations (en français ou en anglais) mettant en valeur l’étendue et la profondeur de leurs travaux en ornithologie canadienne. Ce symposium est une excellente occasion pour votre équipe de présenter:
 

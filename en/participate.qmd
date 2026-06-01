@@ -9,8 +9,6 @@ toc: true
 > **Open Calls**  
 > 
 > - [Abstracts](#presentations) (due **July 15th 2026**) 
-> - [Workshops](#workshops) (due **May 31st 2026**) 
-> - [Cross-Country Research Showcases](#showcase) (due **May 31st 2026**) 
 
 ![Participants of the 2025 SCO-SOC Meeting in Saskatoon](figs/meetings.jpg){width=75% fig-alt="" .center}
 
@@ -28,10 +26,10 @@ At the time of registration you are encouraged to make a donation to the society
 
 ### Workshops {#workshops}
 
-**Deadline**: May 31st 2026  
-**Workshop Date**: October 5th 2026   
+**Deadline**: Closed (~~May 31st 2026~~)  
+**Workshop Date**: Closed  
 **Length**: 2 hour, ½ day, full day   
-**Apply**: [Application form](https://docs.google.com/forms/d/e/1FAIpQLSe6NuEXJcWqNxGP8QDGZyhQs7PeGCRmVThy2tJsPb7E42LSSg/viewform?usp=publish-editor)
+**Apply**: Closed
 
 We invite proposals (in English or French) for interactive online workshops for members of our ornithology community. Workshops should provide practical skills, methodological training, or collaborative problem‑solving relevant to ornithological research, monitoring, conservation, and outreach across Canada.
 
@@ -40,10 +38,10 @@ Sponsor workshops are offered to any organization [donating $500](sponsors.qmd) 
 
 
 ### Cross‑Country Research Showcase {#showcase}
-**Deadline**: May 31st 2026  
+**Deadline**: Closed (~~May 31st 2026~~)  
 **Showcase Date**: October 7th 2026  
 **Length**: 20min  
-**Apply:** [Application Form](https://docs.google.com/forms/d/e/1FAIpQLSffxdLPItpLTAIfn_eljevlvqOwuYYbLj3Ze5Lb9y-_oVzEGQ/viewform?usp=publish-editor)
+**Apply:** Closed
 
 We invite lab groups from academic institutions, government agencies, and NGOs to submit research talks (in English or French) showcasing the breadth and depth of their work in Canadian ornithology. This symposium is a prime opportunity for your team to highlight:
 - the research themes and core questions your lab investigates

@@ -14,7 +14,7 @@ filename: index
 x | x | x |
 :------------ |:----------------------------------------|:---------------------:|
 May 25th 2026 | **Call for [Abstracts](#presentations)** | Due **July 15th 2026** |
-April 9th 2026 | **Call for [Workshops](participate.qmd#workshops) and [Cross-Country Showcases](participate.qmd#showcase)** | Due **May 31st 2026** |
+April 9th 2026 | **Call for [Workshops](participate.qmd#workshops) and [Cross-Country Showcases](participate.qmd#showcase)** | Closed |
 :::
 
 
