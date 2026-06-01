@@ -3,7 +3,7 @@ title: "Programmation"
 filename: program
 ---
 
-À chaque jour, la conférence se tiendra de 12h00 à 16h30 heure de l'Est.  
+À chaque jour, la conférence se tiendra de 12h00 à 17h00 heure de l'Est.  
 *Le calendrier actuel est provisoire et susceptible de modifications.*
 
 Date | Programmation
