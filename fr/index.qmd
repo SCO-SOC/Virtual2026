@@ -12,6 +12,7 @@ filename: index
 ::: {.tbl-invisible style="margin-bottom: 20px"}
 x | x | x |
 :------------ |:----------------------------------------|:---------------------:|
+23 juin 2026 | **[Les ateliers sont en ligne!](program.qmd#workshops)** | |
 25 mai 2026  | **Appel à [résumés](participate.qmd#presentations)** | Date limite **15 juillet 2026** |
 9 avril 2026 | **Appel à [ateliers](participate.qmd#workshops) et [présentations pour la vitrine de recherche pancanadienne](participate.qmd#showcase)** | Terminé |
 
