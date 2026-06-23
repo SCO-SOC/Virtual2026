@@ -43,6 +43,7 @@ website:
 
 format:
   html:
+    toc-title: "Sur cette page"
     respect-user-color-scheme: true
     theme:
       - flatly
