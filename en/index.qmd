@@ -14,7 +14,7 @@ filename: index
 x | x | x |
 :------------ |:----------------------------------------|:---------------------:|
 June 23rd 2026 | **[Workshops posted!](program.qmd#workshops)** | |
-May 25th 2026 | **Call for [Abstracts](#presentations)** | Due **July 15th 2026** |
+May 25th 2026 | **Call for [Abstracts](#presentations)** | Closed |
 April 9th 2026 | **Call for [Workshops](participate.qmd#workshops) and [Cross-Country Showcases](participate.qmd#showcase)** | Closed |
 :::
 
