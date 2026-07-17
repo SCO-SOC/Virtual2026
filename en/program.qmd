@@ -32,7 +32,7 @@ listing:
 
 ### Program {.hide}
 
-Each day's programs will run from 12:00-5:00 ET  
+Each day's programs will run from 11:00-6:00 ET  
 *The current schedule is tentative and subject to change.*
 
 Date | Program

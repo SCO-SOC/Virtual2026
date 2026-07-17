@@ -32,7 +32,7 @@ listing:
 
 ### Programmation {.hide}
 
-À chaque jour, la conférence se tiendra de 12h00 à 17h00 heure de l'Est.  
+À chaque jour, la conférence se tiendra de 11h00 à 18h00 heure de l'Est.  
 *Le calendrier actuel est provisoire et susceptible de modifications.*
 
 Date | Programmation
