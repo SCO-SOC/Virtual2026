@@ -2,6 +2,8 @@ project:
   output-dir: ../docs/fr
   type: website    
 
+lang: fr
+
 website:
   title: "SCO-SOC Réunion Virtuel 2026"
   navbar:
@@ -43,7 +45,6 @@ website:
 
 format:
   html:
-    toc-title: "Sur cette page"
     respect-user-color-scheme: true
     theme:
       - flatly

@@ -38,7 +38,7 @@ listing:
 Date | Programmation
 ---- | --------------------
 **Lundi 5 octobre** | • Ateliers<br>• Assemblée générale annuelle
-**Mardi 6 octobre** | • Présentations des étudiants, y compris le concours<br>« Ma thèse en 3 minutes » (3MT)
+**Mardi 6 octobre** | • Présentations des étudiant·e·s, y compris le concours<br>« Ma thèse en 3 minutes » (3MT)
 **Mercredi 7 octobre** | • Séance plénière de remise des prix ECR<br>• Présentation de la recherche en cross-country (symposiums)<br>• Cérémonie de remise des prix
 : {tbl-colwidths="[25,75]"}
 
