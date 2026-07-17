@@ -33,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -42,7 +44,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1b0c7964789d6f70ca5a42354b1124bc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5feeb931b1b1a6bb01e6cf0e3d7001c7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,7 +72,93 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-workshops-list .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-author','listing-title','listing-length','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-workshops-list'] = new List('listing-workshops-list', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-showcases-list .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-author','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-showcases-list'] = new List('listing-showcases-list', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -145,16 +233,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#program" id="toc-program" class="nav-link active" data-scroll-target="#program">Program</a></li>
-  <li><a href="#workshops" id="toc-workshops" class="nav-link" data-scroll-target="#workshops">Workshops</a>
-  <ul class="collapse">
-  <li><a href="#introduction-to-quarto-for-reproducibility" id="toc-introduction-to-quarto-for-reproducibility" class="nav-link" data-scroll-target="#introduction-to-quarto-for-reproducibility">Introduction to Quarto for Reproducibility</a></li>
-  <li><a href="#integrating-birdnet-analyzer-kaleidoscope-pro" id="toc-integrating-birdnet-analyzer-kaleidoscope-pro" class="nav-link" data-scroll-target="#integrating-birdnet-analyzer-kaleidoscope-pro">Integrating BirdNET Analyzer &amp; Kaleidoscope Pro</a></li>
-  <li><a href="#modelling-avian-habitat-ecology" id="toc-modelling-avian-habitat-ecology" class="nav-link" data-scroll-target="#modelling-avian-habitat-ecology">Modelling Avian Habitat Ecology</a></li>
-  <li><a href="#introduction-to-stable-isotope-assignment-in-r" id="toc-introduction-to-stable-isotope-assignment-in-r" class="nav-link" data-scroll-target="#introduction-to-stable-isotope-assignment-in-r">Introduction to stable-isotope assignment in R</a></li>
-  <li><a href="#modeling-breeding-bird-survey-with-bbsbayes2-status-trends-and-causal-modeling-of-drivers-of-trends" id="toc-modeling-breeding-bird-survey-with-bbsbayes2-status-trends-and-causal-modeling-of-drivers-of-trends" class="nav-link" data-scroll-target="#modeling-breeding-bird-survey-with-bbsbayes2-status-trends-and-causal-modeling-of-drivers-of-trends">Modeling Breeding Bird Survey with bbsBayes2: status, trends, and causal modeling of drivers of trends</a></li>
-  <li><a href="#using-wildtrax-to-manage-and-process-your-birdsong-recordings" id="toc-using-wildtrax-to-manage-and-process-your-birdsong-recordings" class="nav-link" data-scroll-target="#using-wildtrax-to-manage-and-process-your-birdsong-recordings">Using WildTrax to manage and process your birdsong recordings</a></li>
-  <li><a href="#regulating-incidental-take-in-canada-challenges-and-opportunities-for-scientists" id="toc-regulating-incidental-take-in-canada-challenges-and-opportunities-for-scientists" class="nav-link" data-scroll-target="#regulating-incidental-take-in-canada-challenges-and-opportunities-for-scientists">Regulating incidental take in Canada: challenges and opportunities for scientists</a></li>
-  </ul></li>
+  <li><a href="#workshops" id="toc-workshops" class="nav-link" data-scroll-target="#workshops">Workshops</a></li>
+  <li><a href="#showcases" id="toc-showcases" class="nav-link" data-scroll-target="#showcases">Cross Country Research Showcases</a></li>
   </ul>
 </nav>
     </div>
@@ -182,7 +262,7 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="program" class="level3 hide">
 <h3 class="hide anchored" data-anchor-id="program">Program</h3>
-<p>Each day’s programs will run from 12:00-5:00 ET<br>
+<p>Each day’s programs will run from 11:00-6:00 ET<br>
 <em>The current schedule is tentative and subject to change.</em></p>
 <table class="caption-top table">
 <colgroup>
@@ -213,130 +293,505 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="workshops" class="level2 no-border">
 <h2 class="no-border anchored" data-anchor-id="workshops">Workshops</h2>
-<section id="introduction-to-quarto-for-reproducibility" class="level3">
-<h3 class="anchored" data-anchor-id="introduction-to-quarto-for-reproducibility">Introduction to Quarto for Reproducibility</h3>
-<p><strong>Lead</strong>: Steffi LaZerte<br>
-<strong>Length</strong>: 2-2.5 Hours</p>
-<p><strong>Description</strong><br>
-Do you struggle to keep track of your research analyses in R? Is future-self constantly complaining about past-self’s inability to document scripts, data, and package versions? Come explore the magic of Quarto! Turn your R scripts into reproducible reports complete with all the information future-self needs to write up your analyses.</p>
-<p>In this workshop we’ll learn about Markdown, RMarkdown and Quarto. We’ll cover different ways of creating reports from scripts and how to customize the output to maximize beauty as well as reproducibility. You will have the opportunity to learn and practice, and will go home with a collection of resources to help you along your journey. Example scripts to work with will be available, but best is to bring your own. Note that while the focus of this workshop is on R, Quarto also works with Python, so feel free to bring Python scripts to play with as well.</p>
-<p>Participants do not need to be R experts but should be somewhat familiar with R and an R IDE (e.g., RStudio or Positron). Instructions for installing these programs will be sent out before the workshop.</p>
-<p><strong>Target audience</strong><br>
-Anyone who has a passing familiarity with R/Python and who would like to learn more about creating reproducible reports of their analyses.</p>
-<p><strong>Prerequisite skills/knowledge</strong><br>
-Some familiarity with R and an R IDE (e.g., RStudio or Positron). Basic familiarity with R or Python is recommended.</p>
-<hr>
+<p><a href="./program_workshops.html"><em>View all</em></a></p>
+<div id="listing-workshops-list" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1791158400000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./workshops/workshop_birdnet.html" class="no-external">Integrating BirdNET Analyzer &amp; Kaleidoscope Pro</a>
+</h3>
+<div class="delink listing-description"><a href="./workshops/workshop_birdnet.html" class="no-external">
+Combine BirdNET Analyzer and Kaleidoscope Pro for robust acoustic analysis, quality assurance (QA), and custom recogniser development. We will work…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./workshops/workshop_birdnet.html" class="no-external">
+<div class="listing-date">
+Oct 5, 2026
+</div>
+<div class="listing-author">
+Carlos Abrahams
+</div>
+<div class="metadata-value listing-length">
+2-3 hours
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1791158400000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./workshops/workshop_quarto.html" class="no-external">Introduction to Quarto for Reproducibility</a>
+</h3>
+<div class="delink listing-description"><a href="./workshops/workshop_quarto.html" class="no-external">
+Do you struggle to keep track of your research analyses in R? Is future-self constantly complaining about past-self’s inability to document scripts…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./workshops/workshop_quarto.html" class="no-external">
+<div class="listing-date">
+Oct 5, 2026
+</div>
+<div class="listing-author">
+Steffi LaZerte
+</div>
+<div class="metadata-value listing-length">
+2-2.5 hours
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1791158400000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="255">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./workshops/workshop_isotopes.html" class="no-external">Introduction to stable-isotope assignment in R</a>
+</h3>
+<div class="delink listing-description"><a href="./workshops/workshop_isotopes.html" class="no-external">
+For migratory wildlife populations, understanding the connections between breeding, non-breeding, and stopover locations is integral to their…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./workshops/workshop_isotopes.html" class="no-external">
+<div class="listing-date">
+Oct 5, 2026
+</div>
+<div class="listing-author">
+Jackson Kusack
+</div>
+<div class="metadata-value listing-length">
+2-2.5 hours
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1791158400000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="362">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./workshops/workshop_bbsbayes2.html" class="no-external">Modeling Breeding Bird Survey with bbsBayes2: status, trends, and causal modeling of drivers of trends</a>
+</h3>
+<div class="delink listing-description"><a href="./workshops/workshop_bbsbayes2.html" class="no-external">
+bbsBayes2 is an R-package that allows for easy access to the North American Breeding Bird Survey data and for fitting a selection of hierarchical…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./workshops/workshop_bbsbayes2.html" class="no-external">
+<div class="listing-date">
+Oct 5, 2026
+</div>
+<div class="listing-author">
+Adam Smith
+</div>
+<div class="metadata-value listing-length">
+2-2.5 hours
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1791158400000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="348">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./workshops/workshop_habitat.html" class="no-external">Modelling Avian Habitat Ecology</a>
+</h3>
+<div class="delink listing-description"><a href="./workshops/workshop_habitat.html" class="no-external">
+Much of the research conducted on birds involves, either explicitly or implicitly, modelling patterns of habitat use in order to understand species…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./workshops/workshop_habitat.html" class="no-external">
+<div class="listing-date">
+Oct 5, 2026
+</div>
+<div class="listing-author">
+Andy Crosby
+</div>
+<div class="metadata-value listing-length">
+Full day / 4-5 hours
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1791158400000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./workshops/workshop_incidental_take.html" class="no-external">Regulating incidental take in Canada: challenges and opportunities for scientists</a>
+</h3>
+<div class="delink listing-description"><a href="./workshops/workshop_incidental_take.html" class="no-external">
+Despite the federal prohibition on killing migratory birds and destroying their nests, approximately 269 million birds are killed and almost one…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./workshops/workshop_incidental_take.html" class="no-external">
+<div class="listing-date">
+Oct 5, 2026
+</div>
+<div class="listing-author">
+Julie Bourque
+</div>
+<div class="metadata-value listing-length">
+2-2.5 hours
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1791158400000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="264">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./workshops/workshop_wildtrax.html" class="no-external">Using WildTrax to manage and process your birdsong recordings</a>
+</h3>
+<div class="delink listing-description"><a href="./workshops/workshop_wildtrax.html" class="no-external">
+WildTrax is a free online platform developed to remove the barrier of entry for researchers and managers to manage and process ARU recordings at any…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./workshops/workshop_wildtrax.html" class="no-external">
+<div class="listing-date">
+Oct 5, 2026
+</div>
+<div class="listing-author">
+Kevin Kelly
+</div>
+<div class="metadata-value listing-length">
+Full day / 4-5 hours
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 </section>
-<section id="integrating-birdnet-analyzer-kaleidoscope-pro" class="level3">
-<h3 class="anchored" data-anchor-id="integrating-birdnet-analyzer-kaleidoscope-pro">Integrating BirdNET Analyzer &amp; Kaleidoscope Pro</h3>
-<p><strong>Lead</strong>: Carlos Abrahams<br>
-<strong>Length</strong>: 2-3 Hours</p>
-<p><strong>Description</strong><br>
-Combine BirdNET Analyzer and Kaleidoscope Pro for robust acoustic analysis, quality assurance (QA), and custom recogniser development. We will work through two real-world workflows: (i) running automated detections for birds in BirdNET, and then using Kaleidoscope Pro for efficient manual QA, and (ii) applying Kaleidoscope’s clustering tools to generate high-quality training clips for building a custom amphibian BirdNET recognizer. Attendees will gain a clear introduction to how these two powerful software tools can be used together to leverage the strengths of each, creating an efficient and scalable workflow for acoustic monitoring. Designed for ecologists, bioacousticians, and practitioners, this Wildlife Acoustics workshop emphasizes practical skills, reproducible workflows, and confidence in automated acoustic monitoring results.</p>
-<p><strong>Target audience</strong><br>
-Ecologists, bioacousticians, and practitioners.</p>
-<p><strong>Prerequisite skills/knowledge</strong><br>
-General knowledge of Kaleidoscope and BirdNET are helpful for this workshop.</p>
-<hr>
-</section>
-<section id="modelling-avian-habitat-ecology" class="level3">
-<h3 class="anchored" data-anchor-id="modelling-avian-habitat-ecology">Modelling Avian Habitat Ecology</h3>
-<p><strong>Lead</strong>: Andy Crosby<br>
-<strong>Length</strong>: Full Day / 4-5 hours</p>
-<p><strong>Description</strong><br>
-Much of the research conducted on birds involves, either explicitly or implicitly, modelling patterns of habitat use in order to understand species ecology and the potential effects of land-use and climate change on populations. Patterns of habitat use by birds are the realization of the habitat selection process, which is governed by the interaction of individual species ecology and landscape ecological context. The purpose of this workshop is to provide a basic understanding of how habitat modelling techniques, such as occupancy modelling and resource selection functions, can be used to make valid inferences about species ecology and habitat selection.</p>
-<p>In this workshop we will use a combination of interactive lectures and hands on work in R to:</p>
-<ol type="1">
-<li>Gain an understanding of basic principles of avian habitat ecology;<br>
-</li>
-<li>Understand habitat modelling theory in terms of habitat use, availability, preference, and selection; and<br>
-</li>
-<li>Understand how occupancy models and resource selection functions operate to provide inferences about occupancy patterns and drivers of habitat selection.</li>
-</ol>
-<p>An important aspect of this workshop will be using simple data simulations to better understand the data generation process and how it interacts with the models to produce the results we see. This will allow participants to better understand and interpret model outputs in their ecological context Thus, the focus of this workshop will be less on how to run models, and more on using the models to gain reliable knowledge about important ecological processes. I will provide some example datasets, and participants are welcome to use their own data to work with the models.</p>
-<p>Expected outcomes will be a better knowledge of avian habitat ecology and increased ability to understand and properly utilize common habitat modelling techniques for research and conservation.</p>
-<p><strong>Target audience</strong><br>
-Students and professionals looking for a deeper understanding of habitat ecology and how modelling can be used to understand avian habitat selection.</p>
-<p><strong>Prerequisite skills/knowledge</strong><br>
-Basic R skills and understanding of generalized linear models. Understanding for-loops will be particularly important. I will send preliminary material to familiarize participants with necessary concepts ahead of time.</p>
-<hr>
-</section>
-<section id="introduction-to-stable-isotope-assignment-in-r" class="level3">
-<h3 class="anchored" data-anchor-id="introduction-to-stable-isotope-assignment-in-r">Introduction to stable-isotope assignment in R</h3>
-<p><strong>Lead</strong>: Jackson Kusack<br>
-<strong>Length</strong>: 2-2.5 Hours</p>
-<p><strong>Description</strong><br>
-For migratory wildlife populations, understanding the connections between breeding, non-breeding, and stopover locations is integral to their conservation and management. Intrinsic markers, such as stable isotopes, found within the tissues of migratory individuals offer an alternative to the use of transmitters and other extrinsic markers. Briefly, this method relates the stable-isotope values of consumer tissues to those of the environment (especially stable isotopes of hydrogen and oxygen in precipitation) to determine likely origins where tissues were grown. In recent years there has been a handful of helpful packages released in the R statistical environment (isocat and AssignR) which have increased the functionality of these assignment methods and made them much more accessible.</p>
-<p>In this workshop, I will first present a short introduction to the theory behind stable-isotope assignment, after which we will work through an example R script where we will, step-by-step, work though the procedures to determine the likely origins of unknown-origin migrants. No data is required by participants as everything will be provided during the workshop, but participants are welcome to apply the code to their own data.</p>
-<p>The expected outcome for this workshop is that participants will gain a better understanding for the general approach and theory behind stable-isotope assignment using hydrogen isotopes and leave with some fundamental R code to build upon for their own analyses.</p>
-<p><strong>Target audience</strong><br>
-Researchers and students who are interested in or are planning to collect tissues for stable isotope assignment. This workshop is aimed at a general audience.</p>
-<p><strong>Prerequisite skills/knowledge</strong><br>
-Some familiarity with R/Rmarkdown is suggested.</p>
-<hr>
-</section>
-<section id="modeling-breeding-bird-survey-with-bbsbayes2-status-trends-and-causal-modeling-of-drivers-of-trends" class="level3">
-<h3 class="anchored" data-anchor-id="modeling-breeding-bird-survey-with-bbsbayes2-status-trends-and-causal-modeling-of-drivers-of-trends">Modeling Breeding Bird Survey with bbsBayes2: status, trends, and causal modeling of drivers of trends</h3>
-<p><strong>Lead</strong>: Adam Smith<br>
-<strong>Length</strong>: 2-2.5 Hours</p>
-<p><strong>Description</strong><br>
-<a href="https://bbsbayes.github.io/bbsBayes2">bbsBayes2</a> is an R-package that allows for easy access to the North American Breeding Bird Survey data and for fitting a selection of hierarchical Bayesian models that estimate status and trends and can be modified to estimate the influence of spatial and temporal predictors on trends and abundance (e.g., <a href="https://doi.org/10.1675/063.048.0203">Mckellar et al.&nbsp;2025</a> and <a href="https://doi.org/10.1093/ornithapp/duad056">Smith et al.&nbsp;2024</a>). The package provides efficient, fully-Bayesian parameter estimation using Stan, spatially explicit models well suited to exploring spatial patterns in trends, and options to customize models to include covariates of trends and abundance. The package also allows for a streamlined Bayesian workflow that facilitates convergence diagnostics, prior and posterior predictions, visualization of model predictions, as well as cross-validation and model comparisons.</p>
-<p>During this workshop you will follow along with live coding to get hands-on experience manipulating and visualizing output from a range of models and species. We will demonstrate the package’s functions, including those that allow you to:</p>
-<ol type="1">
-<li>Prepare the data for modeling a given species and fit a model that estimates trends for any time period (1970-2019, 2005-2015, 1980-2000, etc.).<br>
-</li>
-<li>Generate heat maps of population trends and graph population trajectories.<br>
-</li>
-<li>Choose from a suite of built-in hierarchical Bayesian models and access tools to help with cross-validation and model comparison.<br>
-</li>
-<li>Estimate trends for customized regions (e.g., all of the eastern Boreal, Great Plains versus eastern populations of grassland birds).<br>
-</li>
-<li>Build and fit customized models: the workshop allows plenty of time to explore customizing the base-models with examples of models that estimate regional climate-effects on population trends, local landcover effects on mean abundance, landcover change effects on trends, etc.</li>
-</ol>
-<p><strong>Target audience</strong><br>
-Researchers and students interested in:</p>
-<ol type="1">
-<li>modeling spatial and temporal patterns in bird population over the last 60 years;<br>
-</li>
-<li>modeling covariates or causal drivers of variations in abundance and trends;<br>
-</li>
-<li>gaining experience in Bayesian workflow and fitting models using Stan;<br>
-</li>
-<li>better understanding the models used by the Canadian Wildlife Service, and the United States Geological Survey to estimate status and trends from BBS data.</li>
-</ol>
-<p><strong>Prerequisite skills/knowledge</strong><br>
-Familiarity with coding in R is necessary. No prior experience with Stan or Bayesian models is required.</p>
-<hr>
-</section>
-<section id="using-wildtrax-to-manage-and-process-your-birdsong-recordings" class="level3">
-<h3 class="anchored" data-anchor-id="using-wildtrax-to-manage-and-process-your-birdsong-recordings">Using WildTrax to manage and process your birdsong recordings</h3>
-<p><strong>Lead</strong>: Kevin Kelly<br>
-<strong>Length</strong>: Full Day / 4-5 Hours</p>
-<p><strong>Description</strong><br>
-WildTrax is a free online platform developed to remove the barrier of entry for researchers and managers to manage and process ARU recordings at any scale of research program. Developed to help users manage and process acoustic data from raw recordings through to being used in statistical analyses, WildTrax allows users to store raw data, metadata, and derived species data on a cloud system that can be shared by collaborators anywhere in the world. With standardized metadata formats, processing methods and report outputs, the data can be easily stored and shared between users.</p>
-<p>In this workshop we’ll teach you how to upload and manage acoustic recordings; store and manage metadata such as survey locations, field site visits, and field equipment information; process the recordings to identify the species vocalizing in the recordings; create and manage projects to aggregate your data into collective reports; use the built in birdsong recognizers (BirdNET and HawkEars) to enhance your processing abilities; and publish, share and download the data contained on WildTrax.</p>
-<p>The workshop is set-up to be interactive so that users can follow along on the WildTrax platform to perform the various steps being presented using their own data or example data provided by the facilitators to learn the various features and functions available in WildTrax.</p>
-<p><strong>Target audience</strong><br>
-This workshop is meant to appeal to novice passive acoustic monitoring users (basic understanding of an ARU and spectrogram) to a more experienced researcher wanting to learn how WildTrax can help with their data storage and processing needs.</p>
-<p><strong>Prerequisite skills/knowledge</strong><br>
-Basic understanding of passive acoustic recordings and spectrograms is helpful.</p>
-<hr>
-</section>
-<section id="regulating-incidental-take-in-canada-challenges-and-opportunities-for-scientists" class="level3">
-<h3 class="anchored" data-anchor-id="regulating-incidental-take-in-canada-challenges-and-opportunities-for-scientists">Regulating incidental take in Canada: challenges and opportunities for scientists</h3>
-<p><strong>Lead</strong>: Julie Bourque<br>
-<strong>Length</strong>: 2-2.5 Hours</p>
-<p><strong>Description</strong><br>
-Despite the federal prohibition on killing migratory birds and destroying their nests, approximately 269 million birds are killed and almost one million nests are destroyed annually in Canada due to otherwise lawful human activities. Bird mortality results from window collisions, fisheries bycatch, powerline electrocution, among other causes. Nest destruction is primarily associated with vegetation management activities during the breeding season including both temporary activities such as agriculture or forestry and permanent land conversion such as urbanization. This unintentional (incidental) take includes almost all spheres of human activities, both industrial and non-industrial, and is expected to increase as human development accelerates.</p>
-<p>In the last few years, there has been renewed interest in regulating incidental take at the federal level. A regulatory system could provide benefits to migratory birds through the universal adoption of beneficial management practices in exchange for more legal certainty. However, such an initiative requires a strong scientific foundation to ensure that decision-making achieves conservation goals. For example, understanding the scope and impact of an activity is essential for establishing a baseline against which mitigation measures can be evaluated. Further research is also needed to evaluate evidence-based mitigation measures and their applicability in the Canadian context.</p>
-<p>This workshop will examine the concept of incidental take and will aim to foster discussion on how scientists can influence regulatory and policy development through their research. The workshop will include a presentation followed by an open discussion with participants. The expected outcome is that participants will gain a better understanding of how to present the results of their research to policymakers to better support policy development for migratory birds in Canada. The workshop may also help researchers incorporate incidental take considerations into their work and strengthen collaboration between scientists and policymakers.</p>
-<p><strong>Target audience</strong><br>
-The target audience consists of researchers with an interest in policy-making and with knowledge on the effects of human activities on migratory birds.</p>
-<p><strong>Prerequisite skills/knowledge</strong><br>
-Some prior knowledge of the prohibitions of the Migratory Birds Convention Act and the Migratory Birds Regulations 2022 is useful.</p>
+<section id="showcases" class="level2 no-border">
+<h2 class="no-border anchored" data-anchor-id="showcases">Cross Country Research Showcases</h2>
+<p><a href="./program_showcases.html"><em>View all</em></a></p>
+<div id="listing-showcases-list" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_uofm.html" class="no-external">Avian Behaviour and Conservation Lab: Timing, Movement, and Conservation of Migratory Birds</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_uofm.html" class="no-external">
+The Avian Behaviour and Conservation Lab at the University of Manitoba investigates how birds respond behaviourally to anthropogenic environmental…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_uofm.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Kevin Fraser (PI), Vinuri Mendis (PhD Student), Yantong Tan (PhD Student), Rebecca Asham (MSc Student), Tamara Sturch (MSc Student)
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="152">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_cws_banding.html" class="no-external">Banding in the Age of Technology</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_cws_banding.html" class="no-external">
+Banding and recapture of birds in the early 1900s provided the first documentation of individual bird movements in North America. In recent decades…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_cws_banding.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Marcel Gahbauer, Lesley Howes, Barbara Frei, Cyndi Smith, Pam Sinclair
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="149">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_abmi.html" class="no-external">CanAvian: Advancing Avian Data Integration in Canada</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_abmi.html" class="no-external">
+The Canadian Network of Avian Data (CanAvian) unites a broad community of researchers, conservation practitioners, and volunteer scientists who…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_abmi.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Sofia Guest<sup>1</sup>, Catherine Jardine<sup>2</sup>
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_birds_canada.html" class="no-external">Delivering Strong Science at Birds Canada</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_birds_canada.html" class="no-external">
+Birds Canada delivers strong science across the country and beyond through more than a dozen regional networks of employees, volunteers, and…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_birds_canada.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Douglas C. Tozer
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="139">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_eccc_migration.html" class="no-external">Drivers of Migratory Bird Population Change in Working Landscapes</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_eccc_migration.html" class="no-external">
+Drs Ann McKellar, Nancy Mahony, Greg Mitchell, and Elizabeth Gow are Research Scientists from Environment and Climate Change Canada’s Science and…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_eccc_migration.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Ann E. McKellar, Nancy A. Mahony, Greg W. Mitchell, Elizabeth A. Gow
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="115">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_uofs.html" class="no-external">Ecotoxicology and Conservation of Prairie Bird Communities</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_uofs.html" class="no-external">
+We are an ecotoxicology lab with a strong conservation focus. Our lab studies the effects of environmental contaminants and other non-pollution…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_uofs.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Christy Morrissey
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_western.html" class="no-external">Integrative Ornithology at AFAR</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_western.html" class="no-external">
+The Advanced Facility for Avian Research at Western University is a world class facility consisting of faculty and trainees that aim to understand…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_western.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Scott MacDougall-Shackleton, Chris Guglielmo, Carrie Branch, Yolanda Morbey, Beth MacDougall-Shackleton, Alice Boyle
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="144">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_tru.html" class="no-external">Landscape Change and Avian Ecology at Thompson Rivers University</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_tru.html" class="no-external">
+Thompson Rivers University is in the southern interior of British Columbia on the ancestral lands of the Tk’emlúps te Secwépemc (Kamloops main…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_tru.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Matt Reudink, Nancy Flood, Stephen Joly, Kara Lefevre
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_parks_canada.html" class="no-external">Monitoring Bird Populations in Canada’s National Parks</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_parks_canada.html" class="no-external">
+Parks Canada Agency monitors birds in protected areas across Canada within a common framework called the Ecological Integrity Monitoring Program…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_parks_canada.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Lucy Patterson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="150">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_cws_status.html" class="no-external">National Status and Trends of Canada’s Birds</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_cws_status.html" class="no-external">
+The Canadian Wildlife Service’s national wildlife management and assessment teams conduct research supporting the population monitoring and…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_cws_status.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Adam C. Smith, Jackson Kusack, Sarah Gutowsky, Dave Iles, Willow English, Marcel Gahbauer, Michel Gendron, Frederique Tremblay, Marie-Anne Hudson, Christian Roy, Charles Francis
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="153">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_omnr.html" class="no-external">Ornithological research and conservation at the Ontario Ministry of Natural Resources</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_omnr.html" class="no-external">
+At the Wildlife Research and Monitoring Section of the Ontario Ministry of Natural Resources, we coordinate three strands of avian research: the…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_omnr.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Glen Brown<sup>1</sup>, Richard Feldman<sup>1</sup>, Jeff Bowman<sup>1</sup>, Rod Brook<sup>1</sup>, Erica Newton<sup>1</sup>, Chrystyn Jones (MSc Student)<sup>2</sup>, Richard Huang (MSc Student)<sup>2</sup>, Ingrid Tello (PhD Student)<sup>3</sup>
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_pif.html" class="no-external">Partners in Flight: Collaboration from Science to Application</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_pif.html" class="no-external">
+Partners In Flight (PIF) is a network of organizations dedicated to landbird conservation. Partners range from not-for-profit organizations to…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_pif.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Becky Stewart
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="110">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_uofnb.html" class="no-external">Seabird Ecology at the Atlantic Laboratory for Avian Research</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_uofnb.html" class="no-external">
+Based at the University of New Brunswick’s Saint John Campus, the Atlantic Laboratory for Avian Research is directed by seabird biologist…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_uofnb.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Heather Major (Professor), Amanda Giovinazzo, Maddy Talpt, Clare Taylor, Kayla Cannon, Daniel Oliker
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="146">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_du.html" class="no-external">The Science that Powers Waterfowl Conservation</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_du.html" class="no-external">
+The Institute for Wetland and Waterfowl Research (IWWR) at Ducks Unlimited Canada conducts interdisciplinary research that advances ornithology…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_du.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Matt Dyson, James Paterson, Vanessa Harriman, Lauren Bortolotti, Pascal Badiou, Samuel Robinson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_bam.html" class="no-external">Twenty Years of Boreal Avian Modelling</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_bam.html" class="no-external">
+The boreal forest is a vast and remote biome covering much of northern Canada and Alaska, which provides habitat for a substantial portion of the…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_bam.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Elly Knight, Steven Van Wilgenburg, Diana Stralberg, Steve Cumming, Jeff Ball, Junior Tremblay, Erin Bayne
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1791331200000" data-listing-file-modified-sort="1784317915010" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="141">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./showcases/showcase_mcgill.html" class="no-external">Warblers to Waterbirds: Where and Why?</a>
+</h3>
+<div class="delink listing-description"><a href="./showcases/showcase_mcgill.html" class="no-external">
+Our research group, based at McGill University’s Macdonald Campus, investigates the link between avian movement, contaminants, physiology, and life…
+</a></div>
+</div>
+<div class="metadata">
+<a href="./showcases/showcase_mcgill.html" class="no-external">
+<div class="listing-date">
+Oct 7, 2026
+</div>
+<div class="listing-author">
+Tabatha Cormier (PhD Student), Nathanya Goudreau (MSc Student)
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 
 
-</section>
+
 </section>
 
 </main> <!-- /main -->

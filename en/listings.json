@@ -1,0 +1,30 @@
+[
+  {
+    "listing": "/program.html",
+    "items": [
+      "/workshops/workshop_birdnet.html",
+      "/workshops/workshop_quarto.html",
+      "/workshops/workshop_isotopes.html",
+      "/workshops/workshop_bbsbayes2.html",
+      "/workshops/workshop_habitat.html",
+      "/workshops/workshop_incidental_take.html",
+      "/workshops/workshop_wildtrax.html",
+      "/showcases/showcase_uofm.html",
+      "/showcases/showcase_cws_banding.html",
+      "/showcases/showcase_abmi.html",
+      "/showcases/showcase_birds_canada.html",
+      "/showcases/showcase_eccc_migration.html",
+      "/showcases/showcase_uofs.html",
+      "/showcases/showcase_western.html",
+      "/showcases/showcase_tru.html",
+      "/showcases/showcase_parks_canada.html",
+      "/showcases/showcase_cws_status.html",
+      "/showcases/showcase_omnr.html",
+      "/showcases/showcase_pif.html",
+      "/showcases/showcase_uofnb.html",
+      "/showcases/showcase_du.html",
+      "/showcases/showcase_bam.html",
+      "/showcases/showcase_mcgill.html"
+    ]
+  }
+]
