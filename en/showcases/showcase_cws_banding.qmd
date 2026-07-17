@@ -1,0 +1,21 @@
+---
+filename: showcases/showcase_cws_banding
+title: "Banding in the Age of Technology"
+author: 
+  - Marcel Gahbauer
+  - Lesley Howes
+  - Barbara Frei
+  - Cyndi Smith
+  - Pam Sinclair
+author-affiliation: 
+  - Canadian Wildlife Service
+  - Canadian Migration Monitoring Network
+type:  eNGO
+date: 2026-10-07
+---
+
+### Abstract
+
+Banding and recapture of birds in the early 1900s provided the first documentation of individual bird movements in North America. In recent decades, bird monitoring has been revolutionized by technological advances such as satellite telemetry, geolocators, and automated radio telemetry (e.g., Motus), as well as the growth of ‘big data’ through participatory science, and the use of artificial intelligence for species identification. This has prompted questions about whether traditional methods such as banding have become irrelevant. On the contrary, standardized banding efforts remain fundamental to understanding longevity, annual survival rates, age structure, and physiological responses to environmental change. Banding data also support a wide range of conservation and management outcomes, including disease surveillance and assessment of habitat restoration. Since 1998, the Canadian Migration Monitoring Network has facilitated communication and collaboration among bird observatories across the country. Maintaining strong banding programs while integrating emerging technologies is critical to advancing ornithological research and conservation.
+
+

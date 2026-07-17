@@ -1,0 +1,14 @@
+---
+filename: showcases/showcase_parks_canada
+title: "Suivi des populations d’oiseaux dans les parcs nationaux du Canada"
+author: 
+  - Lucy Patterson
+author-affiliation:
+  - Spécialiste en surveillance écologique, Agence Parcs Canada
+type:  Gouvernement
+date: 2026-10-07
+---
+
+### Résumé
+
+L’Agence Parcs Canada surveille les oiseaux dans les aires protégées du Canada dans le cadre du Programme de surveillance de l’intégrité écologique (PSIE). Ce programme évalue l’état et l’évolution de l’intégrité écologique de 119 écosystèmes répartis dans 43 parcs nationaux et permet de prioriser et d’évaluer les mesures de gestion visant à améliorer cette intégrité. Les oiseaux constituent l’un des indicateurs les plus courants, étant surveillés dans six types d’écosystèmes différents, dans 39 parcs. En 2025, la proportion d’oiseaux en bon, moyen et mauvais état était respectivement de 56 %, 31 % et 11 %, tandis que celle des oiseaux en amélioration, stables et en déclin était respectivement de 11 %, 43 % et 19 %. Nous présentons un bref aperçu du PSIE et un résumé des indicateurs aviaires du programme. Nous proposons également une étude de cas tirée d’une aire protégée afin d’illustrer comment un indicateur de surveillance peut être élaboré et utilisé dans le processus de planification de la gestion des écosystèmes.

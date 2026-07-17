@@ -1,0 +1,24 @@
+---
+filename: showcases/showcase_omnr
+title: "Ornithological research and conservation at the Ontario Ministry of Natural Resources"
+author: 
+  - Glen Brown<sup>1</sup>
+  - Richard Feldman<sup>1</sup>
+  - Jeff Bowman<sup>1</sup>
+  - Rod Brook<sup>1</sup>
+  - Erica Newton<sup>1</sup>
+  - Chrystyn Jones (MSc Student)<sup>2</sup>
+  - Richard Huang (MSc Student)<sup>2</sup>
+  - Ingrid Tello (PhD Student)<sup>3</sup>
+author-affiliation:
+  - 1. Ontario Ministry of Natural Resources
+  - 2. Trent University
+  - 3. Western University
+type: Government & Academic
+date: 2026-10-07
+---
+
+
+### Abstract
+
+At the Wildlife Research and Monitoring Section of the Ontario Ministry of Natural Resources, we coordinate three strands of avian research: the breeding ecology of shorebirds and waterfowl in the Hudson Bay Lowlands, the nutrient dynamics behind grassland bird habitat use, and climate effects on Wild Turkey distribution. Glen Brown’s work in Ontario’s Far North \- one of the largest contiguous wetland systems in the world \- has shown how the region may be vulnerable to the deepening of the permafrost active layer and wetland drying. Richard Feldman’s work in the Carden Alvar ecosystem has shown the connections between plant stoichiometry and variation in the quantity and quality of the prey of Eastern Whip-poor-will. Jeff Bowman’s work has focused on strategies that Ontario’s reintroduced Wild Turkeys have used to succeed in a northern climate. Combined, we contribute to conserving birds across the province, and involving students in applied ecological research.   

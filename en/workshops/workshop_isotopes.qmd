@@ -1,0 +1,20 @@
+---
+filename: workshops/workshop_isotopes
+title: "Introduction to stable-isotope assignment in R"
+author: Jackson Kusack  
+date: 2026-10-05
+length: "2-2.5 hours"
+---
+
+### Description  
+For migratory wildlife populations, understanding the connections between breeding, non-breeding, and stopover locations is integral to their conservation and management. Intrinsic markers, such as stable isotopes, found within the tissues of migratory individuals offer an alternative to the use of transmitters and other extrinsic markers. Briefly, this method relates the stable-isotope values of consumer tissues to those of the environment (especially stable isotopes of hydrogen and oxygen in precipitation) to determine likely origins where tissues were grown. In recent years there has been a handful of helpful packages released in the R statistical environment (isocat and AssignR) which have increased the functionality of these assignment methods and made them much more accessible.
+
+In this workshop, I will first present a short introduction to the theory behind stable-isotope assignment, after which we will work through an example R script where we will, step-by-step, work though the procedures to determine the likely origins of unknown-origin migrants. No data is required by participants as everything will be provided during the workshop, but participants are welcome to apply the code to their own data.
+
+The expected outcome for this workshop is that participants will gain a better understanding for the general approach and theory behind stable-isotope assignment using hydrogen isotopes and leave with some fundamental R code to build upon for their own analyses.
+
+### Target audience  
+Researchers and students who are interested in or are planning to collect tissues for stable isotope assignment. This workshop is aimed at a general audience.
+
+### Prerequisite skills/knowledge  
+Some familiarity with R/Rmarkdown is suggested.

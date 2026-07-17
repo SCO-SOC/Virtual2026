@@ -1,0 +1,24 @@
+---
+filename: showcases/showcase_cws_status
+title: "National Status and Trends of Canada’s Birds"
+author: 
+  - Adam C. Smith
+  - Jackson Kusack
+  - Sarah Gutowsky
+  - Dave Iles
+  - Willow English
+  - Marcel Gahbauer
+  - Michel Gendron
+  - Frederique Tremblay
+  - Marie-Anne Hudson
+  - Christian Roy
+  - Charles Francis
+author-affiliation:
+  - Canadian Wildlife Service
+type:  Government
+date: 2026-10-07
+---
+
+### Abstract
+
+The Canadian Wildlife Service’s national wildlife management and assessment teams conduct research supporting the population monitoring and management of Canada’s migratory birds. Research centers around three overall themes: 1) optimizing applied population monitoring, for both professional and citizen science programs, as well as automated monitoring technologies; 2) developing integrated statistical methods to improve estimates of population sizes, status, trends and distribution; and 3) coordinating research and reporting with international partners to inform conservation across the full annual cycle. Ongoing and upcoming research projects involve: developing integrated spatiotemporal models of population status and drivers of trends using monitoring, remote sensing, and demographic data; developing object detection models to automate counts from seabird colony photo surveys; improving statistical models for estimating density and population sizes; improving breeding waterfowl population estimates by optimizing survey designs and accounting for bias in sex ratios; and improving surveys and models to estimate harvest of migratory birds.

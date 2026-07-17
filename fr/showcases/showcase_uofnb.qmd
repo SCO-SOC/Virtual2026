@@ -1,0 +1,19 @@
+---
+filename: showcases/showcase_parks_canada
+title: "Écologie des oiseaux marins au Laboratoire atlantique de recherche aviaire"
+author: 
+  - Heather Major (Professeure)
+  - Amanda Giovinazzo
+  - Maddy Talpt
+  - Clare Taylor
+  - Kayla Cannon
+  - Daniel Oliker
+author-affiliation:
+  - Université du Nouveau-Brunswick
+type:  Académique
+date: 2026-10-07
+---
+
+### Résumé
+
+Situé sur le campus de Saint John de l’Université du Nouveau-Brunswick, le Laboratoire atlantique de recherche aviaire est dirigé par la biologiste marine Heather Major. Le laboratoire étudie les relations entre les populations d’oiseaux et les changements environnementaux dans les écosystèmes marins et insulaires. Parmi les espèces étudiées figurent le Macareux moine, le Petit Pingouin, le Guillemot marmette, la Sterne arctique et l’Océanite cul-blanc, principalement sur l’île Machias Seal (MSI), dans la baie de Fundy. L’île MSI est le site principal du projet de suivi à long terme des oiseaux marins du laboratoire, mené annuellement depuis 1995. De plus, le laboratoire collabore actuellement à un projet d’évaluation de la faisabilité de la restauration de l’île Seal (Nouvelle-Écosse) par l’élimination des espèces introduites.

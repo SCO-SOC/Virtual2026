@@ -1,0 +1,20 @@
+---
+filename: showcases/showcase_tru
+title: "Landscape Change and Avian Ecology at Thompson Rivers University"
+author: 
+  - Matt Reudink
+  - Nancy Flood
+  - Stephen Joly
+  - Kara Lefevre
+author-affiliation: 
+ - Thompson Rivers University
+type:  Academic
+date: 2026-10-07
+---
+
+### Abstract
+
+Thompson Rivers University is in the southern interior of British Columbia on the ancestral lands of the Tk'emlúps te Secwépemc (Kamloops main campus) within Secwepemcúl̓ecw, the traditional and unceded territory of the Secwépemc. This vast area of grasslands, forests, mountains, rivers and lakes is larger than all but four European countries, stretching from Jasper to Revelstoke to Kamloops to north of Williams Lake. Its diverse landscapes provide a rich opportunity for research about the impact of accelerating environmental change on avian ecology and to partner with First Nations. This showcase will highlight core themes of research guided by a group of faculty members who collaboratively mentor graduate students on projects that include: conservation of grassland-dependent bird species; braiding Indigenous and Western knowledges to inform species conservation; responses of bird communities to urbanization, industrial activity, and wildfire; and community-engaged efforts to monitor avian population change.
+
+
+

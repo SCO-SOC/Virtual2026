@@ -1,0 +1,20 @@
+---
+filename: showcases/showcases_du
+title: "La science au service de la conservation de la sauvagine"
+author: 
+  - Matt Dyson
+  - James Paterson
+  - Vanessa Harriman
+  - Lauren Bortolotti
+  - Pascal Badiou
+  - Samuel Robinson
+author-affiliation: 
+ - Canards Illimités Canada
+type:  eONG
+date: 2026-10-07
+---
+
+### Résumé
+
+L’Institut de recherche sur les milieux humides et la sauvagine (IRH) de Canards Illimités Canada mène des recherches interdisciplinaires qui font progresser l’ornithologie dans le contexte plus large des écosystèmes de milieux humides. Axé sur l’écologie de la sauvagine, l’IRH étudie l’utilisation de l’habitat, la productivité et la dynamique des populations de sauvagine, en particulier dans les paysages de reproduction comme la région des prairies à mares, tout en s’étendant aux milieux boréaux et autres milieux humides à l’échelle nationale. Au-delà des questions ornithologiques fondamentales, l’IRH élabore des outils et des modèles quantitatifs pour orienter la planification de la conservation et évaluer les résultats des programmes, garantissant ainsi que les investissements dans l’habitat soient efficaces, adaptatifs et fondés sur des données probantes. Cela comprend l’évaluation du moment où les programmes doivent être peaufinés, étendus ou abandonnés. En complément de nos travaux en écologie de la sauvagine, nous avons développé une importante capacité de recherche en biodiversité, en changements climatiques, en dynamique du carbone, en biogéochimie des milieux humides et en agriculture durable, reflétant les nouvelles priorités en sciences de la conservation des milieux humides. Ensemble, ces efforts intègrent la science de la sauvagine aux processus écologiques plus vastes afin de favoriser à la fois la compréhension et une conservation adaptative et axée sur les résultats.
+

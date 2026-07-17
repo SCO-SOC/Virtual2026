@@ -1,0 +1,23 @@
+---
+filename: workshops/workshop_wildtrax
+title: "Utiliser WildTrax pour gérer et traiter vos enregistrements de chants d'oiseaux"
+author: Kevin Kelly
+date: 2026-10-05
+length: "Journée complète / 4 à 5 heures"
+---
+
+
+### Description  
+
+WildTrax est une plateforme en ligne gratuite conçue pour faciliter l'accès des chercheurs et des gestionnaires à la gestion et au traitement des enregistrements d'unités de recherche acoustique (URA), quelle que soit l'envergure de leur programme. Développée pour aider les utilisateurs à gérer et traiter les données acoustiques, des enregistrements bruts jusqu'à leur utilisation dans des analyses statistiques, WildTrax permet de stocker les données brutes, les métadonnées et les données dérivées sur les espèces dans un système cloud accessible aux collaborateurs du monde entier. Grâce à des formats de métadonnées, des méthodes de traitement et des modèles de rapports standardisés, les données peuvent être facilement stockées et partagées entre les utilisateurs.
+
+Dans cet atelier, nous vous apprendrons à télécharger et gérer des enregistrements acoustiques ; à stocker et gérer des métadonnées telles que les lieux d’enquête, les visites sur le terrain et les informations sur l’équipement de terrain ; à traiter les enregistrements pour identifier les espèces qui vocalisent dans les enregistrements ; à créer et gérer des projets pour agréger vos données dans des rapports collectifs ; à utiliser les systèmes intégrés de reconnaissance de chants d’oiseaux (BirdNET et HawkEars) pour améliorer vos capacités de traitement ; et à publier, partager et télécharger les données contenues sur WildTrax.
+
+L'atelier est conçu pour être interactif afin que les utilisateurs puissent suivre les différentes étapes présentées sur la plateforme WildTrax, en utilisant leurs propres données ou des exemples de données fournis par les animateurs, afin de découvrir les différentes fonctionnalités disponibles dans WildTrax.
+
+### Public cible  
+Cet atelier s'adresse aussi bien aux utilisateurs novices de systèmes de surveillance acoustique passive (connaissances de base d'une unité de réponse acoustique et d'un spectrogramme) qu'aux chercheurs plus expérimentés souhaitant apprendre comment WildTrax peut répondre à leurs besoins en matière de stockage et de traitement des données.
+
+### Compétences/connaissances préalables
+Une connaissance de base des enregistrements acoustiques passifs et des spectrogrammes est utile.
+

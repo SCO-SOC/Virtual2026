@@ -1,0 +1,32 @@
+---
+filename: "workshops/workshop_bbsbayes2"
+title: "Modélisation du recensement des oiseaux nicheurs avec bbsBayes2: état des lieux, tendances et modélisation causale des facteurs à l’origine des tendances"
+author: Adam Smith   
+length: "2 à 2,5 heures"
+date: 2026-10-05
+---
+
+### Description
+
+[bbsBayes2](https://bbsbayes.github.io/bbsBayes2) est un package R qui permet d'accéder facilement aux données du Relevé des oiseaux nicheurs d'Amérique du Nord et d'ajuster une sélection de modèles bayésiens hiérarchiques qui estiment le statut et les tendances et peuvent être modifiés pour estimer l'influence des prédicteurs spatiaux et temporels sur les tendances et l'abondance (par exemple, [McKellar et al. 2025](https://doi.org/10.1675/063.048.0203) et [Smith et al. 2024](https://doi.org/10.1093/ornithapp/duad056)). Ce package offre une estimation bayésienne efficace des paramètres grâce à Stan, des modèles spatialement explicites parfaitement adaptés à l'exploration des tendances spatiales, et des options de personnalisation permettant d'inclure des covariables de tendances et d'abondance. Il simplifie également le flux de travail bayésien, facilitant le diagnostic de convergence, les prédictions a priori et a posteriori, la visualisation des prédictions du modèle, ainsi que la validation croisée et la comparaison des modèles.
+
+Durant cet atelier, vous suivrez des démonstrations de programmation en direct afin d'acquérir une expérience pratique de la manipulation et de la visualisation des résultats issus de différents modèles et espèces. Nous présenterons les fonctionnalités du package, notamment celles qui vous permettent de:
+
+1. Préparer les données pour la modélisation d'une espèce donnée et ajuster un modèle qui estime les tendances pour n'importe quelle période (1970-2019, 2005-2015, 1980-2000, etc.).  
+2. Générer des cartes thermiques des tendances démographiques et représenter graphiquement les trajectoires de la population.  
+3. Choisissez parmi une suite de modèles bayésiens hiérarchiques intégrés et accédez à des outils facilitant la validation croisée et la comparaison des modèles.  
+4. Estimer les tendances pour des régions personnalisées (par exemple, toute la zone boréale de l'Est, les Grandes Plaines par rapport aux populations d'oiseaux des prairies de l'Est).  
+5. Élaboration et ajustement de modèles personnalisés: l’atelier offre suffisamment de temps pour explorer la personnalisation des modèles de base avec des exemples de modèles qui estiment les effets régionaux du climat sur les tendances démographiques, les effets locaux de la couverture terrestre sur l’abondance moyenne, les effets du changement de la couverture terrestre sur les tendances, etc.
+
+### Public cible 
+
+Chercheurs et étudiants intéressés par:
+
+1. modélisation des schémas spatiaux et temporels des populations d'oiseaux au cours des 60 dernières années ;  
+2. modélisation des covariables ou des facteurs causaux des variations d'abondance et des tendances ;  
+3. acquérir de l'expérience dans le flux de travail bayésien et l'ajustement de modèles à l'aide de Stan ;  
+4. mieux comprendre les modèles utilisés par le Service canadien de la faune et le Service géologique des États-Unis pour estimer l’état et les tendances à partir des données du BBS.
+
+### Compétences/connaissances préalables
+
+La maîtrise du langage R est indispensable. Aucune expérience préalable avec Stan ou les modèles bayésiens n'est requise.

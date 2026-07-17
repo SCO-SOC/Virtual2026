@@ -1,0 +1,21 @@
+---
+filename: showcases/showcases_eccc_migration
+title: "Facteurs influençant l'évolution des populations d'oiseaux migrateurs dans les paysages exploités"
+author: 
+  - Ann E. McKellar
+  - Nancy A. Mahony
+  - Greg W. Mitchell
+  - Elizabeth A. Gow
+author-affiliation: 
+ - Environnement et Changement climatique Canada
+ - Institutions partenaires
+type:  Gouvernement
+date: 2026-10-07
+---
+
+### Résumé
+
+Les docteurs Ann McKellar, Nancy Mahony, Greg Mitchell et Elizabeth Gow sont des chercheurs scientifiques de la Direction générale des sciences et de la technologie, Division de la recherche sur la biodiversité, d’Environnement et Changement climatique Canada. Ils étudient la conservation des oiseaux migrateurs dans les paysages exploités. Leurs recherches, qui s’étendent des forêts et des Prairies de l’Ouest canadien jusqu’au Canada atlantique, adoptent une approche cyclique annuelle complète pour: 1) examiner les effets de l’agriculture, de la foresterie et de l’urbanisation sur la répartition, l’abondance et la vigueur des oiseaux; 2) évaluer la structure des populations et la connectivité migratoire des espèces prioritaires et des espèces en péril; et 3) quantifier les menaces associées aux habitats aériens et urbains. Leur objectif est d’élaborer des solutions fondées sur des données probantes qui favorisent la biodiversité, les biens et services écosystémiques et le bien-être humain dans les paysages exploités. L’équipe, qui comprend leurs étudiants aux cycles supérieurs, collabore étroitement avec des universités (où ils sont professeurs associés), des ONG environnementales, d’autres ministères fédéraux et des gouvernements, tant au Canada qu’à l’étranger.
+
+
+

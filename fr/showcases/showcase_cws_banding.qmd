@@ -1,0 +1,18 @@
+---
+filename: showcases/showcases_cws_banding
+title: "Le baguage à l'ère de la technologie"
+author: 
+  - Marcel Gahbauer
+  - Lesley Howes
+  - Barbara Frei
+  - Cyndi Smith
+  - Pam Sinclair
+author-affiliation: 
+  - Service canadien de la faune
+  - Réseau canadien de surveillance des migrations
+type:  eONG
+date: 2026-10-07
+---
+
+### Résumé
+Le baguage et la recapture d'oiseaux au début du XXe siècle ont permis de documenter pour la première fois les déplacements individuels d'oiseaux en Amérique du Nord. Ces dernières décennies, le suivi des oiseaux a été révolutionné par des avancées technologiques telles que la télémétrie par satellite, les géolocalisateurs et la radiotélémétrie automatisée (p. ex., Motus), ainsi que par l'essor des mégadonnées grâce à la science participative et l'utilisation de l'intelligence artificielle pour l'identification des espèces. Ces évolutions ont soulevé des questions quant à la pertinence des méthodes traditionnelles comme le baguage. Au contraire, les programmes de baguage standardisés demeurent essentiels à la compréhension de la longévité, des taux de survie annuels, de la structure d'âge et des réponses physiologiques aux changements environnementaux. Les données de baguage contribuent également à de nombreux objectifs de conservation et de gestion, notamment la surveillance des maladies et l'évaluation de la restauration des habitats. Depuis 1998, le Réseau canadien de surveillance des migrations facilite la communication et la collaboration entre les observatoires d'oiseaux du pays. Le maintien de programmes de baguage rigoureux, tout en intégrant les nouvelles technologies, est crucial pour faire progresser la recherche ornithologique et la conservation.

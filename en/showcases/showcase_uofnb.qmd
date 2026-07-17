@@ -1,0 +1,19 @@
+---
+filename: showcases/showcase_parks_canada
+title: "Seabird Ecology at the Atlantic Laboratory for Avian Research"
+author: 
+  - Heather Major (Professor)
+  - Amanda Giovinazzo
+  - Maddy Talpt
+  - Clare Taylor
+  - Kayla Cannon
+  - Daniel Oliker
+author-affiliation:
+  - University of New Brunswick
+type:  Academic
+date: 2026-10-07
+---
+
+### Abstract
+
+Based at the University of New Brunswick’s Saint John Campus, the Atlantic Laboratory for Avian Research is directed by seabird biologist Dr. Heather Major. The lab studies relationships between bird populations and environmental change in marine and island ecosystems. Species of interest include the Atlantic Puffin, Razorbill, Common Murre, Arctic Tern, and Leach’s Storm-petrel primarily studied on Machias Seal Island (MSI) in the Bay of Fundy. MSI has been the focal site for the labs' long-term seabird monitoring project that has been operated annually since 1995. In addition, the lab is currently collaborating on a project assessing feasibility of an island restoration at Seal Island, NS by removing introduced species.

@@ -1,0 +1,14 @@
+---
+filename: showcases/showcase_birds_canada
+title: "Delivering Strong Science at Birds Canada"
+author: 
+  - Douglas C. Tozer
+author-affiliation:
+  - Director, Waterbirds & Wetlands, Birds Canada
+type:  eNGO
+date: 2026-10-07
+---
+
+### Abstract
+
+Birds Canada delivers strong science across the country and beyond through more than a dozen regional networks of employees, volunteers, and partners collaborating toward shared conservation goals. Our science is diverse involving many different research themes, core questions, methodologies, ecosystems, and focal species. Much of our science falls under two key initiatives: [tracking the state of Canada’s birds](https://naturecounts.ca/nc/socb-epoc) and leveraging science to drive conservation. Our 50+ science staff members leverage data from volunteer scientists and conservation technologies (NatureCounts, Motus, WildTrax, and more) to answer timely questions of conservation interest, and we often partner with universities on graduate student projects. Ultimately all of our science helps generate the critical knowledge and evidence needed to catalyze actions that help birds and their habitats thrive. In this presentation, we give a top-down overview of science at Birds Canada, and describe a broad selection of examples of [Birds Canada science in action](https://birdscanada.org/science-in-action).

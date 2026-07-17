@@ -1,0 +1,15 @@
+---
+filename: showcases/showcase_uofs
+title: "Ecotoxicology and Conservation of Prairie Bird Communities"
+author: 
+  - Christy Morrissey
+author-affiliation:
+  - Professor of Biology, University of Saskatchewan
+type: Academic
+date: 2026-10-07
+---
+
+
+### Abstract
+
+We are an ecotoxicology lab with a strong conservation focus.  Our lab studies the effects of environmental contaminants and other non-pollution stressors to better understand how individual birds, populations and communities respond to threats. We use a variety of methods from captive and field controlled dosing studies, beaker and limnocorral studies on aquatic insects that are important prey, and small and big scale field experiments to assess short and long term responses to communities across the Prairie region. A major focus is on how pesticides and other agricultural stressors impact common grassland and wetland associated songbirds through altered prey, neurotoxicity, and disturbance. We also conduct research on the effects of industrial pollution to shorebirds.

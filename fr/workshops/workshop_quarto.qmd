@@ -1,0 +1,20 @@
+---
+filename: workshops/workshop_quarto
+title: "Introduction à Quarto pour la reproductibilité"
+author: Steffi LaZerte
+date: 2026-10-05
+length: "2 à 2,5 heures"
+---
+
+### Description  
+Vous avez du mal à gérer vos analyses de recherche avec R ? Votre vous du futur se plaint-il constamment que votre vous du passé n’ait pas documenté les scripts, les données et les versions des bibliothèques logicielles ? Découvrez la magie de Quarto \! Transformez vos scripts R en rapports reproductibles, contenant toutes les informations nécessaires pour rédiger vos analyses.
+
+Dans cet atelier, nous découvrirons Markdown, RMarkdown et Quarto. Nous explorerons différentes méthodes de création de rapports à partir de scripts et comment personnaliser le rendu pour optimiser à la fois l'esthétique et la reproductibilité. Vous aurez l'occasion d'apprendre et de pratiquer, et vous repartirez avec des ressources pour vous accompagner dans votre apprentissage. Des exemples de scripts seront disponibles, mais il est préférable d'apporter les vôtres. Notez que même si cet atelier est axé sur R, Quarto est également compatible avec Python ; n'hésitez donc pas à apporter vos propres scripts Python pour vous familiariser avec ces langages.
+
+Les participants n'ont pas besoin d'être des experts en R, mais doivent avoir une certaine familiarité avec R et un environnement de développement intégré (IDE) dédié (par exemple, RStudio ou Positron). Les instructions d'installation de ces programmes seront envoyées avant l'atelier.
+
+### Public cible 
+Toute personne ayant une connaissance superficielle de R/Python et souhaitant en savoir plus sur la création de rapports reproductibles de leurs analyses.
+
+### Compétences/connaissances préalables 
+Une certaine familiarité avec R et un environnement de développement intégré (IDE) dédié à R (par exemple, RStudio ou Positron) est requise. Une connaissance de base de R ou de Python est recommandée.

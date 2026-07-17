@@ -1,0 +1,219 @@
+---
+title: "Showcases"
+filename: program_showcases
+toc: true
+---
+
+
+## CanAvian: Faire progresser l'intégration des données aviaires au Canada
+**Présentateur·rice·s**: Sofia Guest<sup>1</sup>, Catherine Jardine<sup>2</sup>  
+**Affiliation·s**: 1. Institut de surveillance de la biodiversité de l'Alberta, 2. Oiseaux Canada  
+**Type d'organisation**: eONG  
+
+### Résumé
+
+Le Réseau canadien de données aviaires (CanAvian) réunit une vaste communauté de chercheurs, de spécialistes de la conservation et de scientifiques bénévoles qui produisent, gèrent et partagent d'importantes données sur la biodiversité, essentielles à la recherche écologique. CanAvian est dirigé par un comité directeur, des comités consultatifs et des groupes de travail qui coordonnent les priorités en matière de science, de gestion des données et de mobilisation communautaire. CanAvian regroupe trois des plus importantes plateformes de données sur la biodiversité du Canada: NatureCounts (380 millions d'enregistrements), Motus (8 milliards d'enregistrements) et WildTrax (16 millions d'enregistrements), contribuant à plus de 4 500 publications scientifiques. Appuyé par l'Alliance de recherche numérique du Canada, CanAvian met en place des politiques d'accès aux données harmonisées et des normes d'interopérabilité afin de soutenir les principes FAIR et CARE et d'améliorer le partage des données entre les plateformes et les dépôts. Ces liens favoriseront des analyses de plus en plus intégrées et à grande échelle, indispensables à la recherche écologique moderne et aux engagements du Canada en matière de biodiversité. CanAvian offre des possibilités d'adhésion, de contribution et d'accès aux données et invite l'ensemble de la communauté ornithologique canadienne à participer.
+
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Changements paysagers et écologie aviaire à l'Université Thompson Rivers
+**Présentateur·rice·s**: Matt Reudink, Nancy Flood, Stephen Joly, Kara Lefevre  
+**Affiliation·s**: Université Thompson Rivers  
+**Type d'organisation**: Académique  
+
+### Résumé
+
+L’Université Thompson Rivers est située dans le sud de la Colombie-Britannique, sur les terres ancestrales des Tk’emlúps te Secwépemc (campus principal de Kamloops), au sein de Secwepemcúl̓ecw, le territoire traditionnel non cédé des Secwépemc. Ce vaste territoire de prairies, de forêts, de montagnes, de rivières et de lacs est plus grand que tous les pays européens, à l’exception de quatre, et s’étend de Jasper à Revelstoke, en passant par Kamloops, jusqu’au nord de Williams Lake. La diversité de ses paysages offre un terrain fertile pour la recherche sur l’impact de l’accélération des changements environnementaux sur l’écologie aviaire et pour les partenariats avec les Premières Nations. Cette vitrine mettra en lumière les principaux thèmes de recherche menés par un groupe de professeurs qui encadrent des étudiants aux cycles supérieurs dans le cadre de projets portant notamment sur: la conservation des espèces d’oiseaux dépendantes des prairies ; l’intégration des savoirs autochtones et occidentaux pour éclairer la conservation des espèces ; les réactions des communautés d’oiseaux à l’urbanisation, à l’activité industrielle et aux feux de forêt ; et les initiatives communautaires de suivi de l’évolution des populations d’oiseaux.
+
+
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Des parulines aux oiseaux aquatiques: où et pourquoi?
+**Présentateur·rice·s**: Tabatha Cormier (doctorant·e), Nathanya Goudreau (étudiante à la maîtrise)  
+**Affiliation·s**: Université McGill  
+**Type d'organisation**: Académique  
+
+### Résumé
+
+Notre groupe de recherche, basé au campus Macdonald de l’Université McGill, étudie le lien entre les déplacements des oiseaux, les contaminants, leur physiologie et leur cycle de vie à différentes échelles. Nos régions d’étude s’étendent des néotropiques (Belize) à l’Arctique (baie d’Hudson), en passant par de nombreux endroits intermédiaires (golfe de l’Alaska, système du Saint-Laurent, île de Montréal). En collaboration de longue date avec l’Observatoire d’oiseaux de McGill, nous étudions l’utilisation des habitats urbains par les oiseaux chanteurs migrateurs et résidents autour de Montréal. Nous participons également à deux programmes de suivi à long terme des oiseaux marins aux îles Middleton et Coats, où nous nous efforçons de comprendre les impacts des pressions anthropiques sur les écosystèmes marins nordiques. Pour répondre à nos questions de recherche, nous combinons des techniques de bio-enregistrement (GPS, géolocalisateurs, accélérométrie) et des technologies émergentes (drones, véhicules de surface autonomes), ainsi que des biomarqueurs physiologiques, l’étude des contaminants et des expériences avec de l’eau doublement marquée. Globalement, nos recherches éclairent les décisions de gestion et approfondissent notre compréhension collective du monde naturel.
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Facteurs influençant l'évolution des populations d'oiseaux migrateurs dans les paysages exploités
+**Présentateur·rice·s**: Ann E. McKellar, Nancy A. Mahony, Greg W. Mitchell, Elizabeth A. Gow  
+**Affiliation·s**: Environnement et Changement climatique Canada, Institutions partenaires  
+**Type d'organisation**: Gouvernement  
+
+### Résumé
+
+Les docteurs Ann McKellar, Nancy Mahony, Greg Mitchell et Elizabeth Gow sont des chercheurs scientifiques de la Direction générale des sciences et de la technologie, Division de la recherche sur la biodiversité, d’Environnement et Changement climatique Canada. Ils étudient la conservation des oiseaux migrateurs dans les paysages exploités. Leurs recherches, qui s’étendent des forêts et des Prairies de l’Ouest canadien jusqu’au Canada atlantique, adoptent une approche cyclique annuelle complète pour: 1) examiner les effets de l’agriculture, de la foresterie et de l’urbanisation sur la répartition, l’abondance et la vigueur des oiseaux; 2) évaluer la structure des populations et la connectivité migratoire des espèces prioritaires et des espèces en péril; et 3) quantifier les menaces associées aux habitats aériens et urbains. Leur objectif est d’élaborer des solutions fondées sur des données probantes qui favorisent la biodiversité, les biens et services écosystémiques et le bien-être humain dans les paysages exploités. L’équipe, qui comprend leurs étudiants aux cycles supérieurs, collabore étroitement avec des universités (où ils sont professeurs associés), des ONG environnementales, d’autres ministères fédéraux et des gouvernements, tant au Canada qu’à l’étranger.
+
+
+
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Fournir une science rigoureuse chez Oiseaux Canada
+**Présentateur·rice·s**: Douglas C. Tozer  
+**Affiliation·s**: Directeur, Oiseaux aquatiques et milieux humides, Oiseaux Canada  
+**Type d'organisation**: eONG  
+
+### Résumé
+
+Oiseaux Canada mène des recherches scientifiques de pointe partout au pays et à l’étranger grâce à plus d’une douzaine de réseaux régionaux d’employés, de bénévoles et de partenaires qui collaborent à des objectifs de conservation communs. Nos recherches sont diversifiées et couvrent de nombreux thèmes, questions fondamentales, méthodologies, écosystèmes et espèces cibles. Une grande partie de nos travaux s’articule autour de deux initiatives clés: [le suivi de l’état des oiseaux du Canada](https://naturecounts.ca/nc/socb-epoc) et la mise à profit des connaissances scientifiques pour favoriser la conservation. Nos plus de 50 chercheurs exploitent les données recueillies auprès de scientifiques bénévoles et les technologies de conservation (NatureCounts, Motus, WildTrax, etc.) pour répondre à des questions d’actualité en matière de conservation, et nous collaborons souvent avec des universités sur des projets d’étudiants aux cycles supérieurs. En fin de compte, toutes nos recherches contribuent à générer les connaissances et les données probantes essentielles pour catalyser des actions qui favorisent la prospérité des oiseaux et de leurs habitats. Dans cette présentation, nous offrons un aperçu général des activités scientifiques d’Oiseaux Canada et décrivons une vaste sélection d’exemples concrets de la [science menée par Oiseaux Canada](https://www.oiseauxcanada.org/la-science-en-action).
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## La science au service de la conservation de la sauvagine
+**Présentateur·rice·s**: Matt Dyson, James Paterson, Vanessa Harriman, Lauren Bortolotti, Pascal Badiou, Samuel Robinson  
+**Affiliation·s**: Canards Illimités Canada  
+**Type d'organisation**: eONG  
+
+### Résumé
+
+L’Institut de recherche sur les milieux humides et la sauvagine (IRH) de Canards Illimités Canada mène des recherches interdisciplinaires qui font progresser l’ornithologie dans le contexte plus large des écosystèmes de milieux humides. Axé sur l’écologie de la sauvagine, l’IRH étudie l’utilisation de l’habitat, la productivité et la dynamique des populations de sauvagine, en particulier dans les paysages de reproduction comme la région des prairies à mares, tout en s’étendant aux milieux boréaux et autres milieux humides à l’échelle nationale. Au-delà des questions ornithologiques fondamentales, l’IRH élabore des outils et des modèles quantitatifs pour orienter la planification de la conservation et évaluer les résultats des programmes, garantissant ainsi que les investissements dans l’habitat soient efficaces, adaptatifs et fondés sur des données probantes. Cela comprend l’évaluation du moment où les programmes doivent être peaufinés, étendus ou abandonnés. En complément de nos travaux en écologie de la sauvagine, nous avons développé une importante capacité de recherche en biodiversité, en changements climatiques, en dynamique du carbone, en biogéochimie des milieux humides et en agriculture durable, reflétant les nouvelles priorités en sciences de la conservation des milieux humides. Ensemble, ces efforts intègrent la science de la sauvagine aux processus écologiques plus vastes afin de favoriser à la fois la compréhension et une conservation adaptative et axée sur les résultats.
+
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Laboratoire de comportement et de conservation des oiseaux: synchronisation, mouvements et conservation des oiseaux migrateurs
+**Présentateur·rice·s**: Kevin Fraser (PI), Vinuri Mendis (doctorant·e), Yantong Tan (doctorant·e), Rebecca Asham (étudiant·e à la maîtrise), Tamara Sturch (étudiant·e à la maîtrise)  
+**Affiliation·s**: Université du Manitoba  
+**Type d'organisation**: Academic  
+
+### Résumé
+
+Le Laboratoire de comportement et de conservation des oiseaux de l'Université du Manitoba étudie comment les oiseaux réagissent aux changements environnementaux d'origine anthropique. Nos recherches portent sur la façon dont les oiseaux rythment leurs activités quotidiennes et saisonnières, et sur la flexibilité avec laquelle ces rythmes s'adaptent aux nouvelles conditions liées aux changements climatiques. Nous étudions également comment la lumière artificielle nocturne modifie le rythme et les déplacements des oiseaux. Grâce à des expériences menées sur le terrain, des néotropiques aux régions subarctiques, nous étudions principalement des espèces migratrices, notamment des insectivores aériens comme l'Hirondelle noire et l'Engoulevent bois-pourri. Nous collaborons également avec les communautés autochtones du nord du Manitoba afin de répondre à leurs préoccupations communes concernant l'évolution du comportement et des populations d'oiseaux.
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Le baguage à l'ère de la technologie
+**Présentateur·rice·s**: Marcel Gahbauer, Lesley Howes, Barbara Frei, Cyndi Smith, Pam Sinclair  
+**Affiliation·s**: Service canadien de la faune, Réseau canadien de surveillance des migrations  
+**Type d'organisation**: eONG  
+
+### Résumé
+Le baguage et la recapture d'oiseaux au début du XXe siècle ont permis de documenter pour la première fois les déplacements individuels d'oiseaux en Amérique du Nord. Ces dernières décennies, le suivi des oiseaux a été révolutionné par des avancées technologiques telles que la télémétrie par satellite, les géolocalisateurs et la radiotélémétrie automatisée (p. ex., Motus), ainsi que par l'essor des mégadonnées grâce à la science participative et l'utilisation de l'intelligence artificielle pour l'identification des espèces. Ces évolutions ont soulevé des questions quant à la pertinence des méthodes traditionnelles comme le baguage. Au contraire, les programmes de baguage standardisés demeurent essentiels à la compréhension de la longévité, des taux de survie annuels, de la structure d'âge et des réponses physiologiques aux changements environnementaux. Les données de baguage contribuent également à de nombreux objectifs de conservation et de gestion, notamment la surveillance des maladies et l'évaluation de la restauration des habitats. Depuis 1998, le Réseau canadien de surveillance des migrations facilite la communication et la collaboration entre les observatoires d'oiseaux du pays. Le maintien de programmes de baguage rigoureux, tout en intégrant les nouvelles technologies, est crucial pour faire progresser la recherche ornithologique et la conservation.
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Ornithologie intégrative à l'AFAR
+**Présentateur·rice·s**: Scott MacDougall-Shackleton, Chris Guglielmo, Carrie Branch, Yolanda Morbey, Beth MacDougall-Shackleton, Alice Boyle  
+**Affiliation·s**: Université Western  
+**Type d'organisation**: Académique  
+
+### Résumé
+Le Centre de recherche avancée sur les oiseaux de l'Université Western est un établissement de renommée mondiale qui réunit des professeurs et des stagiaires dont l'objectif est de comprendre comment l'environnement influence l'écologie des oiseaux. Des chercheurs de diverses disciplines utilisent des approches intégratives pour étudier tous les aspects des oiseaux, de la neurobiologie et du comportement à la physiologie migratoire et à la conservation. Afin de mettre en lumière la recherche novatrice possible au Centre de recherche avancée sur les oiseaux, nous présenterons les outils et les installations utilisés pour aborder une multitude de questions de recherche, tant actuelles que futures. En plus de contribuer à une meilleure compréhension de la biologie et de l'écologie des oiseaux, nous avons à cœur de former la prochaine génération de chercheurs et de scientifiques.
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Partenaires d’envol: Collaboration de la science à l’application
+**Présentateur·rice·s**: Becky Stewart  
+**Affiliation·s**: Biologiste de la faune, Environnement et Changement climatique Canada  
+**Type d'organisation**: Partenariat (universités, gouvernements, ONG, industrie)  
+
+
+### Résumé
+
+Partners In Flight (PIF) est un réseau d'organisations œuvrant pour la conservation des oiseaux terrestres. Ses partenaires, issus de divers horizons (organismes à but non lucratif, universités, gouvernements, bailleurs de fonds et industries), mettent à profit leurs atouts, leurs capacités et leur expertise pour assurer la conservation de ces oiseaux que nous partageons. Cette présentation mettra en lumière les outils de données scientifiques en libre accès de PIF, tels que la Base de données sur la conservation et l'évaluation des oiseaux (ACAD), un outil d'évaluation de l'état de conservation des espèces qui analyse les facteurs de vulnérabilité à l'échelle continentale et régionale. Parmi les autres initiatives figurent un modèle révisé d'estimation des populations, des outils d'évaluation des progrès accomplis dans la réalisation des objectifs de tendances démographiques continentales et des cartes permettant d'explorer les connexions migratoires en l'absence de données de suivi. Enfin, nous verrons comment ces outils favorisent une gestion adaptative et des résultats mesurables pour les oiseaux, et comment nous, en tant que communauté de recherche et de conservation des oiseaux, pouvons les exploiter et les amplifier pour la conservation de ces espèces.
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Recherche ornithologique et conservation au ministère des Ressources naturelles de l'Ontario
+**Présentateur·rice·s**: Glen Brown<sup>1</sup>, Richard Feldman<sup>1</sup>, Jeff Bowman<sup>1</sup>, Rod Brook<sup>1</sup>, Erica Newton<sup>1</sup>, Chrystyn Jones (étudiant·e à la maîtrise)<sup>2</sup>, Richard Huang (étudiant·e à la maîtrise)<sup>2</sup>, Ingrid Tello (doctorant·e)<sup>3</sup>  
+**Affiliation·s**: 1. Ministère des Richesses naturelles de l'Ontario, 2. Université Trent, 3. Université Western  
+**Type d'organisation**: Gouvernement et enseignement supérieur  
+
+
+### Résumé
+
+Au sein de la Section de recherche et de surveillance de la faune du ministère des Richesses naturelles de l'Ontario, nous coordonnons trois axes de recherche sur les oiseaux: l’écologie de la reproduction des oiseaux de rivage et de la sauvagine dans les basses terres de la baie d’Hudson, la dynamique des nutriments qui influence l’utilisation de l’habitat par les oiseaux des prairies et les effets du climat sur la répartition du dindon sauvage font partie de nos recherches. Les travaux de Glen Brown dans le Grand Nord ontarien – l’un des plus vastes systèmes de milieux humides contigus au monde – ont démontré la vulnérabilité de la région face à l’approfondissement de la couche active du pergélisol et à l’assèchement des milieux humides. Les travaux de Richard Feldman dans l’écosystème dezr ont mis en évidence les liens entre la stœchiométrie des plantes et la variation de la quantité et de la qualité des proies de l’Engoulevent bois-pourri. Les recherches de Jeff Bowman portent sur les stratégies de survie des dindons sauvages réintroduits en Ontario dans un climat nordique. Ensemble, nous contribuons à la conservation des oiseaux dans toute la province et à l’initiation des étudiants à la recherche écologique appliquée.   
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Suivi des populations d’oiseaux dans les parcs nationaux du Canada
+**Présentateur·rice·s**: Lucy Patterson  
+**Affiliation·s**: Spécialiste en surveillance écologique, Agence Parcs Canada  
+**Type d'organisation**: Gouvernement  
+
+### Résumé
+
+L’Agence Parcs Canada surveille les oiseaux dans les aires protégées du Canada dans le cadre du Programme de surveillance de l’intégrité écologique (PSIE). Ce programme évalue l’état et l’évolution de l’intégrité écologique de 119 écosystèmes répartis dans 43 parcs nationaux et permet de prioriser et d’évaluer les mesures de gestion visant à améliorer cette intégrité. Les oiseaux constituent l’un des indicateurs les plus courants, étant surveillés dans six types d’écosystèmes différents, dans 39 parcs. En 2025, la proportion d’oiseaux en bon, moyen et mauvais état était respectivement de 56 %, 31 % et 11 %, tandis que celle des oiseaux en amélioration, stables et en déclin était respectivement de 11 %, 43 % et 19 %. Nous présentons un bref aperçu du PSIE et un résumé des indicateurs aviaires du programme. Nous proposons également une étude de cas tirée d’une aire protégée afin d’illustrer comment un indicateur de surveillance peut être élaboré et utilisé dans le processus de planification de la gestion des écosystèmes.
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Vingt ans de modélisation de l’avifaune boréale
+**Présentateur·rice·s**: Elly Knight, Steven Van Wilgenburg, Diana Stralberg, Steve Cumming, Jeff Ball, Junior Tremblay, Erin Bayne  
+**Affiliation·s**: Projet de modélisation des oiseaux boréaux  
+**Type d'organisation**: eONG  
+
+### Résumé
+
+La forêt boréale est un biome vaste et isolé qui couvre une grande partie du nord du Canada et de l'Alaska et qui abrite une part importante de l'avifaune néarctique. L'éloignement de cette région a longtemps limité les efforts de suivi systématique, freinant ainsi le développement d'outils d'aide à la décision basés sur les données pour la conservation des oiseaux face aux pressions anthropiques croissantes. Le projet de modélisation des oiseaux boréaux (BAM) a été créé en 2004 dans le cadre d'une initiative collaborative visant à combler cette lacune en regroupant, harmonisant et intégrant des données de comptage ponctuel disparates afin de développer des outils pour la conservation des oiseaux boréaux. Nous présentons un aperçu du développement du BAM, notamment des différents groupes de recherche qui composent l'équipe, et mettons en lumière ses principaux outils pour la conservation des oiseaux. Nous abordons également l'évolution des défis en matière de conservation et les opportunités offertes par les nouvelles technologies et les initiatives de données ouvertes susceptibles d'améliorer les outils de conservation scientifiques pour les oiseaux boréaux.
+
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Écologie des oiseaux marins au Laboratoire atlantique de recherche aviaire
+**Présentateur·rice·s**: Heather Major (Professeure), Amanda Giovinazzo, Maddy Talpt, Clare Taylor, Kayla Cannon, Daniel Oliker  
+**Affiliation·s**: Université du Nouveau-Brunswick  
+**Type d'organisation**: Académique  
+
+### Résumé
+
+Situé sur le campus de Saint John de l’Université du Nouveau-Brunswick, le Laboratoire atlantique de recherche aviaire est dirigé par la biologiste marine Heather Major. Le laboratoire étudie les relations entre les populations d’oiseaux et les changements environnementaux dans les écosystèmes marins et insulaires. Parmi les espèces étudiées figurent le Macareux moine, le Petit Pingouin, le Guillemot marmette, la Sterne arctique et l’Océanite cul-blanc, principalement sur l’île Machias Seal (MSI), dans la baie de Fundy. L’île MSI est le site principal du projet de suivi à long terme des oiseaux marins du laboratoire, mené annuellement depuis 1995. De plus, le laboratoire collabore actuellement à un projet d’évaluation de la faisabilité de la restauration de l’île Seal (Nouvelle-Écosse) par l’élimination des espèces introduites.
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## Écotoxicologie et conservation des communautés d'oiseaux des prairies
+**Présentateur·rice·s**: Christy Morrissey  
+**Affiliation·s**: Professeure de biologie, Université de la Saskatchewan  
+**Type d'organisation**: Académique  
+
+
+### Résumé
+
+Nous sommes un laboratoire d'écotoxicologie fortement axé sur la conservation. Nos recherches portent sur les effets des contaminants environnementaux et d'autres facteurs de stress non liés à la pollution afin de mieux comprendre comment les oiseaux, individuellement, au sein des populations et des communautés, réagissent aux menaces. Nous utilisons diverses méthodes, allant des études de dosage contrôlées en captivité et sur le terrain, aux études en bécher et en limnocorral sur les insectes aquatiques qui constituent des proies importantes, en passant par des expériences de terrain à petite et grande échelle, pour évaluer les réponses à court et à long terme des communautés dans l'ensemble de la région des Prairies. Nous nous intéressons particulièrement à l'impact des pesticides et autres facteurs de stress agricoles sur les oiseaux chanteurs communs des prairies et des zones humides, notamment par la modification des proies, la neurotoxicité et les perturbations. Nous menons également des recherches sur les effets de la pollution industrielle sur les oiseaux de rivage.
+
+---
+
+[*Retour au programme*](program.qmd#showcases)
+
+## État et tendances nationaux des oiseaux du Canada
+**Présentateur·rice·s**: Adam C. Smith, Jackson Kusack, Sarah Gutowsky, Dave Iles, Willow English, Marcel Gahbauer, Michel Gendron, Frederique Tremblay, Marie-Anne Hudson, Christian Roy, Charles Francis  
+**Affiliation·s**: Service canadien de la faune  
+**Type d'organisation**: Gouvernement  
+
+### Résumé
+
+Les équipes nationales de gestion et d’évaluation de la faune du Service canadien de la faune mènent des recherches à l’appui du suivi et de la gestion des populations d’oiseaux migrateurs du Canada. Ces recherches s’articulent autour de trois grands axes: 1) l’optimisation du suivi appliqué des populations, tant pour les programmes de sciences professionnelles que pour les programmes de sciences participatives, ainsi que pour les technologies de suivi automatisées; 2) l’élaboration de méthodes statistiques intégrées afin d’améliorer les estimations de la taille, de l’état, des tendances et de la répartition des populations; et 3) la coordination de la recherche et de la production de rapports avec les partenaires internationaux afin d’éclairer les mesures de conservation tout au long du cycle annuel. Les projets de recherche en cours et à venir portent notamment sur: l’élaboration de modèles spatio-temporels intégrés de l’état des populations et des facteurs influençant les tendances à partir de données de suivi, de télédétection et de données démographiques; l’élaboration de modèles de détection d’objets pour automatiser le comptage à partir des relevés photographiques des colonies d’oiseaux marins; l’amélioration des modèles statistiques pour l’estimation de la densité et de la taille des populations; l’amélioration des estimations des populations de sauvagine nicheuse par l’optimisation des plans d’étude et la prise en compte des biais dans les sex-ratios; et l’amélioration des relevés et des modèles pour estimer les prélèvements d’oiseaux migrateurs.

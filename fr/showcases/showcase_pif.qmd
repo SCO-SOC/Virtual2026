@@ -1,0 +1,15 @@
+---
+filename: showcases/showcase_pif
+title: "Partenaires d’envol: Collaboration de la science à l’application"
+author: 
+  - Becky Stewart
+author-affiliation:
+  - Biologiste de la faune, Environnement et Changement climatique Canada
+type:   Partenariat (universités, gouvernements, ONG, industrie)
+date: 2026-10-07
+---
+
+
+### Résumé
+
+Partners In Flight (PIF) est un réseau d'organisations œuvrant pour la conservation des oiseaux terrestres. Ses partenaires, issus de divers horizons (organismes à but non lucratif, universités, gouvernements, bailleurs de fonds et industries), mettent à profit leurs atouts, leurs capacités et leur expertise pour assurer la conservation de ces oiseaux que nous partageons. Cette présentation mettra en lumière les outils de données scientifiques en libre accès de PIF, tels que la Base de données sur la conservation et l'évaluation des oiseaux (ACAD), un outil d'évaluation de l'état de conservation des espèces qui analyse les facteurs de vulnérabilité à l'échelle continentale et régionale. Parmi les autres initiatives figurent un modèle révisé d'estimation des populations, des outils d'évaluation des progrès accomplis dans la réalisation des objectifs de tendances démographiques continentales et des cartes permettant d'explorer les connexions migratoires en l'absence de données de suivi. Enfin, nous verrons comment ces outils favorisent une gestion adaptative et des résultats mesurables pour les oiseaux, et comment nous, en tant que communauté de recherche et de conservation des oiseaux, pouvons les exploiter et les amplifier pour la conservation de ces espèces.

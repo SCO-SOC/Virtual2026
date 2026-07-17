@@ -66,3 +66,42 @@ td {
         max-width: 100%;
     }
 }
+
+.input-group-text {
+    background-color: inherit;
+}
+
+#listing-workshops .quarto-listing-sort {
+    display: none;
+}
+
+.listing-title a {
+    text-decoration: underline !important;
+}
+
+.listing-author {
+    font-weight: bold;
+    font-size: 110%;
+}
+
+h3.listing-title {
+    font-size: 100%;
+}
+
+.listing-title a {
+    font-weight: bold !important;
+}
+
+#listing-workshops-list div.quarto-post {
+    margin-bottom: 0.5em;
+    gap: 0.5em;
+}
+
+#listing-workshops-list div.quarto-post .body {
+    flex-basis: 75%;
+}
+
+
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+    grid-template-columns: repeat(3, 1fr);
+}

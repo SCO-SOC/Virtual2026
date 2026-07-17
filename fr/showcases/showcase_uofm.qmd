@@ -1,0 +1,18 @@
+---
+filename: showcases/showcases_uofm
+title: "Laboratoire de comportement et de conservation des oiseaux: synchronisation, mouvements et conservation des oiseaux migrateurs"
+author: 
+  - Kevin Fraser (PI)
+  - Vinuri Mendis (doctorant·e)
+  - Yantong Tan (doctorant·e)
+  - Rebecca Asham (étudiant·e à la maîtrise)
+  - Tamara Sturch (étudiant·e à la maîtrise)
+author-affiliation:
+  - Université du Manitoba
+type:  Académique
+date: 2026-10-07
+---
+
+### Résumé
+
+Le Laboratoire de comportement et de conservation des oiseaux de l'Université du Manitoba étudie comment les oiseaux réagissent aux changements environnementaux d'origine anthropique. Nos recherches portent sur la façon dont les oiseaux rythment leurs activités quotidiennes et saisonnières, et sur la flexibilité avec laquelle ces rythmes s'adaptent aux nouvelles conditions liées aux changements climatiques. Nous étudions également comment la lumière artificielle nocturne modifie le rythme et les déplacements des oiseaux. Grâce à des expériences menées sur le terrain, des néotropiques aux régions subarctiques, nous étudions principalement des espèces migratrices, notamment des insectivores aériens comme l'Hirondelle noire et l'Engoulevent bois-pourri. Nous collaborons également avec les communautés autochtones du nord du Manitoba afin de répondre à leurs préoccupations communes concernant l'évolution du comportement et des populations d'oiseaux.

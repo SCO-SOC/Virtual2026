@@ -1,0 +1,32 @@
+---
+filename: "workshops/workshop_bbsbayes2"
+title: "Modeling Breeding Bird Survey with bbsBayes2: status, trends, and causal modeling of drivers of trends"
+author: Adam Smith   
+length: "2-2.5 hours"
+date: 2026-10-05
+---
+
+### Description
+
+[bbsBayes2](https://bbsbayes.github.io/bbsBayes2) is an R-package that allows for easy access to the North American Breeding Bird Survey data and for fitting a selection of hierarchical Bayesian models that estimate status and trends and can be modified to estimate the influence of spatial and temporal predictors on trends and abundance (e.g., [Mckellar et al. 2025](https://doi.org/10.1675/063.048.0203) and [Smith et al. 2024](https://doi.org/10.1093/ornithapp/duad056)). The package provides efficient, fully-Bayesian parameter estimation using Stan, spatially explicit models well suited to exploring spatial patterns in trends, and options to customize models to include covariates of trends and abundance. The package also allows for a streamlined Bayesian workflow that facilitates convergence diagnostics, prior and posterior predictions, visualization of model predictions, as well as cross-validation and model comparisons.
+
+During this workshop you will follow along with live coding to get hands-on experience manipulating and visualizing output from a range of models and species. We will demonstrate the package's functions, including those that allow you to:
+
+1. Prepare the data for modeling a given species and fit a model that estimates trends for any time period (1970-2019, 2005-2015, 1980-2000, etc.).  
+2. Generate heat maps of population trends and graph population trajectories.  
+3. Choose from a suite of built-in hierarchical Bayesian models and access tools to help with cross-validation and model comparison.  
+4. Estimate trends for customized regions (e.g., all of the eastern Boreal, Great Plains versus eastern populations of grassland birds).  
+5. Build and fit customized models: the workshop allows plenty of time to explore customizing the base-models with examples of models that estimate regional climate-effects on population trends, local landcover effects on mean abundance, landcover change effects on trends, etc.
+
+### Target audience 
+
+ Researchers and students interested in:
+
+1. modeling spatial and temporal patterns in bird population over the last 60 years;  
+2. modeling covariates or causal drivers of variations in abundance and trends;  
+3. gaining experience in Bayesian workflow and fitting models using Stan;  
+4. better understanding the models used by the Canadian Wildlife Service, and the United States Geological Survey to estimate status and trends from BBS data.
+
+### Prerequisite skills/knowledge
+
+Familiarity with coding in R is necessary. No prior experience with Stan or Bayesian models is required.

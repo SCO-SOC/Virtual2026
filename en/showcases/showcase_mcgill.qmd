@@ -1,0 +1,15 @@
+---
+filename: showcases/showcase_mcgill
+title: "Warblers to Waterbirds: Where and Why?"
+author: 
+  - Tabatha Cormier (PhD Student)
+  - Nathanya Goudreau (MSc Student)
+author-affiliation:
+  - McGill University
+type:  Academic
+date: 2026-10-07
+---
+
+### Abstract
+
+Our research group, based at McGill University’s Macdonald Campus, investigates the link between avian movement, contaminants, physiology, and life history across many scales. Our study regions range from the Neotropics (Belize) to the Arctic (Hudson Bay), and many places in-between (Gulf of Alaska, St Lawrence system, Island of Montreal). In long-term collaboration with the McGill Bird Observatory, we investigate urban habitat use of migratory and resident songbirds around Montreal. We are also part of two long-term seabird monitoring programs at Middleton and Coats islands, where we work to understand the impacts of anthropogenic pressures on northern marine ecosystems. To answer our research questions, we combine biologging techniques (GPS, geolocators, accelerometry) and emerging technologies (drones, uncrewed surface vehicles), along with physiological biomarkers, contaminants, and doubly-labelled water experiments. Overall, our research informs management decisions and deepens our collective understanding of the natural world.

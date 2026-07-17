@@ -1,0 +1,18 @@
+---
+filename: showcases/showcase_uofm
+title: "Avian Behaviour and Conservation Lab: Timing, Movement, and Conservation of Migratory Birds"
+author: 
+  - Kevin Fraser (PI)
+  - Vinuri Mendis (PhD Student)
+  - Yantong Tan (PhD Student)
+  - Rebecca Asham (MSc Student)
+  - Tamara Sturch (MSc Student)
+author-affiliation:
+  - University of Manitoba
+type:  Academic
+date: 2026-10-07
+---
+
+### Abstract
+
+The Avian Behaviour and Conservation Lab at the University of Manitoba investigates how birds respond behaviourally to anthropogenic environmental change. Our research explores how birds time their daily and seasonal activities, and how flexibly these schedules respond to new conditions associated with climate change. We also investigate how artificial light at night alters the timing and movement behaviour of birds. Through field-based experiments, from the Neotropics to the sub-Arctic, we study primarily migratory species, including aerial insectivores such as Purple Martin and Eastern Whip-poor-will. We also collaborate with northern Indigenous communities in Manitoba to address shared concerns regarding change in avian behaviour and populations.

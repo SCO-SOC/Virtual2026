@@ -1,0 +1,224 @@
+---
+title: "Showcases"
+filename: program_showcases
+toc: true
+---
+
+
+## Avian Behaviour and Conservation Lab: Timing, Movement, and Conservation of Migratory Birds
+**Presenter(s)**: Kevin Fraser (PI), Vinuri Mendis (PhD Student), Yantong Tan (PhD Student), Rebecca Asham (MSc Student), Tamara Sturch (MSc Student)  
+**Affiliation(s)**: University of Manitoba  
+**Organization Type**: Academic  
+
+### Abstract
+
+The Avian Behaviour and Conservation Lab at the University of Manitoba investigates how birds respond behaviourally to anthropogenic environmental change. Our research explores how birds time their daily and seasonal activities, and how flexibly these schedules respond to new conditions associated with climate change. We also investigate how artificial light at night alters the timing and movement behaviour of birds. Through field-based experiments, from the Neotropics to the sub-Arctic, we study primarily migratory species, including aerial insectivores such as Purple Martin and Eastern Whip-poor-will. We also collaborate with northern Indigenous communities in Manitoba to address shared concerns regarding change in avian behaviour and populations.
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Banding in the Age of Technology
+**Presenter(s)**: Marcel Gahbauer, Lesley Howes, Barbara Frei, Cyndi Smith, Pam Sinclair  
+**Affiliation(s)**: Canadian Wildlife Service, Canadian Migration Monitoring Network  
+**Organization Type**: eNGO  
+
+### Abstract
+
+Banding and recapture of birds in the early 1900s provided the first documentation of individual bird movements in North America. In recent decades, bird monitoring has been revolutionized by technological advances such as satellite telemetry, geolocators, and automated radio telemetry (e.g., Motus), as well as the growth of ‘big data’ through participatory science, and the use of artificial intelligence for species identification. This has prompted questions about whether traditional methods such as banding have become irrelevant. On the contrary, standardized banding efforts remain fundamental to understanding longevity, annual survival rates, age structure, and physiological responses to environmental change. Banding data also support a wide range of conservation and management outcomes, including disease surveillance and assessment of habitat restoration. Since 1998, the Canadian Migration Monitoring Network has facilitated communication and collaboration among bird observatories across the country. Maintaining strong banding programs while integrating emerging technologies is critical to advancing ornithological research and conservation.
+
+
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## CanAvian: Advancing Avian Data Integration in Canada
+**Presenter(s)**: Sofia Guest<sup>1</sup>, Catherine Jardine<sup>2</sup>  
+**Affiliation(s)**: 1. Alberta Biodiversity Monitoring Institute, 2. Birds Canada  
+**Organization Type**: eNGO  
+
+### Abstract
+
+The Canadian Network of Avian Data (CanAvian) unites a broad community of researchers, conservation practitioners, and volunteer scientists who generate, manage, and share extensive biodiversity data needed for ecological research. CanAvian is governed by a Steering Committee, Advisory Committees, and Working Groups coordinating priorities across science, data management, and community engagement. CanAvian brings together three of Canada's largest biodiversity data platforms: NatureCounts (380 million records), Motus (8 billion records), and WildTrax (16 million records), supporting over 4,500 scientific publications. Supported by the Digital Research Alliance of Canada, CanAvian is establishing harmonized data access policies and interoperability standards to support FAIR and CARE principles and improve data sharing across platforms and data repositories. These connections will support increasingly integrated and large-scale analyses required by modern ecological research and Canada's biodiversity commitments. CanAvian has open pathways for membership, data contribution, and data access and invites participation from across Canada's ornithological community.
+
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Delivering Strong Science at Birds Canada
+**Presenter(s)**: Douglas C. Tozer  
+**Affiliation(s)**: Director, Waterbirds & Wetlands, Birds Canada  
+**Organization Type**: eNGO  
+
+### Abstract
+
+Birds Canada delivers strong science across the country and beyond through more than a dozen regional networks of employees, volunteers, and partners collaborating toward shared conservation goals. Our science is diverse involving many different research themes, core questions, methodologies, ecosystems, and focal species. Much of our science falls under two key initiatives: [tracking the state of Canada’s birds](https://naturecounts.ca/nc/socb-epoc) and leveraging science to drive conservation. Our 50+ science staff members leverage data from volunteer scientists and conservation technologies (NatureCounts, Motus, WildTrax, and more) to answer timely questions of conservation interest, and we often partner with universities on graduate student projects. Ultimately all of our science helps generate the critical knowledge and evidence needed to catalyze actions that help birds and their habitats thrive. In this presentation, we give a top-down overview of science at Birds Canada, and describe a broad selection of examples of [Birds Canada science in action](https://birdscanada.org/science-in-action).
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Drivers of Migratory Bird Population Change in Working Landscapes
+**Presenter(s)**: Ann E. McKellar, Nancy A. Mahony, Greg W. Mitchell, Elizabeth A. Gow  
+**Affiliation(s)**: Environment and Climate Change Canada, Partner institutions  
+**Organization Type**: Government  
+
+### Abstract
+
+Drs Ann McKellar, Nancy Mahony, Greg Mitchell, and Elizabeth Gow are Research Scientists from Environment and Climate Change Canada’s Science and Technology Branch, Biodiversity Research Division, who study the conservation of migratory birds in working landscapes. Their research, which extends from the Canadian western forests and Prairies to Atlantic Canada, takes a full annual cycle approach to 1) examine effects of agriculture, forestry, and urbanization on avian distribution, abundance, and fitness, 2) assess population structure and migratory connectivity of priority species and species at risk, and 3) quantify threats associated with aerial and urban habitats. They aim to develop evidence-based solutions that support biodiversity, ecosystem goods and services, and human well-being in working landscapes. The team, including their graduate students, collaborates extensively with universities (where they are Adjunct professors), ENGOs, other federal departments, and governments, both nationally and internationally.
+
+
+
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Ecotoxicology and Conservation of Prairie Bird Communities
+**Presenter(s)**: Christy Morrissey  
+**Affiliation(s)**: Professor of Biology, University of Saskatchewan  
+**Organization Type**: Academic  
+
+
+### Abstract
+
+We are an ecotoxicology lab with a strong conservation focus.  Our lab studies the effects of environmental contaminants and other non-pollution stressors to better understand how individual birds, populations and communities respond to threats. We use a variety of methods from captive and field controlled dosing studies, beaker and limnocorral studies on aquatic insects that are important prey, and small and big scale field experiments to assess short and long term responses to communities across the Prairie region. A major focus is on how pesticides and other agricultural stressors impact common grassland and wetland associated songbirds through altered prey, neurotoxicity, and disturbance. We also conduct research on the effects of industrial pollution to shorebirds.
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Integrative Ornithology at AFAR
+**Presenter(s)**: Scott MacDougall-Shackleton, Chris Guglielmo, Carrie Branch, Yolanda Morbey, Beth MacDougall-Shackleton, Alice Boyle  
+**Affiliation(s)**: Western University  
+**Organization Type**: Academic  
+
+### Abstract
+
+The Advanced Facility for Avian Research at Western University is a world class facility consisting of faculty and trainees that aim to understand how the environment shapes bird ecology. Researchers across disciplines use integrative approaches to investigate everything bird, from neurobiology and behaviour to migratory physiology and conservation. To showcase the innovative research possible at AFAR, we will present on the tools and facilities used to address a multitude of research questions, both ongoing and for the future. In addition to working toward a better understanding of bird biology and ecology, we are passionate about training the next generation of critical thinkers and scientists.
+
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Landscape Change and Avian Ecology at Thompson Rivers University
+**Presenter(s)**: Matt Reudink, Nancy Flood, Stephen Joly, Kara Lefevre  
+**Affiliation(s)**: Thompson Rivers University  
+**Organization Type**: Academic  
+
+### Abstract
+
+Thompson Rivers University is in the southern interior of British Columbia on the ancestral lands of the Tk'emlúps te Secwépemc (Kamloops main campus) within Secwepemcúl̓ecw, the traditional and unceded territory of the Secwépemc. This vast area of grasslands, forests, mountains, rivers and lakes is larger than all but four European countries, stretching from Jasper to Revelstoke to Kamloops to north of Williams Lake. Its diverse landscapes provide a rich opportunity for research about the impact of accelerating environmental change on avian ecology and to partner with First Nations. This showcase will highlight core themes of research guided by a group of faculty members who collaboratively mentor graduate students on projects that include: conservation of grassland-dependent bird species; braiding Indigenous and Western knowledges to inform species conservation; responses of bird communities to urbanization, industrial activity, and wildfire; and community-engaged efforts to monitor avian population change.
+
+
+
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Monitoring Bird Populations in Canada’s National Parks
+**Presenter(s)**: Lucy Patterson  
+**Affiliation(s)**: Ecological Monitoring Specialist, Parks Canada Agency  
+**Organization Type**: Government  
+
+### Abstract
+
+Parks Canada Agency monitors birds in protected areas across Canada within a common framework called the Ecological Integrity Monitoring Program (EIMP). This program assesses the status and trend of ecological integrity of 119 ecosystems within 43 national parks across the country and can enable prioritization and evaluation of management actions to enhance ecosystem integrity. Birds are one of the most common indicators, being monitored within six different ecosystem types in 39 parks. Of the avian indicators assessed in 2025, the proportion in good, fair and poor condition was 56%, 31%, and 11%, and the proportion improving, stable and declining was 11%, 43% and 19%. We provide a brief overview of the EIMP and a summary of bird indicators within the program. We also present a case study from a protected area to demonstrate how a monitoring indicator can be developed and used in the ecosystem management planning process.
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## National Status and Trends of Canada’s Birds
+**Presenter(s)**: Adam C. Smith, Jackson Kusack, Sarah Gutowsky, Dave Iles, Willow English, Marcel Gahbauer, Michel Gendron, Frederique Tremblay, Marie-Anne Hudson, Christian Roy, Charles Francis  
+**Affiliation(s)**: Canadian Wildlife Service  
+**Organization Type**: Government  
+
+### Abstract
+
+The Canadian Wildlife Service’s national wildlife management and assessment teams conduct research supporting the population monitoring and management of Canada’s migratory birds. Research centers around three overall themes: 1) optimizing applied population monitoring, for both professional and citizen science programs, as well as automated monitoring technologies; 2) developing integrated statistical methods to improve estimates of population sizes, status, trends and distribution; and 3) coordinating research and reporting with international partners to inform conservation across the full annual cycle. Ongoing and upcoming research projects involve: developing integrated spatiotemporal models of population status and drivers of trends using monitoring, remote sensing, and demographic data; developing object detection models to automate counts from seabird colony photo surveys; improving statistical models for estimating density and population sizes; improving breeding waterfowl population estimates by optimizing survey designs and accounting for bias in sex ratios; and improving surveys and models to estimate harvest of migratory birds.
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Ornithological research and conservation at the Ontario Ministry of Natural Resources
+**Presenter(s)**: Glen Brown<sup>1</sup>, Richard Feldman<sup>1</sup>, Jeff Bowman<sup>1</sup>, Rod Brook<sup>1</sup>, Erica Newton<sup>1</sup>, Chrystyn Jones (MSc Student)<sup>2</sup>, Richard Huang (MSc Student)<sup>2</sup>, Ingrid Tello (PhD Student)<sup>3</sup>  
+**Affiliation(s)**: 1. Ontario Ministry of Natural Resources, 2. Trent University, 3. Western University  
+**Organization Type**: Government & Academic  
+
+
+### Abstract
+
+At the Wildlife Research and Monitoring Section of the Ontario Ministry of Natural Resources, we coordinate three strands of avian research: the breeding ecology of shorebirds and waterfowl in the Hudson Bay Lowlands, the nutrient dynamics behind grassland bird habitat use, and climate effects on Wild Turkey distribution. Glen Brown’s work in Ontario’s Far North \- one of the largest contiguous wetland systems in the world \- has shown how the region may be vulnerable to the deepening of the permafrost active layer and wetland drying. Richard Feldman’s work in the Carden Alvar ecosystem has shown the connections between plant stoichiometry and variation in the quantity and quality of the prey of Eastern Whip-poor-will. Jeff Bowman’s work has focused on strategies that Ontario’s reintroduced Wild Turkeys have used to succeed in a northern climate. Combined, we contribute to conserving birds across the province, and involving students in applied ecological research.   
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Partners in Flight: Collaboration from Science to Application
+**Presenter(s)**: Becky Stewart  
+**Affiliation(s)**: Wildlife Biologist, Environment and Climate Change Canada  
+**Organization Type**: Partnership (Academia, Government, NGO, Industry)  
+
+
+### Abstract
+
+Partners In Flight (PIF) is a network of organizations dedicated to landbird conservation. Partners range from not-for-profit organizations to academics, governments, funders, and industry. Each partner brings their strengths, capacities, and expertise to achieve conservation for our shared birds.  This presentation will highlight PIF’s science-based, open access data tools such as the Avian Conservation and Assessment Database, a species conservation status assessment tool that evaluates vulnerability factors at continental and regional scales. Other initiatives include revised model for population estimates, tools to evaluate progress in achieving continental population trend objectives and maps to explore migratory connections in the absence of tracking data. Finally, we’ll focus on how these tools support adaptive management and measurable outcomes for birds and how we (including you), as the bird research and conservation community can leverage and amplify these tools and approaches for bird conservation.
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Seabird Ecology at the Atlantic Laboratory for Avian Research
+**Presenter(s)**: Heather Major (Professor), Amanda Giovinazzo, Maddy Talpt, Clare Taylor, Kayla Cannon, Daniel Oliker  
+**Affiliation(s)**: University of New Brunswick  
+**Organization Type**: Academic  
+
+### Abstract
+
+Based at the University of New Brunswick’s Saint John Campus, the Atlantic Laboratory for Avian Research is directed by seabird biologist Dr. Heather Major. The lab studies relationships between bird populations and environmental change in marine and island ecosystems. Species of interest include the Atlantic Puffin, Razorbill, Common Murre, Arctic Tern, and Leach’s Storm-petrel primarily studied on Machias Seal Island (MSI) in the Bay of Fundy. MSI has been the focal site for the labs' long-term seabird monitoring project that has been operated annually since 1995. In addition, the lab is currently collaborating on a project assessing feasibility of an island restoration at Seal Island, NS by removing introduced species.
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## The Science that Powers Waterfowl Conservation
+**Presenter(s)**: Matt Dyson, James Paterson, Vanessa Harriman, Lauren Bortolotti, Pascal Badiou, Samuel Robinson  
+**Affiliation(s)**: Ducks Unlimited Canada  
+**Organization Type**: eNGO  
+
+### Abstract
+
+The Institute for Wetland and Waterfowl Research (IWWR) at Ducks Unlimited Canada conducts interdisciplinary research that advances ornithology within the broader context of wetland ecosystems. Centered on waterfowl ecology, IWWR studies waterfowl habitat use, productivity, and population dynamics, with particular emphasis on breeding landscapes such as the Prairie Pothole Region, while extending across boreal and other wetland systems nationally. Beyond core ornithological questions, IWWR develops quantitative tools and models to guide conservation planning and evaluate program outcomes, ensuring that habitat investments are effective, adaptive, and evidence-based. This includes assessing when programs should be refined, scaled, or phased out. Complementing our work in waterfowl ecology, we have developed substantial research capacity in biodiversity, climate change, carbon dynamics, wetland biogeochemistry, and sustainable agriculture, reflecting emerging priorities in wetland conservation science. Together, these efforts integrate waterfowl science with broader ecological processes to support both understanding and adaptive, outcome-driven conservation.
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Twenty Years of Boreal Avian Modelling
+**Presenter(s)**: Elly Knight, Steven Van Wilgenburg, Diana Stralberg, Steve Cumming, Jeff Ball, Junior Tremblay, Erin Bayne  
+**Affiliation(s)**: Boreal Avian Modelling Project  
+**Organization Type**: eNGO  
+
+### Abstract
+
+The boreal forest is a vast and remote biome covering much of northern Canada and Alaska, which provides habitat for a substantial portion of the nearctic avifauna. The remoteness of much of this region limited earlier systematic monitoring efforts that hampered the development of data-informed decision support tools to aid bird conservation in response to increasing anthropogenic pressures. The Boreal Avian Modelling project (BAM) was formed as a collaborative initiative in 2004 to address this gap by amalgamating, harmonizing and integrating disparate point count data to develop tools for boreal bird conservation. We provide an overview of BAM's development, including the individual research groups that make up the collective BAM team, and highlight BAM’s keystone tools for bird conservation. We discuss evolving conservation challenges and opportunities of new technologies and open data initiatives that can enhance science-based conservation tools for boreal birds.
+
+
+---
+
+[*Return to Program*](program.qmd#showcases)
+
+## Warblers to Waterbirds: Where and Why?
+**Presenter(s)**: Tabatha Cormier (PhD Student), Nathanya Goudreau (MSc Student)  
+**Affiliation(s)**: McGill University  
+**Organization Type**: Academic  
+
+### Abstract
+
+Our research group, based at McGill University’s Macdonald Campus, investigates the link between avian movement, contaminants, physiology, and life history across many scales. Our study regions range from the Neotropics (Belize) to the Arctic (Hudson Bay), and many places in-between (Gulf of Alaska, St Lawrence system, Island of Montreal). In long-term collaboration with the McGill Bird Observatory, we investigate urban habitat use of migratory and resident songbirds around Montreal. We are also part of two long-term seabird monitoring programs at Middleton and Coats islands, where we work to understand the impacts of anthropogenic pressures on northern marine ecosystems. To answer our research questions, we combine biologging techniques (GPS, geolocators, accelerometry) and emerging technologies (drones, uncrewed surface vehicles), along with physiological biomarkers, contaminants, and doubly-labelled water experiments. Overall, our research informs management decisions and deepens our collective understanding of the natural world.

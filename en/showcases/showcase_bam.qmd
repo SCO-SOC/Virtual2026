@@ -1,0 +1,20 @@
+---
+filename: showcases/showcase_bam
+title: "Twenty Years of Boreal Avian Modelling"
+author: 
+  - Elly Knight
+  - Steven Van Wilgenburg
+  - Diana Stralberg
+  - Steve Cumming
+  - Jeff Ball
+  - Junior Tremblay
+  - Erin Bayne
+author-affiliation: "Boreal Avian Modelling Project"
+type:  eNGO
+date: 2026-10-07
+---
+
+### Abstract
+
+The boreal forest is a vast and remote biome covering much of northern Canada and Alaska, which provides habitat for a substantial portion of the nearctic avifauna. The remoteness of much of this region limited earlier systematic monitoring efforts that hampered the development of data-informed decision support tools to aid bird conservation in response to increasing anthropogenic pressures. The Boreal Avian Modelling project (BAM) was formed as a collaborative initiative in 2004 to address this gap by amalgamating, harmonizing and integrating disparate point count data to develop tools for boreal bird conservation. We provide an overview of BAM's development, including the individual research groups that make up the collective BAM team, and highlight BAM’s keystone tools for bird conservation. We discuss evolving conservation challenges and opportunities of new technologies and open data initiatives that can enhance science-based conservation tools for boreal birds.
+

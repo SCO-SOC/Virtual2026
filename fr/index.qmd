@@ -12,12 +12,14 @@ filename: index
 ::: {.tbl-invisible style="margin-bottom: 20px"}
 x | x | x |
 :------------ |:----------------------------------------|:---------------------:|
+17 juillet 2026 | **[Les présentations de la recherche en cross-country sont en ligne!](program.qmd#showcases)** | |
 23 juin 2026 | **[Les ateliers sont en ligne!](program.qmd#workshops)** | |
 25 mai 2026  | **Appel à [résumés](participate.qmd#presentations)** | Terminé |
-9 avril 2026 | **Appel à [ateliers](participate.qmd#workshops) et [présentations pour la vitrine de recherche pancanadienne](participate.qmd#showcase)** | Terminé |
+9 avril 2026 | **Appel à [ateliers](participate.qmd#workshops) et [présentations pour la vitrine de recherche pancanadienne](participate.qmd#showcase)** | Terminé | |
 
 : {tbl-colwidths="[13, 50, 25]"}
 
+:::
 
 Nous sommes ravis d'annoncer que notre conférence de 2026 se déroulera en ligne, ouvrant ainsi ses portes à une communauté de participants vaste et diversifiée provenant du monde entier! Le thème de cette année, Déployer nos ailes, célèbre l’accessibilité, les échanges et la joie de la découverte, de part notre communauté de recherche. Nous avons hâte d’échanger avec nos membres et d’explorer de nouvelles façons d’apprendre et de collaborer ensemble.
 

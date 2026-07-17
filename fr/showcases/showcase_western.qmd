@@ -1,0 +1,18 @@
+---
+filename: showcases/showcases_western
+title: "Ornithologie intégrative à l'AFAR"
+author: 
+  - Scott MacDougall-Shackleton
+  - Chris Guglielmo
+  - Carrie Branch
+  - Yolanda Morbey
+  - Beth MacDougall-Shackleton
+  - Alice Boyle
+author-affiliation: 
+ - Université Western
+type:  Académique
+date: 2026-10-07
+---
+
+### Résumé
+Le Centre de recherche avancée sur les oiseaux de l'Université Western est un établissement de renommée mondiale qui réunit des professeurs et des stagiaires dont l'objectif est de comprendre comment l'environnement influence l'écologie des oiseaux. Des chercheurs de diverses disciplines utilisent des approches intégratives pour étudier tous les aspects des oiseaux, de la neurobiologie et du comportement à la physiologie migratoire et à la conservation. Afin de mettre en lumière la recherche novatrice possible au Centre de recherche avancée sur les oiseaux, nous présenterons les outils et les installations utilisés pour aborder une multitude de questions de recherche, tant actuelles que futures. En plus de contribuer à une meilleure compréhension de la biologie et de l'écologie des oiseaux, nous avons à cœur de former la prochaine génération de chercheurs et de scientifiques.

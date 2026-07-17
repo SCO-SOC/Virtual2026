@@ -1,0 +1,14 @@
+---
+filename: showcases/showcases_birds_canada
+title: "Fournir une science rigoureuse chez Oiseaux Canada"
+author: 
+  - Douglas C. Tozer
+author-affiliation:
+  - Directeur, Oiseaux aquatiques et milieux humides, Oiseaux Canada
+type:  eONG
+date: 2026-10-07
+---
+
+### Résumé
+
+Oiseaux Canada mène des recherches scientifiques de pointe partout au pays et à l’étranger grâce à plus d’une douzaine de réseaux régionaux d’employés, de bénévoles et de partenaires qui collaborent à des objectifs de conservation communs. Nos recherches sont diversifiées et couvrent de nombreux thèmes, questions fondamentales, méthodologies, écosystèmes et espèces cibles. Une grande partie de nos travaux s’articule autour de deux initiatives clés: [le suivi de l’état des oiseaux du Canada](https://naturecounts.ca/nc/socb-epoc) et la mise à profit des connaissances scientifiques pour favoriser la conservation. Nos plus de 50 chercheurs exploitent les données recueillies auprès de scientifiques bénévoles et les technologies de conservation (NatureCounts, Motus, WildTrax, etc.) pour répondre à des questions d’actualité en matière de conservation, et nous collaborons souvent avec des universités sur des projets d’étudiants aux cycles supérieurs. En fin de compte, toutes nos recherches contribuent à générer les connaissances et les données probantes essentielles pour catalyser des actions qui favorisent la prospérité des oiseaux et de leurs habitats. Dans cette présentation, nous offrons un aperçu général des activités scientifiques d’Oiseaux Canada et décrivons une vaste sélection d’exemples concrets de la [science menée par Oiseaux Canada](https://www.oiseauxcanada.org/la-science-en-action).

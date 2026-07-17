@@ -1,0 +1,19 @@
+---
+filename: showcases/showcases_tru
+title: "Changements paysagers et écologie aviaire à l'Université Thompson Rivers"
+author: 
+  - Matt Reudink
+  - Nancy Flood
+  - Stephen Joly
+  - Kara Lefevre
+author-affiliation: 
+ - Université Thompson Rivers
+type:  Académique
+date: 2026-10-07
+---
+
+### Résumé
+
+L’Université Thompson Rivers est située dans le sud de la Colombie-Britannique, sur les terres ancestrales des Tk’emlúps te Secwépemc (campus principal de Kamloops), au sein de Secwepemcúl̓ecw, le territoire traditionnel non cédé des Secwépemc. Ce vaste territoire de prairies, de forêts, de montagnes, de rivières et de lacs est plus grand que tous les pays européens, à l’exception de quatre, et s’étend de Jasper à Revelstoke, en passant par Kamloops, jusqu’au nord de Williams Lake. La diversité de ses paysages offre un terrain fertile pour la recherche sur l’impact de l’accélération des changements environnementaux sur l’écologie aviaire et pour les partenariats avec les Premières Nations. Cette vitrine mettra en lumière les principaux thèmes de recherche menés par un groupe de professeurs qui encadrent des étudiants aux cycles supérieurs dans le cadre de projets portant notamment sur: la conservation des espèces d’oiseaux dépendantes des prairies ; l’intégration des savoirs autochtones et occidentaux pour éclairer la conservation des espèces ; les réactions des communautés d’oiseaux à l’urbanisation, à l’activité industrielle et aux feux de forêt ; et les initiatives communautaires de suivi de l’évolution des populations d’oiseaux.
+
+

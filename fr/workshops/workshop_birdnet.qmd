@@ -1,0 +1,16 @@
+---
+filename: "workshops/workshop_birdnet"
+title: "Intégration de BirdNET Analyzer et Kaleidoscope Pro"
+author: Carlos Abrahams
+date: 2026-10-05
+length: "2 à 3 heures"
+---
+
+### Description
+Combinez BirdNET Analyzer et Kaleidoscope Pro pour une analyse acoustique robuste, une assurance qualité (AQ) et le développement de systèmes de reconnaissance personnalisés. Nous explorerons deux cas concrets: (i) la détection automatisée d'oiseaux dans BirdNET, suivie d'une AQ manuelle efficace avec Kaleidoscope Pro, et (ii) l'application des outils de clustering de Kaleidoscope pour générer des séquences d'entraînement de haute qualité en vue de la création d'un système de reconnaissance personnalisé pour les amphibiens dans BirdNET. Les participants découvriront comment utiliser conjointement ces deux puissants logiciels pour tirer parti de leurs atouts respectifs et créer un flux de travail efficace et évolutif pour la surveillance acoustique. Conçu pour les écologues, les bioacousticiens et les praticiens, cet atelier d'acoustique de la faune sauvage met l'accent sur les compétences pratiques, la reproductibilité des flux de travail et la fiabilité des résultats de la surveillance acoustique automatisée.
+
+### Public cible
+Écologistes, bioacousticiens et praticiens.
+
+### Compétences/connaissances préalables
+Une connaissance générale de Kaleidoscope et de BirdNET est utile pour cet atelier.

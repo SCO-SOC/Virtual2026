@@ -1,0 +1,24 @@
+---
+filename: showcases/showcase_omnr
+title: "Recherche ornithologique et conservation au ministère des Ressources naturelles de l'Ontario"
+author: 
+  - Glen Brown<sup>1</sup>
+  - Richard Feldman<sup>1</sup>
+  - Jeff Bowman<sup>1</sup>
+  - Rod Brook<sup>1</sup>
+  - Erica Newton<sup>1</sup>
+  - Chrystyn Jones (étudiant·e à la maîtrise)<sup>2</sup>
+  - Richard Huang (étudiant·e à la maîtrise)<sup>2</sup>
+  - Ingrid Tello (doctorant·e)<sup>3</sup>
+author-affiliation:
+  - 1. Ministère des Richesses naturelles de l'Ontario
+  - 2. Université Trent
+  - 3. Université Western
+type: Gouvernement et enseignement supérieur
+date: 2026-10-07
+---
+
+
+### Résumé
+
+Au sein de la Section de recherche et de surveillance de la faune du ministère des Richesses naturelles de l'Ontario, nous coordonnons trois axes de recherche sur les oiseaux: l’écologie de la reproduction des oiseaux de rivage et de la sauvagine dans les basses terres de la baie d’Hudson, la dynamique des nutriments qui influence l’utilisation de l’habitat par les oiseaux des prairies et les effets du climat sur la répartition du dindon sauvage font partie de nos recherches. Les travaux de Glen Brown dans le Grand Nord ontarien – l’un des plus vastes systèmes de milieux humides contigus au monde – ont démontré la vulnérabilité de la région face à l’approfondissement de la couche active du pergélisol et à l’assèchement des milieux humides. Les travaux de Richard Feldman dans l’écosystème dezr ont mis en évidence les liens entre la stœchiométrie des plantes et la variation de la quantité et de la qualité des proies de l’Engoulevent bois-pourri. Les recherches de Jeff Bowman portent sur les stratégies de survie des dindons sauvages réintroduits en Ontario dans un climat nordique. Ensemble, nous contribuons à la conservation des oiseaux dans toute la province et à l’initiation des étudiants à la recherche écologique appliquée.   

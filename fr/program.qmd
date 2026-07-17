@@ -2,6 +2,32 @@
 title: "Programmation"
 filename: program
 toc: true
+listing:
+  - id: workshops-list
+    contents: "workshops/*.qmd"
+    type: default
+    date-format: "MMM D, YYYY"
+    sort: "title"
+    sort-ui: false
+    filter-ui: false
+    max-description-length: 150
+    fields: [date, author, title, length, description]
+    field-display-names:
+      date: "Heure"
+      author: "Plomb"
+      length: "Longueur"
+  - id: showcases-list
+    contents: "showcases/*.qmd"
+    type: default
+    date-format: "MMM D, YYYY"
+    sort: "title"
+    sort-ui: false
+    filter-ui: false
+    max-description-length: 150
+    fields: [date, author, title, description]
+    field-display-names:
+      date: "Heure"
+      author: "Présentateur·rice·s"
 ---
 
 ### Programmation {.hide}
@@ -18,152 +44,16 @@ Date | Programmation
 
 ## Ateliers  {#workshops .no-border}
 
-### Introduction à Quarto pour la reproductibilité
+[*Tout afficher*](program_workshops.qmd)  
 
-**Plomb**: Steffi LaZerte  
-**Longueur**: 2 à 2,5 heures
+:::{#workshops-list}
+:::
 
-**Description**  
-Vous avez du mal à gérer vos analyses de recherche avec R ? Votre vous du futur se plaint-il constamment que votre vous du passé n’ait pas documenté les scripts, les données et les versions des bibliothèques logicielles ? Découvrez la magie de Quarto \! Transformez vos scripts R en rapports reproductibles, contenant toutes les informations nécessaires pour rédiger vos analyses.
 
-Dans cet atelier, nous découvrirons Markdown, RMarkdown et Quarto. Nous explorerons différentes méthodes de création de rapports à partir de scripts et comment personnaliser le rendu pour optimiser à la fois l'esthétique et la reproductibilité. Vous aurez l'occasion d'apprendre et de pratiquer, et vous repartirez avec des ressources pour vous accompagner dans votre apprentissage. Des exemples de scripts seront disponibles, mais il est préférable d'apporter les vôtres. Notez que même si cet atelier est axé sur R, Quarto est également compatible avec Python ; n'hésitez donc pas à apporter vos propres scripts Python pour vous familiariser avec ces langages.
 
-Les participants n'ont pas besoin d'être des experts en R, mais doivent avoir une certaine familiarité avec R et un environnement de développement intégré (IDE) dédié (par exemple, RStudio ou Positron). Les instructions d'installation de ces programmes seront envoyées avant l'atelier.
+## Présentation de la recherche en cross-country {#showcases .no-border}
 
-**Public cible**  
-Toute personne ayant une connaissance superficielle de R/Python et souhaitant en savoir plus sur la création de rapports reproductibles de leurs analyses.
+[*Tout afficher*](program_showcases.qmd)  
 
-**Compétences/connaissances préalables**  
-Une certaine familiarité avec R et un environnement de développement intégré (IDE) dédié à R (par exemple, RStudio ou Positron) est requise. Une connaissance de base de R ou de Python est recommandée.
-
----
-
-### Intégration de BirdNET Analyzer et Kaleidoscope Pro
-
-**Plomb**: Carlos Abrahams  
-**Longueur**: 2 à 3 heures
-
-**Description**  
-Combinez BirdNET Analyzer et Kaleidoscope Pro pour une analyse acoustique robuste, une assurance qualité (AQ) et le développement de systèmes de reconnaissance personnalisés. Nous explorerons deux cas concrets : (i) la détection automatisée d'oiseaux dans BirdNET, suivie d'une AQ manuelle efficace avec Kaleidoscope Pro, et (ii) l'application des outils de clustering de Kaleidoscope pour générer des séquences d'entraînement de haute qualité en vue de la création d'un système de reconnaissance personnalisé pour les amphibiens dans BirdNET. Les participants découvriront comment utiliser conjointement ces deux puissants logiciels pour tirer parti de leurs atouts respectifs et créer un flux de travail efficace et évolutif pour la surveillance acoustique. Conçu pour les écologues, les bioacousticiens et les praticiens, cet atelier d'acoustique de la faune sauvage met l'accent sur les compétences pratiques, la reproductibilité des flux de travail et la fiabilité des résultats de la surveillance acoustique automatisée.
-
-**Public cible**  
-Écologistes, bioacousticiens et praticiens.
-
-**Compétences/connaissances préalables**  
-Une connaissance générale de Kaleidoscope et de BirdNET est utile pour cet atelier.
-
----
-
-### Modélisation de l'écologie de l'habitat aviaire
-
-**Plomb**: Andy Crosby  
-**Longueur**: Journée complète / 4 à 5 heures
-
-**Description**  
-Une grande partie des recherches menées sur les oiseaux consiste, explicitement ou implicitement, à modéliser les modes d'utilisation de l'habitat afin de comprendre l'écologie des espèces et les effets potentiels de l'utilisation des terres et du changement climatique sur les populations.Les modes d'utilisation de l'habitat par les oiseaux sont la concrétisation du processus de sélection de l'habitat, lequel est régi par l'interaction entre l'écologie de chaque espèce et le contexte écologique du paysage. Cet atelier vise à fournir une compréhension de base de la manière dont les techniques de modélisation de l'habitat, telles que la modélisation de l'occupation et les fonctions de sélection des ressources, peuvent être utilisées pour tirer des conclusions valides sur l'écologie des espèces et la sélection de l'habitat.
-
-Dans cet atelier, nous utiliserons une combinaison de cours magistraux interactifs et de travaux pratiques en R pour :
-
-1. Acquérir une compréhension des principes de base de l'écologie de l'habitat aviaire ;  
-2. Comprendre la théorie de la modélisation de l'habitat en termes d'utilisation, de disponibilité, de préférence et de sélection de l'habitat ; et  
-3. Comprendre comment les modèles d'occupation et les fonctions de sélection des ressources fonctionnent pour fournir des inférences sur les schémas d'occupation et les facteurs déterminants de la sélection de l'habitat.
-
-Un aspect important de cet atelier consistera à utiliser des simulations de données simples pour mieux comprendre le processus de génération des données et son interaction avec les modèles afin de produire les résultats observés. Ceci permettra aux participants de mieux comprendre et interpréter les résultats des modèles dans leur contexte écologique. Ainsi, cet atelier portera moins sur l'exécution des modèles que sur leur utilisation pour acquérir des connaissances fiables sur les processus écologiques importants. Je fournirai quelques exemples de jeux de données, et les participants sont invités à utiliser leurs propres données pour travailler avec les modèles.
-
-Les résultats attendus seront une meilleure connaissance de l'écologie des habitats aviaires et une capacité accrue à comprendre et à utiliser correctement les techniques courantes de modélisation des habitats à des fins de recherche et de conservation.
-
-**Public cible**  
-Étudiants et professionnels souhaitant approfondir leurs connaissances en écologie de l'habitat et sur la manière dont la modélisation peut être utilisée pour comprendre la sélection de l'habitat par les oiseaux.
-
-**Compétences/connaissances préalables**  
-Maîtrise de base du langage R et compréhension des modèles linéaires généralisés. La compréhension des boucles « for » sera particulièrement importante. Je fournirai aux participants des documents préliminaires afin de les familiariser avec les concepts nécessaires.
-
----
-
-### Introduction à l'attribution des isotopes stables dans R
-
-**Plomb**: Jackson Kusack  
-**Longueur**: 2 à 2,5 heures
-
-**Description**  
-Pour les populations d'animaux sauvages migrateurs, la compréhension des liens entre les sites de reproduction, d'hivernage et de halte migratoire est essentielle à leur conservation et à leur gestion. Les marqueurs intrinsèques, tels que les isotopes stables présents dans les tissus des individus migrateurs, offrent une alternative à l'utilisation d'émetteurs et autres marqueurs extrinsèques. Brièvement, cette méthode établit un lien entre les valeurs isotopiques stables des tissus des consommateurs et celles de l'environnement (en particulier les isotopes stables de l'hydrogène et de l'oxygène dans les précipitations) afin de déterminer les origines probables des tissus. Ces dernières années, plusieurs packages utiles ont été publiés dans l'environnement statistique R (isocat et AssignR), ce qui a considérablement amélioré les fonctionnalités de ces méthodes d'attribution et les a rendues beaucoup plus accessibles.
-
-Dans cet atelier, je présenterai d'abord une brève introduction à la théorie de l'attribution des isotopes stables, puis nous étudierons un exemple de script R. Nous y détaillerons, étape par étape, les procédures permettant de déterminer l'origine probable des migrants d'origine inconnue. Aucune donnée n'est requise de la part des participants, car tout sera fourni pendant l'atelier. Toutefois, les participants sont invités à appliquer le code à leurs propres données.
-
-L'objectif de cet atelier est que les participants acquièrent une meilleure compréhension de l'approche générale et de la théorie sous-jacentes à l'attribution des isotopes stables à l'aide des isotopes de l'hydrogène et repartent avec des éléments de code R fondamentaux sur lesquels ils pourront s'appuyer pour leurs propres analyses.
-
-**Public cible**  
-Cet atelier s'adresse aux chercheurs et étudiants intéressés par la collecte de tissus pour l'analyse des isotopes stables, ou qui envisagent de le faire. Il est ouvert à un large public.
-
-**Compétences/connaissances préalables**  
-Une certaine familiarité avec R/Rmarkdown est suggérée.
-
----
-
-### Modélisation du recensement des oiseaux nicheurs avec bbsBayes2 : état des lieux, tendances et modélisation causale des facteurs à l’origine des tendances
-
-**Plomb**: Adam Smith  
-**Longueur**: 2 à 2,5 heures
-
-**Description**  
-[bbsBayes2](https://bbsbayes.github.io/bbsBayes2) est un package R qui permet d'accéder facilement aux données du Relevé des oiseaux nicheurs d'Amérique du Nord et d'ajuster une sélection de modèles bayésiens hiérarchiques qui estiment le statut et les tendances et peuvent être modifiés pour estimer l'influence des prédicteurs spatiaux et temporels sur les tendances et l'abondance (par exemple, [McKellar et al. 2025](https://doi.org/10.1675/063.048.0203) et [Smith et al. 2024](https://doi.org/10.1093/ornithapp/duad056)). Ce package offre une estimation bayésienne efficace des paramètres grâce à Stan, des modèles spatialement explicites parfaitement adaptés à l'exploration des tendances spatiales, et des options de personnalisation permettant d'inclure des covariables de tendances et d'abondance. Il simplifie également le flux de travail bayésien, facilitant le diagnostic de convergence, les prédictions a priori et a posteriori, la visualisation des prédictions du modèle, ainsi que la validation croisée et la comparaison des modèles.
-
-Durant cet atelier, vous suivrez des démonstrations de programmation en direct afin d'acquérir une expérience pratique de la manipulation et de la visualisation des résultats issus de différents modèles et espèces. Nous présenterons les fonctionnalités du package, notamment celles qui vous permettent de :
-
-1. Préparer les données pour la modélisation d'une espèce donnée et ajuster un modèle qui estime les tendances pour n'importe quelle période (1970-2019, 2005-2015, 1980-2000, etc.).  
-2. Générer des cartes thermiques des tendances démographiques et représenter graphiquement les trajectoires de la population.  
-3. Choisissez parmi une suite de modèles bayésiens hiérarchiques intégrés et accédez à des outils facilitant la validation croisée et la comparaison des modèles.  
-4. Estimer les tendances pour des régions personnalisées (par exemple, toute la zone boréale de l'Est, les Grandes Plaines par rapport aux populations d'oiseaux des prairies de l'Est).  
-5. Élaboration et ajustement de modèles personnalisés : l’atelier offre suffisamment de temps pour explorer la personnalisation des modèles de base avec des exemples de modèles qui estiment les effets régionaux du climat sur les tendances démographiques, les effets locaux de la couverture terrestre sur l’abondance moyenne, les effets du changement de la couverture terrestre sur les tendances, etc.
-
-**Public cible**  
-Chercheurs et étudiants intéressés par :
-
-1. modélisation des schémas spatiaux et temporels des populations d'oiseaux au cours des 60 dernières années ;  
-2. modélisation des covariables ou des facteurs causaux des variations d'abondance et des tendances ;  
-3. acquérir de l'expérience dans le flux de travail bayésien et l'ajustement de modèles à l'aide de Stan ;  
-4. mieux comprendre les modèles utilisés par le Service canadien de la faune et le Service géologique des États-Unis pour estimer l’état et les tendances à partir des données du BBS.
-
-**Compétences/connaissances préalables**  
-La maîtrise du langage R est indispensable. Aucune expérience préalable avec Stan ou les modèles bayésiens n'est requise.
-
----
-
-### Utiliser WildTrax pour gérer et traiter vos enregistrements de chants d'oiseaux
-
-**Plomb**: Kevin Kelly  
-**Longueur**: Journée complète / 4 à 5 heures
-
-**Description**  
-WildTrax est une plateforme en ligne gratuite conçue pour faciliter l'accès des chercheurs et des gestionnaires à la gestion et au traitement des enregistrements d'unités de recherche acoustique (URA), quelle que soit l'envergure de leur programme. Développée pour aider les utilisateurs à gérer et traiter les données acoustiques, des enregistrements bruts jusqu'à leur utilisation dans des analyses statistiques, WildTrax permet de stocker les données brutes, les métadonnées et les données dérivées sur les espèces dans un système cloud accessible aux collaborateurs du monde entier. Grâce à des formats de métadonnées, des méthodes de traitement et des modèles de rapports standardisés, les données peuvent être facilement stockées et partagées entre les utilisateurs.
-
-Dans cet atelier, nous vous apprendrons à télécharger et gérer des enregistrements acoustiques ; à stocker et gérer des métadonnées telles que les lieux d’enquête, les visites sur le terrain et les informations sur l’équipement de terrain ; à traiter les enregistrements pour identifier les espèces qui vocalisent dans les enregistrements ; à créer et gérer des projets pour agréger vos données dans des rapports collectifs ; à utiliser les systèmes intégrés de reconnaissance de chants d’oiseaux (BirdNET et HawkEars) pour améliorer vos capacités de traitement ; et à publier, partager et télécharger les données contenues sur WildTrax.
-
-L'atelier est conçu pour être interactif afin que les utilisateurs puissent suivre les différentes étapes présentées sur la plateforme WildTrax, en utilisant leurs propres données ou des exemples de données fournis par les animateurs, afin de découvrir les différentes fonctionnalités disponibles dans WildTrax.
-
-**Public cible**  
-Cet atelier s'adresse aussi bien aux utilisateurs novices de systèmes de surveillance acoustique passive (connaissances de base d'une unité de réponse acoustique et d'un spectrogramme) qu'aux chercheurs plus expérimentés souhaitant apprendre comment WildTrax peut répondre à leurs besoins en matière de stockage et de traitement des données.
-
-**Compétences/connaissances préalables**  
-Une connaissance de base des enregistrements acoustiques passifs et des spectrogrammes est utile.
-
----
-
-### Réglementer les prises accidentelles au Canada : défis et opportunités pour les scientifiques
-
-**Plomb**: Julie Bourque  
-**Longueur**: 2 à 2,5 heures
-
-**Description**  
-Malgré l’interdiction fédérale de tuer les oiseaux migrateurs et de détruire leurs nids, environ 269 millions d’oiseaux meurent et près d’un million de nids sont détruits chaque année au Canada en raison d’activités humaines par ailleurs légales. La mortalité aviaire est due, entre autres, aux collisions avec des fenêtres, aux prises accessoires de la pêche et à l’électrocution par les lignes électriques. La destruction des nids est principalement liée aux activités de gestion de la végétation pendant la saison de reproduction, qu’il s’agisse d’activités temporaires comme l’agriculture ou la foresterie ou de la conversion permanente des terres comme l’urbanisation. Ces prélèvements involontaires (accidentels) concernent presque tous les secteurs d’activité humaine, tant industriels que non industriels, et devraient augmenter avec l’accélération du développement humain.
-
-Ces dernières années, on a constaté un regain d’intérêt pour la réglementation des prises accidentelles au niveau fédéral. Un tel système réglementaire pourrait être bénéfique aux oiseaux migrateurs grâce à l’adoption généralisée de pratiques de gestion efficaces, en échange d’une plus grande sécurité juridique. Cependant, une telle initiative exige de solides fondements scientifiques afin de garantir que les décisions prises contribuent à la conservation. Par exemple, il est essentiel de bien comprendre la portée et l’impact d’une activité pour établir une base de référence permettant d’évaluer les mesures d’atténuation. Des recherches supplémentaires sont également nécessaires pour évaluer les mesures d’atténuation fondées sur des données probantes et leur applicabilité au contexte canadien.
-
-Cet atelier examinera la notion de capture accidentelle et visera à encourager les échanges sur la façon dont les scientifiques peuvent influencer l’élaboration des règlements et des politiques grâce à leurs recherches. L’atelier comprendra une présentation suivie d’une discussion ouverte avec les participants. L’objectif est que les participants comprennent mieux comment présenter les résultats de leurs recherches aux décideurs politiques afin de mieux appuyer l’élaboration de politiques pour les oiseaux migrateurs au Canada. L’atelier pourrait également aider les chercheurs à intégrer la notion de capture accidentelle dans leurs travaux et à renforcer la collaboration entre scientifiques et décideurs politiques.
-
-**Public cible**  
-Le public cible est composé de chercheurs intéressés par l'élaboration des politiques et possédant des connaissances sur les effets des activités humaines sur les oiseaux migrateurs.
-
-**Compétences/connaissances préalables**  
-Une connaissance préalable des interdictions prévues par la Loi sur la Convention concernant les oiseaux migrateurs et le Règlement de 2022 sur les oiseaux migrateurs est utile.
-
+:::{#showcases-list}
+:::

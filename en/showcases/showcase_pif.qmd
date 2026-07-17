@@ -1,0 +1,15 @@
+---
+filename: showcases/showcase_pif
+title: "Partners in Flight: Collaboration from Science to Application"
+author: 
+  - Becky Stewart
+author-affiliation:
+  - Wildlife Biologist, Environment and Climate Change Canada
+type:  Partnership (Academia, Government, NGO, Industry)
+date: 2026-10-07
+---
+
+
+### Abstract
+
+Partners In Flight (PIF) is a network of organizations dedicated to landbird conservation. Partners range from not-for-profit organizations to academics, governments, funders, and industry. Each partner brings their strengths, capacities, and expertise to achieve conservation for our shared birds.  This presentation will highlight PIF’s science-based, open access data tools such as the Avian Conservation and Assessment Database, a species conservation status assessment tool that evaluates vulnerability factors at continental and regional scales. Other initiatives include revised model for population estimates, tools to evaluate progress in achieving continental population trend objectives and maps to explore migratory connections in the absence of tracking data. Finally, we’ll focus on how these tools support adaptive management and measurable outcomes for birds and how we (including you), as the bird research and conservation community can leverage and amplify these tools and approaches for bird conservation.

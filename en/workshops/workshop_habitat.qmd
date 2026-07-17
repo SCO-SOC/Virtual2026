@@ -1,0 +1,26 @@
+---
+filename: workshops/workshop_habitat
+title: "Modelling Avian Habitat Ecology"
+author: Andy Crosby
+date: 2026-10-05
+length: "Full day / 4-5 hours"
+---
+
+### Description  
+Much of the research conducted on birds involves, either explicitly or implicitly, modelling patterns of habitat use in order to understand species ecology and the potential effects of land-use and climate change on populations. Patterns of habitat use by birds are the realization of the habitat selection process, which is governed by the interaction of individual species ecology and landscape ecological context. The purpose of this workshop is to provide a basic understanding of how habitat modelling techniques, such as occupancy modelling and resource selection functions, can be used to make valid inferences about species ecology and habitat selection. 
+
+In this workshop we will use a combination of interactive lectures and hands on work in R to: 
+
+1. Gain an understanding of basic principles of avian habitat ecology;   
+2. Understand habitat modelling theory in terms of habitat use, availability, preference, and selection; and   
+3. Understand how occupancy models and resource selection functions operate to provide inferences about occupancy patterns and drivers of habitat selection.
+
+An important aspect of this workshop will be using simple data simulations to better understand the data generation process and how it interacts with the models to produce the results we see. This will allow participants to better understand and interpret model outputs in their ecological context Thus, the focus of this workshop will be less on how to run models, and more on using the models to gain reliable knowledge about important ecological processes. I will provide some example datasets, and participants are welcome to use their own data to work with the models. 
+
+Expected outcomes will be a better knowledge of avian habitat ecology and increased ability to understand and properly utilize common habitat modelling techniques for research and conservation. 
+
+### Target audience  
+Students and professionals looking for a deeper understanding of habitat ecology and how modelling can be used to understand avian habitat selection.
+
+### Prerequisite skills/knowledge  
+Basic R skills and understanding of generalized linear models. Understanding for-loops will be particularly important. I will send preliminary material to familiarize participants with necessary concepts ahead of time. 

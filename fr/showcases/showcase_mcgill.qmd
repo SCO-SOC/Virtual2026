@@ -1,0 +1,15 @@
+---
+filename: showcases/showcase_mcgill
+title: "Des parulines aux oiseaux aquatiques: où et pourquoi?"
+author: 
+  - Tabatha Cormier (doctorant·e)
+  - Nathanya Goudreau (étudiante à la maîtrise)
+author-affiliation:
+  - Université McGill
+type:  Académique
+date: 2026-10-07
+---
+
+### Résumé
+
+Notre groupe de recherche, basé au campus Macdonald de l’Université McGill, étudie le lien entre les déplacements des oiseaux, les contaminants, leur physiologie et leur cycle de vie à différentes échelles. Nos régions d’étude s’étendent des néotropiques (Belize) à l’Arctique (baie d’Hudson), en passant par de nombreux endroits intermédiaires (golfe de l’Alaska, système du Saint-Laurent, île de Montréal). En collaboration de longue date avec l’Observatoire d’oiseaux de McGill, nous étudions l’utilisation des habitats urbains par les oiseaux chanteurs migrateurs et résidents autour de Montréal. Nous participons également à deux programmes de suivi à long terme des oiseaux marins aux îles Middleton et Coats, où nous nous efforçons de comprendre les impacts des pressions anthropiques sur les écosystèmes marins nordiques. Pour répondre à nos questions de recherche, nous combinons des techniques de bio-enregistrement (GPS, géolocalisateurs, accélérométrie) et des technologies émergentes (drones, véhicules de surface autonomes), ainsi que des biomarqueurs physiologiques, l’étude des contaminants et des expériences avec de l’eau doublement marquée. Globalement, nos recherches éclairent les décisions de gestion et approfondissent notre compréhension collective du monde naturel.

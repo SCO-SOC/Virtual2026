@@ -1,0 +1,17 @@
+---
+filename: showcases/showcases_abmi
+title: "CanAvian: Faire progresser l'intégration des données aviaires au Canada"
+author: 
+  - Sofia Guest<sup>1</sup>
+  - Catherine Jardine<sup>2</sup>
+author-affiliation:
+  - 1. Institut de surveillance de la biodiversité de l'Alberta
+  - 2. Oiseaux Canada
+type:  eONG
+date: 2026-10-07
+---
+
+### Résumé
+
+Le Réseau canadien de données aviaires (CanAvian) réunit une vaste communauté de chercheurs, de spécialistes de la conservation et de scientifiques bénévoles qui produisent, gèrent et partagent d'importantes données sur la biodiversité, essentielles à la recherche écologique. CanAvian est dirigé par un comité directeur, des comités consultatifs et des groupes de travail qui coordonnent les priorités en matière de science, de gestion des données et de mobilisation communautaire. CanAvian regroupe trois des plus importantes plateformes de données sur la biodiversité du Canada: NatureCounts (380 millions d'enregistrements), Motus (8 milliards d'enregistrements) et WildTrax (16 millions d'enregistrements), contribuant à plus de 4 500 publications scientifiques. Appuyé par l'Alliance de recherche numérique du Canada, CanAvian met en place des politiques d'accès aux données harmonisées et des normes d'interopérabilité afin de soutenir les principes FAIR et CARE et d'améliorer le partage des données entre les plateformes et les dépôts. Ces liens favoriseront des analyses de plus en plus intégrées et à grande échelle, indispensables à la recherche écologique moderne et aux engagements du Canada en matière de biodiversité. CanAvian offre des possibilités d'adhésion, de contribution et d'accès aux données et invite l'ensemble de la communauté ornithologique canadienne à participer.
+

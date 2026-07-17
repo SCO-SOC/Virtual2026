@@ -1,0 +1,21 @@
+---
+filename: workshops/workshop_incidental_take
+title: "Regulating incidental take in Canada: challenges and opportunities for scientists"
+author: Julie Bourque
+date: 2026-10-05
+length: 2-2.5 hours
+---
+
+### Description  
+Despite the federal prohibition on killing migratory birds and destroying their nests, approximately 269 million birds are killed and almost one million nests are destroyed annually in Canada due to otherwise lawful human activities. Bird mortality results from window collisions, fisheries bycatch, powerline electrocution, among other causes. Nest destruction is primarily associated with vegetation management activities during the breeding season including both temporary activities such as agriculture or forestry and permanent land conversion such as urbanization. This unintentional (incidental) take includes almost all spheres of human activities, both industrial and non-industrial, and is expected to increase as human development accelerates.
+
+In the last few years, there has been renewed interest in regulating incidental take at the federal level. A regulatory system could provide benefits to migratory birds through the universal adoption of beneficial management practices in exchange for more legal certainty. However, such an initiative requires a strong scientific foundation to ensure that decision-making achieves conservation goals. For example, understanding the scope and impact of an activity is essential for establishing a baseline against which mitigation measures can be evaluated. Further research is also needed to evaluate evidence-based mitigation measures and their applicability in the Canadian context.
+
+This workshop will examine the concept of incidental take and will aim to foster discussion on how scientists can influence regulatory and policy development through their research. The workshop will include a presentation followed by an open discussion with participants. The expected outcome is that participants will gain a better understanding of how to present the results of their research to policymakers to better support policy development for migratory birds in Canada. The workshop may also help researchers incorporate incidental take considerations into their work and strengthen collaboration between scientists and policymakers.
+
+### Target audience  
+The target audience consists of researchers with an interest in policy-making and with knowledge on the effects of human activities on migratory birds.
+
+### Prerequisite skills/knowledge  
+Some prior knowledge of the prohibitions of the Migratory Birds Convention Act and the Migratory Birds Regulations 2022 is useful.
+

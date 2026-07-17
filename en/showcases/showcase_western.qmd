@@ -1,0 +1,20 @@
+---
+filename: showcases/showcase_western
+title: "Integrative Ornithology at AFAR"
+author: 
+  - Scott MacDougall-Shackleton
+  - Chris Guglielmo
+  - Carrie Branch
+  - Yolanda Morbey
+  - Beth MacDougall-Shackleton
+  - Alice Boyle
+author-affiliation: 
+ - Western University
+type:  Academic
+date: 2026-10-07
+---
+
+### Abstract
+
+The Advanced Facility for Avian Research at Western University is a world class facility consisting of faculty and trainees that aim to understand how the environment shapes bird ecology. Researchers across disciplines use integrative approaches to investigate everything bird, from neurobiology and behaviour to migratory physiology and conservation. To showcase the innovative research possible at AFAR, we will present on the tools and facilities used to address a multitude of research questions, both ongoing and for the future. In addition to working toward a better understanding of bird biology and ecology, we are passionate about training the next generation of critical thinkers and scientists.
+

@@ -1,0 +1,14 @@
+---
+filename: showcases/showcase_parks_canada
+title: "Monitoring Bird Populations in Canada’s National Parks"
+author: 
+  - Lucy Patterson
+author-affiliation:
+  - Ecological Monitoring Specialist, Parks Canada Agency
+type:  Government
+date: 2026-10-07
+---
+
+### Abstract
+
+Parks Canada Agency monitors birds in protected areas across Canada within a common framework called the Ecological Integrity Monitoring Program (EIMP). This program assesses the status and trend of ecological integrity of 119 ecosystems within 43 national parks across the country and can enable prioritization and evaluation of management actions to enhance ecosystem integrity. Birds are one of the most common indicators, being monitored within six different ecosystem types in 39 parks. Of the avian indicators assessed in 2025, the proportion in good, fair and poor condition was 56%, 31%, and 11%, and the proportion improving, stable and declining was 11%, 43% and 19%. We provide a brief overview of the EIMP and a summary of bird indicators within the program. We also present a case study from a protected area to demonstrate how a monitoring indicator can be developed and used in the ecosystem management planning process.

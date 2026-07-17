@@ -1,0 +1,26 @@
+---
+filename: workshops/workshop_habitat
+title: "Modélisation de l'écologie de l'habitat aviaire"
+author: Andy Crosby
+date: 2026-10-05
+length: "Journée complète / 4 à 5 heures"
+---
+
+### Description  
+Une grande partie des recherches menées sur les oiseaux consiste, explicitement ou implicitement, à modéliser les modes d'utilisation de l'habitat afin de comprendre l'écologie des espèces et les effets potentiels de l'utilisation des terres et du changement climatique sur les populations.Les modes d'utilisation de l'habitat par les oiseaux sont la concrétisation du processus de sélection de l'habitat, lequel est régi par l'interaction entre l'écologie de chaque espèce et le contexte écologique du paysage. Cet atelier vise à fournir une compréhension de base de la manière dont les techniques de modélisation de l'habitat, telles que la modélisation de l'occupation et les fonctions de sélection des ressources, peuvent être utilisées pour tirer des conclusions valides sur l'écologie des espèces et la sélection de l'habitat.
+
+Dans cet atelier, nous utiliserons une combinaison de cours magistraux interactifs et de travaux pratiques en R pour:
+
+1. Acquérir une compréhension des principes de base de l'écologie de l'habitat aviaire ;  
+2. Comprendre la théorie de la modélisation de l'habitat en termes d'utilisation, de disponibilité, de préférence et de sélection de l'habitat ; et  
+3. Comprendre comment les modèles d'occupation et les fonctions de sélection des ressources fonctionnent pour fournir des inférences sur les schémas d'occupation et les facteurs déterminants de la sélection de l'habitat.
+
+Un aspect important de cet atelier consistera à utiliser des simulations de données simples pour mieux comprendre le processus de génération des données et son interaction avec les modèles afin de produire les résultats observés. Ceci permettra aux participants de mieux comprendre et interpréter les résultats des modèles dans leur contexte écologique. Ainsi, cet atelier portera moins sur l'exécution des modèles que sur leur utilisation pour acquérir des connaissances fiables sur les processus écologiques importants. Je fournirai quelques exemples de jeux de données, et les participants sont invités à utiliser leurs propres données pour travailler avec les modèles.
+
+Les résultats attendus seront une meilleure connaissance de l'écologie des habitats aviaires et une capacité accrue à comprendre et à utiliser correctement les techniques courantes de modélisation des habitats à des fins de recherche et de conservation.
+
+### Public cible
+Étudiants et professionnels souhaitant approfondir leurs connaissances en écologie de l'habitat et sur la manière dont la modélisation peut être utilisée pour comprendre la sélection de l'habitat par les oiseaux.
+
+### Compétences/connaissances préalables  
+Maîtrise de base du langage R et compréhension des modèles linéaires généralisés. La compréhension des boucles « for » sera particulièrement importante. Je fournirai aux participants des documents préliminaires afin de les familiariser avec les concepts nécessaires.

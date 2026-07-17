@@ -1,0 +1,20 @@
+---
+filename: workshops/workshop_isotopes
+title: "Introduction à l'attribution des isotopes stables dans R"
+author: Jackson Kusack  
+date: 2026-10-05
+length: "2 à 2,5 heures"
+---
+
+### Description  
+Pour les populations d'animaux sauvages migrateurs, la compréhension des liens entre les sites de reproduction, d'hivernage et de halte migratoire est essentielle à leur conservation et à leur gestion. Les marqueurs intrinsèques, tels que les isotopes stables présents dans les tissus des individus migrateurs, offrent une alternative à l'utilisation d'émetteurs et autres marqueurs extrinsèques. Brièvement, cette méthode établit un lien entre les valeurs isotopiques stables des tissus des consommateurs et celles de l'environnement (en particulier les isotopes stables de l'hydrogène et de l'oxygène dans les précipitations) afin de déterminer les origines probables des tissus. Ces dernières années, plusieurs packages utiles ont été publiés dans l'environnement statistique R (isocat et AssignR), ce qui a considérablement amélioré les fonctionnalités de ces méthodes d'attribution et les a rendues beaucoup plus accessibles.
+
+Dans cet atelier, je présenterai d'abord une brève introduction à la théorie de l'attribution des isotopes stables, puis nous étudierons un exemple de script R. Nous y détaillerons, étape par étape, les procédures permettant de déterminer l'origine probable des migrants d'origine inconnue. Aucune donnée n'est requise de la part des participants, car tout sera fourni pendant l'atelier. Toutefois, les participants sont invités à appliquer le code à leurs propres données.
+
+L'objectif de cet atelier est que les participants acquièrent une meilleure compréhension de l'approche générale et de la théorie sous-jacentes à l'attribution des isotopes stables à l'aide des isotopes de l'hydrogène et repartent avec des éléments de code R fondamentaux sur lesquels ils pourront s'appuyer pour leurs propres analyses.
+
+### Public cible  
+Cet atelier s'adresse aux chercheurs et étudiants intéressés par la collecte de tissus pour l'analyse des isotopes stables, ou qui envisagent de le faire. Il est ouvert à un large public.
+
+### Compétences/connaissances préalables
+Une certaine familiarité avec R/Rmarkdown est suggérée.

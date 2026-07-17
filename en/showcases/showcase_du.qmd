@@ -1,0 +1,19 @@
+---
+filename: showcases/showcase_du
+title: "The Science that Powers Waterfowl Conservation"
+author: 
+  - Matt Dyson
+  - James Paterson
+  - Vanessa Harriman
+  - Lauren Bortolotti
+  - Pascal Badiou
+  - Samuel Robinson
+author-affiliation: 
+ - Ducks Unlimited Canada
+type:  eNGO
+date: 2026-10-07
+---
+
+### Abstract
+
+The Institute for Wetland and Waterfowl Research (IWWR) at Ducks Unlimited Canada conducts interdisciplinary research that advances ornithology within the broader context of wetland ecosystems. Centered on waterfowl ecology, IWWR studies waterfowl habitat use, productivity, and population dynamics, with particular emphasis on breeding landscapes such as the Prairie Pothole Region, while extending across boreal and other wetland systems nationally. Beyond core ornithological questions, IWWR develops quantitative tools and models to guide conservation planning and evaluate program outcomes, ensuring that habitat investments are effective, adaptive, and evidence-based. This includes assessing when programs should be refined, scaled, or phased out. Complementing our work in waterfowl ecology, we have developed substantial research capacity in biodiversity, climate change, carbon dynamics, wetland biogeochemistry, and sustainable agriculture, reflecting emerging priorities in wetland conservation science. Together, these efforts integrate waterfowl science with broader ecological processes to support both understanding and adaptive, outcome-driven conservation.

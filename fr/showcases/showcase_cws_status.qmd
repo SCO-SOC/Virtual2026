@@ -1,0 +1,24 @@
+---
+filename: showcases/showcases_cws_status
+title: "État et tendances nationaux des oiseaux du Canada"
+author: 
+  - Adam C. Smith
+  - Jackson Kusack
+  - Sarah Gutowsky
+  - Dave Iles
+  - Willow English
+  - Marcel Gahbauer
+  - Michel Gendron
+  - Frederique Tremblay
+  - Marie-Anne Hudson
+  - Christian Roy
+  - Charles Francis
+author-affiliation:
+  - Service canadien de la faune
+type:  Gouvernement
+date: 2026-10-07
+---
+
+### Résumé
+
+Les équipes nationales de gestion et d’évaluation de la faune du Service canadien de la faune mènent des recherches à l’appui du suivi et de la gestion des populations d’oiseaux migrateurs du Canada. Ces recherches s’articulent autour de trois grands axes: 1) l’optimisation du suivi appliqué des populations, tant pour les programmes de sciences professionnelles que pour les programmes de sciences participatives, ainsi que pour les technologies de suivi automatisées; 2) l’élaboration de méthodes statistiques intégrées afin d’améliorer les estimations de la taille, de l’état, des tendances et de la répartition des populations; et 3) la coordination de la recherche et de la production de rapports avec les partenaires internationaux afin d’éclairer les mesures de conservation tout au long du cycle annuel. Les projets de recherche en cours et à venir portent notamment sur: l’élaboration de modèles spatio-temporels intégrés de l’état des populations et des facteurs influençant les tendances à partir de données de suivi, de télédétection et de données démographiques; l’élaboration de modèles de détection d’objets pour automatiser le comptage à partir des relevés photographiques des colonies d’oiseaux marins; l’amélioration des modèles statistiques pour l’estimation de la densité et de la taille des populations; l’amélioration des estimations des populations de sauvagine nicheuse par l’optimisation des plans d’étude et la prise en compte des biais dans les sex-ratios; et l’amélioration des relevés et des modèles pour estimer les prélèvements d’oiseaux migrateurs.

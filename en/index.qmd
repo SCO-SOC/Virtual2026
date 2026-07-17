@@ -11,11 +11,14 @@ filename: index
 ### Updates
 
 ::: {.tbl-invisible style="margin-bottom: 20px"}
+
 x | x | x |
 :------------ |:----------------------------------------|:---------------------:|
+July 17th 2026 | **[Showcases posted!](program.qmd#showcases)** | |
 June 23rd 2026 | **[Workshops posted!](program.qmd#workshops)** | |
 May 25th 2026 | **Call for [Abstracts](#presentations)** | Closed |
-April 9th 2026 | **Call for [Workshops](participate.qmd#workshops) and [Cross-Country Showcases](participate.qmd#showcase)** | Closed |
+April 9th 2026 | **Call for [Workshops](participate.qmd#workshops) and [Cross-Country Showcases](participate.qmd#showcase)** | Closed | |
+
 :::
 
 

@@ -1,0 +1,21 @@
+---
+filename: showcases/showcase_eccc_migration
+title: "Drivers of Migratory Bird Population Change in Working Landscapes"
+author: 
+  - Ann E. McKellar
+  - Nancy A. Mahony
+  - Greg W. Mitchell
+  - Elizabeth A. Gow
+author-affiliation: 
+ - Environment and Climate Change Canada
+ - Partner institutions
+type:  Government
+date: 2026-10-07
+---
+
+### Abstract
+
+Drs Ann McKellar, Nancy Mahony, Greg Mitchell, and Elizabeth Gow are Research Scientists from Environment and Climate Change Canada’s Science and Technology Branch, Biodiversity Research Division, who study the conservation of migratory birds in working landscapes. Their research, which extends from the Canadian western forests and Prairies to Atlantic Canada, takes a full annual cycle approach to 1) examine effects of agriculture, forestry, and urbanization on avian distribution, abundance, and fitness, 2) assess population structure and migratory connectivity of priority species and species at risk, and 3) quantify threats associated with aerial and urban habitats. They aim to develop evidence-based solutions that support biodiversity, ecosystem goods and services, and human well-being in working landscapes. The team, including their graduate students, collaborates extensively with universities (where they are Adjunct professors), ENGOs, other federal departments, and governments, both nationally and internationally.
+
+
+

@@ -1,0 +1,21 @@
+---
+filename: workshops/workshop_wildtrax
+title: "Using WildTrax to manage and process your birdsong recordings"
+author: Kevin Kelly
+date: 2026-10-05
+length: "Full day / 4-5 hours"
+---
+
+
+### Description  
+WildTrax is a free online platform developed to remove the barrier of entry for researchers and managers to manage and process ARU recordings at any scale of research program. Developed to help users manage and process acoustic data from raw recordings through to being used in statistical analyses, WildTrax allows users to store raw data, metadata, and derived species data on a cloud system that can be shared by collaborators anywhere in the world. With standardized metadata formats, processing methods and report outputs, the data can be easily stored and shared between users.
+
+In this workshop we'll teach you how to upload and manage acoustic recordings; store and manage metadata such as survey locations, field site visits, and field equipment information; process the recordings to identify the species vocalizing in the recordings; create and manage projects to aggregate your data into collective reports; use the built in birdsong recognizers (BirdNET and HawkEars) to enhance your processing abilities; and publish, share and download the data contained on WildTrax.
+
+The workshop is set-up to be interactive so that users can follow along on the WildTrax platform to perform the various steps being presented using their own data or example data provided by the facilitators to learn the various features and functions available in WildTrax.
+
+### Target audience  
+This workshop is meant to appeal to novice passive acoustic monitoring users (basic understanding of an ARU and spectrogram) to a more experienced researcher wanting to learn how WildTrax can help with their data storage and processing needs.
+
+### Prerequisite skills/knowledge  
+Basic understanding of passive acoustic recordings and spectrograms is helpful.

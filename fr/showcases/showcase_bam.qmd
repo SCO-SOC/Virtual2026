@@ -1,0 +1,20 @@
+---
+filename: showcases/showcases_bam
+title: "Vingt ans de modélisation de l’avifaune boréale"
+author: 
+  - Elly Knight
+  - Steven Van Wilgenburg
+  - Diana Stralberg
+  - Steve Cumming
+  - Jeff Ball
+  - Junior Tremblay
+  - Erin Bayne
+author-affiliation: "Projet de modélisation des oiseaux boréaux"
+type:  eONG
+date: 2026-10-07
+---
+
+### Résumé
+
+La forêt boréale est un biome vaste et isolé qui couvre une grande partie du nord du Canada et de l'Alaska et qui abrite une part importante de l'avifaune néarctique. L'éloignement de cette région a longtemps limité les efforts de suivi systématique, freinant ainsi le développement d'outils d'aide à la décision basés sur les données pour la conservation des oiseaux face aux pressions anthropiques croissantes. Le projet de modélisation des oiseaux boréaux (BAM) a été créé en 2004 dans le cadre d'une initiative collaborative visant à combler cette lacune en regroupant, harmonisant et intégrant des données de comptage ponctuel disparates afin de développer des outils pour la conservation des oiseaux boréaux. Nous présentons un aperçu du développement du BAM, notamment des différents groupes de recherche qui composent l'équipe, et mettons en lumière ses principaux outils pour la conservation des oiseaux. Nous abordons également l'évolution des défis en matière de conservation et les opportunités offertes par les nouvelles technologies et les initiatives de données ouvertes susceptibles d'améliorer les outils de conservation scientifiques pour les oiseaux boréaux.
+

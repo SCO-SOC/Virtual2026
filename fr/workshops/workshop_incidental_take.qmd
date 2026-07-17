@@ -1,0 +1,21 @@
+---
+filename: workshops/workshop_incidental_take
+title: "Réglementer les prises accidentelles au Canada: défis et opportunités pour les scientifiques"
+author: Julie Bourque
+date: 2026-10-05
+length: 2 à 2,5 heures
+---
+
+### Description  
+Malgré l’interdiction fédérale de tuer les oiseaux migrateurs et de détruire leurs nids, environ 269 millions d’oiseaux meurent et près d’un million de nids sont détruits chaque année au Canada en raison d’activités humaines par ailleurs légales. La mortalité aviaire est due, entre autres, aux collisions avec des fenêtres, aux prises accessoires de la pêche et à l’électrocution par les lignes électriques. La destruction des nids est principalement liée aux activités de gestion de la végétation pendant la saison de reproduction, qu’il s’agisse d’activités temporaires comme l’agriculture ou la foresterie ou de la conversion permanente des terres comme l’urbanisation. Ces prélèvements involontaires (accidentels) concernent presque tous les secteurs d’activité humaine, tant industriels que non industriels, et devraient augmenter avec l’accélération du développement humain.
+
+Ces dernières années, on a constaté un regain d’intérêt pour la réglementation des prises accidentelles au niveau fédéral. Un tel système réglementaire pourrait être bénéfique aux oiseaux migrateurs grâce à l’adoption généralisée de pratiques de gestion efficaces, en échange d’une plus grande sécurité juridique. Cependant, une telle initiative exige de solides fondements scientifiques afin de garantir que les décisions prises contribuent à la conservation. Par exemple, il est essentiel de bien comprendre la portée et l’impact d’une activité pour établir une base de référence permettant d’évaluer les mesures d’atténuation. Des recherches supplémentaires sont également nécessaires pour évaluer les mesures d’atténuation fondées sur des données probantes et leur applicabilité au contexte canadien.
+
+Cet atelier examinera la notion de capture accidentelle et visera à encourager les échanges sur la façon dont les scientifiques peuvent influencer l’élaboration des règlements et des politiques grâce à leurs recherches. L’atelier comprendra une présentation suivie d’une discussion ouverte avec les participants. L’objectif est que les participants comprennent mieux comment présenter les résultats de leurs recherches aux décideurs politiques afin de mieux appuyer l’élaboration de politiques pour les oiseaux migrateurs au Canada. L’atelier pourrait également aider les chercheurs à intégrer la notion de capture accidentelle dans leurs travaux et à renforcer la collaboration entre scientifiques et décideurs politiques.
+
+### Public cible  
+Le public cible est composé de chercheurs intéressés par l'élaboration des politiques et possédant des connaissances sur les effets des activités humaines sur les oiseaux migrateurs.
+
+### Compétences/connaissances préalables
+Une connaissance préalable des interdictions prévues par la Loi sur la Convention concernant les oiseaux migrateurs et le Règlement de 2022 sur les oiseaux migrateurs est utile.
+

@@ -1,0 +1,15 @@
+---
+filename: showcases/showcase_uofs
+title: "Écotoxicologie et conservation des communautés d'oiseaux des prairies"
+author: 
+  - Christy Morrissey
+author-affiliation:
+  - Professeure de biologie, Université de la Saskatchewan
+type: Académique
+date: 2026-10-07
+---
+
+
+### Résumé
+
+Nous sommes un laboratoire d'écotoxicologie fortement axé sur la conservation. Nos recherches portent sur les effets des contaminants environnementaux et d'autres facteurs de stress non liés à la pollution afin de mieux comprendre comment les oiseaux, individuellement, au sein des populations et des communautés, réagissent aux menaces. Nous utilisons diverses méthodes, allant des études de dosage contrôlées en captivité et sur le terrain, aux études en bécher et en limnocorral sur les insectes aquatiques qui constituent des proies importantes, en passant par des expériences de terrain à petite et grande échelle, pour évaluer les réponses à court et à long terme des communautés dans l'ensemble de la région des Prairies. Nous nous intéressons particulièrement à l'impact des pesticides et autres facteurs de stress agricoles sur les oiseaux chanteurs communs des prairies et des zones humides, notamment par la modification des proies, la neurotoxicité et les perturbations. Nous menons également des recherches sur les effets de la pollution industrielle sur les oiseaux de rivage.
