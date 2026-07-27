@@ -30,7 +30,7 @@ Prenez note de ces dates!
 ### Sponsors
 
 <!--.column-page > .column-screen-inset > .column-screen > All progressively wider for when we have more -->
-::: {.column-screen-inset layout-nrow=1 layout-valign="center"}
+::: {.column-screen layout-nrow=1 layout-valign="center"}
 [![](figs/Birds-Canada-Logo-2957104739.png){.logo fig-alt="Logo du commanditaire Oiseaux Canada"}](https://www.birdscanada.org/)
 
 [![](figs/Zeiss-Logo.png){.logo fig-alt="Logo du commanditaire Zeiss"}](https://www.zeiss.ca/corporate/en/home.html)
@@ -38,6 +38,8 @@ Prenez note de ces dates!
 [![](figs/ACELOGO.jpg){.logo fig-alt="Logo du commanditaire ACE"}](https://ace-eco.org/)
 
 [![](figs/wildlife_acoustics.png){.logo fig-alt="Logo du commanditaire Wildlife Acoustics"}](https://www.wildlifeacoustics.com/)
+
+[![](figs/cam_logo.svg){.logo fig-alt="Logo du commanditaire Western Centre for Animals on the Move"}](https://www.uwo.ca/cam/)
 :::
 
 ::: {.column-screen}
