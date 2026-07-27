@@ -8,6 +8,7 @@ toc: true
 ## Introduction à Quarto pour la reproductibilité
 **Plomb**: Steffi LaZerte  
 **Longueur**: 2 à 2,5 heures  
+**Heure**: {{< localtime 2026-10-05 15:30 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
 
 ### Description  
 Vous avez du mal à gérer vos analyses de recherche avec R ? Votre vous du futur se plaint-il constamment que votre vous du passé n’ait pas documenté les scripts, les données et les versions des bibliothèques logicielles ? Découvrez la magie de Quarto \! Transformez vos scripts R en rapports reproductibles, contenant toutes les informations nécessaires pour rédiger vos analyses.
@@ -29,6 +30,7 @@ Une certaine familiarité avec R et un environnement de développement intégré
 ## Introduction à l'attribution des isotopes stables dans R
 **Plomb**: Jackson Kusack  
 **Longueur**: 2 à 2,5 heures  
+**Heure**: {{< localtime 2026-10-05 15:30 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
 
 ### Description  
 Pour les populations d'animaux sauvages migrateurs, la compréhension des liens entre les sites de reproduction, d'hivernage et de halte migratoire est essentielle à leur conservation et à leur gestion. Les marqueurs intrinsèques, tels que les isotopes stables présents dans les tissus des individus migrateurs, offrent une alternative à l'utilisation d'émetteurs et autres marqueurs extrinsèques. Brièvement, cette méthode établit un lien entre les valeurs isotopiques stables des tissus des consommateurs et celles de l'environnement (en particulier les isotopes stables de l'hydrogène et de l'oxygène dans les précipitations) afin de déterminer les origines probables des tissus. Ces dernières années, plusieurs packages utiles ont été publiés dans l'environnement statistique R (isocat et AssignR), ce qui a considérablement amélioré les fonctionnalités de ces méthodes d'attribution et les a rendues beaucoup plus accessibles.
@@ -50,6 +52,7 @@ Une certaine familiarité avec R/Rmarkdown est suggérée.
 ## Intégration de BirdNET Analyzer et Kaleidoscope Pro
 **Plomb**: Carlos Abrahams  
 **Longueur**: 2 à 3 heures  
+**Heure**: {{< localtime 2026-10-05 18:00 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
 
 ### Description
 Combinez BirdNET Analyzer et Kaleidoscope Pro pour une analyse acoustique robuste, une assurance qualité (AQ) et le développement de systèmes de reconnaissance personnalisés. Nous explorerons deux cas concrets: (i) la détection automatisée d'oiseaux dans BirdNET, suivie d'une AQ manuelle efficace avec Kaleidoscope Pro, et (ii) l'application des outils de clustering de Kaleidoscope pour générer des séquences d'entraînement de haute qualité en vue de la création d'un système de reconnaissance personnalisé pour les amphibiens dans BirdNET. Les participants découvriront comment utiliser conjointement ces deux puissants logiciels pour tirer parti de leurs atouts respectifs et créer un flux de travail efficace et évolutif pour la surveillance acoustique. Conçu pour les écologues, les bioacousticiens et les praticiens, cet atelier d'acoustique de la faune sauvage met l'accent sur les compétences pratiques, la reproductibilité des flux de travail et la fiabilité des résultats de la surveillance acoustique automatisée.
@@ -67,6 +70,7 @@ Une connaissance générale de Kaleidoscope et de BirdNET est utile pour cet ate
 ## Modélisation du recensement des oiseaux nicheurs avec bbsBayes2: état des lieux, tendances et modélisation causale des facteurs à l’origine des tendances
 **Plomb**: Adam Smith  
 **Longueur**: 2 à 2,5 heures  
+**Heure**: {{< localtime 2026-10-05 18:00 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
 
 ### Description
 
@@ -100,6 +104,7 @@ La maîtrise du langage R est indispensable. Aucune expérience préalable avec 
 ## Réglementer les prises accidentelles au Canada: défis et opportunités pour les scientifiques
 **Plomb**: Julie Bourque  
 **Longueur**: 2 à 2,5 heures  
+**Heure**: {{< localtime 2026-10-05 15:30 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
 
 ### Description  
 Malgré l’interdiction fédérale de tuer les oiseaux migrateurs et de détruire leurs nids, environ 269 millions d’oiseaux meurent et près d’un million de nids sont détruits chaque année au Canada en raison d’activités humaines par ailleurs légales. La mortalité aviaire est due, entre autres, aux collisions avec des fenêtres, aux prises accessoires de la pêche et à l’électrocution par les lignes électriques. La destruction des nids est principalement liée aux activités de gestion de la végétation pendant la saison de reproduction, qu’il s’agisse d’activités temporaires comme l’agriculture ou la foresterie ou de la conversion permanente des terres comme l’urbanisation. Ces prélèvements involontaires (accidentels) concernent presque tous les secteurs d’activité humaine, tant industriels que non industriels, et devraient augmenter avec l’accélération du développement humain.
@@ -122,6 +127,7 @@ Une connaissance préalable des interdictions prévues par la Loi sur la Convent
 ## Utiliser WildTrax pour gérer et traiter vos enregistrements de chants d'oiseaux
 **Plomb**: Kevin Kelly  
 **Longueur**: Journée complète / 4 à 5 heures  
+**Heure**: {{< localtime 2026-10-05 15:30 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
 
 
 ### Description  

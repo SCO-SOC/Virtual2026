@@ -2,7 +2,7 @@
 filename: workshops/workshop_incidental_take
 title: "Regulating incidental take in Canada: challenges and opportunities for scientists"
 author: Julie Bourque
-date: 2026-10-05
+date: 2026-10-05T15:30:00Z
 length: 2-2.5 hours
 ---
 

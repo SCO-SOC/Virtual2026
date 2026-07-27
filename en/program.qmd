@@ -6,10 +6,9 @@ listing:
   - id: workshops-list
     contents: "workshops/*.qmd"
     type: default
-    date-format: "MMM D, YYYY"
-    sort: "title"
-    sort-ui: false
-    filter-ui: false
+    date-format: "MMM D, YYYY h:mma z"
+    sort: ["date","title"]
+    filter-ui: true
     max-description-length: 150
     fields: [date, author, title, length, description]
     field-display-names:

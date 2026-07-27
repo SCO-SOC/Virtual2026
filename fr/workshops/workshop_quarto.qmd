@@ -2,7 +2,7 @@
 filename: workshops/workshop_quarto
 title: "Introduction à Quarto pour la reproductibilité"
 author: Steffi LaZerte
-date: 2026-10-05
+date: 2026-10-05T15:30:00Z
 length: "2 à 2,5 heures"
 ---
 

@@ -2,7 +2,7 @@
 filename: workshops/workshop_wildtrax
 title: "Using WildTrax to manage and process your birdsong recordings"
 author: Kevin Kelly
-date: 2026-10-05
+date: 2026-10-05T15:30:00Z
 length: "Full day / 4-5 hours"
 ---
 

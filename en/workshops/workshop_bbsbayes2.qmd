@@ -2,8 +2,8 @@
 filename: "workshops/workshop_bbsbayes2"
 title: "Modeling Breeding Bird Survey with bbsBayes2: status, trends, and causal modeling of drivers of trends"
 author: Adam Smith   
+date: 2026-10-05T18:00:00Z
 length: "2-2.5 hours"
-date: 2026-10-05
 ---
 
 ### Description

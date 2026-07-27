@@ -29,14 +29,6 @@ There are several ways to make changes (simple to complex):
 - The `index.html` file contains an automatic redirect to the `en` version (i.e.
   if people navigate to https://sco-soc.github.io/
 
-### Program
-
-All workshops, showcases, and presentations get their own 'post' under
-`workshops`, `showcases`, and `presentations` respectively. Then run the
-`combine.R` script to create the all-in-one pages for each type of event. Use
-the 'listing' pages for Quarto websites to create the custom lists on the
-programs page.
-
 ### Multilingual
 
 Two websites under `en` and `fr`, which can be toggled back and forth via the
@@ -54,3 +46,26 @@ To render this site install [Quarto](https://quarto.org) and then in the
 
 Note that all images must be duplicated in each folder (i.e. `en/figs` and
 `fr/figs`) because the projects need images to be in the folder.
+
+### Program
+
+All workshops, showcases, and presentations get their own 'post' under
+`workshops`, `showcases`, and `presentations` respectively. Then run the
+`combine.R` script to create the all-in-one pages for each type of event. Use
+the 'listing' pages for Quarto websites to create the custom lists on the
+programs page.
+
+Note that the date formats have to be set *separately* as 12-hr and 24-hr for EN
+and FR, respectively.
+
+They need to be set in the
+
+- YAML of the `program.qmd` page
+- Body `program_xxxx.qmd` page (created by `combine.R`)
+- YAML `xxxx/xxxx_name.qmd` page (e.g., `workshops/workshop_quarto.qmd`)
+
+It's also a bit confusing as the formats differ depending on whether it is
+[Quarto date/time](https://quarto.org/docs/reference/dates.html) (for YAML) or
+[Luxon date/time](https://github.com/EllaKaye/localtime) (for body text).
+
+Also note that the Luxon date/time needs HH:MM input ONLY, no seconds.

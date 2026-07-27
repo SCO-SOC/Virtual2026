@@ -2,7 +2,7 @@
 filename: "workshops/workshop_birdnet"
 title: "Intégration de BirdNET Analyzer et Kaleidoscope Pro"
 author: Carlos Abrahams
-date: 2026-10-05
+date: 2026-10-05T18:00:00Z
 length: "2 à 3 heures"
 ---
 

@@ -3,7 +3,7 @@ filename: "workshops/workshop_bbsbayes2"
 title: "Modélisation du recensement des oiseaux nicheurs avec bbsBayes2: état des lieux, tendances et modélisation causale des facteurs à l’origine des tendances"
 author: Adam Smith   
 length: "2 à 2,5 heures"
-date: 2026-10-05
+date: 2026-10-05T18:00:00Z
 ---
 
 ### Description

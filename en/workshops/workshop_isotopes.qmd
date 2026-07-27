@@ -2,7 +2,7 @@
 filename: workshops/workshop_isotopes
 title: "Introduction to stable-isotope assignment in R"
 author: Jackson Kusack  
-date: 2026-10-05
+date: 2026-10-05T15:30:00Z
 length: "2-2.5 hours"
 ---
 

@@ -1,3 +1,8 @@
+time_fmt <- function(t) {
+  format(lubridate::ymd_hms(t), '%Y-%m-%d %H:%M %Z')
+}
+time_fmt("2025-01-01T10:30:00")
+
 combine_items <- function(lang, type, by = "title") {
   w <- list.files(
     file.path(lang, paste0(type, "s")),
@@ -28,13 +33,13 @@ combine_items <- function(lang, type, by = "title") {
   w_print <- w_deets[w_sort] |>
     purrr::map_chr(\(txt) {
       txt <- purrr::map(txt, \(x) paste0(x, collapse = ", "))
-
       if (type == "workshop") {
         meta <- glue::glue_data(
           txt,
           "## {title}",
           "**{if(lang == 'en') 'Lead' else 'Plomb'}**: {author}  ",
           "**{if(lang == 'en') 'Length' else 'Longueur'}**: {length}  ",
+          "**{if(lang == 'en') 'Time' else 'Heure'}**: {{{{< localtime {time_fmt(date)} format='%b %-d, %Y {if(lang == 'en') '%-I:%M%P' else '%-H:%M'} %Z' >}}}}  ",
           "{body}",
           .sep = "\n"
         )
@@ -44,6 +49,7 @@ combine_items <- function(lang, type, by = "title") {
           "## {title}",
           "**{if(lang == 'en') 'Presenter(s)' else 'Présentateur·rice·s'}**: {paste0(author, collapse = ', ')}  ",
           "**{if(lang == 'en') 'Affiliation(s)' else 'Affiliation·s'}**: {paste0(`author-affiliation`, collapse = ', ')}  ",
+          #"**{if(lang == 'en') 'Time' else 'Heure'}**: {{{{< \"{date}\" | date \"MMM D, YYYY hh:mm z\" >}}}}  ",
           "**{if(lang == 'en') 'Organization Type' else 'Type d\\'organisation'}**: {paste0(`type`, collapse = ', ')}  ",
           "{unique(body)}",
           .sep = "\n"

@@ -2,7 +2,7 @@
 filename: workshops/workshop_wildtrax
 title: "Utiliser WildTrax pour gérer et traiter vos enregistrements de chants d'oiseaux"
 author: Kevin Kelly
-date: 2026-10-05
+date: 2026-10-05T15:30:00Z
 length: "Journée complète / 4 à 5 heures"
 ---
 

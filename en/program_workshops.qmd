@@ -8,6 +8,7 @@ toc: true
 ## Integrating BirdNET Analyzer & Kaleidoscope Pro
 **Lead**: Carlos Abrahams  
 **Length**: 2-3 hours  
+**Time**: {{< localtime 2026-10-05 18:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Description
 
@@ -28,6 +29,7 @@ General knowledge of Kaleidoscope and BirdNET are helpful for this workshop.
 ## Introduction to Quarto for Reproducibility
 **Lead**: Steffi LaZerte  
 **Length**: 2-2.5 hours  
+**Time**: {{< localtime 2026-10-05 15:30 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Description  
 Do you struggle to keep track of your research analyses in R? Is future-self constantly complaining about past-self's inability to document scripts, data, and package versions? Come explore the magic of Quarto\! Turn your R scripts into reproducible reports complete with all the information future-self needs to write up your analyses.
@@ -49,6 +51,7 @@ Some familiarity with R and an R IDE (e.g., RStudio or Positron). Basic familiar
 ## Introduction to stable-isotope assignment in R
 **Lead**: Jackson Kusack  
 **Length**: 2-2.5 hours  
+**Time**: {{< localtime 2026-10-05 15:30 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Description  
 For migratory wildlife populations, understanding the connections between breeding, non-breeding, and stopover locations is integral to their conservation and management. Intrinsic markers, such as stable isotopes, found within the tissues of migratory individuals offer an alternative to the use of transmitters and other extrinsic markers. Briefly, this method relates the stable-isotope values of consumer tissues to those of the environment (especially stable isotopes of hydrogen and oxygen in precipitation) to determine likely origins where tissues were grown. In recent years there has been a handful of helpful packages released in the R statistical environment (isocat and AssignR) which have increased the functionality of these assignment methods and made them much more accessible.
@@ -70,6 +73,7 @@ Some familiarity with R/Rmarkdown is suggested.
 ## Modeling Breeding Bird Survey with bbsBayes2: status, trends, and causal modeling of drivers of trends
 **Lead**: Adam Smith  
 **Length**: 2-2.5 hours  
+**Time**: {{< localtime 2026-10-05 18:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Description
 
@@ -103,6 +107,7 @@ Familiarity with coding in R is necessary. No prior experience with Stan or Baye
 ## Regulating incidental take in Canada: challenges and opportunities for scientists
 **Lead**: Julie Bourque  
 **Length**: 2-2.5 hours  
+**Time**: {{< localtime 2026-10-05 15:30 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Description  
 Despite the federal prohibition on killing migratory birds and destroying their nests, approximately 269 million birds are killed and almost one million nests are destroyed annually in Canada due to otherwise lawful human activities. Bird mortality results from window collisions, fisheries bycatch, powerline electrocution, among other causes. Nest destruction is primarily associated with vegetation management activities during the breeding season including both temporary activities such as agriculture or forestry and permanent land conversion such as urbanization. This unintentional (incidental) take includes almost all spheres of human activities, both industrial and non-industrial, and is expected to increase as human development accelerates.
@@ -125,6 +130,7 @@ Some prior knowledge of the prohibitions of the Migratory Birds Convention Act a
 ## Using WildTrax to manage and process your birdsong recordings
 **Lead**: Kevin Kelly  
 **Length**: Full day / 4-5 hours  
+**Time**: {{< localtime 2026-10-05 15:30 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 
 ### Description  
