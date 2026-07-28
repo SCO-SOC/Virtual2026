@@ -2,12 +2,12 @@
   {
     "listing": "/program.html",
     "items": [
-      "/workshops/workshop_birdnet.html",
       "/workshops/workshop_quarto.html",
       "/workshops/workshop_isotopes.html",
-      "/workshops/workshop_bbsbayes2.html",
       "/workshops/workshop_incidental_take.html",
       "/workshops/workshop_wildtrax.html",
+      "/workshops/workshop_birdnet.html",
+      "/workshops/workshop_bbsbayes2.html",
       "/showcases/showcase_uofm.html",
       "/showcases/showcase_cws_banding.html",
       "/showcases/showcase_abmi.html",
