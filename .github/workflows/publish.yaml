@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env: 
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      TZ: America/Toronto
     permissions:
       contents: write
     
