@@ -33,7 +33,7 @@ listing:
 
 *The current schedule is **tentative** and subject to change.*
 
-All times are in your browser's local time.
+Schedule times are in your browser's local time.
 
 ::: {.program .list-table .squish}
 - - Time
@@ -96,14 +96,14 @@ All times are in your browser's local time.
 
 ## Workshops {#workshops .no-border}
 
-[*View all*](program_workshops.qmd)  
+Times are in Eastern Daylight Savings; [*View all*](program_workshops.qmd)  
 
 :::{#workshops-list}
 :::
 
 ## Cross Country Research Showcases {#showcases .no-border}
 
-[*View all*](program_showcases.qmd)  
+Times are in Eastern Daylight Savings; [*View all*](program_showcases.qmd)  
 
 :::{#showcases-list}
 :::

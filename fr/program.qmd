@@ -33,7 +33,7 @@ listing:
 
 *Le calendrier actuel est **provisoire** et susceptible de modifications.*
 
-Toutes les heures sont affichées selon l'heure locale de votre navigateur.
+Les heures à l'horaire correspondent à l'heure locale de votre navigateur.
 
 ::: {.program .list-table .squish}
 - - Heure
@@ -92,7 +92,7 @@ Toutes les heures sont affichées selon l'heure locale de votre navigateur.
 
 ## Ateliers  {#workshops .no-border}
 
-[*Tout afficher*](program_workshops.qmd)  
+Les heures sont à l'heure avancée de l'Est; [*Tout afficher*](program_workshops.qmd)  
 
 :::{#workshops-list}
 :::
@@ -101,7 +101,7 @@ Toutes les heures sont affichées selon l'heure locale de votre navigateur.
 
 ## Présentation de la recherche en cross-country {#showcases .no-border}
 
-[*Tout afficher*](program_showcases.qmd)  
+Les heures sont à l'heure avancée de l'Est; [*Tout afficher*](program_showcases.qmd)  
 
 :::{#showcases-list}
 :::
