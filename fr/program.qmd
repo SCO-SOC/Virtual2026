@@ -31,15 +31,64 @@ listing:
 
 ### Programmation {.hide}
 
-À chaque jour, la conférence se tiendra de 11h00 à 18h00 heure de l'Est.  
-*Le calendrier actuel est provisoire et susceptible de modifications.*
+*Le calendrier actuel est **provisoire** et susceptible de modifications.*
 
-Date | Programmation
----- | --------------------
-**Lundi 5 octobre** | • Ateliers<br>• Assemblée générale annuelle
-**Mardi 6 octobre** | • Présentations des étudiant·e·s, y compris le concours<br>« Ma thèse en 3 minutes » (3MT)
-**Mercredi 7 octobre** | • Séance plénière de remise des prix ECR<br>• Présentation de la recherche en cross-country (symposiums)<br>• Cérémonie de remise des prix
-: {tbl-colwidths="[25,75]"}
+Toutes les heures sont affichées selon l'heure locale de votre navigateur.
+
+::: {.program .list-table .squish}
+- - Heure
+  - Lundi (oct 5)
+  - Mardi (oct 6)
+  - Mercredi (oct 7)
+- - {{< localtime 2026-10-05 11:00 EDT format='%H:%M %Z' >}}
+  - []{rowspan=2} 
+  - []{rowspan=2  .socialevents} Annonces / Activité sociale
+  - []{rowspan=2  .socialevents} Annonces / Activité sociale
+- - {{< localtime 2026-10-05 11:15 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 11:30 EDT format='%H:%M' >}}
+  - []{rowspan=8  .workshops} Ateliers
+  - []{rowspan=10 .mainevents} Présentations des étudiant·e·s
+  - []{rowspan=3  .specialevents} Séance plénière de remise des prix ECR
+- - {{< localtime 2026-10-05 11:45 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 12:00 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 12:15 EDT format='%H:%M' >}}
+  - []{rowspan=5  .mainevents} Présentation de la recherche en cross-country
+- - {{< localtime 2026-10-05 12:30 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 12:45 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 13:00 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 13:15 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 13:30 EDT format='%H:%M' >}} 
+  - []{rowspan=2  .socialevents} Pause / Activité sociale
+  - []{rowspan=2  .socialevents} Pause / Activité sociale
+- - {{< localtime 2026-10-05 13:45 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 14:00 EDT format='%H:%M' >}} 
+  - []{rowspan=10 .workshops} Ateliers
+  - []{rowspan=4  .socialevents} Pause / Activité sociale
+  - []{rowspan=8  .mainevents} Présentation de la recherche en cross-country
+- - {{< localtime 2026-10-05 14:15 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 14:30 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 14:45 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
+  - []{rowspan=4  .mainevents} Présentations des étudiant·e·s
+- - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 15:30 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 15:45 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 16:00 EDT format='%H:%M' >}} 
+  - []{rowspan=4  .specialevents} « Ma thèse en 3 minutes » (3MT)
+  - []{rowspan=2  .socialevents} Pause / Activité sociale
+- - {{< localtime 2026-10-05 16:15 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 16:30 EDT format='%H:%M' >}} 
+  - []{rowspan=4  .specialevents} Assemblée générale annuelle
+  - []{rowspan=4  .mainevents} Présentation de la recherche en cross-country
+- - {{< localtime 2026-10-05 16:45 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
+  - []{rowspan=4  .socialevents} Rencontre de réseautage
+- - {{< localtime 2026-10-05 17:15 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 17:30 EDT format='%H:%M' >}} 
+  - []{rowspan=4  .socialevents} Activité sociale (?)
+  - []{rowspan=2  .specialevents} Cérémonie de remise des prix 
+- - {{< localtime 2026-10-05 17:45 EDT format='%H:%M' >}}
+:::
 
 ## Ateliers  {#workshops .no-border}
 

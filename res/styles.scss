@@ -105,3 +105,43 @@ h3.listing-title {
 #title-block-header.quarto-title-block.default .quarto-title-meta {
     grid-template-columns: repeat(3, 1fr);
 }
+
+.socialevents {
+    background-color: #AAB592 !important;
+}
+
+.mainevents {
+    background-color: #e3d8a0 !important;
+}
+
+.workshops {
+    background-color: #BDB2B9 !important;
+}
+
+.specialevents {
+    background-color: #A0ACBB !important;
+}
+
+
+.program.table {
+    text-align: center;
+}
+
+.program td,
+.program tr {
+    font-size: 95%;
+    border-color: #848e7d;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+}
+
+/* Hours smaller */
+.program td:first-child {
+    font-size: 75%;
+    padding: 1px;
+}
+
+.program p {
+    margin: 1px;
+}

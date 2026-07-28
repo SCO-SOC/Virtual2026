@@ -31,15 +31,68 @@ listing:
 
 ### Program {.hide}
 
-Each day's programs will run from 11:00-6:00 ET  
-*The current schedule is tentative and subject to change.*
+*The current schedule is **tentative** and subject to change.*
 
-Date | Program
----- | --------------------
-**Monday October 5** | • Workshops<br>• AGM
-**Tuesday October 6** | • Student Presentations (including 3 minute thesis, 3MT) 
-**Wednesday October 7** | • ECR Award Plenary<br>• Cross Country Research Showcase (Symposiums)<br>• Award Ceremony
-: {tbl-colwidths="[25,75]"}
+All times are in your browser's local time.
+
+::: {.program .list-table .squish}
+- - Time
+  - Monday (Oct 5)
+  - Tuesday (Oct 6)
+  - Wednesday (Oct 7)
+- - {{< localtime 2026-10-05 11:00 EDT format='%H:%M %Z' >}}
+  - []{rowspan=2} 
+  - []{rowspan=2  .socialevents} Announcements / Social Event
+  - []{rowspan=2  .socialevents} Announcements / Social Event
+- - {{< localtime 2026-10-05 11:15 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 11:30 EDT format='%H:%M' >}}
+  - []{rowspan=8  .workshops} Workshops
+  - []{rowspan=10 .mainevents} Student Presentations
+  - []{rowspan=3  .specialevents} Plenary - Early Career Award Winner
+- - {{< localtime 2026-10-05 11:45 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 12:00 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 12:15 EDT format='%H:%M' >}}
+  - []{rowspan=5  .mainevents} Research Showcase
+- - {{< localtime 2026-10-05 12:30 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 12:45 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 13:00 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 13:15 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 13:30 EDT format='%H:%M' >}} 
+  - []{rowspan=2  .socialevents} Break / Social Event
+  - []{rowspan=2  .socialevents} Break / Social Event
+- - {{< localtime 2026-10-05 13:45 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 14:00 EDT format='%H:%M' >}} 
+  - []{rowspan=10 .workshops} Workshops
+  - []{rowspan=4  .socialevents} Break / Social Event
+  - []{rowspan=8  .mainevents} Research Showcase
+- - {{< localtime 2026-10-05 14:15 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 14:30 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 14:45 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
+  - []{rowspan=4  .mainevents} Student Presentations
+- - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 15:30 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 15:45 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 16:00 EDT format='%H:%M' >}} 
+  - []{rowspan=4  .specialevents} Three-minute Thesis (3MT)
+  - []{rowspan=2  .socialevents} Break / Social Event
+- - {{< localtime 2026-10-05 16:15 EDT format='%H:%M' >}} 
+- - {{< localtime 2026-10-05 16:30 EDT format='%H:%M' >}} 
+  - []{rowspan=4  .specialevents} Annual General Meeting
+  - []{rowspan=4  .mainevents} Research Showcase
+- - {{< localtime 2026-10-05 16:45 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
+  - []{rowspan=4  .socialevents} Networking Social
+- - {{< localtime 2026-10-05 17:15 EDT format='%H:%M' >}}
+- - {{< localtime 2026-10-05 17:30 EDT format='%H:%M' >}} 
+  - []{rowspan=4  .socialevents} Social Event (?)
+  - []{rowspan=2  .specialevents} Awards Ceremony 
+- - {{< localtime 2026-10-05 17:45 EDT format='%H:%M' >}}
+:::
+
+
+
+
 
 ## Workshops {#workshops .no-border}
 
