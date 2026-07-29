@@ -3,7 +3,7 @@ title: "Resources"
 filename: resources
 ---
 
-### T-Shirt Sizing Chart (#tshirt-size)
+### T-Shirt Sizing Chart {#tshirt-size}
 
 :::{style="width: 50%; margin:auto;"}
 | Size | Length (cm) | Width (cm) |
