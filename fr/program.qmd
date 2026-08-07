@@ -33,7 +33,7 @@ listing:
 
 *Le calendrier actuel est **provisoire** et susceptible de modifications.*
 
-Les heures à l'horaire correspondent à l'heure locale de votre navigateur.
+L’horaire correspond à l’heure locale de votre navigateur.
 
 ::: {.program .list-table .squish}
 - - Heure
@@ -52,7 +52,7 @@ Les heures à l'horaire correspondent à l'heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 11:45 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 12:00 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 12:15 EDT format='%H:%M' >}}
-  - []{rowspan=5  .mainevents} Présentation de la recherche en cross-country
+  - []{rowspan=5  .mainevents} Présentation de la recherche pancanadienne
 - - {{< localtime 2026-10-05 12:30 EDT format='%H:%M' >}} 
 - - {{< localtime 2026-10-05 12:45 EDT format='%H:%M' >}} 
 - - {{< localtime 2026-10-05 13:00 EDT format='%H:%M' >}} 
@@ -64,7 +64,7 @@ Les heures à l'horaire correspondent à l'heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 14:00 EDT format='%H:%M' >}} 
   - []{rowspan=10 .workshops} Ateliers
   - []{rowspan=4  .socialevents} Pause / Activité sociale
-  - []{rowspan=8  .mainevents} Présentation de la recherche en cross-country
+  - []{rowspan=8  .mainevents} Présentation de la recherche pancanadienne
 - - {{< localtime 2026-10-05 14:15 EDT format='%H:%M' >}} 
 - - {{< localtime 2026-10-05 14:30 EDT format='%H:%M' >}} 
 - - {{< localtime 2026-10-05 14:45 EDT format='%H:%M' >}} 
@@ -79,7 +79,7 @@ Les heures à l'horaire correspondent à l'heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 16:15 EDT format='%H:%M' >}} 
 - - {{< localtime 2026-10-05 16:30 EDT format='%H:%M' >}} 
   - []{rowspan=4  .specialevents} Assemblée générale annuelle
-  - []{rowspan=4  .mainevents} Présentation de la recherche en cross-country
+  - []{rowspan=4  .mainevents} Présentation de la recherche pancanadienne
 - - {{< localtime 2026-10-05 16:45 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
   - []{rowspan=4  .socialevents} Rencontre de réseautage
@@ -99,7 +99,7 @@ Les heures sont à l'heure avancée de l'Est; [*Tout afficher*](program_workshop
 
 
 
-## Présentation de la recherche en cross-country {#showcases .no-border}
+## Présentation de la recherche pancanadienne {#showcases .no-border}
 
 Les heures sont à l'heure avancée de l'Est; [*Tout afficher*](program_showcases.qmd)  
 
