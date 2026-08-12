@@ -1,5 +1,5 @@
 ---
-title: "Activités"
+title: "Activités sociales"
 filename: events
 toc: true
 ---
