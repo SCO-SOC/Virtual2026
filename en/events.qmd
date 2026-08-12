@@ -1,0 +1,57 @@
+---
+title: "Events"
+filename: events
+toc: true
+---
+
+In addition to our main program of [Workshops](program.qmd#workshops), [Student Presentations](program.qmd#presentations), and [Cross‑Country Research Showcases](program.qmd#workshops) we also have social events and activities and *prizes*! Some are live and some asynchronous to fit your schedule, and all to create opportunities for fun and connection.
+
+### 🐦 eBird Trip Report {#ebird}
+Calling all eBirders! How many species of birds can we spot during the conference? To participate, provide your eBird username when you register for the conference (or in the event sign-up form - *Form coming soon*). Go birding and submit your checklists through eBird from **Sunday, October 4 to Thursday, October 8** to contribute to our Trip Report. Consider pairing your eBirding with the [Scavenger Hunt](#scavenger-hunt)!
+
+🌺 Everyone who submits at least one checklist during the [Trip Report](https://ebird.org/tripreport/527162) period will be entered in a prize draw. 
+
+Not familiar with eBird but want to participate or learn more? [Check out this handy guide](https://support.ebird.org/en/support/solutions/articles/48001158707-get-started-with-ebird). 
+
+### 🔎 Scavenger Hunt {#scavenger-hunt}
+Wherever you are, connect, explore, and contribute to a conference-wide birding adventure with our Birding Scavenger Hunt!
+
+Take some time away from the screen to get outside and find some birds. Challenges involve taking photos, videos, and/or audio recordings of birds (or birders!) to satisfy specific requirements (e.g., A flying bird). Already participating in the [eBird Trip Report](#ebird)? Turn your eBird trip into an exciting observation challenge!
+
+To participate in this event, please fill out the event sign-up form (*form coming soon*). Everyone can participate, and you can submit any form of media (photo, audio recordings, and so on) as long as it adheres to the assigned challenge. 
+
+**Your local birds are calling, join the hunt from October 4 to October 8**! 
+
+🌺 Participants who complete the birding scavenger hunt challenges will be entered in a prize draw, one entry per completed challenge.
+
+*The list of challenges will be made available here on October 4*.
+
+### 🍹 Networking Social 
+Bring a snack, water, and/or beverage of choice and join us for a virtual Networking Social! We’ll have several rounds of speed networking in small groups of 3-4 people with prompts for discussion and exploration. Take this time to get to know your fellow ornithologists in a casual, friendly, low-stakes environment. Find out who loves chickadees, who’s studying migration, and who knows the same ornithologists you do! 
+
+- **{{< localtime 2026-10-06 18:00 EDT format='%A, %b %-d %H:%M %Z' >}}** (After the 3MT presentations)
+- 🌺 Door prizes! 
+- No registration required
+
+### 💬 Mentoring Conversations
+Pair up for a mini-mentorship chat at a time that works best for you! When registering for the conference indicate your interest in participating as a mentor or mentee\*. We’ll pair (or trio) you based on interest and experience with different career sectors. Once paired, we’ll send an introductory email and then you can find a good time to meet ideally the week before, during, or if necessary, after the conference. Take advantage of this easy networking! Mentees, this is a great opportunity to learn more about what it’s like to work in different sectors; Mentors, this is a great opportunity to meet new ornithologists and share your experiences.
+
+\* Not sure if you’re a mentor or a mentee? Choose based on what you want to get out of this experience. Are you a student, early career, or in transition? Consider signing up as a mentee. Are you looking to share experiences in working or developing a career in your sector? Consider signing up as a mentor.
+
+### ☕ Coffee Socials
+Join the SCO-SOC Student Committee for a series of Coffee Socials to meet others in the ornithology community and connect over our shared interests! Each room will have a theme (eg. photography, gardening, travel, crafts, and birding of course!) and a facilitator to help get the conversation started. Grab your beverage of choice and a snack, and drop-in for a chat! 
+
+This event is open to all attendees, from students to later career stages. 
+
+*Schedule coming soon*.
+
+### 🐓 The Roost
+Conferences are all about connection, and in a virtual environment we can get creative! We’ll be using [The Roost](https://roost.birdscanada.org/about), Birds Canada’s online "community for ornithologists from Canada and elsewhere", to facilitate discussion and research-sharing. 
+
+Had a question you wanted to ask a presenter, but didn’t get the chance? Found an interesting research article you want to discuss with fellow conference goers? Have a bird sighting you want to share? This is the place! 
+
+🌺 Everyone who engages in discussion in the Conference Topics on The Roost during the conference period (October 5 to October 7) will be entered in a prize draw! 
+
+Get started by checking out the pinned [Welcome to the Roost](https://roost.birdscanada.org/t/welcome-to-the-roost-bienvenue-au-perchoir/5) post so you’re ready to go as soon as the conference starts! 
+
+*More information about participation specific to the conference will be available soon*.

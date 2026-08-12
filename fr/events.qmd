@@ -1,0 +1,58 @@
+---
+title: "Activités"
+filename: events
+toc: true
+---
+
+En plus de notre programme principal composé d’[ateliers](program.qmd#workshops), de [présentations étudiantes](program.qmd#presentations) et de [présentations de la recherche pancanadienne](program.qmd#workshops), nous proposons également des activités sociales et des *prix*! Certaines activités ont lieu en direct et d’autres de façon asynchrone pour s’adapter à votre emploi du temps, le tout afin de créer des occasions de plaisir et de réseautage.
+
+### 🐦 Rapports de sortie eBird {#ebird}
+Appel à toute la communauté eBird! Combien d'espèces d'oiseaux pourrons-nous observer pendant la conférence? Pour participer, fournissez votre nom d'utilisateur ou d'utilisatrice eBird lors de votre inscription à la conférence (ou dans le formulaire d'inscription à l'activité - *Formulaire à venir*). Allez observer les oiseaux et soumettez vos listes de contrôle via eBird du **dimanche 4 octobre au jeudi 8 octobre** pour contribuer à notre rapport de sortie. Pensez à jumeler vos observations eBird avec le [Chasse au trésor](#scavenger-hunt)!
+
+🌺 Chaque personne qui soumet au moins une liste de contrôle pendant la période du [Rapport de voyage](https://ebird.org/tripreport/527162) sera inscrite à un tirage au sort. 
+
+Vous ne connaissez pas eBird mais vous souhaitez participer ou en savoir plus? [Consultez ce guide pratique](https://support.ebird.org/en/support/solutions/articles/48001158707-get-started-with-ebird).
+
+### 🔎 Chasse au trésor
+Où que vous soyez, connectez-vous, explorez et participez à une aventure d'observation d'oiseaux à l'échelle de la conférence grâce à notre chasse au trésor ornithologique!
+
+Prenez le temps de vous éloigner de l'écran pour aller dehors et trouver des oiseaux. Les défis consistent à prendre des photos, des vidéos et/ou des enregistrements audio d'oiseaux (ou d'ornithologues!) pour répondre à des critères spécifiques (par ex., un oiseau en vol). Vous participez déjà au [Rapport de sortie eBird](#ebird-trip-report)? Transformez votre sortie eBird en un défi d'observation passionnant !
+
+Pour participer à cet événement, veuillez remplir le formulaire d'inscription (*formulaire à venir*). Tout le monde peut participer, et vous pouvez soumettre tout type de média (photo, enregistrements audio, etc.) à condition qu'il respecte le défi assigné. 
+
+**Les oiseaux de votre région vous appellent, participez à la chasse du 4 au 8 octobre!** 
+
+🌺 Les personnes participantes qui relèvent les défis de la chasse au trésor ornithologique seront inscrites à un tirage au sort, à raison d'une participation par défi complété.
+
+*La liste des défis sera rendue disponible ici le 4 octobre*.
+
+### 🍹 Activité de réseautage
+Apportez une collation, de l'eau et/ou la boisson de votre choix et joignez-vous à nous pour une activité de réseautage virtuel! Nous organiserons plusieurs séances de réseautage éclair en petits groupes de 3 à 4 personnes avec des pistes de discussion et d'exploration. Profitez de ce moment pour faire la connaissance de vos collègues ornithologues dans un cadre décontracté, amical et sans pression. Découvrez qui adore les mésanges, qui étudie la migration et qui connaît les mêmes ornithologues que vous!
+
+- **{{< localtime 2026-10-06 18:00 EDT format='%Y-%m-%d %H:%M %Z' >}}** (Après les présentations 3MT)
+- 🌺 Prix de présence!
+- Aucune inscription requise
+
+
+### 💬 Conversations de mentorat
+Jumelez-vous pour une mini-discussion de mentorat au moment qui vous convient le mieux! Lors de votre inscription au congrès, indiquez votre intérêt à participer en tant que mentor·e ou mentoré·e\*. Nous vous jumellerons (en duo ou en trio) en fonction de vos intérêts et de votre expérience dans différents secteurs professionnels. Une fois le jumelage effectué, nous vous enverrons un courriel d'introduction et vous pourrez ensuite trouver un moment opportun pour vous rencontrer, idéalement la semaine précédant le congrès, pendant celui-ci, ou, si nécessaire, après. Profitez de ce réseautage facile! Mentoré·e·s, c'est une excellente occasion d'en apprendre davantage sur le travail dans différents secteurs; Mentor·e·s, c'est une belle opportunité de rencontrer de nouveaux et de nouvelles ornithologues et de partager vos expériences.
+
+\* Vous ne savez pas si vous êtes un·e mentor·e ou un·e mentoré·e? Choisissez en fonction de ce que vous souhaitez retirer de cette expérience. Êtes-vous aux études, en début de carrière ou en transition? Envisagez de vous inscrire comme personne mentorée. Cherchez-vous à partager vos expériences de travail ou de développement de carrière dans votre secteur? Envisagez de vous inscrire comme mentor·e.
+
+### ☕ Cafés-rencontres
+Joignez-vous au comité étudiant de la SCO-SOC pour une série de cafés-rencontres afin de faire la connaissance d'autres membres de la communauté ornithologique et de tisser des liens autour de nos intérêts communs! Chaque salle aura un thème (p. ex. la photographie, le jardinage, les voyages, l'artisanat et l'observation des oiseaux bien sûr!) ainsi qu'une personne animatrice pour aider à lancer la conversation. Prenez votre boisson préférée et une collation, et passez discuter! 
+
+Cet événement est ouvert à toutes les personnes participantes, des gens aux études jusqu'à ceux et celles à un stade plus avancé de leur carrière. 
+
+*Horaire à venir*.
+
+### 🐓 Le Perchoir
+Les congrès sont avant tout une question de connexion, et dans un environnement virtuel, nous pouvons faire preuve de créativité ! Nous utiliserons [Le Perchoir](https://roost.birdscanada.org/about), la « communauté pour les ornithologues du Canada et d'ailleurs» d'Oiseaux Canada, pour faciliter les discussions et le partage de recherches. 
+
+Vous aviez une question à poser à une personne conférencière, mais vous n'en avez pas eu l'occasion? Vous avez trouvé un article de recherche intéressant dont vous aimeriez discuter avec les autres personnes participant au congrès? Vous avez fait une observation d'oiseau que vous souhaitez partager? C'est l'endroit idéal! 
+
+🌺 Toute personne qui participe aux discussions dans les sujets du congrès sur Le Perchoir pendant la durée de l'événement (du 5 au 7 octobre) sera inscrite à un tirage au sort! 
+
+Commencez par consulter la publication épinglée [Bienvenue au perchoir](https://roost.birdscanada.org/t/welcome-to-the-roost-bienvenue-au-perchoir/5) pour être prêt·e·s à participer dès le début du congrès! 
+
+*De plus amples informations sur la participation spécifique au congrès seront bientôt disponibles*.
