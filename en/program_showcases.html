@@ -240,7 +240,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="avian-behaviour-and-conservation-lab-timing-movement-and-conservation-of-migratory-birds">Avian Behaviour and Conservation Lab: Timing, Movement, and Conservation of Migratory Birds</h2>
 <p><strong>Presenter(s)</strong>: Kevin Fraser (PI), Vinuri Mendis (PhD Student), Yantong Tan (PhD Student), Rebecca Asham (MSc Student), Tamara Sturch (MSc Student)<br>
 <strong>Affiliation(s)</strong>: University of Manitoba<br>
-<strong>Organization Type</strong>: Academic</p>
+<strong>Organization Type</strong>: Academic<br>
+<strong>Time</strong>: <script src="https://cdn.jsdelivr.net/npm/luxon@3/build/global/luxon.min.js"></script><span id="localtime-1" class="localtime" data-datetime="2026-10-07T18:45" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 18:45 UTC</span><script>(function(){var el=document.getElementById('localtime-1');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract" class="level3">
 <h3 class="anchored" data-anchor-id="abstract">Abstract</h3>
 <p>The Avian Behaviour and Conservation Lab at the University of Manitoba investigates how birds respond behaviourally to anthropogenic environmental change. Our research explores how birds time their daily and seasonal activities, and how flexibly these schedules respond to new conditions associated with climate change. We also investigate how artificial light at night alters the timing and movement behaviour of birds. Through field-based experiments, from the Neotropics to the sub-Arctic, we study primarily migratory species, including aerial insectivores such as Purple Martin and Eastern Whip-poor-will. We also collaborate with northern Indigenous communities in Manitoba to address shared concerns regarding change in avian behaviour and populations.</p>
@@ -252,7 +274,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="banding-in-the-age-of-technology">Banding in the Age of Technology</h2>
 <p><strong>Presenter(s)</strong>: Marcel Gahbauer, Lesley Howes, Barbara Frei, Cyndi Smith, Pam Sinclair<br>
 <strong>Affiliation(s)</strong>: Canadian Wildlife Service, Canadian Migration Monitoring Network<br>
-<strong>Organization Type</strong>: eNGO</p>
+<strong>Organization Type</strong>: eNGO<br>
+<strong>Time</strong>: <span id="localtime-2" class="localtime" data-datetime="2026-10-07T17:00" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 17:00 UTC</span><script>(function(){var el=document.getElementById('localtime-2');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-1" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-1">Abstract</h3>
 <p>Banding and recapture of birds in the early 1900s provided the first documentation of individual bird movements in North America. In recent decades, bird monitoring has been revolutionized by technological advances such as satellite telemetry, geolocators, and automated radio telemetry (e.g., Motus), as well as the growth of ‘big data’ through participatory science, and the use of artificial intelligence for species identification. This has prompted questions about whether traditional methods such as banding have become irrelevant. On the contrary, standardized banding efforts remain fundamental to understanding longevity, annual survival rates, age structure, and physiological responses to environmental change. Banding data also support a wide range of conservation and management outcomes, including disease surveillance and assessment of habitat restoration. Since 1998, the Canadian Migration Monitoring Network has facilitated communication and collaboration among bird observatories across the country. Maintaining strong banding programs while integrating emerging technologies is critical to advancing ornithological research and conservation.</p>
@@ -264,7 +308,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="canavian-advancing-avian-data-integration-in-canada">CanAvian: Advancing Avian Data Integration in Canada</h2>
 <p><strong>Presenter(s)</strong>: Sofia Guest<sup>1</sup>, Catherine Jardine<sup>2</sup><br>
 <strong>Affiliation(s)</strong>: 1. Alberta Biodiversity Monitoring Institute, 2. Birds Canada<br>
-<strong>Organization Type</strong>: eNGO</p>
+<strong>Organization Type</strong>: eNGO<br>
+<strong>Time</strong>: <span id="localtime-3" class="localtime" data-datetime="2026-10-07T16:15" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 16:15 UTC</span><script>(function(){var el=document.getElementById('localtime-3');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-2" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-2">Abstract</h3>
 <p>The Canadian Network of Avian Data (CanAvian) unites a broad community of researchers, conservation practitioners, and volunteer scientists who generate, manage, and share extensive biodiversity data needed for ecological research. CanAvian is governed by a Steering Committee, Advisory Committees, and Working Groups coordinating priorities across science, data management, and community engagement. CanAvian brings together three of Canada’s largest biodiversity data platforms: NatureCounts (380 million records), Motus (8 billion records), and WildTrax (16 million records), supporting over 4,500 scientific publications. Supported by the Digital Research Alliance of Canada, CanAvian is establishing harmonized data access policies and interoperability standards to support FAIR and CARE principles and improve data sharing across platforms and data repositories. These connections will support increasingly integrated and large-scale analyses required by modern ecological research and Canada’s biodiversity commitments. CanAvian has open pathways for membership, data contribution, and data access and invites participation from across Canada’s ornithological community.</p>
@@ -276,7 +342,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="delivering-strong-science-at-birds-canada">Delivering Strong Science at Birds Canada</h2>
 <p><strong>Presenter(s)</strong>: Douglas C. Tozer<br>
 <strong>Affiliation(s)</strong>: Director, Waterbirds &amp; Wetlands, Birds Canada<br>
-<strong>Organization Type</strong>: eNGO</p>
+<strong>Organization Type</strong>: eNGO<br>
+<strong>Time</strong>: <span id="localtime-4" class="localtime" data-datetime="2026-10-07T20:00" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 20:00 UTC</span><script>(function(){var el=document.getElementById('localtime-4');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-3" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-3">Abstract</h3>
 <p>Birds Canada delivers strong science across the country and beyond through more than a dozen regional networks of employees, volunteers, and partners collaborating toward shared conservation goals. Our science is diverse involving many different research themes, core questions, methodologies, ecosystems, and focal species. Much of our science falls under two key initiatives: <a href="https://naturecounts.ca/nc/socb-epoc">tracking the state of Canada’s birds</a> and leveraging science to drive conservation. Our 50+ science staff members leverage data from volunteer scientists and conservation technologies (NatureCounts, Motus, WildTrax, and more) to answer timely questions of conservation interest, and we often partner with universities on graduate student projects. Ultimately all of our science helps generate the critical knowledge and evidence needed to catalyze actions that help birds and their habitats thrive. In this presentation, we give a top-down overview of science at Birds Canada, and describe a broad selection of examples of <a href="https://birdscanada.org/science-in-action">Birds Canada science in action</a>.</p>
@@ -288,7 +376,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="drivers-of-migratory-bird-population-change-in-working-landscapes">Drivers of Migratory Bird Population Change in Working Landscapes</h2>
 <p><strong>Presenter(s)</strong>: Ann E. McKellar, Nancy A. Mahony, Greg W. Mitchell, Elizabeth A. Gow<br>
 <strong>Affiliation(s)</strong>: Environment and Climate Change Canada, Partner institutions<br>
-<strong>Organization Type</strong>: Government</p>
+<strong>Organization Type</strong>: Government<br>
+<strong>Time</strong>: <span id="localtime-5" class="localtime" data-datetime="2026-10-07T20:45" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 20:45 UTC</span><script>(function(){var el=document.getElementById('localtime-5');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-4" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-4">Abstract</h3>
 <p>Drs Ann McKellar, Nancy Mahony, Greg Mitchell, and Elizabeth Gow are Research Scientists from Environment and Climate Change Canada’s Science and Technology Branch, Biodiversity Research Division, who study the conservation of migratory birds in working landscapes. Their research, which extends from the Canadian western forests and Prairies to Atlantic Canada, takes a full annual cycle approach to 1) examine effects of agriculture, forestry, and urbanization on avian distribution, abundance, and fitness, 2) assess population structure and migratory connectivity of priority species and species at risk, and 3) quantify threats associated with aerial and urban habitats. They aim to develop evidence-based solutions that support biodiversity, ecosystem goods and services, and human well-being in working landscapes. The team, including their graduate students, collaborates extensively with universities (where they are Adjunct professors), ENGOs, other federal departments, and governments, both nationally and internationally.</p>
@@ -300,7 +410,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="ecotoxicology-and-conservation-of-prairie-bird-communities">Ecotoxicology and Conservation of Prairie Bird Communities</h2>
 <p><strong>Presenter(s)</strong>: Christy Morrissey<br>
 <strong>Affiliation(s)</strong>: Professor of Biology, University of Saskatchewan<br>
-<strong>Organization Type</strong>: Academic</p>
+<strong>Organization Type</strong>: Academic<br>
+<strong>Time</strong>: <span id="localtime-6" class="localtime" data-datetime="2026-10-07T19:00" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 19:00 UTC</span><script>(function(){var el=document.getElementById('localtime-6');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-5" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-5">Abstract</h3>
 <p>We are an ecotoxicology lab with a strong conservation focus. Our lab studies the effects of environmental contaminants and other non-pollution stressors to better understand how individual birds, populations and communities respond to threats. We use a variety of methods from captive and field controlled dosing studies, beaker and limnocorral studies on aquatic insects that are important prey, and small and big scale field experiments to assess short and long term responses to communities across the Prairie region. A major focus is on how pesticides and other agricultural stressors impact common grassland and wetland associated songbirds through altered prey, neurotoxicity, and disturbance. We also conduct research on the effects of industrial pollution to shorebirds.</p>
@@ -312,7 +444,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="integrative-ornithology-at-afar">Integrative Ornithology at AFAR</h2>
 <p><strong>Presenter(s)</strong>: Scott MacDougall-Shackleton, Chris Guglielmo, Carrie Branch, Yolanda Morbey, Beth MacDougall-Shackleton, Alice Boyle<br>
 <strong>Affiliation(s)</strong>: Western University<br>
-<strong>Organization Type</strong>: Academic</p>
+<strong>Organization Type</strong>: Academic<br>
+<strong>Time</strong>: <span id="localtime-7" class="localtime" data-datetime="2026-10-07T18:30" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 18:30 UTC</span><script>(function(){var el=document.getElementById('localtime-7');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-6" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-6">Abstract</h3>
 <p>The Advanced Facility for Avian Research at Western University is a world class facility consisting of faculty and trainees that aim to understand how the environment shapes bird ecology. Researchers across disciplines use integrative approaches to investigate everything bird, from neurobiology and behaviour to migratory physiology and conservation. To showcase the innovative research possible at AFAR, we will present on the tools and facilities used to address a multitude of research questions, both ongoing and for the future. In addition to working toward a better understanding of bird biology and ecology, we are passionate about training the next generation of critical thinkers and scientists.</p>
@@ -324,7 +478,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="landscape-change-and-avian-ecology-at-thompson-rivers-university">Landscape Change and Avian Ecology at Thompson Rivers University</h2>
 <p><strong>Presenter(s)</strong>: Matt Reudink, Nancy Flood, Stephen Joly, Kara Lefevre<br>
 <strong>Affiliation(s)</strong>: Thompson Rivers University<br>
-<strong>Organization Type</strong>: Academic</p>
+<strong>Organization Type</strong>: Academic<br>
+<strong>Time</strong>: <span id="localtime-8" class="localtime" data-datetime="2026-10-07T19:15" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 19:15 UTC</span><script>(function(){var el=document.getElementById('localtime-8');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-7" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-7">Abstract</h3>
 <p>Thompson Rivers University is in the southern interior of British Columbia on the ancestral lands of the Tk’emlúps te Secwépemc (Kamloops main campus) within Secwepemcúl̓ecw, the traditional and unceded territory of the Secwépemc. This vast area of grasslands, forests, mountains, rivers and lakes is larger than all but four European countries, stretching from Jasper to Revelstoke to Kamloops to north of Williams Lake. Its diverse landscapes provide a rich opportunity for research about the impact of accelerating environmental change on avian ecology and to partner with First Nations. This showcase will highlight core themes of research guided by a group of faculty members who collaboratively mentor graduate students on projects that include: conservation of grassland-dependent bird species; braiding Indigenous and Western knowledges to inform species conservation; responses of bird communities to urbanization, industrial activity, and wildfire; and community-engaged efforts to monitor avian population change.</p>
@@ -336,7 +512,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="monitoring-bird-populations-in-canadas-national-parks">Monitoring Bird Populations in Canada’s National Parks</h2>
 <p><strong>Presenter(s)</strong>: Lucy Patterson<br>
 <strong>Affiliation(s)</strong>: Ecological Monitoring Specialist, Parks Canada Agency<br>
-<strong>Organization Type</strong>: Government</p>
+<strong>Organization Type</strong>: Government<br>
+<strong>Time</strong>: <span id="localtime-9" class="localtime" data-datetime="2026-10-07T21:00" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 21:00 UTC</span><script>(function(){var el=document.getElementById('localtime-9');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-8" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-8">Abstract</h3>
 <p>Parks Canada Agency monitors birds in protected areas across Canada within a common framework called the Ecological Integrity Monitoring Program (EIMP). This program assesses the status and trend of ecological integrity of 119 ecosystems within 43 national parks across the country and can enable prioritization and evaluation of management actions to enhance ecosystem integrity. Birds are one of the most common indicators, being monitored within six different ecosystem types in 39 parks. Of the avian indicators assessed in 2025, the proportion in good, fair and poor condition was 56%, 31%, and 11%, and the proportion improving, stable and declining was 11%, 43% and 19%. We provide a brief overview of the EIMP and a summary of bird indicators within the program. We also present a case study from a protected area to demonstrate how a monitoring indicator can be developed and used in the ecosystem management planning process.</p>
@@ -348,7 +546,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="national-status-and-trends-of-canadas-birds">National Status and Trends of Canada’s Birds</h2>
 <p><strong>Presenter(s)</strong>: Adam C. Smith, Jackson Kusack, Sarah Gutowsky, Dave Iles, Willow English, Marcel Gahbauer, Michel Gendron, Frederique Tremblay, Marie-Anne Hudson, Christian Roy, Charles Francis<br>
 <strong>Affiliation(s)</strong>: Canadian Wildlife Service<br>
-<strong>Organization Type</strong>: Government</p>
+<strong>Organization Type</strong>: Government<br>
+<strong>Time</strong>: <span id="localtime-10" class="localtime" data-datetime="2026-10-07T16:45" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 16:45 UTC</span><script>(function(){var el=document.getElementById('localtime-10');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-9" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-9">Abstract</h3>
 <p>The Canadian Wildlife Service’s national wildlife management and assessment teams conduct research supporting the population monitoring and management of Canada’s migratory birds. Research centers around three overall themes: 1) optimizing applied population monitoring, for both professional and citizen science programs, as well as automated monitoring technologies; 2) developing integrated statistical methods to improve estimates of population sizes, status, trends and distribution; and 3) coordinating research and reporting with international partners to inform conservation across the full annual cycle. Ongoing and upcoming research projects involve: developing integrated spatiotemporal models of population status and drivers of trends using monitoring, remote sensing, and demographic data; developing object detection models to automate counts from seabird colony photo surveys; improving statistical models for estimating density and population sizes; improving breeding waterfowl population estimates by optimizing survey designs and accounting for bias in sex ratios; and improving surveys and models to estimate harvest of migratory birds.</p>
@@ -360,7 +580,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="ornithological-research-and-conservation-at-the-ontario-ministry-of-natural-resources">Ornithological research and conservation at the Ontario Ministry of Natural Resources</h2>
 <p><strong>Presenter(s)</strong>: Glen Brown<sup>1</sup>, Richard Feldman<sup>1</sup>, Jeff Bowman<sup>1</sup>, Rod Brook<sup>1</sup>, Erica Newton<sup>1</sup>, Chrystyn Jones (MSc Student)<sup>2</sup>, Richard Huang (MSc Student)<sup>2</sup>, Ingrid Tello (PhD Student)<sup>3</sup><br>
 <strong>Affiliation(s)</strong>: 1. Ontario Ministry of Natural Resources, 2. Trent University, 3. Western University<br>
-<strong>Organization Type</strong>: Government &amp; Academic</p>
+<strong>Organization Type</strong>: Government &amp; Academic<br>
+<strong>Time</strong>: <span id="localtime-11" class="localtime" data-datetime="2026-10-07T20:30" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 20:30 UTC</span><script>(function(){var el=document.getElementById('localtime-11');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-10" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-10">Abstract</h3>
 <p>At the Wildlife Research and Monitoring Section of the Ontario Ministry of Natural Resources, we coordinate three strands of avian research: the breeding ecology of shorebirds and waterfowl in the Hudson Bay Lowlands, the nutrient dynamics behind grassland bird habitat use, and climate effects on Wild Turkey distribution. Glen Brown’s work in Ontario’s Far North - one of the largest contiguous wetland systems in the world - has shown how the region may be vulnerable to the deepening of the permafrost active layer and wetland drying. Richard Feldman’s work in the Carden Alvar ecosystem has shown the connections between plant stoichiometry and variation in the quantity and quality of the prey of Eastern Whip-poor-will. Jeff Bowman’s work has focused on strategies that Ontario’s reintroduced Wild Turkeys have used to succeed in a northern climate. Combined, we contribute to conserving birds across the province, and involving students in applied ecological research.</p>
@@ -372,7 +614,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="partners-in-flight-collaboration-from-science-to-application">Partners in Flight: Collaboration from Science to Application</h2>
 <p><strong>Presenter(s)</strong>: Becky Stewart<br>
 <strong>Affiliation(s)</strong>: Wildlife Biologist, Environment and Climate Change Canada<br>
-<strong>Organization Type</strong>: Partnership (Academia, Government, NGO, Industry)</p>
+<strong>Organization Type</strong>: Partnership (Academia, Government, NGO, Industry)<br>
+<strong>Time</strong>: <span id="localtime-12" class="localtime" data-datetime="2026-10-07T16:30" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 16:30 UTC</span><script>(function(){var el=document.getElementById('localtime-12');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-11" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-11">Abstract</h3>
 <p>Partners In Flight (PIF) is a network of organizations dedicated to landbird conservation. Partners range from not-for-profit organizations to academics, governments, funders, and industry. Each partner brings their strengths, capacities, and expertise to achieve conservation for our shared birds. This presentation will highlight PIF’s science-based, open access data tools such as the Avian Conservation and Assessment Database, a species conservation status assessment tool that evaluates vulnerability factors at continental and regional scales. Other initiatives include revised model for population estimates, tools to evaluate progress in achieving continental population trend objectives and maps to explore migratory connections in the absence of tracking data. Finally, we’ll focus on how these tools support adaptive management and measurable outcomes for birds and how we (including you), as the bird research and conservation community can leverage and amplify these tools and approaches for bird conservation.</p>
@@ -384,7 +648,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="seabird-ecology-at-the-atlantic-laboratory-for-avian-research">Seabird Ecology at the Atlantic Laboratory for Avian Research</h2>
 <p><strong>Presenter(s)</strong>: Heather Major (Professor), Amanda Giovinazzo, Maddy Talpt, Clare Taylor, Kayla Cannon, Daniel Oliker<br>
 <strong>Affiliation(s)</strong>: University of New Brunswick<br>
-<strong>Organization Type</strong>: Academic</p>
+<strong>Organization Type</strong>: Academic<br>
+<strong>Time</strong>: <span id="localtime-13" class="localtime" data-datetime="2026-10-07T18:00" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 18:00 UTC</span><script>(function(){var el=document.getElementById('localtime-13');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-12" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-12">Abstract</h3>
 <p>Based at the University of New Brunswick’s Saint John Campus, the Atlantic Laboratory for Avian Research is directed by seabird biologist Dr.&nbsp;Heather Major. The lab studies relationships between bird populations and environmental change in marine and island ecosystems. Species of interest include the Atlantic Puffin, Razorbill, Common Murre, Arctic Tern, and Leach’s Storm-petrel primarily studied on Machias Seal Island (MSI) in the Bay of Fundy. MSI has been the focal site for the labs’ long-term seabird monitoring project that has been operated annually since 1995. In addition, the lab is currently collaborating on a project assessing feasibility of an island restoration at Seal Island, NS by removing introduced species.</p>
@@ -396,7 +682,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="the-science-that-powers-waterfowl-conservation">The Science that Powers Waterfowl Conservation</h2>
 <p><strong>Presenter(s)</strong>: Matt Dyson, James Paterson, Vanessa Harriman, Lauren Bortolotti, Pascal Badiou, Samuel Robinson<br>
 <strong>Affiliation(s)</strong>: Ducks Unlimited Canada<br>
-<strong>Organization Type</strong>: eNGO</p>
+<strong>Organization Type</strong>: eNGO<br>
+<strong>Time</strong>: <span id="localtime-14" class="localtime" data-datetime="2026-10-07T20:15" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 20:15 UTC</span><script>(function(){var el=document.getElementById('localtime-14');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-13" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-13">Abstract</h3>
 <p>The Institute for Wetland and Waterfowl Research (IWWR) at Ducks Unlimited Canada conducts interdisciplinary research that advances ornithology within the broader context of wetland ecosystems. Centered on waterfowl ecology, IWWR studies waterfowl habitat use, productivity, and population dynamics, with particular emphasis on breeding landscapes such as the Prairie Pothole Region, while extending across boreal and other wetland systems nationally. Beyond core ornithological questions, IWWR develops quantitative tools and models to guide conservation planning and evaluate program outcomes, ensuring that habitat investments are effective, adaptive, and evidence-based. This includes assessing when programs should be refined, scaled, or phased out. Complementing our work in waterfowl ecology, we have developed substantial research capacity in biodiversity, climate change, carbon dynamics, wetland biogeochemistry, and sustainable agriculture, reflecting emerging priorities in wetland conservation science. Together, these efforts integrate waterfowl science with broader ecological processes to support both understanding and adaptive, outcome-driven conservation.</p>
@@ -408,7 +716,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="twenty-years-of-boreal-avian-modelling">Twenty Years of Boreal Avian Modelling</h2>
 <p><strong>Presenter(s)</strong>: Elly Knight, Steven Van Wilgenburg, Diana Stralberg, Steve Cumming, Jeff Ball, Junior Tremblay, Erin Bayne<br>
 <strong>Affiliation(s)</strong>: Boreal Avian Modelling Project<br>
-<strong>Organization Type</strong>: eNGO</p>
+<strong>Organization Type</strong>: eNGO<br>
+<strong>Time</strong>: <span id="localtime-15" class="localtime" data-datetime="2026-10-07T17:15" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 17:15 UTC</span><script>(function(){var el=document.getElementById('localtime-15');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-14" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-14">Abstract</h3>
 <p>The boreal forest is a vast and remote biome covering much of northern Canada and Alaska, which provides habitat for a substantial portion of the nearctic avifauna. The remoteness of much of this region limited earlier systematic monitoring efforts that hampered the development of data-informed decision support tools to aid bird conservation in response to increasing anthropogenic pressures. The Boreal Avian Modelling project (BAM) was formed as a collaborative initiative in 2004 to address this gap by amalgamating, harmonizing and integrating disparate point count data to develop tools for boreal bird conservation. We provide an overview of BAM’s development, including the individual research groups that make up the collective BAM team, and highlight BAM’s keystone tools for bird conservation. We discuss evolving conservation challenges and opportunities of new technologies and open data initiatives that can enhance science-based conservation tools for boreal birds.</p>
@@ -420,7 +750,29 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="warblers-to-waterbirds-where-and-why">Warblers to Waterbirds: Where and Why?</h2>
 <p><strong>Presenter(s)</strong>: Tabatha Cormier (PhD Student), Nathanya Goudreau (MSc Student)<br>
 <strong>Affiliation(s)</strong>: McGill University<br>
-<strong>Organization Type</strong>: Academic</p>
+<strong>Organization Type</strong>: Academic<br>
+<strong>Time</strong>: <span id="localtime-16" class="localtime" data-datetime="2026-10-07T18:15" data-tz="UTC" data-format="%b %-d, %Y %-I:%M%P %Z">2026-10-07 18:15 UTC</span><script>(function(){var el=document.getElementById('localtime-16');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p>
 <section id="abstract-15" class="level3">
 <h3 class="anchored" data-anchor-id="abstract-15">Abstract</h3>
 <p>Our research group, based at McGill University’s Macdonald Campus, investigates the link between avian movement, contaminants, physiology, and life history across many scales. Our study regions range from the Neotropics (Belize) to the Arctic (Hudson Bay), and many places in-between (Gulf of Alaska, St Lawrence system, Island of Montreal). In long-term collaboration with the McGill Bird Observatory, we investigate urban habitat use of migratory and resident songbirds around Montreal. We are also part of two long-term seabird monitoring programs at Middleton and Coats islands, where we work to understand the impacts of anthropogenic pressures on northern marine ecosystems. To answer our research questions, we combine biologging techniques (GPS, geolocators, accelerometry) and emerging technologies (drones, uncrewed surface vehicles), along with physiological biomarkers, contaminants, and doubly-labelled water experiments. Overall, our research informs management decisions and deepens our collective understanding of the natural world.</p>
