@@ -11,7 +11,7 @@ author:
 author-affiliation:
   - University of New Brunswick
 type:  Academic
-date: 2026-10-07
+date: 2026-10-07T18:00:00Z
 ---
 
 ### Abstract

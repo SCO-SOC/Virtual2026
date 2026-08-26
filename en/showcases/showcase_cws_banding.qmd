@@ -11,7 +11,7 @@ author-affiliation:
   - Canadian Wildlife Service
   - Canadian Migration Monitoring Network
 type:  eNGO
-date: 2026-10-07
+date: 2026-10-07T17:00:00Z
 ---
 
 ### Abstract

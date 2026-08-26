@@ -11,7 +11,7 @@ author:
   - Erin Bayne
 author-affiliation: "Projet de modélisation des oiseaux boréaux"
 type:  eONG
-date: 2026-10-07
+date: 2026-10-07T17:15:00Z
 ---
 
 ### Résumé

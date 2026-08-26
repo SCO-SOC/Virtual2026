@@ -11,7 +11,7 @@ author:
 author-affiliation: 
  - Ducks Unlimited Canada
 type:  eNGO
-date: 2026-10-07
+date: 2026-10-07T20:15:00Z
 ---
 
 ### Abstract

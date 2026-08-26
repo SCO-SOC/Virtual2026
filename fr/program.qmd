@@ -6,7 +6,7 @@ listing:
   - id: workshops-list
     contents: "workshops/*.qmd"
     type: default
-    date-format: "MMM D, YYYY kk:mm z"
+    date-format: "kk:mm z"
     sort: ["date","title"]
     filter-ui: true
     max-description-length: 150
@@ -18,10 +18,9 @@ listing:
   - id: showcases-list
     contents: "showcases/*.qmd"
     type: default
-    date-format: "MMM D, YYYY"
-    sort: "title"
-    sort-ui: false
-    filter-ui: false
+    date-format: "kk:mm z"
+    sort: ["date","title"]
+    filter-ui: true
     max-description-length: 150
     fields: [date, author, title, description]
     field-display-names:
@@ -40,59 +39,92 @@ L’horaire correspond à l’heure locale de votre navigateur.
   - Lundi (oct 5)
   - Mardi (oct 6)
   - Mercredi (oct 7)
+
 - - {{< localtime 2026-10-05 11:00 EDT format='%H:%M %Z' >}}
   - []{rowspan=2} 
   - []{rowspan=2  .socialevents} Annonces / Activité sociale
   - []{rowspan=2  .socialevents} Annonces / Activité sociale
+
 - - {{< localtime 2026-10-05 11:15 EDT format='%H:%M' >}}
+
 - - {{< localtime 2026-10-05 11:30 EDT format='%H:%M' >}}
   - []{rowspan=8  .workshops} Ateliers
   - []{rowspan=10 .mainevents} Présentations des étudiant·e·s
   - []{rowspan=3  .specialevents} Séance plénière de remise des prix ECR
+
 - - {{< localtime 2026-10-05 11:45 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 12:00 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 12:15 EDT format='%H:%M' >}}
-  - []{rowspan=5  .mainevents} Présentation de la recherche pancanadienne
+  <!-- - []{rowspan=5  .mainevents} Présentation de la recherche pancanadienne -->
+  - []{.mainevents} CanAvian: Faire progresser l’intégration des données aviaires au Canada
+
 - - {{< localtime 2026-10-05 12:30 EDT format='%H:%M' >}} 
+  - []{.mainevents} Partenaires d’envol: Collaboration de la science à l’application
 - - {{< localtime 2026-10-05 12:45 EDT format='%H:%M' >}} 
+  - []{.mainevents} État et tendances nationaux des oiseaux du Canada
 - - {{< localtime 2026-10-05 13:00 EDT format='%H:%M' >}} 
+  - []{.mainevents} Le baguage à l’ère de la technologie
 - - {{< localtime 2026-10-05 13:15 EDT format='%H:%M' >}} 
+  - []{.mainevents} Vingt ans de modélisation de l’avifaune boréale
 - - {{< localtime 2026-10-05 13:30 EDT format='%H:%M' >}} 
   - []{rowspan=2  .socialevents} Pause / Activité sociale
   - []{rowspan=2  .socialevents} Pause / Activité sociale
+
 - - {{< localtime 2026-10-05 13:45 EDT format='%H:%M' >}} 
+
 - - {{< localtime 2026-10-05 14:00 EDT format='%H:%M' >}} 
   - []{rowspan=10 .workshops} Ateliers
   - []{rowspan=4  .socialevents} Pause / Activité sociale
-  - []{rowspan=8  .mainevents} Présentation de la recherche pancanadienne
+  <!-- - []{rowspan=8  .mainevents} Présentation de la recherche pancanadienne -->
+  - []{.mainevents} Écologie des oiseaux marins au Laboratoire atlantique de recherche aviaire
+
 - - {{< localtime 2026-10-05 14:15 EDT format='%H:%M' >}} 
+  - []{.mainevents} Des parulines aux oiseaux aquatiques: où et pourquoi?
 - - {{< localtime 2026-10-05 14:30 EDT format='%H:%M' >}} 
+  - []{.mainevents} Ornithologie intégrative à l’AFAR
 - - {{< localtime 2026-10-05 14:45 EDT format='%H:%M' >}} 
+  - []{.mainevents} Laboratoire de comportement et de conservation des oiseaux: synchronisation, mouvements et conservation des oiseaux migrateurs
 - - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
   - []{rowspan=4  .mainevents} Présentations des étudiant·e·s
+  - []{.mainevents} Écotoxicologie et conservation des communautés d’oiseaux des prairies
+
 - - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
+  - []{.mainevents} Changements paysagers et écologie aviaire à l’Université Thompson Rivers
 - - {{< localtime 2026-10-05 15:30 EDT format='%H:%M' >}} 
+  - []{rowspan=2  .socialevents} Pause / Activité sociale
+
 - - {{< localtime 2026-10-05 15:45 EDT format='%H:%M' >}} 
 - - {{< localtime 2026-10-05 16:00 EDT format='%H:%M' >}} 
   - []{rowspan=4  .specialevents} « Ma thèse en 3 minutes » (3MT)
-  - []{rowspan=2  .socialevents} Pause / Activité sociale
+  <!-- - []{rowspan=5  .mainevents} Présentation de la recherche pancanadienne -->
+  - []{.mainevents} Fournir une science rigoureuse chez Oiseaux Canada
+
 - - {{< localtime 2026-10-05 16:15 EDT format='%H:%M' >}} 
+  - []{.mainevents} La science au service de la conservation de la sauvagine
 - - {{< localtime 2026-10-05 16:30 EDT format='%H:%M' >}} 
   - []{rowspan=4  .specialevents} Assemblée générale annuelle
-  - []{rowspan=4  .mainevents} Présentation de la recherche pancanadienne
+  - []{.mainevents} Recherche ornithologique et conservation au ministère des Ressources naturelles de l’Ontario
+
 - - {{< localtime 2026-10-05 16:45 EDT format='%H:%M' >}}
+  - []{.mainevents} Facteurs influençant l’évolution des populations d’oiseaux migrateurs dans les paysages exploités
 - - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
   - []{rowspan=4  .socialevents} Rencontre de réseautage
+  - []{.mainevents} Suivi des populations d’oiseaux dans les parcs nationaux du Canada
+
 - - {{< localtime 2026-10-05 17:15 EDT format='%H:%M' >}}
+  - []{rowspan=1  .socialevents} Questions / Pause
+
 - - {{< localtime 2026-10-05 17:30 EDT format='%H:%M' >}} 
   - []{rowspan=4  .socialevents} Activité sociale (?)
   - []{rowspan=2  .specialevents} Cérémonie de remise des prix 
+
 - - {{< localtime 2026-10-05 17:45 EDT format='%H:%M' >}}
 :::
 
 ## Ateliers  {#workshops .no-border}
 
-Les heures sont à l'heure avancée de l'Est; [*Tout afficher*](program_workshops.qmd)  
+**Lundi 5 octobre 2026**; Les heures sont à l'heure avancée de l'Est\
+[*Tout afficher*](program_workshops.qmd)  
 
 :::{#workshops-list}
 :::
@@ -101,7 +133,8 @@ Les heures sont à l'heure avancée de l'Est; [*Tout afficher*](program_workshop
 
 ## Présentation de la recherche pancanadienne {#showcases .no-border}
 
-Les heures sont à l'heure avancée de l'Est; [*Tout afficher*](program_showcases.qmd)  
+**Mercredi 7 octobre 2026**; Les heures sont à l'heure avancée de l'Est\
+[*Tout afficher*](program_showcases.qmd)  
 
 :::{#showcases-list}
 :::

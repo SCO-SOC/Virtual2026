@@ -6,7 +6,7 @@ author:
 author-affiliation:
   - Professeure de biologie, Université de la Saskatchewan
 type: Académique
-date: 2026-10-07
+date: 2026-10-07T19:00:00Z
 ---
 
 

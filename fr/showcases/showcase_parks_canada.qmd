@@ -6,7 +6,7 @@ author:
 author-affiliation:
   - Spécialiste en surveillance écologique, Agence Parcs Canada
 type:  Gouvernement
-date: 2026-10-07
+date: 2026-10-07T21:00:00Z
 ---
 
 ### Résumé

@@ -6,7 +6,7 @@ author:
 author-affiliation:
   - Directeur, Oiseaux aquatiques et milieux humides, Oiseaux Canada
 type:  eONG
-date: 2026-10-07
+date: 2026-10-07T20:00:00Z
 ---
 
 ### Résumé

@@ -10,7 +10,7 @@ author-affiliation:
  - Environnement et Changement climatique Canada
  - Institutions partenaires
 type:  Gouvernement
-date: 2026-10-07
+date: 2026-10-07T20:45:00Z
 ---
 
 ### Résumé

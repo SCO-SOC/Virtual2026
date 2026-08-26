@@ -6,7 +6,7 @@ author:
 author-affiliation:
   - Director, Waterbirds & Wetlands, Birds Canada
 type:  eNGO
-date: 2026-10-07
+date: 2026-10-07T20:00:00Z
 ---
 
 ### Abstract

@@ -7,7 +7,7 @@ author:
 author-affiliation:
   - Université McGill
 type:  Académique
-date: 2026-10-07
+date: 2026-10-07T18:15:00Z
 ---
 
 ### Résumé

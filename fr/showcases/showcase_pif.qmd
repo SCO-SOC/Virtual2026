@@ -6,7 +6,7 @@ author:
 author-affiliation:
   - Biologiste de la faune, Environnement et Changement climatique Canada
 type:   Partenariat (universités, gouvernements, ONG, industrie)
-date: 2026-10-07
+date: 2026-10-07T16:30:00Z
 ---
 
 

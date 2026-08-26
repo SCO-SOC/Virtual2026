@@ -9,6 +9,7 @@ toc: true
 **Presenter(s)**: Kevin Fraser (PI), Vinuri Mendis (PhD Student), Yantong Tan (PhD Student), Rebecca Asham (MSc Student), Tamara Sturch (MSc Student)  
 **Affiliation(s)**: University of Manitoba  
 **Organization Type**: Academic  
+**Time**: {{< localtime 2026-10-07 18:45 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -22,6 +23,7 @@ The Avian Behaviour and Conservation Lab at the University of Manitoba investiga
 **Presenter(s)**: Marcel Gahbauer, Lesley Howes, Barbara Frei, Cyndi Smith, Pam Sinclair  
 **Affiliation(s)**: Canadian Wildlife Service, Canadian Migration Monitoring Network  
 **Organization Type**: eNGO  
+**Time**: {{< localtime 2026-10-07 17:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -37,6 +39,7 @@ Banding and recapture of birds in the early 1900s provided the first documentati
 **Presenter(s)**: Sofia Guest<sup>1</sup>, Catherine Jardine<sup>2</sup>  
 **Affiliation(s)**: 1. Alberta Biodiversity Monitoring Institute, 2. Birds Canada  
 **Organization Type**: eNGO  
+**Time**: {{< localtime 2026-10-07 16:15 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -51,6 +54,7 @@ The Canadian Network of Avian Data (CanAvian) unites a broad community of resear
 **Presenter(s)**: Douglas C. Tozer  
 **Affiliation(s)**: Director, Waterbirds & Wetlands, Birds Canada  
 **Organization Type**: eNGO  
+**Time**: {{< localtime 2026-10-07 20:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -64,6 +68,7 @@ Birds Canada delivers strong science across the country and beyond through more 
 **Presenter(s)**: Ann E. McKellar, Nancy A. Mahony, Greg W. Mitchell, Elizabeth A. Gow  
 **Affiliation(s)**: Environment and Climate Change Canada, Partner institutions  
 **Organization Type**: Government  
+**Time**: {{< localtime 2026-10-07 20:45 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -80,6 +85,7 @@ Drs Ann McKellar, Nancy Mahony, Greg Mitchell, and Elizabeth Gow are Research Sc
 **Presenter(s)**: Christy Morrissey  
 **Affiliation(s)**: Professor of Biology, University of Saskatchewan  
 **Organization Type**: Academic  
+**Time**: {{< localtime 2026-10-07 19:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 
 ### Abstract
@@ -94,6 +100,7 @@ We are an ecotoxicology lab with a strong conservation focus.  Our lab studies t
 **Presenter(s)**: Scott MacDougall-Shackleton, Chris Guglielmo, Carrie Branch, Yolanda Morbey, Beth MacDougall-Shackleton, Alice Boyle  
 **Affiliation(s)**: Western University  
 **Organization Type**: Academic  
+**Time**: {{< localtime 2026-10-07 18:30 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -108,6 +115,7 @@ The Advanced Facility for Avian Research at Western University is a world class 
 **Presenter(s)**: Matt Reudink, Nancy Flood, Stephen Joly, Kara Lefevre  
 **Affiliation(s)**: Thompson Rivers University  
 **Organization Type**: Academic  
+**Time**: {{< localtime 2026-10-07 19:15 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -124,6 +132,7 @@ Thompson Rivers University is in the southern interior of British Columbia on th
 **Presenter(s)**: Lucy Patterson  
 **Affiliation(s)**: Ecological Monitoring Specialist, Parks Canada Agency  
 **Organization Type**: Government  
+**Time**: {{< localtime 2026-10-07 21:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -137,6 +146,7 @@ Parks Canada Agency monitors birds in protected areas across Canada within a com
 **Presenter(s)**: Adam C. Smith, Jackson Kusack, Sarah Gutowsky, Dave Iles, Willow English, Marcel Gahbauer, Michel Gendron, Frederique Tremblay, Marie-Anne Hudson, Christian Roy, Charles Francis  
 **Affiliation(s)**: Canadian Wildlife Service  
 **Organization Type**: Government  
+**Time**: {{< localtime 2026-10-07 16:45 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -150,6 +160,7 @@ The Canadian Wildlife Service’s national wildlife management and assessment te
 **Presenter(s)**: Glen Brown<sup>1</sup>, Richard Feldman<sup>1</sup>, Jeff Bowman<sup>1</sup>, Rod Brook<sup>1</sup>, Erica Newton<sup>1</sup>, Chrystyn Jones (MSc Student)<sup>2</sup>, Richard Huang (MSc Student)<sup>2</sup>, Ingrid Tello (PhD Student)<sup>3</sup>  
 **Affiliation(s)**: 1. Ontario Ministry of Natural Resources, 2. Trent University, 3. Western University  
 **Organization Type**: Government & Academic  
+**Time**: {{< localtime 2026-10-07 20:30 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 
 ### Abstract
@@ -164,6 +175,7 @@ At the Wildlife Research and Monitoring Section of the Ontario Ministry of Natur
 **Presenter(s)**: Becky Stewart  
 **Affiliation(s)**: Wildlife Biologist, Environment and Climate Change Canada  
 **Organization Type**: Partnership (Academia, Government, NGO, Industry)  
+**Time**: {{< localtime 2026-10-07 16:30 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 
 ### Abstract
@@ -178,6 +190,7 @@ Partners In Flight (PIF) is a network of organizations dedicated to landbird con
 **Presenter(s)**: Heather Major (Professor), Amanda Giovinazzo, Maddy Talpt, Clare Taylor, Kayla Cannon, Daniel Oliker  
 **Affiliation(s)**: University of New Brunswick  
 **Organization Type**: Academic  
+**Time**: {{< localtime 2026-10-07 18:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -191,6 +204,7 @@ Based at the University of New Brunswick’s Saint John Campus, the Atlantic Lab
 **Presenter(s)**: Matt Dyson, James Paterson, Vanessa Harriman, Lauren Bortolotti, Pascal Badiou, Samuel Robinson  
 **Affiliation(s)**: Ducks Unlimited Canada  
 **Organization Type**: eNGO  
+**Time**: {{< localtime 2026-10-07 20:15 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -204,6 +218,7 @@ The Institute for Wetland and Waterfowl Research (IWWR) at Ducks Unlimited Canad
 **Presenter(s)**: Elly Knight, Steven Van Wilgenburg, Diana Stralberg, Steve Cumming, Jeff Ball, Junior Tremblay, Erin Bayne  
 **Affiliation(s)**: Boreal Avian Modelling Project  
 **Organization Type**: eNGO  
+**Time**: {{< localtime 2026-10-07 17:15 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 
@@ -218,6 +233,7 @@ The boreal forest is a vast and remote biome covering much of northern Canada an
 **Presenter(s)**: Tabatha Cormier (PhD Student), Nathanya Goudreau (MSc Student)  
 **Affiliation(s)**: McGill University  
 **Organization Type**: Academic  
+**Time**: {{< localtime 2026-10-07 18:15 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 

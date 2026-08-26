@@ -16,7 +16,7 @@ author:
 author-affiliation:
   - Service canadien de la faune
 type:  Gouvernement
-date: 2026-10-07
+date: 2026-10-07T16:45:00Z
 ---
 
 ### Résumé

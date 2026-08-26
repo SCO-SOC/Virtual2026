@@ -11,7 +11,7 @@ author:
   - Erin Bayne
 author-affiliation: "Boreal Avian Modelling Project"
 type:  eNGO
-date: 2026-10-07
+date: 2026-10-07T17:15:00Z
 ---
 
 ### Abstract

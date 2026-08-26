@@ -11,7 +11,7 @@ author-affiliation:
   - Service canadien de la faune
   - Réseau canadien de surveillance des migrations
 type:  eONG
-date: 2026-10-07
+date: 2026-10-07T17:00:00Z
 ---
 
 ### Résumé

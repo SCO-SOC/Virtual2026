@@ -6,7 +6,7 @@ author:
 author-affiliation:
   - Wildlife Biologist, Environment and Climate Change Canada
 type:  Partnership (Academia, Government, NGO, Industry)
-date: 2026-10-07
+date: 2026-10-07T16:30:00Z
 ---
 
 

@@ -8,7 +8,7 @@ author-affiliation:
   - 1. Institut de surveillance de la biodiversité de l'Alberta
   - 2. Oiseaux Canada
 type:  eONG
-date: 2026-10-07
+date: 2026-10-07T16:15:00Z
 ---
 
 ### Résumé
