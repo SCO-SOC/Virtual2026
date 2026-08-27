@@ -121,6 +121,15 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 17:45 EDT format='%H:%M' >}}
 :::
 
+## Séance plénière de remise des prix ECR {#ECRA}
+
+**Des battements d’ailes jusqu’à la zone mésopélagique: comment le bio-logging a transformé notre vision de l’ornithologie marine**\
+*Allison Patterson, Allison.patterson@ec.gc.ca*\
+*Division de la recherche en biodiversité, Environnement et Changement climatique Canada, Dartmouth, N.-É.*
+
+En tant que biologiste spécialiste des oiseaux marins, j’ai passé d’innombrables heures dans un affût à observer les oiseaux revenir à leur nid pour nourrir leurs petits en me demandant: « Où ont-ils trouvé ce poisson? » Les ornithologues sont fascinés par l’observation des interactions entre les oiseaux et leur environnement, et partagent tous ce sentiment de légère déception lorsque l’objet de leur attention s’envole inévitablement hors de leur champ de vision. Le bio-logging change la façon de voir nos données, passant de l’angle d’observateur à celui de l’oiseau lui-même. La prolifération des technologies de bio-logging au cours des 25 dernières années a révolutionné notre façon d’étudier les oiseaux, permettant aux ornithologues d’observer les mouvements de chaque oiseau sur de vastes échelles spatio-temporelles et avec une résolution de plus en plus fine. L’ornithologie marine a longtemps été limitée par les défis inhérents à l’observation des oiseaux en mer. Les progrès en matière de bio-logging représentent un changement radical pour la recherche sur les oiseaux marins, ouvrant la voie à des études empiriques sur des questions écologiques qui étaient inconcevables pour les scientifiques des générations précédentes. Je présenterai des exemples tirés de mes recherches – notamment l’utilisation des fréquences de battement d’ailes pour mesurer le succès dans la recherche de nourriture, l’étude de l’énergie dépensée lors de la recherche de nourriture dans la zone mésopélagique par un oiseau marin de l’Arctique, et la modélisation de la répartition tout au long de l’année des oiseaux marins qui migrent à travers l’océan Atlantique – afin de discuter des possibilités et des défis liés à l’utilisation des nouvelles technologies pour faire progresser l’écologie des oiseaux marins et soutenir la conservation du milieu marin.
+
+
 ## Ateliers  {#workshops .no-border}
 
 **Lundi 5 octobre 2026**; Les heures sont à l'heure avancée de l'Est\

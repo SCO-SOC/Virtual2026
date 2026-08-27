@@ -129,7 +129,13 @@ Schedule times are in your browser's local time.
 :::
 
 
+## Early Career Research Award Plenary {#ECRA}
 
+**From wingbeats to the twilight zone: how biologging has changed our perspective in marine ornithology**\
+*Allison Patterson, Allison.patterson@ec.gc.ca*\
+*Biodiversity Research Division, Environment and Climate Change Canada, Dartmouth, NS*
+
+As a seabird biologist, I have spent untold hours in a blind observing birds return to their nests to feed their young and wondered “Where did they get that fish?” Ornithologists are fascinated by watching birds interact with their environment and share a common experience of mild disappointment when the object of our attention inevitably flies out of sight. Biologging shifts the perspective of our measurements from the observer to the individual bird. The proliferation of biologging technologies over the last 25 years has revolutionized how we study birds, allowing ornithologists to observe individual bird movements over large spatio-temporal scales and at increasingly fine resolution. Marine ornithology was historically constrained by the inherent challenges of observing birds at sea. Advances in biologging represent a sea change for seabird research, creating opportunities to empirically investigate questions in ecology that were inconceivable to previous generations of scientists.  I will present examples from my research – using wingbeat frequencies to measure foraging success, examining the energetics of foraging in the marine twilight zone by an Arctic seabird, and modelling year-round distributions of seabirds that migrate across the Atlantic Ocean – to discuss opportunities and challenges in using biologging to advance seabird ecology and support marine conservation.
 
 
 ## Workshops {#workshops .no-border}
