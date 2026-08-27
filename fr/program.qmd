@@ -2,6 +2,10 @@
 title: "Programmation"
 filename: program
 toc: true
+format: 
+  html:
+    grid:
+      body-width: 1200px
 listing:
   - id: workshops-list
     contents: "workshops/*.qmd"
@@ -48,24 +52,24 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 11:15 EDT format='%H:%M' >}}
 
 - - {{< localtime 2026-10-05 11:30 EDT format='%H:%M' >}}
-  - []{rowspan=8  .workshops} Ateliers
+  - []{rowspan=8  .workshops} [Ateliers](#workshops)
   - []{rowspan=10 .mainevents} Présentations des étudiant·e·s
-  - []{rowspan=3  .specialevents} Séance plénière de remise des prix ECR
+  - []{rowspan=3  .specialevents} [Séance plénière de remise des prix ECR](#ECRA)
 
 - - {{< localtime 2026-10-05 11:45 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 12:00 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 12:15 EDT format='%H:%M' >}}
   <!-- - []{rowspan=5  .mainevents} Présentation de la recherche pancanadienne -->
-  - []{.mainevents} CanAvian: Faire progresser l’intégration des données aviaires au Canada
+  - []{.mainevents} [CanAvian: Faire progresser l’intégration des données aviaires au Canada](showcases/showcase_abmi.qmd)
 
 - - {{< localtime 2026-10-05 12:30 EDT format='%H:%M' >}} 
-  - []{.mainevents} Partenaires d’envol: Collaboration de la science à l’application
+  - []{.mainevents} [Partenaires d’envol: Collaboration de la science à l’application](showcases/showcase_pif.qmd)
 - - {{< localtime 2026-10-05 12:45 EDT format='%H:%M' >}} 
-  - []{.mainevents} État et tendances nationaux des oiseaux du Canada
+  - []{.mainevents} [État et tendances nationaux des oiseaux du Canada](showcases/showcase_cws_status.qmd)
 - - {{< localtime 2026-10-05 13:00 EDT format='%H:%M' >}} 
-  - []{.mainevents} Le baguage à l’ère de la technologie
+  - []{.mainevents} [Le baguage à l’ère de la technologie](showcases/showcase_cws_banding.qmd)
 - - {{< localtime 2026-10-05 13:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} Vingt ans de modélisation de l’avifaune boréale
+  - []{.mainevents} [Vingt ans de modélisation de l’avifaune boréale](showcases/showcase_bam.qmd)
 - - {{< localtime 2026-10-05 13:30 EDT format='%H:%M' >}} 
   - []{rowspan=2  .socialevents} Pause / Activité sociale
   - []{rowspan=2  .socialevents} Pause / Activité sociale
@@ -73,23 +77,23 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 13:45 EDT format='%H:%M' >}} 
 
 - - {{< localtime 2026-10-05 14:00 EDT format='%H:%M' >}} 
-  - []{rowspan=10 .workshops} Ateliers
+  - []{rowspan=10 .workshops} [Ateliers](#workshops)
   - []{rowspan=4  .socialevents} Pause / Activité sociale
   <!-- - []{rowspan=8  .mainevents} Présentation de la recherche pancanadienne -->
-  - []{.mainevents} Écologie des oiseaux marins au Laboratoire atlantique de recherche aviaire
+  - []{.mainevents} [Écologie des oiseaux marins au Laboratoire atlantique de recherche aviaire](showcases/showcase_uofnb.qmd)
 
 - - {{< localtime 2026-10-05 14:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} Des parulines aux oiseaux aquatiques: où et pourquoi?
+  - []{.mainevents} [Des parulines aux oiseaux aquatiques: où et pourquoi?](showcases/showcase_mcgill.qmd)
 - - {{< localtime 2026-10-05 14:30 EDT format='%H:%M' >}} 
-  - []{.mainevents} Ornithologie intégrative à l’AFAR
+  - []{.mainevents} [Ornithologie intégrative à l’AFAR](showcases/showcase_western.qmd)
 - - {{< localtime 2026-10-05 14:45 EDT format='%H:%M' >}} 
-  - []{.mainevents} Laboratoire de comportement et de conservation des oiseaux: synchronisation, mouvements et conservation des oiseaux migrateurs
+  - []{.mainevents} [Laboratoire de comportement et de conservation des oiseaux: synchronisation, mouvements et conservation des oiseaux migrateurs](showcases/showcase_uofm.qmd)
 - - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
   - []{rowspan=4  .mainevents} Présentations des étudiant·e·s
-  - []{.mainevents} Écotoxicologie et conservation des communautés d’oiseaux des prairies
+  - []{.mainevents} [Écotoxicologie et conservation des communautés d’oiseaux des prairies](showcases/showcase_uofs.qmd)
 
 - - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} Changements paysagers et écologie aviaire à l’Université Thompson Rivers
+  - []{.mainevents} [Changements paysagers et écologie aviaire à l’Université Thompson Rivers](showcases/showcase_tru.qmd)
 - - {{< localtime 2026-10-05 15:30 EDT format='%H:%M' >}} 
   - []{rowspan=2  .socialevents} Pause / Activité sociale
 
@@ -97,19 +101,19 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 16:00 EDT format='%H:%M' >}} 
   - []{rowspan=4  .specialevents} « Ma thèse en 3 minutes » (3MT)
   <!-- - []{rowspan=5  .mainevents} Présentation de la recherche pancanadienne -->
-  - []{.mainevents} Fournir une science rigoureuse chez Oiseaux Canada
+  - []{.mainevents} [Fournir une science rigoureuse chez Oiseaux Canada](showcases/showcase_birds_canada.qmd)
 
 - - {{< localtime 2026-10-05 16:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} La science au service de la conservation de la sauvagine
+  - []{.mainevents} [La science au service de la conservation de la sauvagine](showcases/showcase_du.qmd)
 - - {{< localtime 2026-10-05 16:30 EDT format='%H:%M' >}} 
   - []{rowspan=4  .specialevents} Assemblée générale annuelle
-  - []{.mainevents} Recherche ornithologique et conservation au ministère des Ressources naturelles de l’Ontario
+  - []{.mainevents} [Recherche ornithologique et conservation au ministère des Ressources naturelles de l’Ontario](showcases/showcase_omnr.qmd)
 
 - - {{< localtime 2026-10-05 16:45 EDT format='%H:%M' >}}
-  - []{.mainevents} Facteurs influençant l’évolution des populations d’oiseaux migrateurs dans les paysages exploités
+  - []{.mainevents} [Facteurs influençant l’évolution des populations d’oiseaux migrateurs dans les paysages exploités](showcases/showcase_eccc_migration.qmd)
 - - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
   - []{rowspan=4  .socialevents} Rencontre de réseautage
-  - []{.mainevents} Suivi des populations d’oiseaux dans les parcs nationaux du Canada
+  - []{.mainevents} [Suivi des populations d’oiseaux dans les parcs nationaux du Canada](showcases/showcase_parks_canada.qmd)
 
 - - {{< localtime 2026-10-05 17:15 EDT format='%H:%M' >}}
   - []{rowspan=1  .socialevents} Questions / Pause

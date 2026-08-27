@@ -2,6 +2,10 @@
 title: "Program"
 filename: program
 toc: true
+format: 
+  html:
+    grid:
+      body-width: 1200px
 listing:
   - id: workshops-list
     contents: "workshops/*.qmd"
@@ -48,24 +52,24 @@ Schedule times are in your browser's local time.
 - - {{< localtime 2026-10-05 11:15 EDT format='%H:%M' >}}
 
 - - {{< localtime 2026-10-05 11:30 EDT format='%H:%M' >}}
-  - []{rowspan=8  .workshops} Workshops
+  - []{rowspan=8  .workshops} [Workshops](#workshops)
   - []{rowspan=10 .mainevents} Student Presentations
-  - []{rowspan=3  .specialevents} Plenary - Early Career Award Winner
+  - []{rowspan=3  .specialevents} [Plenary - Early Career Award Winner](#ECRA)
 
 - - {{< localtime 2026-10-05 11:45 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 12:00 EDT format='%H:%M' >}}
 - - {{< localtime 2026-10-05 12:15 EDT format='%H:%M' >}}
   <!-- - []{rowspan=5  .mainevents} Research Showcase -->
-  - []{.mainevents} CanAvian: Advancing Avian Data Integration in Canada
+  - []{.mainevents} [CanAvian: Advancing Avian Data Integration in Canada](showcases/showcase_abmi.qmd)
 
 - - {{< localtime 2026-10-05 12:30 EDT format='%H:%M' >}} 
-  - []{.mainevents} Partners in Flight: Collaboration from Science to Application
+  - []{.mainevents} [Partners in Flight: Collaboration from Science to Application](showcases/showcase_pif.qmd)
 - - {{< localtime 2026-10-05 12:45 EDT format='%H:%M' >}} 
-  - []{.mainevents} National Status and Trends of Canada’s Birds
+  - []{.mainevents} [National Status and Trends of Canada’s Birds](showcases/showcase_cws_status.qmd)
 - - {{< localtime 2026-10-05 13:00 EDT format='%H:%M' >}} 
-  - []{.mainevents} Banding in the Age of Technology
+  - []{.mainevents} [Banding in the Age of Technology](showcases/showcase_cws_banding.qmd)
 - - {{< localtime 2026-10-05 13:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} Twenty Years of Boreal Avian Modelling
+  - []{.mainevents} [Twenty Years of Boreal Avian Modelling](showcases/showcase_bam.qmd)
 - - {{< localtime 2026-10-05 13:30 EDT format='%H:%M' >}} 
   - []{rowspan=2  .socialevents} Break / Social Event
   - []{rowspan=2  .socialevents} Break / Social Event
@@ -73,26 +77,26 @@ Schedule times are in your browser's local time.
 - - {{< localtime 2026-10-05 13:45 EDT format='%H:%M' >}} 
 
 - - {{< localtime 2026-10-05 14:00 EDT format='%H:%M' >}} 
-  - []{rowspan=10 .workshops} Workshops
+  - []{rowspan=10 .workshops} [Workshops](#workshops)
   - []{rowspan=4  .socialevents} Break / Social Event
   <!-- - []{rowspan=6  .mainevents} Research Showcase -->
-  - []{.mainevents} Seabird Ecology at the Atlantic Laboratory for Avian Research
+  - []{.mainevents} [Seabird Ecology at the Atlantic Laboratory for Avian Research](showcases/showcase_uofnb.qmd)
 
 - - {{< localtime 2026-10-05 14:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} Warblers to Waterbirds: Where and Why?
+  - []{.mainevents} [Warblers to Waterbirds: Where and Why?](showcases/showcase_mcgill.qmd)
 
 - - {{< localtime 2026-10-05 14:30 EDT format='%H:%M' >}} 
-  - []{.mainevents} Integrative Ornithology at AFAR
+  - []{.mainevents} [Integrative Ornithology at AFAR](showcases/showcase_western.qmd)
 
 - - {{< localtime 2026-10-05 14:45 EDT format='%H:%M' >}} 
-  - []{.mainevents} Avian Behaviour and Conservation Lab: Timing, Movement, and Conservation of Migratory Birds
+  - []{.mainevents} [Avian Behaviour and Conservation Lab: Timing, Movement, and Conservation of Migratory Birds](showcases/showcase_uofm.qmd)
 
 - - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
   - []{rowspan=4  .mainevents} Student Presentations
-  - []{.mainevents} Ecotoxicology and Conservation of Prairie Bird Communities
+  - []{.mainevents} [Ecotoxicology and Conservation of Prairie Bird Communities](showcases/showcase_uofs.qmd)
   
 - - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} Landscape Change and Avian Ecology at Thompson Rivers University
+  - []{.mainevents} [Landscape Change and Avian Ecology at Thompson Rivers University](showcases/showcase_tru.qmd)
 
 - - {{< localtime 2026-10-05 15:30 EDT format='%H:%M' >}} 
   - []{rowspan=2  .socialevents} Break / Social Event
@@ -102,21 +106,21 @@ Schedule times are in your browser's local time.
 - - {{< localtime 2026-10-05 16:00 EDT format='%H:%M' >}} 
   - []{rowspan=4  .specialevents} Three-minute Thesis (3MT)
   <!-- - []{rowspan=5  .mainevents} Research Showcase -->
-  - []{.mainevents} Delivering Strong Science at Birds Canada
+  - []{.mainevents} [Delivering Strong Science at Birds Canada](showcases/showcase_birds_canada.qmd)
 
 - - {{< localtime 2026-10-05 16:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} The Science that Powers Waterfowl Conservation
+  - []{.mainevents} [The Science that Powers Waterfowl Conservation](showcases/showcase_du.qmd)
 
 - - {{< localtime 2026-10-05 16:30 EDT format='%H:%M' >}} 
   - []{rowspan=4  .specialevents} Annual General Meeting
-  - []{.mainevents} Ornithological research and conservation at the Ontario Ministry of Natural Resources
+  - []{.mainevents} [Ornithological research and conservation at the Ontario Ministry of Natural Resources](showcases/showcase_omnr.qmd)
 
 - - {{< localtime 2026-10-05 16:45 EDT format='%H:%M' >}}
-  - []{.mainevents} Drivers of Migratory Bird Population Change in Working Landscapes
+  - []{.mainevents} [Drivers of Migratory Bird Population Change in Working Landscapes](showcases/showcase_eccc_migration.qmd)
 
 - - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
   - []{rowspan=4  .socialevents} Networking Social
-  - []{.mainevents} Monitoring Bird Populations in Canada’s National Parks
+  - []{.mainevents} [Monitoring Bird Populations in Canada’s National Parks](showcases/showcase_parks_canada.qmd)
 
 - - {{< localtime 2026-10-05 17:15 EDT format='%H:%M' >}}
   - []{.socialevents} Open Question Period / Break
