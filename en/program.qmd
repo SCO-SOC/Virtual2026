@@ -126,7 +126,7 @@ Schedule times are in your browser's local time.
   - []{.socialevents} Open Question Period / Break
 
 - - {{< localtime 2026-10-05 17:30 EDT format='%H:%M' >}} 
-  - []{rowspan=4  .socialevents} Social Event (?)
+  - []{rowspan=4  .socialevents} 2SLGBTQIA+ Ornithologists meet-up
   - []{rowspan=2  .specialevents} Awards Ceremony 
 
 - - {{< localtime 2026-10-05 17:45 EDT format='%H:%M' >}}
