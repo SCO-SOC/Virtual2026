@@ -16,6 +16,8 @@ website:
         href: participate.qmd
       - text: Program
         href: program.qmd
+      - text: Events
+        href: events.qmd
       - text: Sponsors
         href: sponsors.qmd
       - text: Resources
