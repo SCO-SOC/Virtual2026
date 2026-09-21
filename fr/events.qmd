@@ -7,17 +7,17 @@ toc: true
 En plus de notre programme principal composé d'[ateliers](program.qmd#workshops), de [présentations étudiantes](program.qmd#presentations) et de [présentations de la recherche pancanadienne](program.qmd#workshops), nous proposons également des activités sociales et des *prix*! Certaines activités ont lieu en direct et d’autres de façon asynchrone pour s’adapter à votre emploi du temps, le tout afin de créer des occasions de plaisir et de réseautage.
 
 ### 🐦 Rapports de sortie eBird {#ebird}
-Appel à toute la communauté eBird! Combien d'espèces d'oiseaux pourrons-nous observer pendant la conférence? Pour participer, fournissez votre nom d'utilisateur·rice eBird lors de votre inscription à la conférence (ou dans le formulaire d'inscription à l'activité - *Formulaire à venir*). Allez observer les oiseaux et soumettez vos listes de contrôle via eBird du **dimanche 4 octobre au jeudi 8 octobre** pour contribuer à notre rapport de sortie. Pensez à jumeler vos observations eBird avec la [Chasse au trésor](#scavenger-hunt)!
+Appel à toute la communauté eBird! Combien d'espèces d'oiseaux pourrons-nous observer pendant la conférence? Pour participer, fournissez votre nom d'utilisateur·rice eBird lors de votre inscription à la conférence (ou dans le [formulaire d'inscription à l'activité](https://forms.gle/d7B4iMdQxKzmpT94A){target="_blank"}). Allez observer les oiseaux et soumettez vos listes de contrôle via eBird du **dimanche 4 octobre au jeudi 8 octobre** pour contribuer à notre rapport de sortie. Pensez à jumeler vos observations eBird avec la [Chasse au trésor](#chasse-au-trésor)!
 🌺 Chaque personne qui soumet au moins une liste de contrôle pendant la période du [Rapport de voyage](https://ebird.org/tripreport/527162) sera inscrite à un tirage au sort. 
 
-Vous ne connaissez pas eBird mais vous souhaitez participer ou en savoir plus? [Consultez ce guide pratique](https://support.ebird.org/en/support/solutions/articles/48001158707-get-started-with-ebird).
+Vous ne connaissez pas eBird mais vous souhaitez participer ou en savoir plus? [Consultez ce guide pratique](https://support.ebird.org/fr/support/solutions/articles/48001158707-get-started-with-ebird){target="_blank"}.
 
 ### 🔎 Chasse au trésor
 Où que vous soyez, connectez-vous, explorez et participez à une aventure d'observation d'oiseaux à l'échelle de la conférence grâce à notre chasse au trésor ornithologique!
 
-Prenez le temps de vous éloigner de l'écran pour aller dehors et trouver des oiseaux. Les défis consistent à prendre des photos, des vidéos et/ou des enregistrements audio d'oiseaux (ou d'ornithologues!) pour répondre à des critères spécifiques (par ex., un oiseau en vol). Vous participez déjà au [Rapport de sortie eBird](#ebird-trip-report)? Transformez votre sortie eBird en un défi d'observation passionnant!
+Prenez le temps de vous éloigner de l'écran pour aller dehors et trouver des oiseaux. Les défis consistent à prendre des photos, des vidéos et/ou des enregistrements audio d'oiseaux (ou d'ornithologues!) pour répondre à des critères spécifiques (par ex., un oiseau en vol). Vous participez déjà au [Rapport de sortie eBird](#ebird)? Transformez votre sortie eBird en un défi d'observation passionnant!
 
-Pour participer à cet événement, veuillez remplir le formulaire d'inscription (*formulaire à venir*). Tout le monde peut participer, et vous pouvez soumettre tout type de média (photo, enregistrements audio, etc.) à condition qu'il respecte le défi assigné. 
+Pour participer à cet événement, veuillez remplir le [formulaire d'inscription](https://forms.gle/d7B4iMdQxKzmpT94A){target="_blank"}. Tout le monde peut participer, et vous pouvez soumettre tout type de média (photo, enregistrements audio, etc.) à condition qu'il respecte le défi assigné. 
 
 **Les oiseaux de votre région vous appellent, participez à la chasse du 4 au 8 octobre!**
 
@@ -45,12 +45,12 @@ Cet événement est ouvert à toutes les personnes participantes, des gens aux �
 *Horaire à venir*.
 
 ### 🐓 Le Perchoir
-Les congrès sont avant tout une occasion de connecter, et dans un environnement virtuel, nous pouvons faire preuve de créativité ! Nous utiliserons [Le Perchoir](https://roost.birdscanada.org/about), la « communauté pour les ornithologues du Canada et d'ailleurs» d'Oiseaux Canada, pour faciliter les discussions et le partage de recherches. 
+Les congrès sont avant tout une occasion de connecter, et dans un environnement virtuel, nous pouvons faire preuve de créativité ! Nous utiliserons [Le Perchoir](https://roost.birdscanada.org/about){target="_blank"}, la « communauté pour les ornithologues du Canada et d'ailleurs» d'Oiseaux Canada, pour faciliter les discussions et le partage de recherches. 
 
 Vous aviez une question à poser à une personne conférencière, mais vous n'en avez pas eu l'occasion? Vous avez trouvé un article de recherche intéressant dont vous aimeriez discuter avec les autres personnes participant au congrès? Vous avez fait une observation d'oiseau que vous souhaitez partager? C'est l'endroit idéal! 
 
 🌺 Toute personne qui participe aux discussions dans les sujets du congrès sur Le Perchoir pendant la durée de l'événement (du 5 au 7 octobre) sera inscrite à un tirage au sort! 
 
-Commencez par consulter la publication épinglée [Bienvenue au perchoir](https://roost.birdscanada.org/t/welcome-to-the-roost-bienvenue-au-perchoir/5) pour être prêt·e·s à participer dès le début du congrès! 
+Commencez par consulter la publication épinglée [Bienvenue au perchoir](https://roost.birdscanada.org/t/welcome-to-the-roost-bienvenue-au-perchoir/5){target="_blank"} pour être prêt·e·s à participer dès le début du congrès! 
 
 *De plus amples informations sur la participation spécifique au congrès seront bientôt disponibles*.
