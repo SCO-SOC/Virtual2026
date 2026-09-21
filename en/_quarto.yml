@@ -21,7 +21,13 @@ website:
       - text: Sponsors
         href: sponsors.qmd
       - text: Resources
-        href: resources.qmd
+        menu:
+          - text: Conference Guide
+            href: guide.qmd
+          - text: T-Shirt Sizing
+            href: resources.qmd
+          - text: Code of Conduct
+            href: code-of-conduct.qmd
     right:
       - text: Code of Conduct
         href: code-of-conduct.qmd        

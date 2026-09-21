@@ -1,9 +1,9 @@
 ---
-title: "Ressources"
+title: "Tailles de t-shirts"
 filename: resources
 ---
 
-### Tableau des tailles de t-shirts {#tshirt-size}
+### Tableau des tailles {#tshirt-size}
 
 :::{style="width: 50%; margin:auto;"}
 | Taille | Longueur (cm) | Largeur (cm) |

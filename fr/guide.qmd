@@ -1,0 +1,73 @@
+---
+title: "Guide de la conférence"
+filename: guide
+toc: true
+---
+
+**Guide du débutant de la conférence SCO-SOC**
+
+*Adapté du “[Guide du débutant de la SCO-SOC](https://conferences.usask.ca/soc-2025/ressources-pour-la-conf%C3%A9rence/guide-de-la-conf%C3%A9rence-pour-les-d%C3%A9butants.php)”*
+
+Assister à une conférence peut être intimidant, mais pas d'inquiétude: le guide de conférence pour débutant de la SOC est là pour vous aider! Consultez ce guide pour découvrir ce que vous pouvez faire avant, pendant et après la conférence pour optimiser votre expérience.
+
+## **Avant la conférence**
+
+### **Consultez le code de conduite**
+
+La conférence de la SOC doit être un environnement respectueux, sûr et convivial. Consultez [le code de conduite de la conférence](https://sco-soc.github.io/Virtual2026/fr/code-of-conduct.html) afin de savoir ce que l'on attend des participants et ce qu'il faut faire si quelqu'un agit de manière inappropriée.
+
+### **Examinez le programme et prévoyez vos rencontres**
+
+Pensez aux personnes d'intérêt avec qui vous aimeriez entrer en contact durant la conférence. [Parcourez le programme](https://sco-soc.github.io/Virtual2026/fr/program.html) pour voir si ces personnes ou des membres de leur laboratoire seront présents, et notez à quels événements vous pourriez les rencontrer. Vous pouvez aussi participer aux activités sociales et rester à l'affût d'une occasion pour vous présenter.
+
+### **Pratiquez votre présentation**
+
+La conférence de la SOC est un endroit où les gens peuvent apprendre qui vous êtes et ce que vous faites. Pratiquez-vous à vous décrire en 30 secondes en vue de nouvelles rencontres. Il peut également être utile de préparer quelques questions pour engager la conversation lorsque vous rencontrez quelqu'un de nouveau.
+
+**Conseil de pro!** Si la prise de parole en public ou le réseautage vous intimident, cherchez un [Club Toastmasters](https://www.toastmasters.org/find-a-club) près de chez vous pour vous entraîner à parler de manière impromptue.
+
+### **Considérez votre présence en ligne**
+
+Il est difficile de distribuer des cartes de visite lors d'une conférence virtuelle, mais vous pouvez au moins vous assurer que votre présence en ligne est à jour. Vérifiez vos espaces professionnels (site personnel, site de laboratoire, LinkedIn, Research Gate, OrcID, Google Scholar, GitHub, etc.) et assurez-vous qu'au minimum, votre poste actuel et votre adresse courriel soient exacts. Si vous affichez un CV, profitez-en pour lui donner un petit coup de pinceau. Si vous avez des profils de réseaux sociaux publics liés à votre vie professionnelle (X, Bluesky, Mastodon, etc.), assurez-vous qu'ils soient à jour. Si vous avez des profils personnels publics (Facebook, Instagram, etc.), prenez un moment pour les réviser. Souhaitez-vous que ces informations soient publiques ou accessibles à quiconque chercherait votre nom après vous avoir rencontré·e à la conférence? Envisagez de rendre privés les réseaux sociaux associés à votre vie personnelle.
+
+### **Choisissez l'image que vous souhaitez projeter**
+
+Même lors d'une conférence en ligne, portez des vêtements dans lesquels vous vous sentez à l'aise et en confiance. Il y aura des événements sociaux et des occasions d'échanger avec d'autres participant·e·s en ligne, alors réfléchissez à votre tenue et à ce qui apparaîtra derrière vous à la caméra. Assurez-vous de pouvoir parler librement si vous souhaitez réseauter ou socialiser. Si vous avez des vêtements, des accessoires ou des œuvres d'art représentant des oiseaux, cela peut aussi être une excellente façon de briser la glace! La présence de personnes en arrière-plan ou le fait de participer depuis la maison n'est pas un problème, sauf si cela vous rend inconfortable. Dans ce cas, envisagez de [brouiller votre arrière-plan](https://support.zoom.com/hc/fr/article?id=zm_kb&sysparm_article=KB0061069) ou de déplacer votre installation vers un endroit qui ne montre que ce que vous souhaitez montrer. Enfin, assurez-vous d'avoir des chaussures confortables et des jumelles à portée de main pour sortir pendant les pauses et participer au rapport de sortie eBird ainsi qu'à la chasse au trésor!
+
+**Conseil de pro!** Regardez ces photos des conférences [AOS-SOC 2023](https://drive.google.com/file/d/1ZWA_QYx3bFHlNlCoiwpELnORb46c3NZx/view) et [SCO-SOC 2025](https://www.sco-soc.ca/fr/meetings) pour voir ce que les gens portaient.
+
+### **Préparez votre espace**
+
+Les conférences en ligne facilitent le multitâche, mais cela rend aussi la concentration sur les présentations et les activités plus difficile. Toutefois, il peut être utile de pouvoir faire des recherches sur des personnes, des laboratoires ou des sujets, ou encore de prendre des notes numériques. Si vous avez accès à un deuxième moniteur, essayez d’en tirer profit pour afficher les conférences sur un écran et un navigateur Web et afficher un logiciel de prise de notes sur l’autre. Même le fait d’avoir votre téléphone ou une tablette à portée de main en plus d’un ordinateur portable peut être d’une grande aide.
+
+## **Pendant la conférence**
+
+### **Limitez le multitâche**
+
+Essayez de limiter le multitâche sans lien avec la conférence. Prêter attention et être en mesure de poser des questions de suivi pendant l'événement ou plus tard par courriel peut s'avérer très utile si vous êtes intéressé·e à établir un contact avec certain·e·s conférencier·ère·s ou leur laboratoire, ou à trouver des occasions futures.
+
+### **Surveillez Le Perchoir**
+
+Parcourez [Le Perchoir](https://roost.birdscanada.org/), la communauté en ligne pour ornithologues hébergée par Oiseaux Canada. Il y aura une catégorie SCO-SOC 2026 liée aux sujets de la conférence. Lisez ce que les autres disent ou apportez vos propres réflexions et questions.
+
+### **Gardez le rythme**
+
+Même s'il y aura beaucoup d'activités amusantes lors de la conférence de la SCO-SOC, il est important, même lors de congrès en ligne, de prendre des pauses et de privilégier le repos. Bien que certain·e·s participant·e·s expérimenté·e·s puissent être en mesure de profiter de chaque instant d'une conférence, d'autres peuvent trouver épuisant de constamment socialiser et assimiler de l'information, surtout à l'ordinateur. Prenez des pauses au besoin et n'hésitez pas à laisser passer certains événements ou à les quitter tôt pour passer une meilleure nuit de sommeil.
+
+### **Tissez de nouveaux liens**
+
+Il peut être difficile de réseauter lors de conférences en ligne, alors profitez des périodes de questions et des activités sociales conçues pour faciliter le réseautage et les échanges. Les interactions peuvent être à la fois formelles, comme poser des questions aux participant·e·s pendant la période de questions, et informelles, comme discuter lors d'une activité sociale. Si vous commencez à envisager vos prochaines étapes de carrière (études aux cycles supérieurs, post-doctorat, recherche d'emploi après les études, etc.), vous rendre «visible» (poser des questions, vous présenter, etc.) et faire savoir aux autres que vous cherchez des opportunités peuvent être d'une grande aide. On ne sait jamais ce qui pourrait se présenter à vous grâce au bouche-à-oreille. Il est important de se rappeler que le courant ne passera probablement pas avec tout le monde. Si un·e participant·e n'est pas aussi engagé·e que vous l'espériez, ne le prenez pas personnellement et continuez d'essayer de faire de nouvelles rencontres.
+
+## **Après la conférence**
+
+### **Faites le suivi auprès de vos connections**
+
+Après quelques jours de ressourcement, contactez les personnes rencontrées durant la conférence de la SOC. Cela vous aidera tous les deux à vous souvenir de ce dont vous avez discuté! Vous pouvez les contacter avec un bref courriel, une demande sur LinkedIn ou tout autre moyen qui vous convient.
+
+### **Remerciez vos support**·**eurs**·**rices**
+
+Si des personnes vous ont aidé à vous préparer pour la conférence, envoyez-leur un mot de remerciement pour leur raconter votre expérience durant la conférence. Non seulement cela témoigne de votre reconnaissance, mais cela peut aussi les inciter à aider d'autres étudiants à participer dans le futur.
+
+### **Mettez à jour votre CV**
+
+Mettez à jour votre CV pour y mentionner les présentations que vous avez faites et les prix que vous avez reçus durant la conférence de la SOC. En faisant cela maintenant, vous vous éviterez des tracas la prochaine fois que vous devrez fournir votre CV à quelqu'un: vous ne voulez pas oublier des détails sur ce que vous avez fait durant la conférence de la SOC!

@@ -19,7 +19,13 @@ website:
       - text: Commanditaires
         href: sponsors.qmd
       - text: Ressources
-        href: resources.qmd
+        menu: 
+          - text: Guide de la conférence
+            href: guide.qmd
+          - text: Tailles de t-shirts
+            href: resources.qmd
+          - text: Code de conduite
+            href: code-of-conduct.qmd
     right:
       - text: Code de conduite
         href: code-of-conduct.qmd

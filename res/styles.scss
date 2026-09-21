@@ -12,6 +12,10 @@ $alert-border-radius: 0;
     min-width: 50px;
 }
 
+a.dropdown-item {
+    color: $link-color;
+}
+
 .navbar-logo {
     max-height: 100px;
 }

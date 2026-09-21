@@ -1,0 +1,73 @@
+---
+title: "Conference Guide"
+filename: guide
+toc: true
+---
+
+**A Beginner’s Guide to the SCO-SOC** 
+
+*Adapted from the “[A Beginner’s Guide to SCO-SOC 2025](https://conferencestest.usask.ca/sco-2025/conference-resources/beginners-guide-to-conferencing.php)”*
+
+Attending a conference can be intimidating, but don’t worry – the SCO-SOC beginner’s guide to conferencing is here to help! Browse this guide for things you can do before, during, and after the conference to give you the best possible experience.
+
+## **Before the Conference**
+
+### **Review the Code of Conduct**
+
+The SCO-SOC meeting should be a respectful, safe, and fun environment. Review the [conference code of conduct](https://sco-soc.github.io/Virtual2026/en/code-of-conduct.html) so that you know what is expected of attendees and what to do if someone acts inappropriately.
+
+### **Review the Program & Plan Connections**
+
+Consider people of interest you might like to connect with during the conference. [Explore the program](https://sco-soc.github.io/Virtual2026/en/program.html) to see if they are presenting or perhaps members of their lab are and make a note to check out those events. You can attend the social events and keep an eye out for the opportunity to introduce yourself. 
+
+### **Practice Your Pitch**
+
+The SCO-SOC meeting is a place for people to learn who you are and what you do. Practice a 30-second description of yourself to use when you meet new people. It may also be useful to develop a few questions to help start a conversation when you meet someone new. An easy question to ask just about any one is whether they have anything exciting coming up, either professionally or personally.
+
+**Pro tip!** If you find public speaking or networking intimidating, look for a local [Toastmasters club](https://www.toastmasters.org/find-a-club) to practice your impromptu speaking.
+
+### **Review Your Online Presence**
+
+It’s hard to hand out business cards at an online conference, but one thing you can do is make sure your online presence is up-to-date. Check your professional spaces (personal website, lab website, LinkedIn, Research Gate, OrcID, Google Scholar, GitHub etc.) and make sure that at least your current position and email address are up-to-date. If you list a CV, perhaps give it a quick update as well. If you have public social media profiles related to your professional self (X, Bluesky, Mastodon, etc.) make sure they’re up-to-date. If you have public social media profiles related to your personal self (Facebook, Instagram, etc.), take a moment to review them. Do you want that information to be public or findable by someone searching your name after meeting you at the conference? Consider making social media associated with your personal life private.
+
+### **Choose How You Want to Appear**
+
+Even at an online conference, wear clothes that make you feel comfortable and confident. There will be social events and opportunities to interact with other conference attendees online, so consider what you want to wear and what your space looks like behind your camera. Ensure you can speak freely if you wish to participate in networking or socializing. If you have clothing, accessories, or art that feature birds, that can also be a fun conversation starter! It doesn’t matter if people are in your background, or if you’re attending from home. But it does matter if that makes you uncomfortable. In that case consider [using the option to fuzz](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061066) your background or move your setup to a place which only shows things you don’t mind having on display. Finally, make sure you have comfy shoes and binoculars accessible for going outside during breaks and participating in the eBird Trip Report and the Scavenger hunt!
+
+**Pro tip!** Look at these photos from [AOS-SCO 2023](https://drive.google.com/file/d/1ZWA_QYx3bFHlNlCoiwpELnORb46c3NZx/view) and [SCO-SOC 2025](https://www.sco-soc.ca/meetings) to see what people wore!
+
+### **Prepare Your Space**
+
+Online conferences make it easy to multitask, but this also makes it hard to focus on the talks and events. However, it can be useful to be able to look up people, labs, or topics, or to take digital notes. If you have access to a second monitor, see if you can take advantage of that to have conference talks on one screen and a web browser/note taker on the other. Even having your phone or a table ready in addition to a laptop can help. 
+
+## **During the Conference**
+
+### **Limit Multitasking**
+
+Try to limit multitasking unrelated to the conference. Paying attention and being able to ask followup questions during the event or in later emails can be really useful if you’re interested in making a connection with the speaker or their lab, or finding opportunities for the future.
+
+### **Monitor the Roost**
+
+Browse [The Roost](https://roost.birdscanada.org/), the Birds Canada hosted online community for ornithologists. There will be an SCO-SOC 2026 category related to conference topics. Read what others are saying or contribute your own thoughts and questions.
+
+### **Pace Yourself**
+
+While there will be a lot of fun things happening at the SCO-SOC meeting, even at online conferences it is important to take breaks and prioritize rest. Though some experienced conference-goers may relish every moment of a conference, others may find it draining to be constantly socializing and absorbing information, especially on the computer. Take breaks as needed, and feel free to skip or leave events early to get a better night’s sleep.
+
+### **Make New Connections**
+
+It can be tricky to network at online conferences, so take advantage of the question periods and social events designed to facilitate networking and socializing. Interactions can be both formal, like asking people questions during the Q&A period, and informal, such as chatting during a social event. If you’re starting to consider future career steps (grad school, post-doc, applying for post-graduate jobs, etc.) making yourself ‘visible’ (asking questions, introducing yourself, etc.) and letting people know that you’re looking for opportunities can be a great help. You never know what might come down the line through word of mouth. It’s important to remember that you likely won’t “click” with everyone to whom you talk. If someone isn’t as engaged as you had hoped, don’t take it personally and keep trying to meet new people.
+
+## **After the Conference**
+
+### **Follow Up with Connections**
+
+After taking a few days to recharge, contact the people you met at the SCO-SOC meeting. This will help you both remember what you discussed! You might reach out with a quick email, a LinkedIn request, or whatever works for you.
+
+### **Thank Your Supporters**
+
+If people helped you prepare for the SCO-SOC meeting, send them a thank-you note to tell them about your conference experience. Not only does this show appreciation, but it also may make supporters more likely to help other students in the future.
+
+### **Update Your Resume**
+
+Update your CV or resume to list the presentations you delivered and any awards you received at SCO-SOC. Doing this now may save you a headache next time you need to provide someone with your CV – you don’t want to forget details about what you did at the SCO-SOC meeting!
