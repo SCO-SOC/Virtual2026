@@ -424,7 +424,7 @@ el.textContent=fmt
   .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p></td>
 </tr>
 <tr class="even">
-<td><span id="localtime-28" class="localtime" data-datetime="2026-10-05T12:15" data-tz="America/New_York" data-format="%H:%M">2026-10-05 12:15 EDT</span><script>(function(){var el=document.getElementById('localtime-28');
+<td><span id="localtime-30" class="localtime" data-datetime="2026-10-05T12:15" data-tz="America/New_York" data-format="%H:%M">2026-10-05 12:15 EDT</span><script>(function(){var el=document.getElementById('localtime-30');
 if(typeof luxon==='undefined'){return;}
 var tz=el.getAttribute('data-tz');
 var zone=isNaN(Number(tz))?tz:Number(tz);
@@ -925,7 +925,7 @@ el.textContent=fmt
   .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
   .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
   .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p></td>
-<td rowspan="4" class="socialevents"> Rencontre de réseautage</td>
+<td rowspan="4" class="socialevents"> <a href="./events.html#networking">Rencontre de réseautage</a></td>
 <td class="mainevents"> <a href="./showcases/showcase_parks_canada.html">Suivi des populations d’oiseaux dans les parcs nationaux du Canada</a></td>
 </tr>
 <tr class="even">
@@ -976,11 +976,61 @@ el.textContent=fmt
   .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
   .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
   .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p></td>
-<td rowspan="2" class="socialevents"> Rencontre des ornithologues 2SLGBTQIA+</td>
+<td rowspan="4" class="socialevents"> <a href="./events.html#meet-up">Rencontre des ornithologues 2SLGBTQIA+</a></td>
 <td rowspan="2" class="specialevents"> Cérémonie de remise des prix</td>
 </tr>
 <tr class="even">
 <td><p><span id="localtime-27" class="localtime" data-datetime="2026-10-05T17:45" data-tz="America/New_York" data-format="%H:%M">2026-10-05 17:45 EDT</span><script>(function(){var el=document.getElementById('localtime-27');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p></td>
+</tr>
+<tr class="odd">
+<td><p><span id="localtime-28" class="localtime" data-datetime="2026-10-05T18:00" data-tz="America/New_York" data-format="%H:%M">2026-10-05 18:00 EDT</span><script>(function(){var el=document.getElementById('localtime-28');
+if(typeof luxon==='undefined'){return;}
+var tz=el.getAttribute('data-tz');
+var zone=isNaN(Number(tz))?tz:Number(tz);
+var dt=luxon.DateTime.fromISO(el.getAttribute('data-datetime'),{zone:zone}).toLocal();
+if(!dt.isValid){return;}
+var fmt=el.getAttribute('data-format')||'%Y-%m-%d %H:%M';
+var P={datetime:'%Y-%m-%d %H:%M',date:'%Y-%m-%d',time:'%H:%M',time12:'%-I:%M%P',datetime12:'%Y-%m-%d %-I:%M%P',full:'%A, %-d %B %Y at %H:%M %Z',full12:'%A, %-d %B %Y at %-I:%M%P %Z'};
+if(P[fmt])fmt=P[fmt];
+var pad=function(n){return String(n).padStart(2,'0');};
+var h=dt.hour,mi=dt.minute;
+el.textContent=fmt
+  .replace(/%Y/g,String(dt.year))
+  .replace(/%-m/g,String(dt.month)).replace(/%m/g,pad(dt.month))
+  .replace(/%-d/g,String(dt.day)).replace(/%d/g,pad(dt.day))
+  .replace(/%-H/g,String(h)).replace(/%H/g,pad(h))
+  .replace(/%-I/g,String(h%12||12)).replace(/%I/g,pad(h%12||12))
+  .replace(/%-M/g,String(mi)).replace(/%M/g,pad(mi))
+  .replace(/%P/g,h<12?'am':'pm').replace(/%p/g,h<12?'AM':'PM')
+  .replace(/%A/g,dt.toFormat('EEEE')).replace(/%a/g,dt.toFormat('EEE'))
+  .replace(/%B/g,dt.toFormat('MMMM')).replace(/%b/g,dt.toFormat('MMM'))
+  .replace(/%Z/g,(Intl.DateTimeFormat(undefined,{timeZoneName:'short'}).formatToParts(dt.toJSDate()).find(function(p){return p.type==='timeZoneName';})||{value:''}).value);})();</script></p></td>
+<td rowspan="2"></td>
+<td rowspan="2"></td>
+</tr>
+<tr class="even">
+<td><p><span id="localtime-29" class="localtime" data-datetime="2026-10-05T18:15" data-tz="America/New_York" data-format="%H:%M">2026-10-05 18:15 EDT</span><script>(function(){var el=document.getElementById('localtime-29');
 if(typeof luxon==='undefined'){return;}
 var tz=el.getAttribute('data-tz');
 var zone=isNaN(Number(tz))?tz:Number(tz);
@@ -1025,7 +1075,7 @@ el.textContent=fmt
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1791214200000" data-listing-file-modified-sort="1790021798482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1791214200000" data-listing-file-modified-sort="1790101079570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="258">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./workshops/workshop_quarto.html" class="no-external">Introduction à Quarto pour la reproductibilité</a>
@@ -1048,7 +1098,7 @@ Steffi LaZerte
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1791214200000" data-listing-file-modified-sort="1790021798482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="287">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1791214200000" data-listing-file-modified-sort="1790101079570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="287">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./workshops/workshop_isotopes.html" class="no-external">Introduction à l’attribution des isotopes stables dans R</a>
@@ -1071,7 +1121,7 @@ Jackson Kusack
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1791214200000" data-listing-file-modified-sort="1790021798482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1791214200000" data-listing-file-modified-sort="1790101079570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="388">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./workshops/workshop_incidental_take.html" class="no-external">Réglementer les prises accidentelles au Canada: défis et opportunités pour les scientifiques</a>
@@ -1094,7 +1144,7 @@ Julie Bourque
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1791214200000" data-listing-file-modified-sort="1790021798482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="314">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1791214200000" data-listing-file-modified-sort="1790101079570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="314">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./workshops/workshop_wildtrax.html" class="no-external">Utiliser WildTrax pour gérer et traiter vos enregistrements de chants d’oiseaux</a>
@@ -1117,7 +1167,7 @@ Journée complète / 4 à 5 heures
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1791223200000" data-listing-file-modified-sort="1790021798482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1791223200000" data-listing-file-modified-sort="1790101079570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="162">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./workshops/workshop_birdnet.html" class="no-external">Intégration de BirdNET Analyzer et Kaleidoscope Pro</a>
@@ -1140,7 +1190,7 @@ Carlos Abrahams
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1791223200000" data-listing-file-modified-sort="1790021798482" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="441">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1791223200000" data-listing-file-modified-sort="1790101079570" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="441">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./workshops/workshop_bbsbayes2.html" class="no-external">Modélisation du recensement des oiseaux nicheurs avec bbsBayes2: état des lieux, tendances et modélisation causale des facteurs à l’origine des tendances</a>
@@ -1179,7 +1229,7 @@ Adam Smith
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1791389700000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1791389700000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_abmi.html" class="no-external">CanAvian: Faire progresser l’intégration des données aviaires au Canada</a>
@@ -1199,7 +1249,7 @@ Sofia Guest<sup>1</sup>, Catherine Jardine<sup>2</sup>
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1791390600000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1791390600000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_pif.html" class="no-external">Partenaires d’envol: Collaboration de la science à l’application</a>
@@ -1219,7 +1269,7 @@ Becky Stewart
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1791391500000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1791391500000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_cws_status.html" class="no-external">État et tendances nationaux des oiseaux du Canada</a>
@@ -1239,7 +1289,7 @@ Adam C. Smith, Jackson Kusack, Sarah Gutowsky, Dave Iles, Willow English, Marcel
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1791392400000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1791392400000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_cws_banding.html" class="no-external">Le baguage à l’ère de la technologie</a>
@@ -1259,7 +1309,7 @@ Marcel Gahbauer, Lesley Howes, Barbara Frei, Cyndi Smith, Pam Sinclair
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1791393300000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
+<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1791393300000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_bam.html" class="no-external">Vingt ans de modélisation de l’avifaune boréale</a>
@@ -1279,7 +1329,7 @@ Elly Knight, Steven Van Wilgenburg, Diana Stralberg, Steve Cumming, Jeff Ball, J
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1791396000000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
+<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1791396000000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="122">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_uofnb.html" class="no-external">Écologie des oiseaux marins au Laboratoire atlantique de recherche aviaire</a>
@@ -1299,7 +1349,7 @@ Heather Major (Professeure), Amanda Giovinazzo, Maddy Talpt, Clare Taylor, Kayla
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1791396900000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="176">
+<div class="quarto-post image-right" data-index="6" data-listing-date-sort="1791396900000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="176">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_mcgill.html" class="no-external">Des parulines aux oiseaux aquatiques: où et pourquoi?</a>
@@ -1319,7 +1369,7 @@ Tabatha Cormier (doctorant·e), Nathanya Goudreau (étudiante à la maîtrise)
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1791397800000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="132">
+<div class="quarto-post image-right" data-index="7" data-listing-date-sort="1791397800000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="132">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_western.html" class="no-external">Ornithologie intégrative à l’AFAR</a>
@@ -1339,7 +1389,7 @@ Scott MacDougall-Shackleton, Chris Guglielmo, Carrie Branch, Yolanda Morbey, Bet
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1791398700000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
+<div class="quarto-post image-right" data-index="8" data-listing-date-sort="1791398700000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="125">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_uofm.html" class="no-external">Laboratoire de comportement et de conservation des oiseaux: synchronisation, mouvements et conservation des oiseaux migrateurs</a>
@@ -1359,7 +1409,7 @@ Kevin Fraser (PI), Vinuri Mendis (doctorant·e), Yantong Tan (doctorant·e), Reb
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1791399600000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
+<div class="quarto-post image-right" data-index="9" data-listing-date-sort="1791399600000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_uofs.html" class="no-external">Écotoxicologie et conservation des communautés d’oiseaux des prairies</a>
@@ -1379,7 +1429,7 @@ Christy Morrissey
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1791400500000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
+<div class="quarto-post image-right" data-index="10" data-listing-date-sort="1791400500000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_tru.html" class="no-external">Changements paysagers et écologie aviaire à l’Université Thompson Rivers</a>
@@ -1399,7 +1449,7 @@ Matt Reudink, Nancy Flood, Stephen Joly, Kara Lefevre
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1791403200000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="188">
+<div class="quarto-post image-right" data-index="11" data-listing-date-sort="1791403200000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="188">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_birds_canada.html" class="no-external">Fournir une science rigoureuse chez Oiseaux Canada</a>
@@ -1419,7 +1469,7 @@ Douglas C. Tozer
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1791404100000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
+<div class="quarto-post image-right" data-index="12" data-listing-date-sort="1791404100000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="215">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_du.html" class="no-external">La science au service de la conservation de la sauvagine</a>
@@ -1439,7 +1489,7 @@ Matt Dyson, James Paterson, Vanessa Harriman, Lauren Bortolotti, Pascal Badiou, 
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1791405000000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
+<div class="quarto-post image-right" data-index="13" data-listing-date-sort="1791405000000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="204">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_omnr.html" class="no-external">Recherche ornithologique et conservation au ministère des Ressources naturelles de l’Ontario</a>
@@ -1459,7 +1509,7 @@ Glen Brown<sup>1</sup>, Richard Feldman<sup>1</sup>, Jeff Bowman<sup>1</sup>, Ro
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1791405900000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
+<div class="quarto-post image-right" data-index="14" data-listing-date-sort="1791405900000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_eccc_migration.html" class="no-external">Facteurs influençant l’évolution des populations d’oiseaux migrateurs dans les paysages exploités</a>
@@ -1479,7 +1529,7 @@ Ann E. McKellar, Nancy A. Mahony, Greg W. Mitchell, Elizabeth A. Gow
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1791406800000" data-listing-file-modified-sort="1790021798481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="164">
+<div class="quarto-post image-right" data-index="15" data-listing-date-sort="1791406800000" data-listing-file-modified-sort="1790101079569" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="164">
 <div class="body">
 <h3 class="no-anchor listing-title">
 <a href="./showcases/showcase_parks_canada.html" class="no-external">Suivi des populations d’oiseaux dans les parcs nationaux du Canada</a>
