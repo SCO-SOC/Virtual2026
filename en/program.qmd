@@ -59,7 +59,7 @@ Schedule times are in your browser's local time.
 - - {{< localtime 2026-10-05 11:00 EDT format='%H:%M %Z' >}}
   - []{rowspan=2} 
   - []{rowspan=2  .socialevents} Announcements / Social Event
-  - []{rowspan=2  .socialevents} Announcements / Social Event
+  - []{rowspan=2  .socialevents} Announcements / Student Committee Info Session
 
 - - {{< localtime 2026-10-05 11:15 EDT format='%H:%M' >}}
 

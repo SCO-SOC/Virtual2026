@@ -59,7 +59,7 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 11:00 EDT format='%H:%M %Z' >}}
   - []{rowspan=2} 
   - []{rowspan=2  .socialevents} Annonces / Activité sociale
-  - []{rowspan=2  .socialevents} Annonces / Activité sociale
+  - []{rowspan=2  .socialevents} Annonces / Séance d'information du comité étudiant
 
 - - {{< localtime 2026-10-05 11:15 EDT format='%H:%M' >}}
 
