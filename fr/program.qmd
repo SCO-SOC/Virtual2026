@@ -112,7 +112,7 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 16:45 EDT format='%H:%M' >}}
   - []{.mainevents} [Facteurs influençant l’évolution des populations d’oiseaux migrateurs dans les paysages exploités](showcases/showcase_eccc_migration.qmd)
 - - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
-  - []{rowspan=4  .socialevents} Rencontre de réseautage
+  - []{rowspan=4  .socialevents} [Rencontre de réseautage](events.qmd/#networking)
   - []{.mainevents} [Suivi des populations d’oiseaux dans les parcs nationaux du Canada](showcases/showcase_parks_canada.qmd)
 
 - - {{< localtime 2026-10-05 17:15 EDT format='%H:%M' >}}

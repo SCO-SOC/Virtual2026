@@ -25,7 +25,7 @@ Pour participer à cet événement, veuillez remplir le [formulaire d'inscriptio
 
 *La liste des défis sera rendue disponible ici le 4 octobre*.
 
-### 🍹 Activité de réseautage
+### 🍹 Activité de réseautage {#networking}
 Apportez une collation, de l'eau et/ou une boisson de votre choix et joignez-vous à nous pour une activité de réseautage virtuel! Nous organiserons plusieurs séances de réseautage éclair en petits groupes de 3 à 4 personnes avec des pistes de discussion et d'exploration. Profitez de ce moment pour faire la connaissance de vos collègues ornithologues dans un cadre décontracté et convivial. Découvrez qui adore les mésanges, qui étudie la migration et qui connaît les mêmes ornithologues que vous!
 
 - **{{< localtime 2026-10-06 18:00 EDT format='%Y-%m-%d %H:%M %Z' >}}** (Après les présentations 3MT)

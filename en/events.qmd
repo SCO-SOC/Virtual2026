@@ -26,7 +26,7 @@ To participate in this event, please fill out the [event sign-up form](https://f
 
 *The list of challenges will be made available here on October 4*.
 
-### 🍹 Networking Social 
+### 🍹 Networking Social {#networking}
 Bring a snack, water, and/or beverage of choice and join us for a virtual Networking Social! We’ll have several rounds of speed networking in small groups of 3-4 people with prompts for discussion and exploration. Take this time to get to know your fellow ornithologists in a casual, friendly, low-stakes environment. Find out who loves chickadees, who’s studying migration, and who knows the same ornithologists you do! 
 
 - **{{< localtime 2026-10-06 18:00 EDT format='%A, %b %-d %H:%M %Z' >}}** (After the 3MT presentations)
