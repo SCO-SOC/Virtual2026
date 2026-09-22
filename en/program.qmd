@@ -119,17 +119,23 @@ Schedule times are in your browser's local time.
   - []{.mainevents} [Drivers of Migratory Bird Population Change in Working Landscapes](showcases/showcase_eccc_migration.qmd)
 
 - - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
-  - []{rowspan=4  .socialevents} [Networking Social](events.qmd/#networking)
+  - []{rowspan=4  .socialevents} [Networking Social](events.qmd#networking)
   - []{.mainevents} [Monitoring Bird Populations in Canada’s National Parks](showcases/showcase_parks_canada.qmd)
 
 - - {{< localtime 2026-10-05 17:15 EDT format='%H:%M' >}}
   - []{.socialevents} Open Question Period / Break
 
 - - {{< localtime 2026-10-05 17:30 EDT format='%H:%M' >}} 
-  - []{rowspan=4  .socialevents} 2SLGBTQIA+ Ornithologists meet-up
+  - []{rowspan=4  .socialevents} [2SLGBTQIA+Birders Virtual Meet Up](events.qmd#meet-up)
   - []{rowspan=2  .specialevents} Awards Ceremony 
 
 - - {{< localtime 2026-10-05 17:45 EDT format='%H:%M' >}}
+
+- - {{< localtime 2026-10-05 18:00 EDT format='%H:%M' >}}
+  - []{rowspan=2} 
+  - []{rowspan=2}
+
+- - {{< localtime 2026-10-05 18:15 EDT format='%H:%M' >}}
 :::
 
 

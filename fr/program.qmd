@@ -112,17 +112,23 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 16:45 EDT format='%H:%M' >}}
   - []{.mainevents} [Facteurs influençant l’évolution des populations d’oiseaux migrateurs dans les paysages exploités](showcases/showcase_eccc_migration.qmd)
 - - {{< localtime 2026-10-05 17:00 EDT format='%H:%M' >}}
-  - []{rowspan=4  .socialevents} [Rencontre de réseautage](events.qmd/#networking)
+  - []{rowspan=4  .socialevents} [Rencontre de réseautage](events.qmd#networking)
   - []{.mainevents} [Suivi des populations d’oiseaux dans les parcs nationaux du Canada](showcases/showcase_parks_canada.qmd)
 
 - - {{< localtime 2026-10-05 17:15 EDT format='%H:%M' >}}
   - []{rowspan=1  .socialevents} Questions / Pause
 
 - - {{< localtime 2026-10-05 17:30 EDT format='%H:%M' >}} 
-  - []{rowspan=4  .socialevents} Rencontre des ornithologues 2SLGBTQIA+
+  - []{rowspan=4  .socialevents} [Rencontre des ornithologues 2SLGBTQIA+](events.qmd#meet-up)
   - []{rowspan=2  .specialevents} Cérémonie de remise des prix 
 
 - - {{< localtime 2026-10-05 17:45 EDT format='%H:%M' >}}
+
+- - {{< localtime 2026-10-05 18:00 EDT format='%H:%M' >}}
+  - []{rowspan=2} 
+  - []{rowspan=2}
+
+- - {{< localtime 2026-10-05 18:15 EDT format='%H:%M' >}}
 :::
 
 ## Séance plénière de remise des prix ECR {#ECRA}
