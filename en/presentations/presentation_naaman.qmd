@@ -1,0 +1,39 @@
+---
+filename: presentations/presentation_naaman
+title: "Using community science methods to assess predictors of urban avian species richness in Dakar, Senegal"
+author: 
+   - Lily Naaman<sup>1</sup>
+   - Paul JE Preston<sup>2</sup>
+   - Islamiat Abidemi Raji & Lab of Ornithology<sup>3</sup>
+   - Cornell University<sup>4</sup>
+   - Daniel J Mennill<sup>5</sup>
+   - Paul R Martin<sup>6</sup>
+   - Lynn B Martin<sup>7</sup>
+   - Guiherme A Serpa<sup>8</sup>
+   - Massamba Thiam<sup>9</sup>
+   - Alex M Syingi<sup>10</sup>
+   - Frances Bonier<sup>11</sup>
+author-affiliation:
+  - 1. BSc student, McMaster University
+  - 2. Department of Biology, Queen’s University
+  - 3. Department of Biology, Queen’s University & Lab of Ornithology, Cornell University
+  - 4. Department of Biology, University of Windsor
+  - 5. Department of Biology, Queen’s University
+  - 6. Department of Global Health, University of South Florida
+  - 7. Serpa Birding, Rio de Janeiro, Brazil
+  - 8. Universite Cheikh Anta Diop, Dakar, Senegal
+  - 9. National Museum of Kenya, Nairobi, Kenya
+  - 10. Department of Biology, Queen’s University
+session:  "3MT - Citizen Science"
+date: 2026-10-06T20:20:00Z
+---
+
+
+
+### Abstract
+
+
+
+Community science methods have the capacity to expand our knowledge of biodiversity by bridging barriers to research in economically marginalized regions, both globally and locally. The Global Urban Bird Survey (GUBS) collected audio and video recordings at randomized survey points distributed across the urban core of five cities around the world, including Dakar, Senegal. Although many studies have evaluated biodiversity in cities, primarily urban greenspaces, GUBS provides a more representative sample of avian species richness across all habitats in a city, providing important data on biodiversity in economically disadvantaged an underrepresented areas. We used the GUBS data from Dakar to assess relationships between green ground cover, human activity levels, and avian species richness, gauging the potential of using low-tech community science methods for these analyses. In addition to previously completed acoustic analysis to identify species richness at each survey point, we enlisted community members to rank green ground cover and human activity levels in 35 videos across the city of Dakar.  We found that increased green ground cover and decreased human activity levels were associated with increased avian species richness. These preliminary findings provide evidence that predictors of bird biodiversity in Dakar city hold consistent patterns across diverse neighborhoods, even with the use of low-tech community science methods, paralleling previous evidence of positive effects of greenspace and negative effects of human activity on urban biodiversity. Given these findings, we are expanding the study to three of the other GUBS cities: Toronto (Canada), Nairobi (Kenya), and Rio de Janeiro (Brazil), to determine if the relationships we found in Dakar are consistent across these diverse cities. Overall, this study demonstrates the utility of low-tech approaches to evaluate the effects of features of the urban landscape that might limit or support biodiversity in cities.
+
+

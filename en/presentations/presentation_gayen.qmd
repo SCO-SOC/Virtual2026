@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_gayen
+title: "Can supplemental feeders be used to study caching behavior? A field study in black-capped chickadees (<i>Poecile atricapillus</i>)"
+author: 
+   - Ipshita Gayen<sup>1</sup>
+   - Kimberley Mathot<sup>2</sup>
+author-affiliation:
+  - 1. PhD Student, University of Alberta
+  - 2. University of Alberta; Canada Research Chair, Integrative Ecology
+session:  "Session 2: Foraging Ecology and Diet"
+date: 2026-10-06T15:40:00Z
+---
+
+
+
+### Abstract
+
+
+
+Small parids like black-capped chickadees (<i>Poecile atricapillus</i>) rely on caching (i.e. storing food for later use) as a strategy to mitigate starvation risk during winter. Although caching can occur throughout the autumn and winter, it is predicted that most intense period should occur in late summer/early fall, when natural food availability is high, daylength is long, and ambient temperatures are favourable to both meet immediate energetic needs and invest in building up caches. Quantifying caching in free-living birds is time consuming, and thus, relatively few studies have quantified seasonal peaks in caching. Here, we assess if feeders can be used to capture seasonal peaks in caching investment using automated detections of black-capped chickadees fitted with passive integrated transponders to quantify caching in late summer -early fall. From previous studies and theoretical calculations, the number of sunflower seeds required to meet daily energetic requirements at this time of year is estimated to be ~45 seeds, and thus, daily feeder visits in excess of 45 can be inferred to indicate caching. We tested theoretical predictions about seasonal caching peaks, the effect of temperature and differences between sexes. We found that both day in season and temperature play important roles in shaping seasonal caching patterns as predicted, but contrary to theoretical predictions, females invested less in caching than males. Further, the observed seasonal peak in caching using feeders was much shorter compared caching peaks in populations without supplemental food. Our findings demonstrate that feeder-based studies can capture biologically meaningful variation in caching behaviour, with some important caveats, and highlight the combined influence of seasonal and short-term energetic factors on food-caching strategies.
+
+

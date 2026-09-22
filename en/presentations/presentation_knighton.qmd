@@ -1,0 +1,27 @@
+---
+filename: presentations/presentation_knighton
+title: "Linking incubation behavior of Red-breasted Merganser (<i>Mergus serrator</i>) to the timing of breeding"
+author: 
+   - Emilie Knighton<sup>1</sup>
+   - Rodger Titman<sup>2</sup>
+   - Nicolas Lecomte<sup>3</sup>
+   - Mark Mallory and Shawn Craik<sup>4</sup>
+author-affiliation:
+  - 1. PhD Student, Université Sainte-Anne
+  - 2. Department of Natural Resource Sciences, McGill University University
+  - 3. Département de biologie, Université de Moncton
+  - 4. Department of Biology, Acadia University
+  - 5. Département des sciences, Université Sainte-Anne
+session:  "Session 1: Breeding Biology"
+date: 2026-10-06T17:20:00Z
+---
+
+
+
+### Abstract
+
+
+
+Incubating birds are expected to balance their energetic demands with thermal requirements of developing embryos. We explored whether clutch sizes were linked to nest attendance patterns in Red-breasted Mergansers (<i>Mergus serrator</i>), a sea duck in which conspecific brood parasitism is common, and females are solely responsible for incubation. We used nest temperature data to determine incubation period lengths, incubation constancy, and daily frequency and duration of incubation recesses by females at 15 successful nests. Maximum clutch sizes during incubation ranged from 6 to 19 eggs and the five largest clutches were parasitized by conspecifics. Clutch size was a poor predictor of incubation parameters, but mergansers initiating incubation later in the season had 3.6 d shorter incubation periods. We hypothesize that particularly warm nest temperatures later in the season (late July-early Aug) minimized daily variation in egg temperatures, thereby leading to shorter incubation periods for late-nesting females.
+
+

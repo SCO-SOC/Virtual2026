@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_praat
+title: "Déplacements et survie du Bruant à couronne dorée (<i>Zonotrichia atricapilla</i>) en fonction d'un gradient d’urbanisation dans les habitats d’hivernage"
+author: 
+   - Dilan Praat<sup>1</sup>
+   - David Green<sup>2</sup>
+   - Elizabeth Gow<sup>3</sup>
+author-affiliation:
+  - 1. Université Simon Fraser
+  - 2. Université Simon Fraser
+  - 3. Environnement et Changement climatique Canada
+session:  "3MT - Écologie urbaine"
+date: 2026-10-06T20:44:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les habitats urbains offrent de nombreuses occasions et défis uniques à diverses espèces d'oiseaux. Avec le doublement prévu de la couverture terrestre mondiale des villes au cours des 25 prochaines années, il est crucial de comprendre comment les oiseaux survivent et se déplacent dans les paysages urbains. Les recherches antérieures en milieu urbain se sont concentrées sur la survie et le succès de reproduction des oiseaux nicheurs. Il y a beaucoup moins de recherches sur les déplacements et la survie des passereaux qui hivernent en zone urbaine. Cette divergence est importante, car de nombreuses espèces passent de grandes parties de leur cycle de vie dans leurs aires d'hivernage, et c'est peut-être aussi à ce moment que les pressions alimentaires et de prédation sont les plus fortes. Nous avons étudié comment les déplacements et la survie du bruant à couronne dorée (Zonotrichia atricapilla) diffèrent entre les parcs ruraux et les quartiers urbains du Grand Vancouver. Trente oiseaux ont été équipés de radio-émetteurs sur cinq sites pendant l'hiver 2025-2026, et plus de 200 autres oiseaux ont été bagués avec des bagues de couleur sur six sites de 2021 à 2026. Nous avons suivi les oiseaux équipés de radio-émetteurs pendant six semaines pour obtenir des détails sur les déplacements à fine échelle afin de déterminer l'utilisation de l'habitat et la taille du domaine vital, et pour évaluer la survie à devenir connu. Les observations d'oiseaux bagués avec des bagues de couleur ont été utilisées pour estimer la survie apparente générale du bruant à couronne dorée pendant l'hivernage. Nous avons constaté que les zones à urbanisation accrue présentaient des taux de survie à devenir connu plus faibles et des taux de disparitions inexpliquées plus élevés. Les oiseaux initialement capturés à proximité de mangeoires fixes avaient des domaines vitaux plus petits que ceux des oiseaux qui n'avaient pas été capturés à proximité de mangeoires. Grâce aux observations d'oiseaux bagués, nous avons constaté que les oiseaux hivernant dans des zones à plus forte urbanisation avaient des taux de survie apparente plus faibles que ceux vivant dans des zones rurales. Ces résultats indiquent que si les habitats urbains conviennent à l'hivernage des bruants à couronne dorée, ces avantages sont atténués par des risques potentiels pour la survie, et des recherches supplémentaires sont nécessaires pour comprendre les mécanismes de ces relations.
+
+
+> **Corrections de traduction en cours**
+

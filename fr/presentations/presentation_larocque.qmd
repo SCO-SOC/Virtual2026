@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_larocque
+title: "Les Mésanges à tête noire se comportent-elles comme prédit par des modèles d'échantillonnage optimal lors de la recherche de nourriture disponible?"
+author: 
+   - Megan LaRocque<sup>1</sup>
+   - Jan Wijmenga<sup>2</sup>
+   - Kimberley Mathot<sup>3</sup>
+author-affiliation:
+  - 1. Université de l'Alberta
+  - 2. Université de l'Alberta
+  - 3. Université de l'Alberta
+session:  "Session 2: Écologie Alimentaire et Régime Alimentaire"
+date: 2026-10-06T16:20:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les animaux sont confrontés à l'incertitude dans tous les aspects de leur vie. Où se trouve le meilleur territoire? Qui est le meilleur partenaire disponible? Quand et où la nourriture sera-t-elle disponible? Pour atténuer cette incertitude, une stratégie que les organismes peuvent adopter est d'« échantillonner »; c'est-à-dire de mettre à jour leurs informations sur l'état des territoires, des partenaires et/ou des ressources dans leur environnement. Les modèles d'échantillonnage optimal posent la question suivante : quelle stratégie d'échantillonnage les individus devraient-ils adopter pour maximiser leur valeur adaptative? Dans un contexte d'alimentation, on peut imaginer un individu qui rencontre une parcelle de nourriture récemment devenue non rentable. Cet individu doit alors décider comment il doit se comporter face à cette incertitude quant à la disponibilité de la nourriture. Doit-il revisiter (c'est-à-dire échantillonner) cette parcelle plus tard pour voir si elle redevient rentable, ou doit-il visiter une autre parcelle de nourriture? Si un individu échantillonne la parcelle non rentable rencontrée précédemment et que celle-ci reste non rentable, l'individu subit des coûts d'erreur d'échantillonnage. Si un individu visite plutôt une autre parcelle, mais que la parcelle initialement non rentable est maintenant rentable, l'individu manque l'occasion d'exploiter cette parcelle devenue rentable et subit des coûts d'opportunité manquée. La théorie prédit que les coûts d'erreur d'échantillonnage et les coûts d'opportunité manquée influenceront la fréquence d'échantillonnage individuelle. Nous avons testé ces prédictions en utilisant les données de visite aux mangeoires d'une population de mésanges à tête noire (Poecile atricapillus) vivant en liberté en hiver. Nous avons évalué comment la fréquence d'échantillonnage des mésanges aux mangeoires vides changeait en fonction de plusieurs variables prédites a priori comme affectant les coûts d'erreur d'échantillonnage et/ou les coûts d'opportunité manquée. Nous avons constaté que, bien que certains facteurs influencent la fréquence d'échantillonnage comme le prédit la théorie de l'échantillonnage optimal, d'autres non. Je discute de ces résultats et propose des explications sur la manière dont les différences individuelles dans le comportement d'échantillonnage peuvent influencer la valeur adaptative de notre population de mésanges.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,25 @@
+---
+filename: presentations/presentation_ethier
+title: "Modernization of Bicknell's thrush (<i>Catharus bicknelli</i>) survey methods using PAM with audio-classification algorithms"
+author: 
+   - Alexandre Ethier<sup>1</sup>
+   - Junior Tremblay<sup>2</sup>
+   - Marc Mazerolle<sup>3</sup>
+author-affiliation:
+  - 1. MSc student, Forest sciences, Université Laval
+  - 2. PhD, Researcher, Environment and Climate Change Canada and affiliated professor, Université Laval
+  - 3. Professor and researcher, Université Laval
+session:  "3MT - Bioacoustics"
+date: 2026-10-06T20:04:00Z
+---
+
+
+
+### Abstract
+
+
+
+As the need to monitor living species increases, traditional wildlife survey methods are often replaced by more efficient and less costly alternatives. Passive Acoustic Monitoring (hereafter PAM) has gained popularity in wildlife studies and is described as the gathering of acoustic data from sound-producing species virtually anywhere, at any time of day. Although this method offers crucial insights on wildlife ecology, PAM generates a large volume of data, which can be tedious since expertise and extensive effort are required to manually validate data. However, recent advances in bioacoustics allow scientists to pair PAM with audio-classification algorithms that are trained to recognize species-specific vocalizations, thereby reducing cost and resources needed. This benefits the monitoring of focal species with little-known ecology or cryptic behavior and helps expand the spatial and temporal footprint of species surveys. This is the case for the Bicknell’s thrush (<i>Catharus bicknelli</i>), an endangered boreal forest-dwelling bird in Canada. Most of its breeding territory is found in Québec’s highlands, at 800 m and above, in dense, regenerated balsam fir (Abies balsamea) stands. Since 2013, a mandatory survey of Bicknell’s thrush has been required to assess impact of future development projects on targeted habitat. As pressure on the species’ habitat is increasing, there is a need to adequately monitor and protect populations through more informed management mitigation measures. The main objective was to develop a standardized PAM methodology with audio-classification algorithms to efficiently process Bicknell’s thrush acoustic data on breeding grounds. The use of resulting protocol and recommendations is intended to standardize impact-assessment methods across Québec on one of the most elusive bird species in Canada. We surveyed Bicknell’s thrush in known breeding sites over four years to test and evaluate the performance of our proposed methods with different open-source algorithms.
+
+
+

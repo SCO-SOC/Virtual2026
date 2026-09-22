@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_mendis
+title: "Les migrations sur de plus longues distances ne sont pas associées à une productivité accrue chez une espèce d'insectivore aérien en déclin, l'Hirondelle noire (<i>Progne subis</i>)."
+author: 
+   - Vinuri Mendis<sup>1</sup>
+   - Joe Siegrist<sup>2</sup>
+   - Kevin Fraser<sup>3</sup>
+author-affiliation:
+  - 1. Université du Manitoba
+  - 2. Purple Martin Conservation Association
+  - 3. Université du Manitoba
+session:  "Session 1: La Migration"
+date: 2026-10-06T19:30:00Z
+---
+
+
+
+### Résumé
+
+
+
+On s'attend à ce que les migrations sur de plus longues distances des oiseaux néotropicaux soient associées à des coûts énergétiques plus élevés et à une survie plus faible, mais qu'elles puissent être compensées par une plus grande quantité de nourriture, une plus longue durée du jour et moins de prédateurs aux latitudes plus nordiques, ce qui se traduirait par une productivité plus élevée pour contrebalancer les coûts. Cependant, il y a eu peu de tests empiriques de ces schémas et les nouvelles conditions liées au changement climatique pourraient limiter les avantages de la migration sur de longues distances. Nous avons étudié l'association entre la distance de migration et la productivité des nids en utilisant un ensemble de données rares s'étalant sur 30 ans (1995 – 2024) et comprenant plus de 100 000 enregistrements de suivi de nids de la sous-espèce de l'Est de l'Hirondelle noire (Progne subis subis), couvrant toute son aire de reproduction nord-américaine (25–54° N). Nous avons analysé la variation de la taille de la couvée et de trois mesures du succès de nidification en fonction de la latitude de reproduction (où les nicheurs les plus nordiques migrent le plus loin). Nous avons trouvé de fortes tendances latitudinales pour la taille de la couvée et le succès de nidification, les nicheurs les plus au nord et les plus au sud ayant les plus grandes couvées et produisant le plus grand nombre de jeunes à l'envol, tandis que les latitudes intermédiaires présentaient une productivité plus faible. Globalement, ces résultats contredisent les prédictions selon lesquelles les migrations sur de plus longues distances sont compensées par une productivité plus élevée aux latitudes plus nordiques. De plus, les régions où le succès de nidification est plus faible dans notre étude correspondent aux tendances de déclin de la population de cette espèce, ce qui suggère un lien entre la productivité et les tendances démographiques de cet insectivore aérien en déclin. Ces résultats soulignent globalement l'importance de prendre en compte les variations spatiales et temporelles pour déterminer les effets de la distance de migration sur le succès reproducteur et peuvent aider à expliquer les déclins de population plus marqués chez les oiseaux chanteurs migrateurs.
+
+
+> **Corrections de traduction en cours**
+

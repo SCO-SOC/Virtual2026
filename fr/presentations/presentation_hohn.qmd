@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_hohn
+title: "Sélection des sites de nidification chez le Tohi tacheté (<i>Pipilo maculatus</i>) en milieu urbain : preuve d'un piège écologique ou d'un bouclier contre les prédateurs ?"
+author: 
+   - Triana Hohn<sup>1</sup>
+   - David Green<sup>2</sup>
+   - Elizabeth Gow<sup>3</sup>
+author-affiliation:
+  - 1. Université Simon Fraser
+  - 2. Université Simon Fraser
+  - 3. Environnement et Changement climatique Canada
+session:  "Session 1: Écologie Urbaine"
+date: 2026-10-06T15:50:00Z
+---
+
+
+
+### Résumé
+
+
+
+Un piège écologique survient lorsqu'un animal montre une préférence pour un habitat qui a ultimement des conséquences négatives sur sa valeur adaptative. Les oiseaux qui nichent dans les zones urbaines peuvent être particulièrement vulnérables aux pièges écologiques. Inversement, certaines parties des zones urbaines peuvent agir comme des boucliers, lorsque la présence humaine sert de moyen de dissuasion pour certains prédateurs de nids communs. Les oiseaux nichant au sol dans des nids en coupe ouverte sont considérés comme sensibles au dérangement causé par les loisirs humains et à la prédation par les prédateurs urbains. Le Tohi tacheté (Pipilo maculatus), qui se reproduit en milieu urbain, niche souvent dans un habitat dense et arbustif le long des lisières, ce qui en fait un bon système d'étude pour tester les pièges écologiques. Dans les zones urbaines, ces lisières bordent souvent des sentiers pédestres qui peuvent modifier le risque de dérangement ou de prédation en raison de l'activité humaine. De 2022 à 2025, nous avons trouvé et suivi 407 nids de Tohi tacheté dans cinq espaces verts présentant divers degrés d'urbanisation dans la région métropolitaine de Vancouver, en Colombie-Britannique. Nous avons examiné l'impact des facteurs naturels et anthropiques sur la survie journalière des nids et le succès reproducteur à de multiples échelles spatiales, allant du niveau des sites de nidification à l'ensemble de l'espace vert urbain. Nous avons également testé si les décisions de nidification des Tohis tachetés se reproduisant dans les espaces verts urbains créent un piège écologique ou fournissent un bouclier contre la prédation. Nous avons constaté que la survie des nids et le nombre de jeunes à l'envol étaient tous deux affectés par les conditions météorologiques et que la probabilité de survie des nids augmentait avec le degré d'urbanisation. Nous avons montré que les Tohis tachetés nichent de préférence près des lisières anthropiques, comme les sentiers, mais nous avons constaté que ces lisières ne fonctionnent pas comme un piège pour les tohis au stade de la nidification, car la distance à la lisière n'a pas eu d'impact significatif sur la survie des nids ou le nombre de jeunes produits. Nos résultats soutiennent l'hypothèse selon laquelle les environnements dominés par l'homme profitent à certaines espèces indigènes, potentiellement par un phénomène de bouclier, soulignant le rôle potentiel que les environnements urbains peuvent jouer dans la conservation des oiseaux.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,25 @@
+---
+filename: presentations/presentation_goudreau
+title: "Évaluation de l’exposition aux paysages urbains tout au long du cycle annuel chez deux espèces de parulines: une approche à l’aide de géolocalisateurs et du réseau Motus"
+author: 
+   - Nathanya Goudreau<sup>1</sup>
+   - Kyle Elliott et Barbara Frei<sup>2</sup>
+author-affiliation:
+  - 1. Université McGill
+  - 2. Université McGill
+  - 3. Environnement et Changement climatique Canada
+session:  "3MT - Écologie urbaine"
+date: 2026-10-06T20:48:00Z
+---
+
+
+
+### Résumé
+
+
+
+De nombreuses populations d'oiseaux migrateurs subissent des déclins continus, causés par divers facteurs, notamment des menaces anthropiques telles que la prédation par les chats, les collisions et la pollution. L'ampleur de leur exposition à certaines de ces menaces dans les paysages urbains tout au long de leur cycle annuel reste mal comprise. Nous cherchons à quantifier l'exposition urbaine tout au long du cycle annuel de la Paruline jaune (Setophaga petechia), une espèce tolérante aux milieux urbains, et de la Paruline à flancs marron (S. pensylvanica), une espèce qui les évite davantage. Nous prédisons que l'association d'une espèce avec les zones urbaines sur les aires de reproduction est un indicateur de son exposition pendant le reste du cycle annuel. Pour tester si les Parulines jaunes pourraient être plus exposées aux zones urbaines tout au long de l'année, nous avons déployé des géolocalisateurs à archivage par niveau de lumière sur des oiseaux nicheurs (n=88) et des émetteurs radio sur des individus en migration (n=73) au Québec, Canada. Les géolocalisateurs et les émetteurs radio ont révélé que les Parulines à flancs marron nichant dans le sud du Québec migrent le long de la côte Est et hivernent au Costa Rica et au Nicaragua, tandis que les Parulines jaunes migrent plus à l'ouest et hivernent en Colombie et au Venezuela. Nous suggérons que les Parulines à flancs marron ont la plus forte exposition urbaine pendant la migration et ont une voie migratoire plus urbanisée que les Parulines jaunes, qui se reproduisent et hivernent dans des sites plus perturbés par l'activité humaine que les Parulines à flancs marron.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,30 @@
+---
+filename: presentations/presentation_wade
+title: "Trente-sept ans de changement dans une communauté d’oiseaux de la toundra arctique sur l’île Qikiqtaruk–Herschel, au Yukon"
+author: 
+   - Maya Wade<sup>1</sup>
+   - Isla Myers-Smith<sup>2</sup>
+   - Cameron Eckert<sup>3</sup>
+   - Richard Gordon<sup>4</sup>
+   - Gardes du parc territorial Qikiqtaruk<sup>5</sup>
+author-affiliation:
+  - 1. Faculté de foresterie et de gérance environnementale de l'Université de la Colombie-Britannique
+  - 2. Université de la Colombie-Britannique
+  - 3. Parcs Yukon
+  - 4. Parcs Yukon
+  - 5. Parcs Yukon
+session:  "Session 2: Biologie de la Conservation"
+date: 2026-10-06T17:40:00Z
+---
+
+
+
+### Résumé
+
+
+
+Le réchauffement climatique entraîne l'expansion des arbustes ligneux dans la toundra arctique, remodelant des habitats essentiels pour plus de 200 espèces d'oiseaux. L'expansion des arbustes modifie déjà les aires de répartition, les comportements et la dynamique des populations d'oiseaux, mais l'ampleur de ces effets et la diversité des espèces touchées demeurent incertaines. Nous avons examiné si la communauté d'oiseaux nicheurs de l'île Qikiqtaruk-Herschel, au Yukon, a changé au cours des 37 dernières années et si ces changements sont associés à l'augmentation du verdissement de la toundra. À l'aide de 37 ans (1990-2026) de relevés annuels des oiseaux nicheurs effectués en juin par Parcs Yukon, nous avons testé les changements à long terme dans la composition de la communauté à l'aide d'analyses statistiques multivariées. Nous avons constaté que la composition de la communauté d'oiseaux de la toundra a changé de manière significative, principalement en raison du renouvellement des espèces. La richesse spécifique et la diversité de Shannon ont montré des tendances positives faibles, mais significatives, sur la période d'étude. Plusieurs espèces associées aux arbustes, comme le Bruant hudsonien (Spizelloides arborea) et la Gorgebleue à miroir (Luscinia svecica), ont augmenté, tandis que de nombreuses espèces nichant en toundra ouverte, comme le Bécasseau de Baird (Calidris bairdii) et le Plectrophane lapon (Calcarius lapponicus), ont diminué. L'ajustement de vecteurs environnementaux a identifié l'indice NDVI annuel maximal, un indicateur du verdissement de la toundra qui reflète les changements de végétation tels que l'expansion des arbustes, comme étant le plus fort prédicteur de ces changements de composition. Ces résultats appuient l'hypothèse selon laquelle les changements de végétation induits par le climat contribuent à la restructuration à long terme des communautés d'oiseaux de la toundra, avec des conséquences potentielles pour la persistance des espèces spécialistes de la toundra ouverte.
+
+
+> **Corrections de traduction en cours**
+

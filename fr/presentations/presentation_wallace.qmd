@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_wallace
+title: "Stratégies de migration printanière et effets résiduels sur le succès de la reproduction chez la <i>Branta canadensis</i> interior"
+author: 
+   - Laura Wallace<sup>1</sup>
+   - Glen Brown<sup>2</sup>
+   - Rodney Brook<sup>3</sup>
+author-affiliation:
+  - 1. Université Trent
+  - 2. Ministère des Richesses naturelles de l'Ontario
+  - 3. Ministère des Richesses naturelles de l'Ontario
+session:  "Session 1: La Migration"
+date: 2026-10-06T19:20:00Z
+---
+
+
+
+### Résumé
+
+
+
+Le moment de l’arrivée sur les aires de reproduction est étroitement lié au succès reproducteur chez la sauvagine migratrice. Une meilleure compréhension des caractéristiques de la migration printanière et des effets de report sur la productivité annuelle est nécessaire pour orienter la gestion durable de la récolte. Des évaluations à jour de cette dynamique des populations sont particulièrement importantes pour guider les décisions de gestion de la récolte de la population en déclin de Bernaches du Canada (Branta canadensis interior) du sud de la baie d’Hudson (SBH). La Bernache du Canada est l’espèce d’oie la plus récoltée dans l’est de l’Amérique du Nord, et les Bernaches du Canada de la SBH sont à la fois culturellement importantes et une ressource clé pour les chasseurs de subsistance des communautés du nord de l’Ontario. Nous avons étudié les stratégies de migration printanière des Bernaches du Canada de la SBH pour évaluer comment les conditions environnementales influencent le moment de l’arrivée et le succès de nidification subséquent. De 2022 à 2025, nous avons déployé 151 colliers émetteurs GPS-GSM Ornitela sur des femelles reproductrices adultes, générant des données de mouvement à haute résolution tout au long du cycle annuel. À l’aide de modèles linéaires à effets mixtes, nous avons évalué comment la fonte des neiges et la température influencent les caractéristiques de la migration, et comment ces caractéristiques sont liées au succès du nid. Le moment de la migration variait considérablement d’un individu à l’autre, les arrivées sur les aires de reproduction s’échelonnant de la mi-avril au début mai. Les résultats préliminaires indiquent que la fonte des neiges et la température régionales influencent fortement le nombre et la durée des haltes migratoires. Les Bernaches du Canada suivent généralement de près la ligne de neige pendant la migration printanière, et certains individus sont arrivés avant la fonte des neiges et ont fait une halte à des latitudes plus basses jusqu’à ce que les conditions s’améliorent. Fait important, les individus arrivant plus tard ont montré un succès de nidification plus faible, ce qui suggère qu’une arrivée tardive peut réduire la performance reproductive. Nos résultats clarifient les stratégies de migration printanière de la population de Bernaches du Canada du sud de la baie d’Hudson et soulignent l’importance d’une arrivée à temps pour le succès de la reproduction. Une arrivée précoce peut être bénéfique pour les bernaches à mesure que la phénologie printanière avance avec le changement climatique, mais des décalages entre le moment de l’arrivée et les conditions environnementales locales pourraient tout de même affecter la productivité.
+
+
+> **Corrections de traduction en cours**
+

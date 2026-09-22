@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_audet
+title: "Female black-capped chickadees (<i>Poecile atricapillus</i>) expand foraging both temporally and spatially to mitigate interference competition"
+author: 
+   - Elène Haave Audet<sup>1</sup>
+   - Kimberley Mathot<sup>2</sup>
+author-affiliation:
+  - 1. Université du Québec à Montréal
+  - 2. University of Alberta
+session:  "Session 2: Foraging Ecology and Diet"
+date: 2026-10-06T16:00:00Z
+---
+
+
+
+### Abstract
+
+
+
+Group living provides many potential benefits but can also incur important costs via competition for access to resources. Even in the absence of resource depletion, interference competition can reduce access to resources, and interference competition is not expected to affect all group members equally. In groups with dominance hierarchies, dominant individuals have priority access to resources and are therefore expected to experience lower costs of interference competition compared to subordinate individuals. We observed foraging behaviour in a population of 126 marked black-capped chickadees (<i>Poecile atricapillus</i>) at the University of Alberta Botanic Garden, near Edmonton, AB. We assessed the effect of manipulating the number of feeders available with ad libitum food on chickadee feeding territories, which we assumed would affect competition intensity, on total daily feeder visits. As predicted, we found strong evidence of interference competition: reducing feeder availability by 50% reduced average per capita daily visits to feeders in our population by circa 50%. Because chickadee flocks exhibit linear dominance hierarchies, with males being dominant over females, and at least in some populations, adults being dominant over immatures, we also investigated whether there was evidence for sex- and/or age-related differences in the strength of interference competition. We found that reductions in total daily feeder visits under lower manipulated food availability were similar for all age-sex categories, suggesting that females and immatures did not experience higher interference competition despite their subordinate status relative to males and adults. Post-hoc analyses revealed that adult females expanded their foraging area, while immature females increased both the length of their foraging window and their foraging area, when the availability of feeders was reduced. We suggest that these results may indicate that females invest more to mitigate competition and manage unpredictable access to food due to their subordinate status.
+
+

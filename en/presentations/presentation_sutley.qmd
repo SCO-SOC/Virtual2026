@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_sutley
+title: "A Species Distribution Model to Conserve LeConte's Sparrow in the Canadian Prairies"
+author: 
+   - Amy Sutley<sup>1</sup>
+   - Alana Westwood<sup>2</sup>
+author-affiliation:
+  - 1. Dalhousie University
+  - 2. Dalhousie University
+session:  "Session 2: Conservation Biology"
+date: 2026-10-06T17:10:00Z
+---
+
+
+
+### Abstract
+
+
+
+The population of LeConte’s sparrow (<i>Ammospiza leconteii</i>) is declining across the portion of its breeding range which falls in Western Canada. LeConte’s sparrow has been identified as a priority for conservation assessment and management by Canadian government agencies, but the species is poorly understood in terms of its ecology and distribution. We developed a high-resolution species distribution model (SDM) of LeConte’s sparrow occurrence in the Prairie Ecozone of Canada to investigate the habitat associations and spatial distribution of LeConte’s sparrow and identify candidate areas for land conservation. A maximum entropy (MaxEnt) method was used to predict the probability of occurrence for LeConte’s sparrow. In the presence observations dataset, 2,595 of 8,253 (31%) occurrences may have represented positional uncertainty as they were located on roads and in open bodies of water. As most SDMs rarely correct for fine-scale positional uncertainty, we tested three different correction distances (relocating observations to adjacent habitat). We compared three different models (no relocations; relocations within 30m; relocations within 100m) and found that they performed similarly.  Covariates used to predict occurrence included proximity to wetlands, land use, elevation, mean summer precipitation, and a normalized difference vegetation index. Model performance and output was similar across corrections, and we selected the 100m correction to maximize sample size. Probability of occurrence for LeConte’s sparrow showed a strong association with low elevation prairie wetlands and riparian areas, including urban rivers. To develop recommendations for land conservation, we identified seven priority locations where existing protected areas could be expanded to include potential habitat for LeConte’s sparrow. We encourage managers to field-validate and apply our model to inform habitat protection for this species.
+
+

@@ -1,0 +1,32 @@
+---
+filename: presentations/presentation_collings
+title: "Préférences de couleur dans le choix de matériaux de nidification d'origine anthropique chez l'Étourneau sansonnet (<i>Sturnus vulgaris</i>)"
+author: 
+   - KC Collings<sup>1</sup>
+   - Colleen Barber<sup>2</sup>
+   - Gabrielle Armstrong<sup>3</sup>
+   - Katelyn Eisner<sup>4</sup>
+   - Olivia Smith<sup>5</sup>
+   - Freya Binney<sup>6</sup>
+author-affiliation:
+  - 1. Université Saint Mary’s
+  - 2. Université Saint Mary’s
+  - 3. Université Saint Mary’s
+  - 4. Université Saint Mary’s
+  - 5. Université Saint Mary’s
+  - 6. Université Saint Mary’s
+session:  "Session 1: Écologie Urbaine"
+date: 2026-10-06T15:30:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les oiseaux urbains incorporent souvent des matériaux anthropiques dans leurs nids. Cependant, les facteurs qui déterminent la sélection des matériaux restent flous. Des indices visuels, comme la couleur, peuvent influencer le choix des matériaux de nidification par les oiseaux. L’Étourneau sansonnet (Sturnus vulgaris) est une espèce de passereau cavicole observée incorporant des matériaux anthropiques dans ses nids. Les mâles construisent la majeure partie du nid pour attirer une partenaire, et les femelles aident à terminer la construction. Bien que des matériaux puissent être sélectionnés et ajoutés aux nids, ils peuvent aussi être jetés plus tard plutôt que d’être davantage incorporés. Cette étude examine si les étourneaux sauvages montrent une préférence pour certaines couleurs de matériaux de nidification anthropiques. Nous avons offert aux oiseaux une occasion égale de choisir des rubans de cinq couleurs différentes (bleu, doré, noir, argenté et blanc) et nous avons quantifié à la fois les couleurs sélectionnées dans l’environnement et celles incorporées dans les nids. Les résultats préliminaires indiquent que certaines couleurs sont sélectionnées plus souvent que d’autres. Comprendre les mécanismes sous-jacents à la sélection de matériaux anthropiques dans les nids d’oiseaux améliorera notre compréhension des adaptations comportementales en milieu urbain et permettra de mieux orienter les stratégies de conservation.
+
+
+> **Corrections de traduction en cours**
+

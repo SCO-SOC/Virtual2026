@@ -1,0 +1,21 @@
+---
+filename: presentations/presentation_dykstra
+title: "Nest reuse by Least Flycatchers"
+author: 
+   - Emelie Dykstra<sup>1</sup>
+   - Geoff Holroyd<sup>2</sup>
+author-affiliation:
+  - 1. Beaverhill Bird Observatory
+session:  "Session 1: Breeding Biology"
+date: 2026-10-06T17:10:00Z
+---
+
+
+
+### Abstract
+
+
+
+Least Flycatchers are the most common nesting species in the aspen-balsam forest of the Beaverhill Natural Area in central Alberta. In 2022 Myrthe Van Brempt et al found that Least Flycatchers produce more eggs and young than elsewhere, have very high nest success, and have the highest breeding density in North America. Subsequently, they determined a shift to earlier autumn migration. Recently, we determined that nests were surviving the winter and being reused by Least Flycatchers. This talk will discuss the frequency and timing of nest reuse, and apparent benefits and possible risks of this unusual behavior. Nest reuse does not appear to be implicated in shift to earlier migration.
+
+

@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_patterson
+title: "Is it a mixedwood? Spatially-explicit responses to gradients in forest structure and composition in three boreal bird species"
+author: 
+   - Leonard Patterson<sup>1</sup>
+   - Brendan Casey<sup>2</sup>
+   - Erin Bayne<sup>3</sup>
+author-affiliation:
+  - 1. University of Alberta
+  - 2. Alberta Biodiversity Monitoring Institute
+  - 3. University of Alberta
+session:  "Session 2: Habitat Use and Breeding Biology"
+date: 2026-10-06T19:00:00Z
+---
+
+
+
+### Abstract
+
+
+
+Conventional definitions of boreal mixedwood forests are based solely on tree species composition, define species composition at a relatively coarse grain, and do not explicitly address spatial scale. Such definitions may oversimplify forest characteristics that are selected for by birds, potentially biasing past attempts to identify mixedwood habitat associations. To address this knowledge gap, we used a spatially-explicit approach to understand how three boreal bird species respond to continuous gradients in deciduous-coniferous composition, the spatial configuration of coniferous trees, and forest age within mixedwood forests in Alberta, Canada. We used a boosted regression tree model to assess the influence of these habitat characteristics across multiple spatial extents (150 m, 500 m, 1000 m) and grain sizes (5 m and 30 m) on bird relative abundance. Spatial configuration was the strongest predictor for all three species. Black-throated green warbler (<i>Setophaga virens</i>) and bay-breasted warbler (<i>Setophaga castanea</i>) responded most strongly to fine-grain, local (150 m) configuration, with abundance peaking in intimately mixed stands. Tennessee warbler (<i>Leiothlypis peregrina</i>) responded most strongly to configuration at the broadest extent (1000 m), also favoring intimate mixtures. The proportion of conifer and forest age consistently emerged as the second and third most important predictors, respectively. Predicted abundance on synthetic landscapes showed consistently higher abundance (~ 4-10 times higher) in intimate versus segregated mixedwoods. Our results demonstrate that species-specific and spatially-explicit mixedwood definitions that include conifer spatial configuration better capture bird habitat use than composition alone. Preserving or restoring intimate mixtures of coniferous and deciduous tree species at fine spatial scales may be particularly beneficial for our focal species.
+
+

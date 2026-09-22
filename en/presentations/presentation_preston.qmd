@@ -1,0 +1,36 @@
+---
+filename: presentations/presentation_preston
+title: "The Global Urban Bird Survey"
+author: 
+   - Paul J Preston<sup>1</sup>
+   - Islamiat Abidemi Raji<sup>2</sup>
+   - Daniel J Mennill<sup>3</sup>
+   - Paul R Martin<sup>4</sup>
+   - Lynn B Martin<sup>5</sup>
+   - Alex M Syingi<sup>6</sup>
+   - Massamba Thiam<sup>7</sup>
+   - Guiherme Serpa<sup>8</sup>
+   - Frances Bonier<sup>9</sup>
+author-affiliation:
+  - 1. Queen's University
+  - 2. Cornell University
+  - 3. University of Windsor
+  - 4. Queen's University
+  - 5. University of South Florida
+  - 6. National Museum of Kenya
+  - 7. Universite Cheikh Anta Diop
+  - 8. Serpa Birding
+  - 9. Queen's University
+session:  "Session 1: Urban Ecology"
+date: 2026-10-06T16:00:00Z
+---
+
+
+
+### Abstract
+
+
+
+Birds are a vital component of urban biodiversity worldwide, yet accurately measuring their abundance and diversity is challenging because most survey methods are not designed for dense urban environments. Surveys are often limited to green spaces, wealthier neighborhoods and high-income countries, hindering our understanding of how birds use all urban habitats. We developed and evaluated the Global Urban Bird Survey, an inclusive method for surveying urban birds across diverse city environments. Local experts trained and coordinated community members, who conducted repeated surveys using acoustic monitors in five cities between 2022 and 2024: Dakar, Nairobi, Rio de Janeiro, Paris, and Toronto. Survey locations were selected via a stratified block-randomized design within city cores, ensuring unbiased coverage across habitats. We compared the performance of the Global Urban Bird Survey with eBird, a widely used community science platform, to assess species richness, occurrence, and spatial coverage. eBird detected significantly higher mean species richness than the Global Urban Bird Survey in Dakar, Nairobi, Paris, and Rio de Janeiro, while no significant difference was observed in Toronto. However, eBird’s spatial coverage was substantially lower than that of the Global Urban Bird Survey, particularly in low-income cities. The Global Urban Bird Survey provides a robust, scalable approach to monitoring urban avian biodiversity across a range of habitats and socioeconomic contexts. Broader, more representative sampling of urban environments is critical for understanding global patterns of biodiversity. Community-based acoustic monitoring complements existing citizen science efforts, offering a tool for inclusive conservation planning and informed urban biodiversity management worldwide
+
+

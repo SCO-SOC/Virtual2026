@@ -1,0 +1,30 @@
+---
+filename: presentations/presentation_dobney
+title: "Song and parental care: good dads sing simple songs"
+author: 
+   - Sarah Dobney<sup>1</sup>
+   - Hayley Spina<sup>2</sup>
+   - Ryan Norris<sup>3</sup>
+   - Heather Williams<sup>4</sup>
+   - Stephanie Doucet<sup>5</sup>
+   - Daniel Mennill<sup>6</sup>
+author-affiliation:
+  - 1. University of Windsor
+  - 2. University of Guelph
+  - 3. University of Guelph
+  - 4. Williams College
+  - 5. University of Windsor
+  - 6. University of Windsor
+session:  "Session 1: Breeding Biology"
+date: 2026-10-06T17:40:00Z
+---
+
+
+
+### Abstract
+
+
+
+Elaborate bird songs are important for mate choice in many species. Song features may provide information about male parental behaviour or genetic quality. Using a field-based study of Savannah Sparrows in eastern Canada, we explored the relationship between male song and male parental behaviour. We measured male song rate and song structural features from audio recordings. We measured male provisioning rate from video recordings at nest sites. We found that male provisioning rate varied with song complexity: males who produced more introductory notes fed offspring less often. Given this relationship, we suggest that females may use male song to infer male parental behaviour when choosing a breeding partner. Upcoming genetic analysis of paternity will allow us to assess whether this relationship also influences genetic parentage. Investigating how male song features relate to parental care and female choice will improve our understanding of how reproductive behaviour is shaped by selection.
+
+

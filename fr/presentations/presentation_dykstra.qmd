@@ -1,0 +1,23 @@
+---
+filename: presentations/presentation_dykstra
+title: "Réutilisation des nids par le Moucherolle tchébec"
+author: 
+   - Emelie Dykstra<sup>1</sup>
+   - Geoff Holroyd<sup>2</sup>
+author-affiliation:
+  - 1. Observatoire d'oiseaux de Beaverhill
+session:  "Session 1: Biologie de la Reproduction"
+date: 2026-10-06T17:10:00Z
+---
+
+
+
+### Résumé
+
+
+
+Le Moucherolle tchébec est l'espèce nicheuse la plus commune dans la forêt de peupliers et de sapins baumiers de la zone naturelle de Beaverhill, au centre de l'Alberta. En 2022, Myrthe Van Brempt et al. ont découvert que les Moucherolles tchébecs produisent plus d'œufs et de jeunes qu'ailleurs, ont un très haut succès de nidification et la plus forte densité de reproduction en Amérique du Nord. Par la suite, ils ont déterminé un devancement de la migration d'automne. Récemment, nous avons déterminé que des nids survivaient à l'hiver et étaient réutilisés par les Moucherolles tchébecs. Cette présentation discutera de la fréquence et du moment de la réutilisation des nids, ainsi que des avantages apparents et des risques possibles de ce comportement inhabituel. La réutilisation des nids ne semble pas être impliquée dans le devancement de la migration.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_lewis
+title: "Sélection de site de nidification par la Barge hudsonienne (<i>Limosa haemastica</i>) dans les basses terres de la baie d'Hudson, en Ontario"
+author: 
+   - Abbey Lewis<sup>1</sup>
+   - Glen Brown<sup>2</sup>
+author-affiliation:
+  - 1. étudiante à la maîtrise, Université Trent
+  - 2. Ministère des Richesses naturelles de l'Ontario
+session:  "Session 2: L'utilisation de l'habitat et Biologie de la Reproduction"
+date: 2026-10-06T19:40:00Z
+---
+
+
+
+### Résumé
+
+
+
+On s'attend à ce que les changements climatiques modifient la qualité de l'habitat et augmentent le risque de prédation pour la barge hudsonienne (Limosa haemastica), une espèce menacée au niveau fédéral, sur ses aires de reproduction dans les basses-terres de la baie d'Hudson (BTBH). L'abondance des barges a considérablement diminué au cours des dernières décennies, mais les lacunes dans les connaissances concernant les exigences de nidification et l'utilisation de l'habitat limitent la planification de la conservation en Ontario. Notre recherche vise à combler ces lacunes et à étudier comment la variation de la disponibilité des ressources et du risque de prédation dans le paysage influence la sélection du site de nidification. Comme ce sont des nicheurs cryptiques, nous nous attendions à ce que les barges sélectionnent des caractéristiques qui améliorent la dissimulation et réduisent le risque de prédation, comme une plus grande hauteur de végétation, une couverture arbustive plus dense et un éloignement des éléments tels que les crêtes de toundra et les arbres. Nous avons recueilli des images de drones à haute résolution couvrant une zone de 70 m x 70 m centrée sur quinze nids de barges dans le parc provincial Polar Bear, en Ontario, de 2023 à 2025. À l'aide de ces images, nous avons généré des cartes de classification du territoire caractérisant l'habitat de chaque nid. Nous avons ensuite testé les différences dans les caractéristiques de l'habitat et la hauteur de la végétation à différentes échelles spatiales et entre les sites utilisés (nids) et les sites disponibles. Les résultats ont révélé une sélection pour des nids avec une végétation significativement plus haute dans un rayon de 1 m², par rapport à des échelles spatiales plus larges et à l'habitat disponible environnant. À toutes les échelles spatiales, les nids se trouvaient systématiquement dans des fens à graminées secs, sur des buttes de graminées et près d'arbustes, et étaient rarement ou jamais à proximité de sol dénudé, de fens inondés, d'eau, d'arbres ou de crêtes. Le fen à graminées humide était évité à l'emplacement immédiat du nid, mais était inclus dans le territoire plus large. Les résultats concordent avec des travaux antérieurs sur les aires de reproduction en Alaska et au Manitoba, mais, contrairement à ces derniers, aucune barge de cette étude n'a niché près d'un plan d'eau libre. Dans l'ensemble, cette recherche fournit un aperçu de la sélection des sites de nidification à fine échelle par la barge hudsonienne et suggère qu'elle pourrait perdre des habitats propices dans les BTBH à mesure que la limite forestière boréale s'étend vers le nord dans les fens à graminées.
+
+
+> **Corrections de traduction en cours**
+

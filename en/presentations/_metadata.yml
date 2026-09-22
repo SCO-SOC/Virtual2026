@@ -1,0 +1,5 @@
+format:
+  html:
+    template-partials:
+      - title-block.html
+date-format: "MMM D, YYYY h:mma z"

@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_saini
+title: "Nuits perturbées, esprits perturbés : effets de la lumière artificielle nocturne sur la mémoire du « quoi », du « où » et du « quand » chez la mésange à tête noire."
+author: 
+   - Aastha Saini<sup>1</sup>
+   - Scott A MacDougall-Shackleton<sup>2</sup>
+author-affiliation:
+  - 1. Département de biologie, Université Western; Centre de recherche aviaire avancée, Université Western
+  - 2. Département de psychologie, Université Western; Centre de recherche aviaire avancée, Université Western
+session:  "3MT - Comportement / Écologie comportementale"
+date: 2026-10-06T20:00:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les rythmes quotidiens de lumière et d'obscurité régulent la plupart des processus biologiques et synchronisent notre physiologie interne avec l'environnement externe. La lumière artificielle nocturne (LAN) est devenue un polluant environnemental en croissance rapide, perturbant ces rythmes. Cette perturbation peut avoir des effets néfastes sur les humains et la faune, notamment en perturbant le cycle veille-sommeil, ce qui a des répercussions cognitives sur la consolidation de la mémoire. Notre recherche étudie l'impact de la LAN sur la consolidation de la mémoire chez la mésange à tête noire (Poecile atricapillus), un passereau chanteur qui dépend fortement de sa mémoire spatiale pour survivre en hiver. Des études antérieures ont révélé que la mésange à tête noire possède une mémoire épisodique (quoi, où et quand). Pour mon étude, j'ai manipulé les cycles lumière-obscurité et suivi les changements dans leur cognition en leur faisant effectuer des tâches de mémoire épisodique. Au départ, les oiseaux cherchaient des graines de tournesol et des vers de farine dans des arbres dans une volière intérieure. Ensuite, on a permis à ces oiseaux de revisiter ces sites après des intervalles de rétention courts (3 h) ou longs (125 h), et leur préférence pour le type de nourriture a été enregistrée. Nous avons émis l'hypothèse que les oiseaux préféreraient les vers de farine pendant l'intervalle de rétention court (IRC) et les graines pendant l'intervalle de rétention long (IRL), car les vers de farine pendant l'IRL étaient dégradés, et qu'une plus grande intensité lumineuse nuirait à leur mémoire épisodique. Les données préliminaires ont montré que les oiseaux du groupe témoin préféraient les vers de farine dans leurs quatre premiers choix, tant pour l'IRC que pour l'IRL, mais que ce n'était pas le cas pour les deux autres traitements. Une collecte de données supplémentaires est nécessaire pour confirmer ces tendances. En démontrant que la pollution lumineuse de faible intensité peut dégrader le sommeil et la mémoire chez une espèce diurne, cette étude souligne la nécessité de réévaluer la manière dont l'éclairage artificiel affecte la cognition et le comportement de la faune.
+
+
+> **Corrections de traduction en cours**
+

@@ -19,6 +19,18 @@ listing:
       date: "Heure"
       author: "Plomb"
       length: "Longueur"
+  - id: presentations-list
+    contents: "presentations/*.qmd"
+    type: default
+    date-format: "kk:mm z"
+    sort: ["date","session"]
+    filter-ui: true
+    max-description-length: 150
+    fields: [date, author, title, session, description]
+    field-display-names:
+      date: "Heure"
+      author: "Présentateur·rice·s"
+      session: "Session"
   - id: showcases-list
     contents: "showcases/*.qmd"
     type: default
@@ -53,7 +65,7 @@ L’horaire correspond à l’heure locale de votre navigateur.
 
 - - {{< localtime 2026-10-05 11:30 EDT format='%H:%M' >}}
   - []{rowspan=8  .workshops} [Ateliers](#workshops)
-  - []{rowspan=10 .mainevents} Présentations des étudiant·e·s
+  - []{rowspan=10 .mainevents} [Présentations des étudiant·e·s](#presentations)
   - []{rowspan=3  .specialevents} [Séance plénière de remise des prix ECR](#ECRA)
 
 - - {{< localtime 2026-10-05 11:45 EDT format='%H:%M' >}}
@@ -89,7 +101,7 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 14:45 EDT format='%H:%M' >}} 
   - []{.mainevents} [Laboratoire de comportement et de conservation des oiseaux: synchronisation, mouvements et conservation des oiseaux migrateurs](showcases/showcase_uofm.qmd)
 - - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
-  - []{rowspan=4  .mainevents} Présentations des étudiant·e·s
+  - []{rowspan=4  .mainevents} [Présentations des étudiant·e·s](#presentations)
   - []{.mainevents} [Écotoxicologie et conservation des communautés d’oiseaux des prairies](showcases/showcase_uofs.qmd)
 
 - - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
@@ -99,7 +111,7 @@ L’horaire correspond à l’heure locale de votre navigateur.
 
 - - {{< localtime 2026-10-05 15:45 EDT format='%H:%M' >}} 
 - - {{< localtime 2026-10-05 16:00 EDT format='%H:%M' >}} 
-  - []{rowspan=4  .specialevents} « Ma thèse en 3 minutes » (3MT)
+  - []{rowspan=4  .specialevents} [« Ma thèse en 3 minutes » (3MT)](#presentations)
   <!-- - []{rowspan=5  .mainevents} Présentation de la recherche pancanadienne -->
   - []{.mainevents} [Fournir une science rigoureuse chez Oiseaux Canada](showcases/showcase_birds_canada.qmd)
 
@@ -148,6 +160,13 @@ En tant que biologiste spécialiste des oiseaux marins, j’ai passé d’innomb
 :::{#workshops-list}
 :::
 
+## Présentations des étudiant·e·s / 3MT {#presentations .no-border}
+
+**Mardi 6 octobre 2026**; Les heures sont à l'heure avancée de l'Est\
+[*Tout afficher*](program_presentations.qmd)  
+
+:::{#presentations-list}
+:::
 
 
 ## Présentation de la recherche pancanadienne {#showcases .no-border}

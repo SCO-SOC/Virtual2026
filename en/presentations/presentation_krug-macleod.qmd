@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_krug-macleod
+title: "Fine dining: Foraging factors affecting ecosystem monitoring using seabirds"
+author: 
+   - Alana Krug-MacLeod<sup>1</sup>
+   - Jonas Hentati-Sundberg<sup>2</sup>
+   - Kyle Elliott<sup>3</sup>
+author-affiliation:
+  - 1. McGill University University
+  - 2. Swedish University of Agricultural Sciences
+  - 3. McGill University University
+session:  "3MT - Foraging Ecology and Diet"
+date: 2026-10-06T20:28:00Z
+---
+
+
+
+### Abstract
+
+
+
+Seabirds are central place foragers, and can be good indicators of prey distribution in regions such as the Arctic, where direct monitoring of prey is challenging. However, different species of seabirds make specific foraging decisions based on different combinations of factors. For example, in selecting forage locations, common murres have been observed to use both memory (foraging at sites with persistent prey) and local enhancement (foraging where conspecifics are feeding) more than information exchange at the colony. Since forage site characteristics versus colony characteristics are key for common murre foraging choice, our study focussed on at-sea factors potentially affecting foraging seabirds. We monitored thick-billed murres (Uria lomvia) and their prey at and around two Canadian Arctic islands that support different sized thick-billed murre colonies. We attached biologgers to murres’ lower back or tail feathers at the nesting sites and deployed a remotely-monitored, uncrewed sailing vessel (Sailbuoy) equipped with an echosounder to record prey presence along the Sailbuoy’s route. By overlaying GPS-linked accelerometry and hydroacoustic data collected over the same time period, we were able to test the match between thick-billed murres’ foraging effort and the spatial persistence of prey over the breeding season. This information will allow for real world comparison of seabird foraging routes and prey distribution, and reveal more about which factors affect how to use seabirds as indicators to assess the stability of ecosystems that are difficult to monitor directly.
+
+

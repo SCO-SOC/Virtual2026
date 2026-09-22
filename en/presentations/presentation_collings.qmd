@@ -1,0 +1,30 @@
+---
+filename: presentations/presentation_collings
+title: "Colour Preferences in the Selection of Anthropogenic Nesting Materials in European Starlings (<i>Sturnus vulgaris</i>)"
+author: 
+   - KC Collings<sup>1</sup>
+   - Colleen Barber<sup>2</sup>
+   - Gabrielle Armstrong<sup>3</sup>
+   - Katelyn Eisner<sup>4</sup>
+   - Olivia Smith<sup>5</sup>
+   - Freya Binney<sup>6</sup>
+author-affiliation:
+  - 1. Saint Mary’s University
+  - 2. Saint Mary’s University
+  - 3. Saint Mary’s University
+  - 4. Saint Mary’s University
+  - 5. Saint Mary’s University
+  - 6. Saint Mary’s University
+session:  "Session 1: Urban Ecology"
+date: 2026-10-06T15:30:00Z
+---
+
+
+
+### Abstract
+
+
+
+Urban birds often incorporate anthropogenic materials into their nests. However, the factors that determine material selection remain unclear. Visual cues, such as colour, may influence birds’ choice of nesting material. European Starlings (<i>Sturnus vulgaris</i>), are a cavity-nesting songbird species observed to incorporate anthropogenic materials into their nests. Males build most of the nest as means to attract a mate and females help finish the construction. Although materials can be selected and added to nests, they can also later be thrown out rather than being further incorporated. This study investigates whether wild starlings exhibit a preference for certain colours of anthropogenic nesting materials. We provided birds with equal opportunity to select ribbons of five different colours (blue, gold, black, silver and white) and quantified both the colours selected from the environment and those incorporated into nests. Preliminary results indicate that certain colours are selected more often than others. Understanding the mechanisms underlying anthropogenic material selection in birds’ nests will improve our understanding of behavioural adaptations in urban environments and better inform conservation strategies.
+
+

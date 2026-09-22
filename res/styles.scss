@@ -24,6 +24,16 @@ a.dropdown-item {
     padding: 15px;
 }
 
+.page-link {
+    background-color: $navbar-bg;
+}
+.page-link:hover {
+    background-color: #445638;
+}
+.active > .page-link {
+    background-color: #687f59;
+}
+
 .tbl-invisible table,
 table td,
 table th {

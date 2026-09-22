@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_ethier
+title: "Modernisation des méthodes de relevé de la grive de Bicknell (<i>Catharus bicknelli</i>) par surveillance acoustique passive (PAM) et algorithmes de classification audio."
+author: 
+   - Alexandre Ethier<sup>1</sup>
+   - Junior Tremblay<sup>2</sup>
+   - Marc Mazerolle<sup>3</sup>
+author-affiliation:
+  - 1. étudiant à la maîtrise, sciences forestières, Université Laval
+  - 2. Ph. D., chercheur, Environnement et Changement climatique Canada et professeur affilié, Université Laval
+  - 3. professeur et chercheur, Université Laval
+session:  "3MT - Bioacoustique"
+date: 2026-10-06T20:04:00Z
+---
+
+
+
+### Résumé
+
+
+
+Alors que le besoin de surveiller les espèces vivantes augmente, les méthodes traditionnelles de recensement de la faune sont souvent remplacées par des solutions plus efficaces et moins coûteuses. Le suivi acoustique passif (ci-après SAP) a gagné en popularité dans les études sur la faune et est décrit comme la collecte de données acoustiques d'espèces produisant des sons pratiquement n'importe où, à n'importe quel moment de la journée. Bien que cette méthode offre des informations cruciales sur l'écologie de la faune, le SAP génère un grand volume de données, ce qui peut être fastidieux, car une expertise et des efforts considérables sont nécessaires pour valider manuellement les données. Cependant, les progrès récents en bioacoustique permettent aux scientifiques de coupler le SAP avec des algorithmes de classification audio entraînés à reconnaître les vocalisations spécifiques à chaque espèce, réduisant ainsi les coûts et les ressources nécessaires. Cela facilite le suivi des espèces focales dont l'écologie est peu connue ou le comportement est cryptique et aide à étendre l'empreinte spatiale et temporelle des relevés d'espèces. C'est le cas de la grive de Bicknell (Catharus bicknelli), un oiseau forestier boréal en voie de disparition au Canada. La majeure partie de son territoire de reproduction se trouve dans les hautes-terres du Québec, à 800 m d'altitude et plus, dans des peuplements denses et régénérés de sapin baumier (Abies balsamea). Depuis 2013, un relevé obligatoire de la grive de Bicknell est exigé pour évaluer l'impact des futurs projets de développement sur l'habitat ciblé. Comme la pression sur l'habitat de l'espèce augmente, il est nécessaire de surveiller et de protéger adéquatement les populations grâce à des mesures d'atténuation et de gestion plus éclairées. L'objectif principal était de développer une méthodologie de SAP normalisée avec des algorithmes de classification audio pour traiter efficacement les données acoustiques de la grive de Bicknell sur ses aires de reproduction. L'utilisation du protocole et des recommandations qui en découlent vise à normaliser les méthodes d'évaluation d'impact à travers le Québec pour l'une des espèces d'oiseaux les plus difficiles à observer au Canada. Nous avons effectué des relevés de la grive de Bicknell dans des sites de reproduction connus sur une période de quatre ans pour tester et évaluer la performance de nos méthodes proposées avec différents algorithmes à code source ouvert.
+
+
+> **Corrections de traduction en cours**
+

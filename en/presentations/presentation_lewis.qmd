@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_lewis
+title: "Nest-site selection by Hudsonian Godwits (<i>Limosa haemastica</i>) in the Hudson Bay Lowlands, Ontario"
+author: 
+   - Abbey Lewis<sup>1</sup>
+   - Glen Brown<sup>2</sup>
+author-affiliation:
+  - 1. MSc Student, Trent University
+  - 2. Ontario Ministry of Natural Resources
+session:  "Session 2: Habitat Use and Breeding Biology"
+date: 2026-10-06T19:40:00Z
+---
+
+
+
+### Abstract
+
+
+
+Climate change is expected to alter habitat suitability and increase predation risk for the federally Threatened Hudsonian Godwit (<i>Limosa haemastica</i>) on their breeding grounds in the Hudson Bay Lowlands (HBL). Godwits have declined substantially in abundance over recent decades, but knowledge gaps regarding nesting requirements and habitat use limit conservation planning in Ontario. Our research aims to fill those gaps and investigate how variation in resource availability and predation risk on the landscape influences nest-site selection. As cryptic nesters, we expected Godwits to select for features that enhanced concealment and reduced predation risk; so, selecting for greater vegetation height, shrub cover, and distance from features like tundra ridges and trees. We collected high-resolution drone imagery covering a 70 m x 70 m area centered on fifteen Godwit nests in Polar Bear Provincial Park, Ontario from 2023 – 2025. Using that imagery, we generated land classification maps characterizing the habitat at each nest. We then tested for differences in habitat features and vegetation heights across spatial scales and between used (nest) and available sites. Findings revealed selection for nests with significantly taller vegetation within 1m2 compared to broader spatial scales and surrounding available habitat. Across all spatial scales, nests consistently featured dry graminoid fen, graminoid hummocks, and shrubs, and were rarely or never near exposed ground, flooded fen, water, trees, or ridges. Wet graminoid fen was selected against at the immediate nest site but included in the broader territory. Findings align with previous work on Alaskan and Manitoban breeding grounds, but contrastingly, no Godwits in this study nested near open water. Overall, this research provides insight into fine-scale nest-site selection by Hudsonian Godwits and suggests they may lose habitat suitability in the HBL as the boreal treeline expands northward into graminoid fen.
+
+

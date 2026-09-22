@@ -1,0 +1,28 @@
+---
+filename: presentations/presentation_goulart
+title: "Test de modèles de mise en réserve optimale: l'intensité de fréquentation des mangeoires modifie-t-elle les rythmes diurnes de recherche de nourriture chez la Mésange à tête noire (<i>Poecile atricapillus</i>)?"
+author: 
+   - Mechelle Goulart<sup>1</sup>
+   - Ipshita Gayen<sup>2</sup>
+   - Nathan Hobbs<sup>3</sup>
+   - Kimberley Mathot<sup>4</sup>
+author-affiliation:
+  - 1. Université de l'Alberta
+  - 2. Université de l'Alberta
+  - 3. Université de l'Alberta
+  - 4. Université de l'Alberta
+session:  "Session 2: Écologie Alimentaire et Régime Alimentaire"
+date: 2026-10-06T16:50:00Z
+---
+
+
+
+### Résumé
+
+
+
+De nombreux oiseaux recueillent et stockent de la nourriture pour une utilisation ultérieure, ce qu'on appelle la mise en cache. Les modèles théoriques prédisent que l'effort de mise en cache sera concentré en un seul pic au cours de la journée, bien que le moment précis de ce pic dépende de multiples facteurs. Nous avons étudié les patrons diurnes d'utilisation des mangeoires dans une population de 50 mésanges à tête noire (Poecile atricapillus) marquées individuellement à la fin de l'été. Nous avons utilisé le nombre total de visites quotidiennes aux mangeoires (1 visite ≈ 1 graine de tournesol) comme indicateur de l'intensité de la mise en cache, car les visites quotidiennes aux mangeoires (allant de 11 à 339 visites par oiseau par jour) dépassaient souvent l'apport requis d'environ 45 graines de tournesol pour les mésanges à cette période de l'année, ce qui correspond à un certain effort de mise en cache. Dans l'ensemble, les mésanges ont montré des patrons d'alimentation bimodaux. De plus, nous avons constaté que les mésanges augmentaient l'utilisation absolue des mangeoires tout au long de la journée pour s'adapter à l'augmentation du nombre total de visites quotidiennes, contrairement au pic unique prédit par les modèles théoriques de la mise en cache. Des analyses post-hoc ont révélé que cet effet à l'échelle de la population était dû à des différences individuelles; certaines mésanges augmentaient leurs visites matinales aux mangeoires avec l'augmentation du nombre total de visites quotidiennes, tandis que d'autres augmentaient leurs visites à la mi-journée ou en fin de journée. Les travaux futurs devraient se pencher sur les facteurs à l'origine de ces différences individuelles, y compris le rôle de la compétition par interférence.
+
+
+> **Corrections de traduction en cours**
+

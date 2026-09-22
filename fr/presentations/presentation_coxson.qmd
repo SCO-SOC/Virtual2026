@@ -1,0 +1,30 @@
+---
+filename: presentations/presentation_coxson
+title: "Le LiDAR à photon unique s'avère prometteur pour la modélisation de l'habitat des oiseaux boréaux en Ontario"
+author: 
+   - Wren Coxson<sup>1</sup>
+   - Jake Pott<sup>2</sup>
+   - Baoxin Hu<sup>3</sup>
+   - Stephen Mayor<sup>4</sup>
+   - Jennifer Foote<sup>5</sup>
+author-affiliation:
+  - 1. Université Algoma
+  - 2. Université York
+  - 3. Université York
+  - 4. Ministère des Richesses naturelles de l'Ontario, Université Algoma
+  - 5. Université Algoma
+session:  "Session 1: L'importance des méthodes"
+date: 2026-10-06T16:40:00Z
+---
+
+
+
+### Résumé
+
+
+
+La diversité structurelle de la forêt a permis l'évolution et la coexistence de diverses communautés d'oiseaux chanteurs dans la forêt boréale. Le déclin de nombreuses espèces a été lié à la dégradation des forêts, mais nous manquons encore d'une compréhension nuancée de la manière dont les changements d'habitat à fine échelle se traduisent en impacts sur la population à l'échelle du paysage. Le balayage laser aéroporté par LiDAR est en train de devenir un outil de choix pour établir ce lien. L'Ontario a récemment effectué des balayages à l'échelle de la province, en utilisant la nouvelle technologie LiDAR à photon unique (SPL) pour produire un ensemble de données LiDAR plus dense que ce qui est disponible ailleurs au Canada. En utilisant un ensemble de données de suivi acoustique passif provenant du territoire cri de Mushkegowuk, dans le nord-est de l'Ontario boréal, je réalise le premier test multi-espèces du SPL pour la modélisation de l'habitat faunique. Je prédis que des métriques spécifiques à l'espèce et axées sur la niche, dérivées des données SPL, permettront une modélisation de la distribution des espèces plus précise que ce qui était possible auparavant, avec certaines limites imposées par une plus faible pénétration de la canopée par le SPL que par le LiDAR traditionnel. Pour 91 placettes d'étude, j'ai calculé un ensemble de métriques d'habitat SPL standardisées à différentes échelles spatiales. En calculant des courbes de réponse monospécifiques et monométriques à chaque échelle spatiale pour des espèces focales ayant des exigences d'habitat diverses, j'ai fait les premiers pas vers le développement et le test de métriques SPL axées sur la niche pour la modélisation des oiseaux chanteurs boréaux. Les résultats préliminaires montrent un bon pouvoir prédictif de nombreuses métriques de test pour les espèces utilisant les niches du tronc d'arbre et de la canopée supérieure, avec des différences spécifiques à l'espèce dans la réponse aux métriques individuelles qui sont biologiquement logiques. Pour les espèces associées aux arbustes et au parterre forestier, peu de métriques ont un pouvoir prédictif significatif, mais il semble y avoir encore des pistes pour développer des métriques efficaces axées sur la niche. Cela ouvre la voie à des comparaisons de modèles de distribution des espèces utilisant des données de terrain, des métriques d'habitat SPL de base et des métriques plus affinées axées sur la niche.
+
+
+> **Corrections de traduction en cours**
+

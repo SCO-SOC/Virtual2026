@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_larocque
+title: "Do black-capped chickadees behave as predicted by optimal sampling models when tracking food availability?"
+author: 
+   - Megan LaRocque<sup>1</sup>
+   - Jan Wijmenga<sup>2</sup>
+   - Kimberley Mathot<sup>3</sup>
+author-affiliation:
+  - 1. University of Alberta
+  - 2. University of Alberta
+  - 3. University of Alberta
+session:  "Session 2: Foraging Ecology and Diet"
+date: 2026-10-06T16:20:00Z
+---
+
+
+
+### Abstract
+
+
+
+Animals face uncertainty in every aspect of their lives. Where is the best territory? Who is the best available mate? When and where will food be available? To mitigate this uncertainty, one strategy organisms can adopt is to ‘sample’; updating their information about the state of territories, mates, and/or resources within their environment. Optimal sampling models ask: what sampling strategy should individuals adopt to maximize their fitness? In a foraging context, we can imagine an individual that encounters a patch that has recently become unprofitable. This individual must then decide how it should behave amidst this uncertainty in food availability. Should it revisit (i.e., sample) this patch later to see if the patch becomes profitable, or should it visit an alternative food patch? If an individual samples the previously encountered unprofitable patch, and the patch remains unprofitable, the individual suffers from sampling error costs. If an individual instead visits an alternative patch, but the initially unprofitable patch is now profitable, the individual misses out on exploiting this now profitable patch and experiences missed opportunity costs. Theory predicts that both sampling error and missed opportunity costs will influence individual sampling frequency. We tested these predictions using feeder visit data from a free-living winter population of black-capped chickadees (<i>Poecile atricapillus</i>). We assessed how chickadee sampling frequency at empty feeders changed as a function of several variables predicted a priori to affect sampling error and/or missed opportunity costs. We found that although some factors influenced sampling frequency as predicted by optimal sampling theory, others did not. I discuss these results and propose explanations for how individual differences in sampling behaviour may influence fitness in our chickadee population.
+
+

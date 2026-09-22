@@ -1,0 +1,28 @@
+---
+filename: presentations/presentation_duchene
+title: "The Bird Who Cried Wolf: Hudsonian Whimbrels as Sentinel Alarm Callers in the Canadian Subarctic"
+author: 
+   - Mark Duchene<sup>1</sup>
+   - Paul Smith<sup>2</sup>
+   - Janet Ng<sup>3</sup>
+   - Maggie MacPherson<sup>4</sup>
+   - Erica Nol<sup>5</sup>
+author-affiliation:
+  - 1. Environmental and Life Sciences Graduate Program, Trent University
+  - 2. Environment and Climate Change Canada, Ottawa, Ontario
+  - 3. Environment and Climate Change Canada, Regina, Saskatchewan
+  - 4. Department of Biology, Trent University
+  - 5. Department of Biology, Trent University
+session:  "Session 2: Habitat Use and Breeding Biology"
+date: 2026-10-06T19:30:00Z
+---
+
+
+
+### Abstract
+
+
+
+Aggressive behaviours, including alarm calling and predator mobbing, are frequently used by nesting birds to deter predators and improve reproductive success. These behaviours also provide opportunities for nearby nesting birds of other species to eavesdrop and glean information about predator threats, thereby reducing their nest predation risk. In the subarctic, whimbrels (<i>Numenius spp.</i>) frequently engage in aggressive alarm calling that may reduce nest predation risk and improve reproductive success of nearby nesting shorebirds. This has been suggested in Europe between Bar-tailed Godwits (<i>Limosa lapponica</i>) and Eurasian Whimbrels (<i>N. phaeopus</i>), where godwits choose their nest sites after whimbrels do and place them closer to whimbrels than expected by chance, possibly for protection. However, the influence of whimbrels on the incubation behaviour of nearby shorebirds has not been documented. Furthermore, nesting associations remain unexplored for other whimbrel species, such as the Hudsonian Whimbrel (<i>N. hudsonicus</i>) in North America. My research tests whether Hudsonian Whimbrel alarm calls affect the incubation behaviours of two co-occurring shorebirds, Short-billed Dowitchers (<i>Limnodromus griseus</i>) and Dunlins (<i>Calidris alpina</i>) in fen ecosystems near Churchill, Manitoba. To do so, I video-recorded incubating individuals during playback experiments featuring a randomized sequence of: 1) Hudsonian Whimbrel alarm calls, 2) Short-billed Dowitcher alarm calls, 3) Dunlin alarm calls, and 4) a sympatric frog chorus control (Boreal Chorus Frog, Pseudacris maculata; and Wood Frog, Lithobates sylvaticus), each separated by a 10-minute latency period. Fieldwork occurred in the summer of 2026, with results to be presented. As Hudsonian Whimbrels rapidly decline, this study may demonstrate their importance in shaping shorebird antipredator strategies and nest success in the Canadian subarctic. Doing so would provide justification to uplist their conservation status, consequently benefitting their entire shorebird nesting community.
+
+

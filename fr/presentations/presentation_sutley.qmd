@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_sutley
+title: "Un modèle de répartition des espèces pour la conservation du Bruant de LeConte dans les Prairies canadiennes"
+author: 
+   - Amy Sutley<sup>1</sup>
+   - Alana Westwood<sup>2</sup>
+author-affiliation:
+  - 1. Université Dalhousie
+  - 2. Université Dalhousie
+session:  "Session 2: Biologie de la Conservation"
+date: 2026-10-06T17:10:00Z
+---
+
+
+
+### Résumé
+
+
+
+La population du bruant de LeConte (Ammospiza leconteii) est en déclin dans la partie de son aire de reproduction située dans l'Ouest canadien. Le bruant de LeConte a été identifié comme une priorité pour l'évaluation et la gestion de la conservation par les agences gouvernementales canadiennes, mais l'écologie et la distribution de l'espèce sont mal comprises. Nous avons développé un modèle de distribution d'espèce (MDE) à haute résolution de la présence du bruant de LeConte dans l'écozone des Prairies du Canada pour étudier les associations d'habitat et la distribution spatiale du bruant de LeConte et identifier des zones candidates pour la conservation des terres. Une méthode d'entropie maximale (MaxEnt) a été utilisée pour prédire la probabilité de présence du bruant de LeConte. Dans l'ensemble de données d'observations de présence, 2 595 des 8 253 (31 %) occurrences pouvaient présenter une incertitude de position, car elles étaient situées sur des routes et dans des plans d'eau libres. Comme la plupart des MDE corrigent rarement l'incertitude de position à fine échelle, nous avons testé trois distances de correction différentes (en déplaçant les observations vers l'habitat adjacent). Nous avons comparé trois modèles différents (sans déplacement; déplacements dans un rayon de 30 m; déplacements dans un rayon de 100 m) et avons constaté qu'ils avaient des performances similaires. Les covariables utilisées pour prédire la présence comprenaient la proximité des milieux humides, l'utilisation des terres, l'altitude, les précipitations estivales moyennes et un indice de végétation par différence normalisée. La performance et les résultats du modèle étaient similaires pour toutes les corrections, et nous avons choisi la correction de 100 m pour maximiser la taille de l'échantillon. La probabilité de présence du bruant de LeConte a montré une forte association avec les milieux humides des prairies de basse altitude et les zones riveraines, y compris les rivières urbaines. Pour élaborer des recommandations pour la conservation des terres, nous avons identifié sept emplacements prioritaires où les aires protégées existantes pourraient être étendues pour inclure l'habitat potentiel du bruant de LeConte. Nous encourageons les gestionnaires à valider sur le terrain et à appliquer notre modèle pour éclairer la protection de l'habitat de cette espèce.
+
+
+> **Corrections de traduction en cours**
+

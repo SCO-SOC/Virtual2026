@@ -1,0 +1,28 @@
+---
+filename: presentations/presentation_coxson
+title: "Single-photon LiDAR shows promise for boreal bird habitat modelling in Ontario"
+author: 
+   - Wren Coxson<sup>1</sup>
+   - Jake Pott<sup>2</sup>
+   - Baoxin Hu<sup>3</sup>
+   - Stephen Mayor<sup>4</sup>
+   - Jennifer Foote<sup>5</sup>
+author-affiliation:
+  - 1. Algoma University
+  - 2. York University
+  - 3. York University
+  - 4. Ontario Ministry of Natural Resources, Algoma University
+  - 5. Algoma University
+session:  "Session 1: Methods Matter"
+date: 2026-10-06T16:40:00Z
+---
+
+
+
+### Abstract
+
+
+
+Forest structural diversity has enabled the evolution and coexistence of diverse songbird communities in the boreal. Declines in many species have been tied to forest degradation, but we still lack a nuanced understanding of how fine scale habitat changes translate to landscape scale population impacts. Airborne laser scanning using LiDAR is quickly emerging as a tool for making this connection. Ontario has recently collected scans province-wide, using newly developed single-photon LiDAR (SPL) technology to produce a denser LiDAR dataset than is available elsewhere in Canada. Using a passive acoustic monitoring dataset from Mushkegowuk Cree territory in boreal northeast Ontario, I am completing the first multi-species test of SPL for wildlife habitat modelling. I predict that species-specific, niche-focused metrics derived from SPL data will allow more accurate species distribution modelling than has previously been possible, with some limitations imposed by lower canopy penetration of SPL than traditional LiDAR. For 91 study plots, I have calculated a set of standardized SPL habitat metrics across a range of spatial scales. By calculating single-species, single-metric response curves at each spatial scale for focal species with diverse habitat requirements, I have taken the first steps toward developing and testing niche-focused SPL metrics for boreal songbird modeling. Preliminary results show good predictive power of many test metrics for species using tree trunk and upper canopy niches, with species-specific differences in response to individual metrics that make biological sense. For shrub and forest floor associated species, few metrics have significant predictive power, but there still appear to be avenues for developing effective niche-focused metrics. This paves the way for comparisons of species distribution models using field data, basic SPL habitat metrics, and more refined niche-focused metrics.
+
+

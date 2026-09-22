@@ -1,0 +1,41 @@
+---
+filename: presentations/presentation_naaman
+title: "Utilisation de méthodes de science participative pour évaluer les prédicteurs de la richesse spécifique aviaire urbaine à Dakar, au Sénégal"
+author: 
+   - Lily Naaman<sup>1</sup>
+   - Paul JE Preston<sup>2</sup>
+   - Islamiat Abidemi Raji et Laboratoire d'ornithologie<sup>3</sup>
+   - Université Cornell<sup>4</sup>
+   - Daniel J Mennill<sup>5</sup>
+   - Paul R Martin<sup>6</sup>
+   - Lynn B Martin<sup>7</sup>
+   - Guiherme A Serpa<sup>8</sup>
+   - Massamba Thiam<sup>9</sup>
+   - Alex M Syingi<sup>10</sup>
+   - Frances Bonier<sup>11</sup>
+author-affiliation:
+  - 1. étudiante au baccalauréat, Université McMaster
+  - 2. Département de biologie, Université Queen’s
+  - 3. Département de biologie, Université Queen’s et Laboratoire d'ornithologie, Université Cornell
+  - 4. Département de biologie, Université de Windsor
+  - 5. Département de biologie, Université Queen’s
+  - 6. Département de santé mondiale, Université de Floride du Sud
+  - 7. Serpa Birding, Rio de Janeiro, Brésil
+  - 8. Université Cheikh Anta Diop, Dakar, Sénégal
+  - 9. Musée national du Kenya, Nairobi, Kenya
+  - 10. Département de biologie, Université Queen’s
+session:  "3MT - Science citoyenne"
+date: 2026-10-06T20:20:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les méthodes de science communautaire ont la capacité d’élargir nos connaissances sur la biodiversité en surmontant les obstacles à la recherche dans les régions économiquement marginalisées, tant à l’échelle mondiale que locale. L’Inventaire mondial des oiseaux urbains (GUBS) a recueilli des enregistrements audio et vidéo à des points de sondage aléatoires répartis dans le noyau urbain de cinq villes du monde, dont Dakar, au Sénégal. Bien que de nombreuses études aient évalué la biodiversité dans les villes, principalement dans les espaces verts urbains, le GUBS fournit un échantillon plus représentatif de la richesse en espèces aviaires dans tous les habitats d’une ville, fournissant des données importantes sur la biodiversité dans les zones économiquement défavorisées et sous-représentées. Nous avons utilisé les données du GUBS de Dakar pour évaluer les relations entre la couverture végétale au sol, les niveaux d’activité humaine et la richesse en espèces aviaires, en jaugeant le potentiel d’utilisation de méthodes de science communautaire à faible technologie pour ces analyses. En plus de l’analyse acoustique précédemment réalisée pour identifier la richesse en espèces à chaque point de sondage, nous avons fait appel à des membres de la communauté pour classer la couverture végétale au sol et les niveaux d’activité humaine dans 35 vidéos à travers la ville de Dakar. Nous avons constaté qu’une augmentation de la couverture végétale au sol et une diminution des niveaux d’activité humaine étaient associées à une augmentation de la richesse en espèces aviaires. Ces résultats préliminaires prouvent que les prédicteurs de la biodiversité aviaire dans la ville de Dakar présentent des schémas cohérents dans divers quartiers, même avec l’utilisation de méthodes de science communautaire à faible technologie, ce qui correspond aux preuves antérieures des effets positifs des espaces verts et des effets négatifs de l’activité humaine sur la biodiversité urbaine. Compte tenu de ces résultats, nous étendons l’étude à trois des autres villes du GUBS : Toronto (Canada), Nairobi (Kenya) et Rio de Janeiro (Brésil), afin de déterminer si les relations que nous avons observées à Dakar sont cohérentes dans ces diverses villes. Dans l’ensemble, cette étude démontre l’utilité des approches à faible technologie pour évaluer les effets des caractéristiques du paysage urbain qui pourraient limiter ou soutenir la biodiversité dans les villes.
+
+
+> **Corrections de traduction en cours**
+

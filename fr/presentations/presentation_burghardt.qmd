@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_burghardt
+title: "Ça sent le parasitisme de couvée : une expérience de terrain évaluant les réactions de la Paruline jaune à l'odeur du Vacher à tête brune dans le nid."
+author: 
+   - David Burghardt<sup>1</sup>
+   - Leanne Grieves<sup>2</sup>
+author-affiliation:
+  - 1. Université de la Saskatchewan
+  - 2. Université de la Saskatchewan
+session:  "Session 1: Biologie de la Reproduction"
+date: 2026-10-06T17:30:00Z
+---
+
+
+
+### Résumé
+
+
+
+Le parasitisme de couvée se produit lorsqu'un individu pond ses œufs dans le nid d'un autre, imposant les coûts de l'élevage de cette progéniture à l'individu parasité (l'hôte). En Amérique du Nord, la paruline jaune (Setophaga aestiva) est fréquemment parasitée par le vacher à tête brune (Molothrus ater), ce qui diminue son succès de reproduction. La paruline jaune a développé des comportements de défense en réponse aux signaux visuels et acoustiques du vacher, mais on ignore si elle utilise des signaux olfactifs. Mon étude a comblé cette lacune de recherche en testant l'impact de l'odeur de la femelle du vacher sur l'éjection des œufs et l'abandon du nid chez ces hôtes. J'ai appliqué de l'huile de lissage de femelles vachers (odeur de menace) et de femelles parulines à croupion jaune (Setophaga coronata, odeur non menaçante), ainsi qu'un contrôle sans odeur, à des nids de parulines jaunes non parasités pendant la ponte. J'ai enregistré les réponses des hôtes à ces odeurs à l'aide de caméras de surveillance au nid. Dans l'ensemble, les nids traités avec les odeurs hétérospécifiques menaçantes et non menaçantes ont suscité une plus grande réactivité à la zone de traitement que les nids témoins. Les hôtes inspectaient plus fréquemment le bord du nid traité avec l'odeur, s'orientaient vers le lieu du traitement et vérifiaient l'état de leurs œufs. Bien qu'aucun cas d'abandon de nid ou d'éjection d'œufs n'ait été observé, les réponses comportementales accrues aux deux odeurs hétérospécifiques suggèrent que les parulines jaunes pourraient être capables de reconnaître une odeur étrangère au nid. Ces résultats fournissent des preuves que les signaux olfactifs peuvent fournir des informations que l'hôte peut utiliser en combinaison avec les signaux visuels et auditifs pour répondre et se défendre contre les intrus au nid.
+
+
+> **Corrections de traduction en cours**
+

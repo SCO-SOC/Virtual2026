@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_goulart
+title: "Testing models of optimal caching: does intensity of feeder use change diurnal foraging patterns in black-capped chickadees (<i>Poecile atricapillus</i>)"
+author: 
+   - Mechelle Goulart<sup>1</sup>
+   - Ipshita Gayen<sup>2</sup>
+   - Nathan Hobbs<sup>3</sup>
+   - Kimberley Mathot<sup>4</sup>
+author-affiliation:
+  - 1. University of Alberta
+  - 2. University of Alberta
+  - 3. University of Alberta
+  - 4. University of Alberta
+session:  "Session 2: Foraging Ecology and Diet"
+date: 2026-10-06T16:50:00Z
+---
+
+
+
+### Abstract
+
+
+
+Many birds collect and store food for later use, called caching. Theoretical models predict that caching effort will be concentrated in a single peak during the day, though the precise timing of that peak depends on multiple factors. We studied diurnal patterns of feeder use in a population of 50 individually marked black-capped chickadees (<i>Poecile atricapillus</i>) in late summer. We used total daily feeder visits (1 visit ≈ 1 sunflower seed) as a proxy for caching intensity because daily feeder visits (range 11 – 339 feeder visits per bird per day) often exceeded required intake of about 45 sunflower seeds for chickadees at this time of year, consistent with a range of caching effort. Overall, chickadees exhibited bimodal foraging patterns. Further, we found that chickadees increased absolute feeder use throughout the entire day to accommodate increases in total daily feeder visits, as opposed to the single peak predicted by theoretical models of caching. Post-hoc analyses revealed that this population-level effect was driven by individual differences; some chickadees increased morning feeder visits with increasing total daily feeder visits, while others increased midday or end-of-day feeder visits. Future work should investigate drivers of these individual differences, including the role of interference competition.
+
+

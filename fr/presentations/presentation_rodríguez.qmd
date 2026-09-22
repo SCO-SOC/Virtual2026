@@ -1,0 +1,28 @@
+---
+filename: presentations/presentation_rodríguez
+title: "Le mimétisme vocal est répandu chez les sporophiles tropicaux."
+author: 
+   - Nelsy Niño Rodríguez<sup>1</sup>
+   - María Paula Sierra<sup>2</sup>
+   - Oscar Laverde R<sup>3</sup>
+   - Daniel J Mennill<sup>4</sup>
+author-affiliation:
+  - 1. Département de biologie, Université de Windsor
+  - 2. Département de biologie, École des sciences et de l'ingénierie, Université du Rosaire, Bogota, Colombie
+  - 3. Département de biologie, Faculté des sciences, Université pontificale Javeriana, Bogota, Colombie
+  - 4. Département de biologie, Université de Windsor
+session:  "3MT - Bioacoustique"
+date: 2026-10-06T20:16:00Z
+---
+
+
+
+### Résumé
+
+
+
+Le mimétisme vocal est présent dans diverses familles d'oiseaux, mais sa signification écologique et évolutive reste mal comprise. Bien qu'il existe de nombreux exemples bien documentés de mimétisme chez les oiseaux des zones tempérées, nous en savons remarquablement peu sur le mimétisme vocal sous les tropiques. Le genre Sporophila comprend 41 espèces de petits pinsons granivores connus sous le nom de « sporophiles ». À ce jour, le mimétisme vocal a été signalé chez sept de ces 41 espèces. Étant donné le manque d'études détaillées sur l'avifaune sud-américaine, nous pouvons supposer que le mimétisme est plus répandu et que de nombreux exemples restent à décrire. Pour évaluer l'étendue du mimétisme vocal dans le genre Sporophila, nous avons récupéré des enregistrements sonores provenant de deux importantes sonothèques. Nous avons examiné tous les enregistrements de haute qualité pour évaluer la présence de mimétisme vocal et le pourcentage d'enregistrements contenant du mimétisme pour chaque espèce. Nous avons cartographié le mimétisme vocal sur une hypothèse phylogénétique de la famille des Thraupidae, élaborée à partir d'une phylogénie aviaire mondiale calibrée dans le temps. Nous avons émondé l'arbre pour inclure toutes les espèces du genre Sporophila et six espèces exogroupes afin de calibrer l'arbre. Nos résultats révèlent que le mimétisme est plus répandu qu'on ne le pensait auparavant dans ce genre, ce qui suggère un rôle important du mimétisme vocal dans ce genre peu étudié.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,27 @@
+---
+filename: presentations/presentation_hartley-cox
+title: "Beyond occupancy: evaluating whether forestry best management practices support successful reproduction of Endangered Williamson's Sapsucker"
+author: 
+   - Tory Hartley-Cox<sup>1</sup>
+   - Elizabeth Gow<sup>2</sup>
+   - Emily Choy<sup>3</sup>
+author-affiliation:
+  - 1. PhD Student, McMaster University
+  - 2. Environment and Climate Change Canada
+  - 3. McMaster University
+session:  "3MT - Species at Risk"
+date: 2026-10-06T20:40:00Z
+---
+
+
+
+### Abstract
+
+
+
+Forest management practices designed to reduce the impacts of logging on wildlife may not always provide the habitat conditions necessary for successful reproduction. In some cases, retained habitat may continue to attract breeding individuals while failing to support reproductive success, potentially creating ecological traps. For the federally Endangered Williamson's Sapsucker (<i>Sphyrapicus thyroideus</i>), forestry best management practices (BMPs) have been developed for use in British Columbia. However, these voluntary practices are applied only within the species' known area of occupancy, and their effectiveness in supporting successful reproduction has never been evaluated.
+To determine whether current forestry BMPs provide habitat that supports successful reproduction, we are linking nest productivity to habitat characteristics, focusing on nesting and foraging conditions in both managed and unmanaged forests. During the 2025 and 2026 breeding seasons, occupancy surveys were conducted throughout the Princeton and Boundary regions of southern British Columbia to locate breeding territories and active nest cavities. Nest productivity was monitored using repeated visual observations, custom-built cavity cameras, and acoustic recording units to document clutch size, hatching success, fledging success, and nest failure. Habitat assessments quantified nest-tree characteristics, stand structure, and surrounding forest composition across protected forests, retention-harvested stands, and unlogged forests.
+This project will provide the first direct evaluation of whether current forestry BMPs support the successful reproduction of Williamson's Sapsucker in Canada. By identifying the nesting and foraging habitat characteristics associated with nest success and failure, the results will help guide future refinements to forestry BMPs and inform recovery planning and long-term conservation of this Endangered species.
+
+
+

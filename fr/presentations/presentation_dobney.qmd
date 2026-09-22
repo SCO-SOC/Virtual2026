@@ -1,0 +1,32 @@
+---
+filename: presentations/presentation_dobney
+title: "Chant et soins parentaux : les bons pères chantent des chansons simples."
+author: 
+   - Sarah Dobney<sup>1</sup>
+   - Hayley Spina<sup>2</sup>
+   - Ryan Norris<sup>3</sup>
+   - Heather Williams<sup>4</sup>
+   - Stephanie Doucet<sup>5</sup>
+   - Daniel Mennill<sup>6</sup>
+author-affiliation:
+  - 1. Université de Windsor
+  - 2. Université de Guelph
+  - 3. Université de Guelph
+  - 4. Williams College
+  - 5. Université de Windsor
+  - 6. Université de Windsor
+session:  "Session 1: Biologie de la Reproduction"
+date: 2026-10-06T17:40:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les chants d'oiseaux élaborés sont importants pour le choix du partenaire chez de nombreuses espèces. Les caractéristiques du chant peuvent fournir des informations sur le comportement parental du mâle ou sa qualité génétique. À l'aide d'une étude de terrain sur les Bruants des prés dans l'est du Canada, nous avons exploré la relation entre le chant du mâle et son comportement parental. Nous avons mesuré le taux de chant et les caractéristiques structurelles du chant des mâles à partir d'enregistrements audio. Nous avons mesuré le taux d'approvisionnement des mâles à partir d'enregistrements vidéo sur les sites de nidification. Nous avons constaté que le taux d'approvisionnement des mâles variait avec la complexité du chant : les mâles qui produisaient plus de notes d'introduction nourrissaient moins souvent leur progéniture. Compte tenu de cette relation, nous suggérons que les femelles pourraient utiliser le chant du mâle pour déduire son comportement parental lors du choix d'un partenaire de reproduction. Une analyse génétique de la paternité à venir nous permettra d'évaluer si cette relation influence également la filiation génétique. L'étude de la manière dont les caractéristiques du chant des mâles sont liées aux soins parentaux et au choix des femelles améliorera notre compréhension de la façon dont le comportement reproducteur est façonné par la sélection.
+
+
+> **Corrections de traduction en cours**
+

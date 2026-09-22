@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_nong
+title: "Utilisation de l'habitat d'escale migratoire par les oiseaux chanteurs dans un espace vert fortement urbanisé"
+author: 
+   - Linda Nong<sup>1</sup>
+   - Barbara Frei<sup>2</sup>
+   - Kyle Elliott<sup>3</sup>
+author-affiliation:
+  - 1. étudiante à la maîtrise, Université McGill
+  - 2. Environnement et Changement climatique Canada
+  - 3. Université McGill
+session:  "Session 1: Écologie Urbaine"
+date: 2026-10-06T15:40:00Z
+---
+
+
+
+### Résumé
+
+
+
+Le développement urbain continue de remplacer les paysages naturels à mesure que les populations humaines augmentent, et les paysages urbains constituent une matrice de nouvelles ressources et de nouvelles menaces pour les oiseaux. Les villes sont souvent construites le long des routes migratoires et les oiseaux migrateurs sont d’autant plus attirés par ces régions par la lumière artificielle nocturne. Des recherches antérieures ont démontré que les passereaux migrateurs font couramment des haltes dans les villes ou à proximité, mais il existe peu d’informations sur leur utilisation de l’habitat à fine échelle lors des haltes dans les espaces verts urbains. La conservation et la gestion de ces espaces sont essentielles pour fournir un habitat aux oiseaux pendant cette période de stress énergétique de leur cycle annuel. Notre objectif général est de quantifier la durée des haltes, l’utilisation de l’habitat et la sélection du régime alimentaire des passereaux se reproduisant dans la forêt boréale dans un parc urbain polyvalent de 108 ha à Montréal, au Canada, en marquant, en effectuant un radiopistage et en prélevant des échantillons fécaux d’oiseaux pendant la période de migration post-reproduction. Les résultats préliminaires d’une saison pilote dans ce parc suggèrent que les durées des haltes (9,6 ± 7,3 jours, n=24) et les tailles des domaines vitaux temporaires (9,05 ± 8,75 ha; 95 % KDE, n=9) sont très variables parmi nos huit espèces focales. Les analyses futures incluront des fonctions de sélection des ressources pour quantifier l’utilisation de l’habitat à fine échelle et le métabarcodage de l’ADN fécal pour comparer les régimes alimentaires des oiseaux du parc urbain avec ceux d’un site périurbain voisin. Ce travail est réalisé en collaboration avec les gestionnaires de terrains municipaux locaux dans le but de fournir des conseils sur la gestion des espaces verts urbains pour la conservation des oiseaux migrateurs.
+
+
+> **Corrections de traduction en cours**
+

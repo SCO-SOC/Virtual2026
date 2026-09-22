@@ -1,0 +1,25 @@
+---
+filename: presentations/presentation_sturch
+title: "Seed dispersal potential of Canadian migratory songbirds"
+author: 
+   - Tamara Sturch<sup>1</sup>
+   - Matt Fuirst and Kevin Fraser<sup>2</sup>
+author-affiliation:
+  - 1. University of Manitoba
+  - 2. Birds Canada
+  - 3. University of Manitoba
+session:  "Session 2: Foraging Ecology and Diet"
+date: 2026-10-06T16:40:00Z
+---
+
+
+
+### Abstract
+
+
+
+Globally approximately 50% of woody plants rely on some form of animal mediated seed 
+dispersal. Birds are one of the most important groups of seed dispersers due to their diversity in diet and their ability to move seeds. Movement of plants via birds has important implications for community structure and function as they can facilitate range expansions and genetic rescue for native and non-native plants. As landscape fragmentation increases and climate change advances, plant-bird interactions will have increasing significance for the adaption of plants. We are investigating the seed dispersal potential of Canadian migratory songbirds by comparing spring and fall movement of seeds, determining the potential for long distance dispersal of seeds by birds during migratory flights, and quantifying the viability of seeds dispersed by birds. We are using a combination of fecal samples collected from three migration monitoring stations in Ontario and Manitoba and stomach content analysis of window killed migratory birds collected by the Fatal Light Awareness Program in Toronto, to identify and quantify plant seeds carried by different bird species over the two migratory seasons. We assessed seed viability through tetrazolium and germination tests. Results to date indicate that 37% of fecal samples obtained from birds intercepted during migration at Long Point Bird Observatory in fall 2025, and 22% of 
+stomach contents obtained from birds killed during fall and spring migration in Toronto 2024 contained plant seeds, including species in the genera Cornus, Juniperus, Parthenocissus, Rhamnus, Viburnum, and Vitis. Avian dispersers of plant seeds included Cedar Waxwing, Catharus thrushes, American Robin, Red-eyed Vireo, and White-throated Sparrow. These preliminary findings suggest that migratory birds may commonly move plant seeds during their migrations, shaping communities of native and non-native plants in Canada.
+
+

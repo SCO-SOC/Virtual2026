@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_pradhan
+title: "La fragmentation d'habitat causée par les feux de forêt affecte-t-elle la structure génétique des populations de la Mésange à tête noire (<i>Poecile atricapillus</i>) ?"
+author: 
+   - Nikeet Pradhan<sup>1</sup>
+   - Theresa M Burg<sup>2</sup>
+author-affiliation:
+  - 1. Département des sciences biologiques, Université de Lethbridge
+  - 2. Département des sciences biologiques, Université de Lethbridge
+session:  "Session 2: L'utilisation de l'habitat et Biologie de la Reproduction"
+date: 2026-10-06T19:20:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les feux de friche sont une perturbation primaire cruciale dans de nombreux écosystèmes forestiers; cependant, le changement climatique anthropique a augmenté leur intensité, leur étendue et leur gravité, altérant radicalement l'habitat et la connectivité de la faune. Ces perturbations rapides et à grande échelle réduisent la disponibilité de l'habitat et entravent les voies de dispersion dans le paysage. Pour les espèces dépendantes de la forêt, cela se traduit par une réduction du flux génique, diminuant l'aptitude environnementale et l'adaptation. La Mésange à tête noire (Poecile atricapillus) est une espèce forestière résidente en Amérique du Nord, avec une dispersion limitée et une dépendance aux ressources forestières pour sa survie, ce qui la rend vulnérable à la fragmentation de l'habitat. Notre étude se concentrera sur l'évaluation des conséquences génétiques de la fragmentation de l'habitat due aux feux de friche chez la Mésange à tête noire en comparant la diversité génétique, la connectivité des populations et les niveaux de consanguinité avant et après les feux. Notre étude sera menée dans le centre de la Colombie-Britannique (CBC), qui a connu plusieurs épisodes de feux de friche au cours de la dernière décennie. Nous échantillonnerons cinq sites différents relativement proches de sites où des échantillons ont été prélevés avant les feux de friche et où des populations génétiquement distinctes ont été enregistrées. Nous utiliserons des données de séquençage d'ADN associé aux sites de restriction pour comparer les patrons génétiques avant et après les feux. Notre étude permettra de mieux comprendre comment la fragmentation de l'habitat induite par les feux de friche affecte la connectivité des populations d'espèces dépendantes de la forêt et aidera à éclairer la restauration ciblée des corridors après les incendies et la planification de la conservation pour les espèces dépendantes de la forêt.
+
+
+> **Corrections de traduction en cours**
+

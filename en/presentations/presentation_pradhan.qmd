@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_pradhan
+title: "Does wildfire-driven habitat fragmentation affect the population genetic structure of the Black-capped Chickadee <i>Poecile atricapillus</i>?"
+author: 
+   - Nikeet Pradhan<sup>1</sup>
+   - Theresa M Burg<sup>2</sup>
+author-affiliation:
+  - 1. Department of Biological Sciences, University of Lethbridge
+  - 2. Department of Biological Sciences, University of Lethbridge
+session:  "Session 2: Habitat Use and Breeding Biology"
+date: 2026-10-06T19:20:00Z
+---
+
+
+
+### Abstract
+
+
+
+Wildfire is a crucial primary disturbance in many forest ecosystems; however, anthropogenic climate change has increased its intensity, extent, and severity, drastically altering wildlife habitat and connectivity. These rapid and large-scale disturbances reduce habitat availability and impede dispersal pathways in the landscape. For forest-dependent species, it results in reduced gene flow, decreasing environmental fitness and adaptation. Black-capped Chickadee (<i>Poecile atricapillus</i>) is a resident forest species in North America, with limited dispersal and dependence on forest resources for survival, making it vulnerable to habitat fragmentation. Our study will focus on evaluating the genetic consequences of wildfire-driven habitat fragmentation in the Black-capped Chickadee by comparing genetic diversity, population connectivity, and levels of inbreeding pre- and post-fires. Our study will be conducted in central British Columbia (CBC), which has had a number of wildfire events in the last decade. We will be sampling five different sites relatively close to sites where samples were collected before the wildfire events, and genetically distinct populations were recorded. We will be using restriction-site associated DNA sequencing data to compare genetic patterns pre- and post-fires. Our study will provide a better understanding of how wildfire-induced habitat fragmentation impacts forest-dependent species population connectivity and will help inform targeted post-fire corridor restoration and conservation planning for forest-dependent species.
+
+

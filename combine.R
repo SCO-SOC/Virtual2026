@@ -49,8 +49,18 @@ combine_items <- function(lang, type, by = "title") {
           "## {title}",
           "**{if(lang == 'en') 'Presenter(s)' else 'Présentateur·rice·s'}**: {paste0(author, collapse = ', ')}  ",
           "**{if(lang == 'en') 'Affiliation(s)' else 'Affiliation·s'}**: {paste0(`author-affiliation`, collapse = ', ')}  ",
-          #"**{if(lang == 'en') 'Time' else 'Heure'}**: {{{{< \"{date}\" | date \"MMM D, YYYY hh:mm z\" >}}}}  ",
           "**{if(lang == 'en') 'Organization Type' else 'Type d\\'organisation'}**: {paste0(`type`, collapse = ', ')}  ",
+          "**{if(lang == 'en') 'Time' else 'Heure'}**: {{{{< localtime {time_fmt(date)} format='%b %-d, %Y {if(lang == 'en') '%-I:%M%P' else '%-H:%M'} %Z' >}}}}  ",
+          "{unique(body)}",
+          .sep = "\n"
+        )
+      } else if (type == "presentation") {
+        meta <- glue::glue_data(
+          txt,
+          "## {title}",
+          "**{if(lang == 'en') 'Presenter(s)' else 'Présentateur·rice·s'}**: {paste0(author, collapse = ', ')}  ",
+          "**{if(lang == 'en') 'Affiliation(s)' else 'Affiliation·s'}**: {paste0(`author-affiliation`, collapse = ', ')}  ",
+          "**Session**: {paste0(`session`, collapse = ', ')}  ",
           "**{if(lang == 'en') 'Time' else 'Heure'}**: {{{{< localtime {time_fmt(date)} format='%b %-d, %Y {if(lang == 'en') '%-I:%M%P' else '%-H:%M'} %Z' >}}}}  ",
           "{unique(body)}",
           .sep = "\n"
@@ -81,9 +91,11 @@ combine_items <- function(lang, type, by = "title") {
 
 combine_items("en", "workshop")
 combine_items("en", "showcase")
+combine_items("en", "presentation")
 
 combine_items("fr", "workshop")
 combine_items("fr", "showcase")
+combine_items("fr", "presentation")
 
 # schedule <- function(lang) {
 #   sched <- dplyr::tribble(

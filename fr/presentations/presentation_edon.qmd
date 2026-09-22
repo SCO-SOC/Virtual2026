@@ -1,0 +1,30 @@
+---
+filename: presentations/presentation_edon
+title: "Variation spatio-temporelle du comportement de recherche de nourriture et du régime alimentaire de la Mouette tridactyle (<i>Rissa tridactyla</i>) en période de reproduction."
+author: 
+   - Elora Edon<sup>1</sup>
+   - Arnaud Tarroux<sup>2</sup>
+   - Signe Christensen-Dalsgaard<sup>3</sup>
+   - Manuel Ballesteros<sup>4</sup>
+   - Eeva Soininen<sup>5</sup>
+author-affiliation:
+  - 1. Université de l'Arctique de Norvège, UiT
+  - 2. Institut norvégien de recherche sur la nature
+  - 3. Institut norvégien de recherche sur la nature
+  - 4. Institut norvégien de recherche sur la nature
+  - 5. Université de l'Arctique de Norvège, Observatoire climatique et écologique de la toundra arctique
+session:  "Session 2: Écologie Alimentaire et Régime Alimentaire"
+date: 2026-10-06T15:30:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les populations d'oiseaux marins connaissent un déclin mondial, causé par de multiples pressions, notamment les changements climatiques et les activités humaines. La mouette tridactyle (Rissa tridactyla) ne fait pas exception à cette tendance et est actuellement classée comme étant en voie de disparition sur la Liste rouge norvégienne. Par conséquent, la compréhension des schémas de distribution saisonnière et du comportement de recherche de nourriture est une étape cruciale vers une meilleure connaissance de l'écologie et des stratégies de recherche de nourriture de cette espèce. Dans cette étude, j'ai exploré les facteurs qui façonnent la sélection de l'habitat chez les mouettes tridactyles pendant la saison de reproduction sur l'île d'Anda, dans le nord de la Norvège. J'ai utilisé 12 ans de données de suivi GPS et de taux de reproduction, que j'ai combinées avec des informations sur le régime alimentaire basées sur 5 ans d'échantillons de régurgitations prélevés sur des oiseaux équipés d'instruments. Les résultats ont montré que les mouettes tridactyles utilisaient principalement les habitats côtiers, mais se rabattaient sur les habitats océaniques comme habitat de recherche de nourriture alternatif. Bien que l'utilisation de ces deux habitats ait varié considérablement d'une année à l'autre, les mouettes semblaient suivre des niches environnementales similaires plutôt qu'un habitat préféré fixe. Cependant, une plus grande dépendance à l'égard des habitats océaniques était associée à un succès reproducteur plus faible, ce qui suggère qu'une utilisation accrue des habitats hauturiers éloignés pourrait entraîner des coûts pour la reproduction. Les mouettes tridactyles semblent donc réagir à un environnement marin très dynamique en ajustant leur comportement de recherche de nourriture. La prise en compte de cette flexibilité dans les mesures de conservation pourrait aider à protéger les habitats et les ressources en proies nécessaires pour réduire le déclin futur de la population.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,28 @@
+---
+filename: presentations/presentation_hart
+title: "Au-delà de la quantité d’habitat: des lignes sismiques à faible impact fragmentent l’habitat d’un oiseau chanteur en déclin en forêt ancienne"
+author: 
+   - Taylor Hart<sup>1</sup>
+   - Juan Andrés Martinez Lanfranco<sup>2</sup>
+   - Alessandro Franceschini<sup>3</sup>
+   - Erin Bayne<sup>4</sup>
+author-affiliation:
+  - 1. Université de l'Alberta
+  - 2. Université de l'Alberta
+  - 3. Université de l'Alberta
+  - 4. Université de l'Alberta
+session:  "Session 2: L'utilisation de l'habitat et Biologie de la Reproduction"
+date: 2026-10-06T19:10:00Z
+---
+
+
+
+### Résumé
+
+
+
+La perte et la fragmentation de l'habitat sont les principaux moteurs de la dégradation des forêts et du déclin de la biodiversité, mais démêler leurs effets est difficile car ils se produisent simultanément, peuvent interagir et sont perçus différemment par les différentes espèces, ce qui nécessite des définitions spécifiques à chaque espèce et des tests explicites pour les effets additifs et interactifs. Pour quantifier les effets de ces processus sur la Paruline à gorge noire (BTNW), une espèce préoccupante pour la conservation en Alberta, nous avons développé des définitions spécifiques à l'espèce de l'habitat de la BTNW (forêt mixte de 80 à 140 ans) et de la fragmentation (densité de lisières). Nous avons comparé des modèles d'occupation spatiale avec uniquement la quantité d'habitat, uniquement la densité de lisières, et leurs effets additifs et interactifs en utilisant trois définitions de plus en plus complètes de la fragmentation (uniquement les grandes perturbations polygonales; en ajoutant les larges éléments linéaires >8 m; et toutes les perturbations anthropiques y compris les étroites lignes sismiques de 2 à 8 m), à trois échelles spatiales (7, 78 et 314 ha). La définition la plus complète, incluant les lignes sismiques, a fourni le meilleur ajustement du modèle aux échelles de 7 et 78 ha, indiquant que les parulines à gorge noire perçoivent même les perturbations étroites comme des limites d'habitat. La densité de lisières a affecté négativement l'occupation aux deux échelles les plus fines, mais la quantité d'habitat est devenue le prédicteur dominant à l'échelle plus large de 314 ha. Notre approche spécifique à l'espèce a révélé des réponses que des classifications génériques auraient probablement masquées, démontrant que les stratégies de conservation pour cette espèce doivent tenir compte de la configuration spatiale en plus de la quantité d'habitat. Compte tenu des forts effets négatifs de la densité de lisières et des déclins de population importants signalés pour la BTNW en Alberta, nous exhortons les gestionnaires à minimiser la création cumulative de lisières par la planification de la récolte et la régénération active des lignes sismiques.
+
+
+> **Corrections de traduction en cours**
+

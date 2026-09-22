@@ -1,0 +1,23 @@
+---
+filename: presentations/presentation_nasimok
+title: "Distinguishing migratory stopover patterns across Blackpoll Warbler populations"
+author: 
+   - Jax Nasimok<sup>1</sup>
+   - Maggie MacPherson<sup>2</sup>
+author-affiliation:
+  - 1. MSc Student, Trent University
+  - 2. Trent University
+session:  "Session 1: Migration"
+date: 2026-10-06T19:10:00Z
+---
+
+
+
+### Abstract
+
+
+
+Blackpoll Warblers (<i>Setophaga striata</i>; blackpolls) are one of the fastest declining passerines in North America. We lack clarity on which conservation issues are responsible for their documented decline of 92% in the past 50 years. The crosswise long-distance migration pattern of blackpolls is unique among neotropical migrants. From migration theory, we should expect that populations with longer migrations will face higher mortality rates. However, recent research has discovered the opposite. Eastern breeding blackpoll populations migrate the shortest distance and are declining significantly faster than western populations. Here, I extend what we know about blackpoll migration by using the Motus network to determine what habitat blackpolls are using during their southward migration. As part of long-term research on a collaborative research team, Motus tags are being deployed on blackpolls in Alaska, Manitoba, Québec, and Newfoundland. I will present an assessment of migration habitat quality that uses remote sensing data to quantify habitat characteristics surrounding Motus towers that blackpolls from each population pass by during their post-breeding migrations south. Future work will assess how apparent annual survival is correlated with different paces of migration, migration habitat quality, and wintering location from across the blackpoll range. Insights from this research will support regionally targeted conservation actions to improve outcomes for this rapidly declining songbird.    
+
+
+

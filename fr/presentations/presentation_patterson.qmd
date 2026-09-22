@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_patterson
+title: "S'agit-il d'un peuplement mixte? Réponses spatialement explicites aux gradients de structure et de composition forestières chez trois espèces d'oiseaux boréaux."
+author: 
+   - Leonard Patterson<sup>1</sup>
+   - Brendan Casey<sup>2</sup>
+   - Erin Bayne<sup>3</sup>
+author-affiliation:
+  - 1. Université de l'Alberta
+  - 2. Alberta Biodiversity Monitoring Institute
+  - 3. Université de l'Alberta
+session:  "Session 2: L'utilisation de l'habitat et Biologie de la Reproduction"
+date: 2026-10-06T19:00:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les définitions conventionnelles des forêts boréales mixtes sont basées uniquement sur la composition en espèces d’arbres, définissent la composition des espèces à un grain relativement grossier et n’abordent pas explicitement l’échelle spatiale. De telles définitions peuvent simplifier à l’excès les caractéristiques forestières sélectionnées par les oiseaux, ce qui peut biaiser les tentatives passées d’identifier les associations avec l’habitat des forêts mixtes. Pour combler cette lacune, nous avons utilisé une approche spatialement explicite pour comprendre comment trois espèces d’oiseaux boréaux réagissent à des gradients continus de composition feuillus-conifères, à la configuration spatiale des conifères et à l’âge de la forêt au sein des forêts mixtes de l’Alberta, au Canada. Nous avons utilisé un modèle d’arbres de régression augmentés pour évaluer l’influence de ces caractéristiques de l’habitat à plusieurs étendues spatiales (150 m, 500 m, 1000 m) et tailles de grain (5 m et 30 m) sur l’abondance relative des oiseaux. La configuration spatiale était le prédicteur le plus fort pour les trois espèces. La Paruline à gorge noire (Setophaga virens) et la Paruline à poitrine baie (Setophaga castanea) ont réagi le plus fortement à une configuration locale (150 m) à grain fin, l’abondance culminant dans des peuplements intimement mélangés. La Paruline obscure (Leiothlypis peregrina) a réagi le plus fortement à la configuration à l’échelle la plus large (1000 m), favorisant également les mélanges intimes. La proportion de conifères et l’âge de la forêt sont systématiquement apparus comme les deuxième et troisième prédicteurs les plus importants, respectivement. L’abondance prédite sur des paysages synthétiques a montré une abondance systématiquement plus élevée (environ 4 à 10 fois plus élevée) dans les forêts mixtes intimes par rapport aux forêts mixtes ségréguées. Nos résultats démontrent que des définitions des forêts mixtes spécifiques à l’espèce et spatialement explicites qui incluent la configuration spatiale des conifères saisissent mieux l’utilisation de l’habitat par les oiseaux que la composition seule. La préservation ou la restauration de mélanges intimes d’espèces d’arbres conifères et feuillus à des échelles spatiales fines peut être particulièrement bénéfique pour nos espèces focales.
+
+
+> **Corrections de traduction en cours**
+

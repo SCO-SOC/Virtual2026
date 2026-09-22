@@ -1,0 +1,27 @@
+---
+filename: presentations/presentation_gavajena
+title: "Assessing toxic metal contamination and trophic-level transfer in the Deka and Lukosi rivers using fish and predatory birds as bioindicators"
+author: 
+   - Mavis Gavajena<sup>1</sup>
+   - <sup>2</sup>
+author-affiliation:
+  - 1. MSc candidate, Faculty of Agriculture, Environment and Natural Resources Management, Midlands State University
+session:  "3MT - Pollution / Ecotoxicology"
+date: 2026-10-06T20:36:00Z
+---
+
+
+
+### Abstract
+
+
+
+Freshwater ecosystems are increasingly threatened by contamination from toxic elements such as arsenic, manganese and lead, largely driven by mining, industrial discharge and agricultural activities. These pollutants can persist in aquatic environments, accumulating in sediments and entering food webs, where they pose risks to aquatic organisms and higher trophic levels. In river systems such as the Deka and Lukosi, which are influenced by anthropogenic activities, there is growing concern about the extent of contamination and its ecological implications.
+
+Aquatic organisms, particularly fish, play a critical role in transferring contaminants through trophic interactions, while predatory aquatic birds may serve as effective bioindicators of environmental pollution due to their position at the top of the foodweb. Despite this, limited information exists on the distribution and bioaccumulation of toxic elements within these river systems and their potential magnification across trophic levels.
+
+This study aims to investigate the concentrations of arsenic, manganese and lead in water, sediment and fish within the Deka and Lukosi rivers, and to assess their subsequent bioaccumulation in predatory aquatic birds. We hypothesize that contaminant levels will vary spatially and that bioaccumulation will increase with trophic position, reflecting biomagnification processes.
+
+By linking environmental contamination to biological uptake across multiple trophic levels, this research seeks to provide insight into ecosystem health and the potential risks posed to aquatic biodiversity and avian species, while informing future monitoring and conservation strategies.
+
+

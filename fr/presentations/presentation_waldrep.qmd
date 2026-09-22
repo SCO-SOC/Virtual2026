@@ -1,0 +1,49 @@
+---
+filename: presentations/presentation_waldrep
+title: "Survie à court terme des canards colverts après la pose d'un émetteur externe"
+author: 
+   - Cassidy Waldrep<sup>1</sup>
+   - Madeline Ward<sup>2</sup>
+   - John Coluccy<sup>3</sup>
+   - Joshua Stiller<sup>4</sup>
+   - Jacob Straub<sup>5</sup>
+   - Nathaniel Huck<sup>6</sup>
+   - Ted Barney<sup>7</sup>
+   - Abigail Butler<sup>8</sup>
+   - Austin Damminger<sup>9</sup>
+   - Shawn Meyer<sup>10</sup>
+   - Theodore Nichols<sup>11</sup>
+   - Daria Sparks<sup>12</sup>
+   - Département des ressources fauniques de la Virginie<sup>13</sup>
+   - Mathieu Tétreault<sup>14</sup>
+   - Mitch Weegman<sup>15</sup>
+author-affiliation:
+  - 1. Université de la Saskatchewan
+  - 2. Université de la Saskatchewan
+  - 3. Canards Illimités, Inc.
+  - 4. Département de la conservation de l'environnement de l'État de New York
+  - 5. SUNY Brockport
+  - 6. Commission du gibier de la Pennsylvanie
+  - 7. Service canadien de la faune, Environnement et Changement climatique Canada
+  - 8. SUNY Brockport
+  - 9. New Jersey Fish and Wildlife
+  - 10. Service canadien de la faune, Environnement et Changement climatique Canada
+  - 11. New Jersey Fish and Wildlife
+  - 12. SUNY Brockport, Département des ressources fauniques de la Virginie
+  - 13. Service canadien de la faune, Environnement et Changement climatique Canada
+  - 14. Université de la Saskatchewan
+session:  "Session 1: L'importance des méthodes"
+date: 2026-10-06T16:30:00Z
+---
+
+
+
+### Résumé
+
+
+
+L'estimation de la survie à différents stades du cycle de vie est essentielle pour contextualiser les tendances des populations, élaborer des plans de conservation spécifiques à l'espèce et déterminer quand les données doivent être censurées. Ceci est particulièrement critique pour les animaux migrateurs, comme la sauvagine, car ils sont exposés à diverses conditions environnementales tout au long de leur vie. La capture de la sauvagine pour la pose d'émetteurs externes permet aux chercheurs de recueillir d'abondantes données sur les déplacements et le comportement à travers des gradients spatiaux et temporels, mais peut exposer les oiseaux à un stress supplémentaire dû à une manipulation prolongée, entraînant parfois la mortalité. Pour déterminer si une période de censure des données est nécessaire et pour comprendre les effets de la capture et de la pose de dispositifs du projet sur la survie du canard colvert, nous avons estimé la survie après la remise en liberté de 1 263 canes colverts marquées et baguées dans le cadre du projet sur le canard colvert de l'Est. Nous avons étudié les effets du bagueur, de l'âge, de la masse corporelle et de la température sur une période de 15 jours après la capture à l'aide d'un modèle bayésien logistique d'exposition à devenir connu. Nous avons constaté que les canards colverts avaient un taux de survie de 0,97 pour la période, la mortalité la plus élevée survenant au cours des deux premiers jours après la capture et lors d'une exposition prolongée à des températures froides, indépendamment de la masse corporelle ou de l'âge. La majorité des bagueurs avaient des effets négligeables sur la survie quotidienne, mais 12 % avaient des effets négatifs par rapport à la moyenne générale. Nous recommandons aux praticiens d'envisager de faire appel au plus petit nombre possible de bagueurs pour déployer des dispositifs de suivi pour un plan d'étude et une échelle spatiale de déploiement donnés, car nous prévoyons qu'une plus grande expérience et une plus grande constance sont plus faciles à atteindre avec moins de personnes. Nos résultats démontrent l'importance de contextualiser la survie après la remise en liberté dans les grands projets de dispositifs de suivi, car les facteurs de stress environnementaux et les pratiques de baguage varient.
+
+
+> **Corrections de traduction en cours**
+

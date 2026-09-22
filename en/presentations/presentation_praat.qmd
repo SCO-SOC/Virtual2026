@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_praat
+title: "An investigation into how Golden-crowned Sparrow (<i>Zonotrichia atricapilla</i>) movement and survival in overwintering habitats differs along an urbanization gradient"
+author: 
+   - Dilan Praat<sup>1</sup>
+   - Dr David Green<sup>2</sup>
+   - Dr Elizabeth Gow<sup>3</sup>
+author-affiliation:
+  - 1. Simon Fraser University
+  - 2. Simon Fraser University
+  - 3. Environment and Climate Change Canada
+session:  "3MT - Urban Ecology"
+date: 2026-10-06T20:44:00Z
+---
+
+
+
+### Abstract
+
+
+
+Urban habitats offer many unique opportunities and challenges to various bird species. With the global land-cover of cities expected to double over the next 25 years, it is crucial to understand how birds are surviving and moving in urban landscapes. Past research on urban settings has focused on the survival and reproductive success of breeding birds. There is significantly less research into the movement and survival of songbirds overwintering in urban areas. This discrepancy is important as many species spend large portions of their life-cycle in there wintering ranges, and this may also be the time when food and predation pressures are at there highest. We studied how Golden-crowned sparrow <i>Zonotrichia atricapilla</i> movement and survival differs from rural parks to urban neighborhoods in Metro-Vancouver. 30 birds were radio-tagged across five sites in the winter of 2025-2026, and an additional 200+ birds were colour-banded across six sites from 2021-2026. We tracked the radio-tagged birds for six weeks to obtain details on fine-scale movements to determine habitat use and home range size, and to ascertain known-fate survival. Reported colour-band resightings were used to estimate broad overwintering Golden-crowned sparrow apparent-survival. We found that areas of increased urbanization had lower rates of known-fate survival and higher rates of unexplained disappearances. Birds initially caught in the proximity of static bird feeders had smaller home ranges than the home ranges of birds that were not caught in close proximity to feeders. Through colour-band resightings, we found that birds overwintering in areas with higher rates of urbanization had lower rates of apparent-survival than those living in rural areas. These findings indicate that while urban habitats are suitable for overwintering Golden-crowned sparrows, these benefits are mitigated by potential survival risks, and more research is needed to understand the mechanics of these relationships.
+
+

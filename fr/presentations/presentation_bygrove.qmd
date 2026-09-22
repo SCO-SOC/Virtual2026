@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_bygrove
+title: "Suivi de la migration nocturne grâce aux cris de vol : les enseignements de Motus Audio, un système de suivi acoustique à l’échelle du Canada"
+author: 
+   - Madison Bygrove<sup>1</sup>
+   - Natalie Emerick<sup>2</sup>
+   - Dan Mennill<sup>3</sup>
+author-affiliation:
+  - 1. Université de Windsor
+  - 2. Université de Windsor
+  - 3. Université de Windsor
+session:  "3MT - Bioacoustique"
+date: 2026-10-06T20:12:00Z
+---
+
+
+
+### Résumé
+
+
+
+De nombreux oiseaux migrateurs produisent de brefs cris de vol nocturnes lorsqu’ils se déplacent la nuit, fournissant des signaux acoustiques spécifiques à l’espèce qui offrent une méthode puissante et non invasive pour surveiller la migration. Malgré leur utilisation croissante dans la recherche sur la migration, les schémas géographiques et temporels de l’activité des cris de vol restent mal compris. Dans ce projet, nous étudions comment l’activité des cris de vol nocturnes chez les oiseaux migrateurs varie entre les principales voies migratoires à travers le Canada. Nous avons établi un réseau de surveillance acoustique à l’échelle du Canada — le réseau audio Motus — comprenant 100 unités d’enregistrement autonomes construites sur mesure et déployées dans divers habitats et régions migratoires d’un océan à l’autre. Nous avons recueilli des enregistrements nocturnes pendant la migration de printemps et d’automne et identifié les cris de vol à l’aide de Nighthawk, un algorithme d’apprentissage machine qui identifie les cris de vol nocturnes au niveau de l’espèce ou du groupe d’espèces. Le réseau audio Motus permet une surveillance en temps quasi réel des schémas de migration à des échelles géographiques qu’il serait presque impossible d’atteindre par les seuls relevés traditionnels. Sur 100 sites s’étendant de l’île de Vancouver à Terre-Neuve, nous avons quantifié le moment et l’ampleur du pic d’activité des cris de vol au printemps 2026 dans quatre grandes voies migratoires. Nous avons prédit que chaque voie migratoire montrerait des pics distincts dans le calendrier de la migration, reflétés par des augmentations de l’activité des cris de vol. Notre recherche fournit la première quantification acoustique à l’échelle du pays du calendrier de la migration à une échelle continentale, tout en offrant des informations spécifiques aux espèces sur la migration nocturne. Une meilleure compréhension des schémas de cris de vol améliore notre capacité à prédire avec précision les mouvements migratoires, à identifier les zones à haut risque et à orienter les stratégies de conservation visant à réduire les menaces pour les oiseaux migrateurs nocturnes au Canada.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_bernier
+title: "Tolérance à la chaleur chez les oiseaux des zones tempérées : prédire leur vulnérabilité au changement climatique"
+author: 
+   - Nathan Bernier<sup>1</sup>
+   - Anand Sachin<sup>2</sup>
+   - François Vézina<sup>3</sup>
+author-affiliation:
+  - 1. étudiant au baccalauréat, Université du Québec à Rimouski
+  - 2. Université du Québec à Rimouski
+  - 3. Université du Québec à Rimouski
+session:  "3MT - Physiologie"
+date: 2026-10-06T20:32:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les régions tempérées sont connues pour leur printemps et leur été courts et frais, période pendant laquelle les oiseaux se reproduisent et doivent chercher intensivement de la nourriture pendant des jours pour approvisionner leur progéniture. De tels niveaux d'activité élevés augmentent la production de chaleur, que les oiseaux doivent dissiper efficacement pour maintenir leur activité. Cependant, on prévoit que le réchauffement climatique augmentera considérablement les températures pendant la période de reproduction, ce qui pourrait causer un stress thermique chez les oiseaux et les forcer à réduire leur activité, ayant ainsi un impact négatif sur la qualité des oisillons. Actuellement, la plupart des études mesurant les réponses mécanistes des oiseaux au stress thermique proviennent de régions arides et désertiques, alors que très peu d'études existent sur ces mécanismes chez les oiseaux habitant les régions plus froides. Comme le changement climatique augmente la probabilité d'événements de chaleur extrême, les réponses des oiseaux à des températures ambiantes plus élevées doivent être étudiées dans les régions tempérées. Dans cette étude, nous visons à mesurer la capacité de dissipation de chaleur du Tarin des pins (Spinus pinus), un petit passereau résident réparti en Amérique du Nord. Pendant l'automne 2026, nous prévoyons de mesurer la conductance thermique maximale et les traits de tolérance à la chaleur, c'est-à-dire la perte de chaleur par évaporation, le taux métabolique de repos, la température corporelle chez des tarins captifs tout en les exposant à une augmentation progressive de la température dans des chambres métaboliques. La conductance thermique maximale (Cmax), qui représente la capacité la plus élevée de l'oiseau à dissiper la chaleur sans dépenser d'énergie supplémentaire, sera calculée à partir de la température corporelle, de la température ambiante, de la consommation d'oxygène et de la perte de vapeur d'eau avant l'apparition du halètement. Une fois que la Cmax et la capacité maximale de dissipation de chaleur par évaporation seront quantifiées, nous pourrons les intégrer dans un modèle théorique tel que le polygone de thermorégulation. Ce modèle nous permettra de prédire les températures ambiantes susceptibles de causer un stress thermique et de réduire l'approvisionnement des oisillons, des informations cruciales pour comprendre les effets du réchauffement climatique sur les oiseaux des régions tempérées.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,47 @@
+---
+filename: presentations/presentation_waldrep
+title: "Short-term survival of mallards following external transmitter attachment"
+author: 
+   - Cassidy Waldrep<sup>1</sup>
+   - Madeline Ward<sup>2</sup>
+   - John Coluccy<sup>3</sup>
+   - Joshua Stiller<sup>4</sup>
+   - Jacob Straub<sup>5</sup>
+   - Nathaniel Huck<sup>6</sup>
+   - Ted Barney<sup>7</sup>
+   - Abigail Butler<sup>8</sup>
+   - Austin Damminger<sup>9</sup>
+   - Shawn Meyer<sup>10</sup>
+   - Theodore Nichols<sup>11</sup>
+   - Daria Sparks<sup>12</sup>
+   - Virginia Department of Wildlife Resources<sup>13</sup>
+   - Mathieu Tétreault<sup>14</sup>
+   - Mitch Weegman<sup>15</sup>
+author-affiliation:
+  - 1. University of Saskatchewan
+  - 2. University of Saskatchewan
+  - 3. Ducks Unlimited, Inc
+  - 4. New York State Department of Environmental Conservation
+  - 5. SUNY Brockport
+  - 6. Pennsylvania Game Commission
+  - 7. Canadian Wildlife Service, Environment and Climate Change Canada
+  - 8. SUNY Brockport
+  - 9. New Jersey Fish and Wildlife
+  - 10. Canadian Wildlife Service, Environment and Climate Change Canada
+  - 11. New Jersey Fish and Wildlife
+  - 12. SUNY Brockport, Virginia Department of Wildlife Resources
+  - 13. Canadian Wildlife Service, Environment and Climate Change Canada
+  - 14. University of Saskatchewan
+session:  "Session 1: Methods Matter"
+date: 2026-10-06T16:30:00Z
+---
+
+
+
+### Abstract
+
+
+
+Estimating survival across different life-cycle stages is essential for contextualizing population patterns, developing species-specific conservation plans, and determining when data should be censored. This is particularly critical for migratory animals, such as waterfowl, as they experience diverse environmental conditions throughout their life. Capturing waterfowl for external transmitter attachment allows researchers to collect abundant movement and behavioural data across spatial and temporal gradients, but can expose birds to additional stress due to prolonged handling, sometimes leading to mortality. To determine if a data-censoring period is necessary and to understand the effects of the project’s capture and device attachment on mallard survival, we estimated the post-release survival of 1,263 tagged female mallards banded as part of the Eastern Mallard Project. We investigated the effects of individual bander, age, body mass, and temperature over a 15-day post-capture period using a Bayesian known-fate logistic exposure model. We found that mallards had a period survival rate of 0.97, with the greatest mortality during the first two days after capture and during extended exposure to cold temperatures, regardless of body mass or age. The majority of banders had negligible effects on daily survival, yet 12% had negative effects compared to the grand mean. We recommend that practitioners consider incorporating as few banders as feasible to deploy tracking devices for a given study design and spatial scale of deployments, because we anticipate that greater experience and consistency are easier to achieve with fewer people. Our results demonstrate the importance of contextualizing post-release survival in large tracking device projects, as environmental stressors and banding practices vary.
+
+

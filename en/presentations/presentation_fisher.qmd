@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_fisher
+title: "Shout, shout, let it all out: Examining amplitude as a factor of negative-assortative mating in white-throated sparrows"
+author: 
+   - Kyle Fisher<sup>1</sup>
+   - Jennifer Foote<sup>2</sup>
+author-affiliation:
+  - 1. Algoma University
+  - 2. Algoma University
+session:  "3MT - Bioacoustics"
+date: 2026-10-06T20:08:00Z
+---
+
+
+
+### Abstract
+
+
+
+Song is a crucial aspect of sexual selection in songbirds, and is often an indicator of male quality. Song amplitude is a dynamic trait that birds can vary within and among songs. However, how song amplitude variation within songs reflects song quality has not been well examined. White-throated sparrow (<i>Zonotrichia albicollis</i>) genetic morphs (tan or white-striped) differ in their vocal behaviour but share the same two song types (up songs ascend in frequency between notes while down songs descend in frequency). Tan-striped males are preferred as mates yet sing less often than white-striped males. Thus, it is likely that differing structural components of song by morph may contribute to mate choice. Song amplitude has not been studied with respect to negative-assortative mating patterns in white-throated sparrows, nor has it been compared among up and down songs. We recorded song amplitude of white-throated sparrows using a field-portable recorder in Sault Ste. Marie, Ontario, in the 2025 breeding season. We measured absolute amplitude of the whole song, as well as both absolute and relative amplitude of each note using bioacoustics software. We found that morphs did not differ significantly in absolute or relative amplitude of notes. However, we demonstrate that up songs increase in amplitude across the song, while down songs decrease in amplitude across the song. White-striped males singing up songs had higher mean and minimum song amplitude than those who sang down songs. Tan-striped males did not differ in amplitude for either song type. Our preliminary work suggests that song amplitude may be a feature that receivers could use to assess morph of mates or rivals.
+
+

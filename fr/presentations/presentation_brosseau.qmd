@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_brosseau
+title: "Évaluation des tendances et de la structure des populations d'une espèce d'oiseau aquatique cryptique à travers son aire de répartition"
+author: 
+   - Joe Brosseau<sup>1</sup>
+   - Joseph Brosseau<sup>2</sup>
+author-affiliation:
+  - 1. étudiant à la maîtrise en biologie, Université de la Saskatchewan
+  - 2. Département de biologie, Université de la Saskatchewan
+session:  "3MT - Écologie : Populations"
+date: 2026-10-06T20:24:00Z
+---
+
+
+
+### Résumé
+
+
+
+La Sterne de Forster (Sterna forsteri) est un oiseau aquatique nord-américain peu étudié dont le statut démographique est indéterminé et qui est potentiellement en déclin. Comparativement à d’autres espèces de sternes nord-américaines, les Sternes de Forster ont des migrations plus courtes, restant en Amérique du Nord tout au long de leur cycle annuel. Le cœur de l’aire de reproduction de la Sterne de Forster se situe dans les milieux humides intérieurs de la Région des fondrières des Prairies, avec des populations reproductrices supplémentaires s’étendant le long des côtes de l’Atlantique Sud et du golfe du Mexique aux États-Unis. Ma recherche vise à améliorer nos connaissances sur la structure de la population et les déplacements de la Sterne de Forster tout au long du cycle annuel complet, notamment en déterminant s’il existe différentes sous-espèces, comme cela a été proposé il y a plus de 80 ans. Pour ce faire, j’ai deux objectifs : 1) évaluer les tendances de la population en relation avec les covariables environnementales à l’aide de la science citoyenne et de données environnementales télédétectées, et 2) analyser la structure de la population à l’aide d’une combinaison de données morphologiques et génétiques recueillies auprès de ses populations reproductrices. Ces analyses combinées permettront une compréhension plus complète des Sternes de Forster, en fournissant des informations sur le statut et la structure de leur population tout au long du cycle annuel et en aidant à déterminer si des populations distinctes devraient être traitées comme des « unités désignables » distinctes pour optimiser les stratégies de conservation et de gestion de l’espèce.
+
+
+> **Corrections de traduction en cours**
+

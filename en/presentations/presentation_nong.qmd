@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_nong
+title: "Migratory stopover habitat use of songbirds in a highly urbanized green space"
+author: 
+   - Linda Nong<sup>1</sup>
+   - Barbara Frei<sup>2</sup>
+   - Kyle Elliott<sup>3</sup>
+author-affiliation:
+  - 1. MSc Student, McGill University University
+  - 2. Environment and Climate Change Canada
+  - 3. McGill University University
+session:  "Session 1: Urban Ecology"
+date: 2026-10-06T15:40:00Z
+---
+
+
+
+### Abstract
+
+
+
+Urban development continues to replace natural landscapes as human populations grow, and urban landscapes are a matrix of novel resources and threats to birds. Cities are often built along migratory routes and migrating birds are further attracted to these regions by artificial light at night. Previous research has demonstrated that migrating songbirds commonly stopover in or near cities, yet there is limited information on their fine-scale habitat use during stopovers in urban green spaces. Conserving and managing these spaces is critical to provide habitat for birds during this energetically stressful period of their annual cycle. Our overall objective is to quantify stopover duration, habitat use, and diet selection of boreal-breeding passerines in a 108-ha multi-use urban park in Montreal, Canada by tagging, radio-tracking, and collecting fecal samples from birds during the post-breeding migratory period. Preliminary results from a pilot season at this park suggest that stopover lengths (9.6 ± 7.3 days, n=24) and temporary home range sizes (9.05 ± 8.75 -ha; 95% KDE, n=9) are highly variable among our eight focal species. Future analyses will include resource selection functions to quantify fine-scale habitat use and fecal DNA metabarcoding to compare diets of birds at the urban park with a nearby peri-urban site. This work is done in collaboration with local municipal land managers with the goal of providing advice on urban green space management for migratory bird conservation.
+
+

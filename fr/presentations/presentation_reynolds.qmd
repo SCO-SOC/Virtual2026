@@ -1,0 +1,23 @@
+---
+filename: presentations/presentation_reynolds
+title: "En route vers l'hiver : lien entre le départ, l'installation et la sélection chez le Tétras des armoises"
+author: 
+   - Jordan Reynolds<sup>1</sup>
+   - Brad Fedy<sup>2</sup>
+author-affiliation:
+  - 1. Université de Waterloo
+session:  "Session 1: La Migration"
+date: 2026-10-06T19:00:00Z
+---
+
+
+
+### Résumé
+
+
+
+L’habitat d’hiver du Tétras des armoises (Centrocercus urophasianus) est généralement délimité à partir des lieux où les oiseaux sont observés, traitant l’occupation comme un résultat unique plutôt que comme le produit de décisions imbriquées prises à différentes échelles. Nous avons décomposé l’hivernage en ses composantes : le moment du départ des oiseaux, les lieux où ils auraient pu s’établir, les lieux où ils se sont effectivement établis et ce qu’ils ont utilisé une fois établis. Nous avons suivi 43 tétras des armoises dans le nord-est du Wyoming de 2017 à 2022, en définissant la transition départ-établissement de chaque individu à partir des points de changement du déplacement quadratique net plutôt qu’à des dates calendaires fixes. Les aires d’hivernage réelles ont été comparées aux aires potentielles le long de la propre trajectoire de chaque oiseau, puis à la zone d’étude plus large (deuxième ordre), et les localisations GPS ont été comparées à la disponibilité au sein de l’aire de chaque oiseau (troisième ordre), avec des covariables colinéaires filtrées a priori et des modèles candidats classés par AICc avec validation croisée k-fold. Le choix de l’aire d’hivernage était le mieux expliqué par l’orientation est, la rugosité du terrain, la position topographique, la hauteur de la végétation et le couvert d’armoises. Les tétras des armoises évitaient les terrains accidentés et sélectionnaient des zones avec une couverture et une hauteur de végétation plus élevées (p. ex., armoises et arbustes). La sélection d’armoises plus hautes et plus denses à l’échelle du choix de l’aire d’hivernage suggère que les oiseaux s’engagent dans des zones où la structure arbustive est susceptible de rester exposée au-dessus du couvert de neige pendant tout un hiver, plutôt que de localiser une telle couverture de manière opportuniste une fois établis. L’évitement des terrains accidentés est cohérent à la fois avec le coût énergétique du déplacement dans la neige et la tendance des terrains accidentés à accumuler des congères.
+
+
+> **Corrections de traduction en cours**
+

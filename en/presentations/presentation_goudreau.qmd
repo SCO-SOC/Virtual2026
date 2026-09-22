@@ -1,0 +1,23 @@
+---
+filename: presentations/presentation_goudreau
+title: "Estimating exposure to urban landscapes through a full annual cycle in two warbler species with geolocators and Motus"
+author: 
+   - Nathanya Goudreau<sup>1</sup>
+   - Kyle Elliott & Barbara Frei<sup>2</sup>
+author-affiliation:
+  - 1. McGill University
+  - 2. McGill University
+  - 3. Environment and Climate Change Canada
+session:  "3MT - Urban Ecology"
+date: 2026-10-06T20:48:00Z
+---
+
+
+
+### Abstract
+
+
+
+Many migratory bird populations face ongoing declines, driven by various factors including anthropogenic threats such as cat predation, collisions, and pollution. The magnitude of their exposure to some of these threats in urban landscapes across their annual cycle remains poorly understood. We aim to quantify the urban exposure throughout the annual cycle of the urban-tolerant Yellow Warblers (<i>Setophaga petechia</i>) and more urban-avoidant Chestnut-sided Warblers (<i>S. pensylvanica</i>). We predict that a species’ association with urban areas on the breeding grounds is indicative of their exposure during the rest of the annual cycle. To test if Yellow Warblers may be more exposed to urban areas throughout the year, we deployed archival light-level geolocators on breeding birds (n=88), and radio tags on migrating individuals (n=73) in Quebec, Canada. Geolocators and radio tags revealed that Chestnut-sided warblers breeding in southern Quebec migrate along the Eastern coast and winter in Costa Rica and Nicaragua, while Yellow warblers migrate further west and winter in Colombia and Venezuela. We suggest that Chestnut-sided Warblers have the highest urban exposure during migration, and have a more urbanized migratory path than Yellow Warblers, which breed and winter in more anthropogenically disturbed sites than Chestnut-sided Warblers.
+
+

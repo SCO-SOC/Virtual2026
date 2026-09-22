@@ -1,0 +1,30 @@
+---
+filename: presentations/presentation_porter
+title: "De la collecte à la conservation: points de vue d'experts sur les données fournies par des bénévoles sur le cycle de vie des oiseaux"
+author: 
+   - Elizabeth Porter<sup>1</sup>
+   - Adam C Smith<sup>2</sup>
+   - Shoshanah Jacobs<sup>3</sup>
+   - Shelby Bohn<sup>4</sup>
+   - Karl Cottenie<sup>5</sup>
+author-affiliation:
+  - 1. Université de Guelph
+  - 2. Service canadien de la faune
+  - 3. Université de Guelph
+  - 4. Université de Calgary
+  - 5. Université de Guelph
+session:  "Session 2: Biologie de la Conservation"
+date: 2026-10-06T17:50:00Z
+---
+
+
+
+### Résumé
+
+
+
+La science participative est fondamentale pour le suivi à long terme des oiseaux; pourtant, sans une compréhension claire des caractéristiques des bénévoles, les stratégies complexes pour modéliser les effets de l'observateur demeurent une voie nécessaire mais compromise pour faire avancer la recherche en ornithologie. J'aborde cette question en examinant comment les caractéristiques de l'observateur sont gérées tout au long du cycle de vie des données. Mes recherches précédentes ont 1) quantifié l'influence des caractéristiques de l'observateur sur les estimations des tendances des populations, et 2) révélé que 51 % des utilisations des données sur les oiseaux recueillies par des bénévoles au Canada dans la littérature évaluée par les pairs ne traitent pas explicitement de la nature bénévole des données. Cette étude examine les perspectives d'experts à différentes étapes du cycle de vie des données, en utilisant des entrevues et une analyse thématique réflexive pour identifier les contraintes pratiques et épistémiques qui façonnent la manière dont les caractéristiques de l'observateur sont opérationnalisées en pratique. Situer ces effets dans le contexte des contraintes réelles de gestion des données permet d'informer les améliorations méthodologiques et les normes de déclaration transparente dans la recherche en ornithologie. Cette présentation discutera des explications possibles du manque de transparence identifié dans la littérature, de la diversité des approches utilisées par les différents programmes pour garantir des données fiables depuis les étapes de planification jusqu'à l'utilisation finale, et de ce que les experts pourraient faire différemment avec des ressources illimitées. Ces conclusions aideront à combler le fossé entre les méthodes statistiques pour traiter la variation entre observateurs et leur application pratique en ornithologie, soutenant une utilisation appropriée et respectueuse des données sur les oiseaux recueillies par des bénévoles pour une conservation fondée sur des données probantes.
+
+
+> **Corrections de traduction en cours**
+

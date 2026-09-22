@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_mombourquette
+title: "Impact of ambient temperature on nestling success in a Nova Scotian population of European Starlings (<i>Sturnus vulgaris</i>) over two decades"
+author: 
+   - Janine Mombourquette<sup>1</sup>
+   - Colleen Barber<sup>2</sup>
+author-affiliation:
+  - 1. Saint Mary's University
+  - 2. Saint Mary's University
+session:  "Session 2: Conservation Biology"
+date: 2026-10-06T17:30:00Z
+---
+
+
+
+### Abstract
+
+
+
+Birds in North America are facing steep population declines. This trend has been attributed to several anthropogenic factors, and climate change is at the forefront. Many multi-brooded species now breed earlier and have prolonged breeding seasons, extending into the hotter summer months. As a result, nestlings may face increased overheating, reductions in condition, and increased mortality. Temperature effects vary by geographic location, making localized studies necessary to understand impacts on species within a region. European Starlings (<i>Sturnus vulgaris</i>), an urban-thriving passerine, are declining in North America. Starlings are double-brooded, with their breeding season occurring from April-July in eastern Canada. Using a wild, nest box breeding population of European Starlings in Halifax, Nova Scotia, we examined nestling condition and fledging success over two decades (2007-2026) and their relation to rising temperatures in our region. We predicted that nestling condition and fledging success would decrease over time as annual temperatures increase. We also predicted that late brood nestlings would be in poorer overall condition and have lower fledge success rates compared to those in early broods. Our long-term study will provide insight into how a bird species in Nova Scotia is responding to climate change.
+
+

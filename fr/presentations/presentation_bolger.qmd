@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_bolger
+title: "Effets imprévus des oiseaux envahissants sur les oiseaux indigènes après simulation de l'élimination des prédateurs mammifères s'attaquant aux nids en Nouvelle-Zélande"
+author: 
+   - Erin Bolger<sup>1</sup>
+   - Paul Martin<sup>2</sup>
+   - James Briskie<sup>3</sup>
+author-affiliation:
+  - 1. Université de la Saskatchewan
+  - 2. Université Queen's
+  - 3. Université de Canterbury, Christchurch, Nouvelle-Zélande
+session:  "Session 2: Biologie de la Conservation"
+date: 2026-10-06T17:20:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les prédateurs envahissants constituent une menace majeure pour les espèces indigènes sur les îles. Des programmes d'éradication des prédateurs ont été mis en œuvre avec succès sur de nombreuses petites îles pour protéger les espèces indigènes; cependant, l'élimination des prédateurs envahissants peut avoir des effets négatifs imprévus sur les espèces indigènes, par l'intermédiaire d'autres espèces envahissantes non ciblées. L'identification de ces effets indirects est importante pour maximiser l'efficacité des éradications de prédateurs. La Nouvelle-Zélande planifie un programme national d'éradication des prédateurs pour conserver les espèces indigènes menacées par les prédateurs mammifères envahissants. Cependant, on s'attend également à ce que l'éradication des prédateurs profite aux espèces d'oiseaux envahissantes qui concurrencent les espèces indigènes. Les données sur le cycle de vie suggèrent la prolifération des oiseaux envahissants en réponse à l'éradication des prédateurs à l'échelle d'une île, mettant davantage en danger les espèces indigènes. Alors que des éradications de prédateurs localisées antérieures en Nouvelle-Zélande suggéraient que les effets des oiseaux envahissants n'avaient pas d'impact sur le succès des éradications de prédateurs pour les oiseaux indigènes, nous avons constaté qu'à l'échelle d'une île entière, ces effets sont susceptibles d'être importants. Nous avons testé les effets indirects des oiseaux envahissants sur les oiseaux indigènes à l'aide de simulations intégrant des données sur le cycle de vie et des données spatialement explicites, ce qui nous a permis de simuler les effets de différents traitements sur les populations dans un paysage. Nos résultats suggèrent que les éradications de prédateurs à l'échelle de l'île profiteront aux populations d'oiseaux indigènes, mais que ces avantages sont diminués par des effets indirects médiatisés par les oiseaux envahissants. Ainsi, nous suggérons que la Nouvelle-Zélande prévoie d'intégrer des stratégies pour atténuer les effets des oiseaux envahissants afin que le succès de l'éradication des prédateurs soit maximisé pour les espèces indigènes. Notre simulation fournit un outil de modélisation pour prédire les interactions indirectes dans un écosystème et a le potentiel d'être utilisée comme outil de gestion des espèces envahissantes à l'avenir.
+
+
+> **Corrections de traduction en cours**
+

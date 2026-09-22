@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_saini
+title: "Disrupted Nights, Disrupted Minds: Effects of ALAN on What, Where, and When Memory in Black-capped Chickadees"
+author: 
+   - Aastha Saini<sup>1</sup>
+   - Scott A MacDougall-Shackleton<sup>2</sup>
+author-affiliation:
+  - 1. Department of Biology, University of Western Ontario; Advanced Facility for Avian Research, University of Western Ontario
+  - 2. Department of Psychology, University of Western Ontario; Advanced Facility for Avian Research, University of Western Ontario
+session:  "3MT - Behaviour / Behavioural ecology"
+date: 2026-10-06T20:00:00Z
+---
+
+
+
+### Abstract
+
+
+
+Daily rhythms of light and dark regulate most biological processes and synchronize our internal physiology with the external environment. Artificial light at night (ALAN) has become a rapidly growing environmental pollutant, disrupting these rhythms. This disruption can adversely impact humans and wildlife, especially by disturbing the sleep-wake cycle, leading to cognitive implications that impact memory consolidation. Our research investigates the impact of ALAN on memory consolidation in black-capped chickadees (<i>Poecile atricapillus</i>), a passerine songbird that relies heavily on spatial memory for winter survival. Previous studies have revealed that black-capped chickadees show what, where, and when memory. For my study, I manipulated the light-dark cycles and monitored the changes in their cognition by performing WWW memory tasks. Initially, the birds searched for sunflower seeds and mealworms in trees in an indoor aviary. Then these birds were allowed to revisit those sites after either short (3 hrs) or long (125 hrs) retention intervals, and their preference for food type was recorded. We hypothesized that birds would prefer mealworms during SRI and seeds during LRI, as the mealworms in LRI were degraded, and also higher light intensity will impair their WWW memory. Preliminary data showed that control birds preferred mealworms in their first four choices for both SRI and LRI, but this was not true for the other two treatments. Further data collection is needed to confirm these trends. By demonstrating that low-intensity light pollution can degrade sleep and memory in a diurnal species, this study highlights the need to reevaluate how artificial lighting affects the cognition and behaviour of wildlife.
+
+

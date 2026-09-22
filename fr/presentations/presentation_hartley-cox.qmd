@@ -1,0 +1,28 @@
+---
+filename: presentations/presentation_hartley-cox
+title: "Au-delà de l'occupation du territoire : évaluer si les meilleures pratiques de gestion forestière favorisent la reproduction réussie du pic de Williamson, une espèce en voie de disparition."
+author: 
+   - Tory Hartley-Cox<sup>1</sup>
+   - Elizabeth Gow<sup>2</sup>
+   - Emily Choy<sup>3</sup>
+author-affiliation:
+  - 1. doctorant, Université McMaster
+  - 2. Environnement et Changement climatique Canada
+  - 3. Université McMaster
+session:  "3MT - Espèces menacées"
+date: 2026-10-06T20:40:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les pratiques de gestion forestière conçues pour réduire les impacts de l'exploitation forestière sur la faune ne fournissent pas toujours les conditions d'habitat nécessaires à une reproduction réussie. Dans certains cas, l'habitat conservé peut continuer d'attirer des individus reproducteurs sans pour autant favoriser le succès de la reproduction, ce qui risque de créer des pièges écologiques. Pour le Pic de Williamson (Sphyrapicus thyroideus), une espèce en voie de disparition au niveau fédéral, des meilleures pratiques de gestion (MPG) forestière ont été élaborées pour être utilisées en Colombie-Britannique. Cependant, ces pratiques volontaires ne sont appliquées que dans l'aire de répartition connue de l'espèce, et leur efficacité à soutenir une reproduction réussie n'a jamais été évaluée.
+Pour déterminer si les MPG forestières actuelles fournissent un habitat qui favorise une reproduction réussie, nous établissons un lien entre la productivité des nids et les caractéristiques de l'habitat, en nous concentrant sur les conditions de nidification et d'alimentation dans les forêts aménagées et non aménagées. Pendant les saisons de reproduction de 2025 et 2026, des relevés de présence ont été effectués dans les régions de Princeton et de Boundary, dans le sud de la Colombie-Britannique, afin de localiser les territoires de reproduction et les cavités de nidification actives. La productivité des nids a été suivie à l'aide d'observations visuelles répétées, de caméras sur mesure pour cavités et d'unités d'enregistrement acoustique afin de documenter la taille de la couvée, le succès d'éclosion, le succès à l'envol et l'échec de la nidification. Les évaluations de l'habitat ont permis de quantifier les caractéristiques des arbres de nidification, la structure du peuplement et la composition de la forêt environnante dans les forêts protégées, les peuplements récoltés avec rétention et les forêts non exploitées.
+Ce projet fournira la première évaluation directe de l'efficacité des MPG forestières actuelles à soutenir la reproduction réussie du Pic de Williamson au Canada. En identifiant les caractéristiques de l'habitat de nidification et d'alimentation associées au succès et à l'échec de la nidification, les résultats aideront à orienter les améliorations futures des MPG forestières et à éclairer la planification du rétablissement et la conservation à long terme de cette espèce en voie de disparition.
+
+
+> **Corrections de traduction en cours**
+

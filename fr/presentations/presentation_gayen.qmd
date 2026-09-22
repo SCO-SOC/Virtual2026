@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_gayen
+title: "Les mangeoires peuvent-elles être utilisées pour étudier le comportement de mise en réserve? Étude de terrain sur la Mésange à tête noire (<i>Poecile atricapillus</i>)"
+author: 
+   - Ipshita Gayen<sup>1</sup>
+   - Kimberley Mathot<sup>2</sup>
+author-affiliation:
+  - 1. doctorante, Université de l'Alberta
+  - 2. Université de l'Alberta; Chaire de recherche du Canada en écologie intégrative
+session:  "Session 2: Écologie Alimentaire et Régime Alimentaire"
+date: 2026-10-06T15:40:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les petits paridés comme la mésange à tête noire (Poecile atricapillus) comptent sur la mise en cache (c'est-à-dire le stockage de nourriture pour une utilisation ultérieure) comme stratégie pour atténuer le risque de famine pendant l'hiver. Bien que la mise en cache puisse se produire tout au long de l'automne et de l'hiver, on prédit que la période la plus intense devrait avoir lieu à la fin de l'été ou au début de l'automne, lorsque la disponibilité de la nourriture naturelle est élevée, la durée du jour est longue et les températures ambiantes sont favorables pour répondre aux besoins énergétiques immédiats et investir dans la constitution de caches. La quantification de la mise en cache chez les oiseaux en liberté prend du temps, et donc, relativement peu d'études ont quantifié les pics saisonniers de mise en cache. Ici, nous évaluons si les mangeoires peuvent être utilisées pour capturer les pics saisonniers d'investissement dans la mise en cache en utilisant des détections automatisées de mésanges à tête noire équipées de transpondeurs passifs intégrés pour quantifier la mise en cache de la fin de l'été au début de l'automne. D'après des études antérieures et des calculs théoriques, le nombre de graines de tournesol nécessaires pour répondre aux besoins énergétiques quotidiens à cette période de l'année est estimé à environ 45 graines, et donc, on peut déduire que des visites quotidiennes aux mangeoires dépassant 45 indiquent une mise en cache. Nous avons testé les prédictions théoriques sur les pics de mise en cache saisonniers, l'effet de la température et les différences entre les sexes. Nous avons constaté que le jour de la saison et la température jouent tous deux un rôle important dans la formation des schémas de mise en cache saisonniers, comme prévu, mais contrairement aux prédictions théoriques, les femelles investissaient moins dans la mise en cache que les mâles. De plus, le pic saisonnier de mise en cache observé à l'aide des mangeoires était beaucoup plus court que les pics de mise en cache dans les populations sans nourriture d'appoint. Nos résultats démontrent que les études basées sur les mangeoires peuvent capturer des variations biologiquement significatives dans le comportement de mise en cache, avec quelques réserves importantes, et soulignent l'influence combinée des facteurs énergétiques saisonniers et à court terme sur les stratégies de mise en cache de la nourriture.
+
+
+> **Corrections de traduction en cours**
+

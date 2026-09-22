@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_burghardt
+title: "Smells like brood parasitism: a field experiment testing Northern Yellow Warbler responses to Brown-headed Cowbird odour at the nest"
+author: 
+   - David Burghardt<sup>1</sup>
+   - Leanne Grieves<sup>2</sup>
+author-affiliation:
+  - 1. University of Saskatchewan
+  - 2. University of Saskatchewan
+session:  "Session 1: Breeding Biology"
+date: 2026-10-06T17:30:00Z
+---
+
+
+
+### Abstract
+
+
+
+Brood parasitism is when an individual lays their eggs in another's nest, imposing the costs of raising those offspring on the parasitized individual (the host). In North America, northern yellow warblers (<i>Setophaga aestiva</i>) are frequently parasitized by brown-headed cowbirds (<i>Molothrus ater</i>), which decreases their breeding success. Northern yellow warblers have evolved defensive behaviours in response to cowbird visual and acoustic cues, but whether they use olfactory cues is unknown. My study addressed this research gap by testing how female cowbird odour impacts egg ejection and nest abandonment in these hosts. I applied preen oil from female cowbirds (threat odour) and female yellow-rumped warblers (<i>Setophaga coronata</i>, non-threat odour), and a no odour control to unparasitized yellow warbler nests during egg laying. I recorded host responses to these odours using trail cameras at the nest. Overall, nests treated with the threat and non-threat heterospecific odours elicited greater responsiveness to the area of treatment than controls. Hosts more frequently inspected the odour treated rim of the nest, oriented themselves toward the treatment location, and checked the status of their eggs. Although no instances of nest abandonment or egg ejection were observed, the increased behavioural responses to both heterospecific odours suggests that yellow warblers may be capable of recognizing foreign odour at the nest. These results provide evidence that olfactory cues may contribute information that the host can use in combination with visual and auditory to respond and defend against intruders at the nest.
+
+

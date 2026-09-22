@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_mann
+title: "La consanguinité entraîne une diminution du taux d'éclosion des œufs chez le Pukeko, une espèce à reproduction coopérative."
+author: 
+   - Quinlan Mann<sup>1</sup>
+   - Mann Quinlan<sup>2</sup>
+   - Luo Brooke<sup>3</sup>
+   - Mugarura Abby<sup>4</sup>
+   - Quinn James<sup>5</sup>
+author-affiliation:
+  - 1. candidat au doctorat, Université McMaster
+session:  "Session 1: Biologie de la Reproduction"
+date: 2026-10-06T17:50:00Z
+---
+
+
+
+### Résumé
+
+
+
+La consanguinité est l'accouplement de deux individus étroitement apparentés. Les descendants consanguins sont plus susceptibles de recevoir plusieurs copies des mêmes allèles. Cela peut entraîner l'expression d'allèles récessifs et des réductions du succès reproducteur. Des études sur de nombreuses espèces d'oiseaux sauvages ont montré que la consanguinité peut entraîner une diminution de la valeur adaptative. Les pukekos sont remarquables par le fait qu'ils pratiquent régulièrement la consanguinité dans certaines parties de leur aire de répartition, malgré les conséquences attendues sur leur valeur adaptative. Ils sont également uniques en ce qu'ils pratiquent la ponte en commun, un système de reproduction où plusieurs femelles pondent leurs œufs dans un nid partagé. Ainsi, nous nous attendons à ce que chaque couvée contienne des œufs issus d'appariements consanguins et d'autres non. Notre étude visait à explorer les conséquences de la consanguinité chez cette espèce. Nous avons émis l'hypothèse que nous observerions un succès moindre chez les poussins consanguins par rapport aux non consanguins et avons donc prédit que les poussins consanguins échoueraient à éclore plus souvent que les non consanguins. Nous avons effectué des relevés d'oiseaux nicheurs dans le parc régional de Tawharanui, à Auckland, en Nouvelle-Zélande, où ils sont connus pour pratiquer la consanguinité. Une fois que nous avons identifié les groupes reproducteurs et leurs nids, nous avons prélevé des échantillons de sang de tous les poussins éclos et des échantillons de tissus de tous les œufs avec un embryon développé qui n'ont pas éclos. Nous avons extrait l'ADN des échantillons, puis génotypé tous les poussins à l'aide de microsatellites établis pour l'espèce afin de calculer les coefficients de consanguinité. Nous avons utilisé un modèle mixte généralisé pour déterminer si le coefficient de consanguinité influençait la probabilité d'éclosion d'un poussin. Nous avons constaté que les poussins consanguins étaient moins susceptibles d'éclore que leurs congénères non consanguins du même nid. Cela montre qu'il y a des diminutions de la valeur adaptative dues à la consanguinité fréquente, malgré lesquelles les pukekos persistent. Cela justifie des travaux futurs pour étudier d'autres aspects de leur consanguinité et déterminer si elle affecte leur valeur adaptative d'autres manières.
+
+
+> **Corrections de traduction en cours**
+

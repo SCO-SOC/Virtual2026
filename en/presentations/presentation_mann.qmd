@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_mann
+title: "Inbreeding leads to decreased egg success hatching in cooperatively breeding Pukeko"
+author: 
+   - Quinlan Mann<sup>1</sup>
+   - Mann Quinlan<sup>2</sup>
+   - Luo Brooke<sup>3</sup>
+   - Mugarura Abby<sup>4</sup>
+   - Quinn James<sup>5</sup>
+author-affiliation:
+  - 1. PhD candidate, McMaster University
+session:  "Session 1: Breeding Biology"
+date: 2026-10-06T17:50:00Z
+---
+
+
+
+### Abstract
+
+
+
+Inbreeding is the mating of two closely related individuals. Inbred offspring are more likely to receive multiple copies of the same alleles. This may lead to the expression of recessive alleles, and reductions in success. Studies of many wild bird species have shown that inbreeding can lead to decreased fitness. Pukeko are noteworthy in that they regularly engage in inbreeding in parts of their range, despite the expected fitness consequences. They are also unique in that they engage in joint-laying; a breeding system with multiple females laying eggs in a shared nest. As such, we expect that each clutch will contain some eggs that are from consanguineous pairings, and some that are not. Our study aimed to explore the consequences of inbreeding in this species. We hypothesized that we would see decreased success of inbred chicks compared to outbred ones and therefore predicted that inbred chicks would fail to hatch more often when compared to outbred ones. We performed breeding bird surveys in Tawharanui Regional Park, Auckland, New Zealand where they are known to inbreed. Once we identified breeding groups and their nests, we collected blood samples from all chicks that hatched, and tissue samples from all eggs with a developed embryo that failed to hatch. We extracted DNA from samples, then genotyped all chicks using established microsatellites for the species to calculate inbreeding coefficients. We used a generalized mixed model to determine whether inbreeding coefficient impacted the probability that a chick will hatch. We found that inbred chicks were less likely to hatch than their outbred nest mates. This shows that there are decreases in fitness that occur from the frequent inbreeding, in spite of which the Pukeko persist. This warrants future work to study other aspects of their inbreeding, and whether inbreeding impacts their fitness in other ways.
+
+

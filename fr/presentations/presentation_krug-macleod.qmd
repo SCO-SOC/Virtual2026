@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_krug-macleod
+title: "Haute gastronomie : Facteurs liés à la recherche de nourriture influençant le suivi des écosystèmes à l'aide d'oiseaux marins"
+author: 
+   - Alana Krug-MacLeod<sup>1</sup>
+   - Jonas Hentati-Sundberg<sup>2</sup>
+   - Kyle Elliott<sup>3</sup>
+author-affiliation:
+  - 1. Université McGill
+  - 2. Université suédoise des sciences agricoles
+  - 3. Université McGill
+session:  "3MT - Écologie alimentaire / régime alimentaire"
+date: 2026-10-06T20:28:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les oiseaux marins sont des fourrageurs à point central et peuvent être de bons indicateurs de la distribution des proies dans des régions comme l'Arctique, où la surveillance directe des proies est difficile. Cependant, différentes espèces d'oiseaux marins prennent des décisions de recherche de nourriture spécifiques en fonction de différentes combinaisons de facteurs. Par exemple, pour sélectionner les sites de recherche de nourriture, on a observé que les guillemots marmettes utilisent davantage la mémoire (recherche de nourriture sur des sites où les proies sont persistantes) et la facilitation sociale (recherche de nourriture là où des congénères s'alimentent) que l'échange d'informations à la colonie. Puisque les caractéristiques du site de recherche de nourriture par rapport à celles de la colonie sont essentielles pour le choix alimentaire du guillemot marmette, notre étude s'est concentrée sur les facteurs en mer susceptibles d'affecter les oiseaux marins en quête de nourriture. Nous avons suivi des guillemots de Brünnich (Uria lomvia) et leurs proies sur et autour de deux îles de l'Arctique canadien qui abritent des colonies de guillemots de Brünnich de différentes tailles. Nous avons fixé des biocapteurs sur le bas du dos ou les plumes de la queue des guillemots sur les sites de nidification et déployé un voilier sans équipage (Sailbuoy) surveillé à distance et équipé d'un échosondeur pour enregistrer la présence de proies le long de sa route. En superposant les données d'accélérométrie liées au GPS et les données hydroacoustiques recueillies sur la même période, nous avons pu tester la correspondance entre l'effort de recherche de nourriture des guillemots de Brünnich et la persistance spatiale des proies au cours de la saison de reproduction. Cette information permettra une comparaison concrète des routes de recherche de nourriture des oiseaux marins et de la distribution des proies, et en révélera davantage sur les facteurs qui influencent l'utilisation des oiseaux marins comme indicateurs pour évaluer la stabilité d'écosystèmes difficiles à surveiller directement.
+
+
+> **Corrections de traduction en cours**
+

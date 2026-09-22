@@ -1,0 +1,28 @@
+---
+filename: presentations/presentation_edon
+title: "Spatiotemporal variation in foraging behaviour and diet of breeding black-legged kittiwake (<i>Rissa tridactyla</i>)"
+author: 
+   - Elora Edon<sup>1</sup>
+   - Arnaud Tarroux<sup>2</sup>
+   - Signe Christensen-Dalsgaard<sup>3</sup>
+   - Manuel Ballesteros <sup>4</sup>
+   - Eeva Soininen<sup>5</sup>
+author-affiliation:
+  - 1. The Arctic University of Norway, UiT
+  - 2. Norwegian Institute for Nature Research
+  - 3. Norwegian Institute for Nature Research
+  - 4. Norwegian Institute for Nature Research 
+  - 5. The Arctic University of Norway, Climate-ecological Observatory for Arctic Tundra
+session:  "Session 2: Foraging Ecology and Diet"
+date: 2026-10-06T15:30:00Z
+---
+
+
+
+### Abstract
+
+
+
+Seabirds are experiencing global population declines, driven by multiple pressures including climate change and human activities. The black-legged kittiwake (<i>Rissa tridactyla</i>) is no exception to this trend and is currently classified as endangered on the Norwegian Red List. Therefore, understanding the patterns of seasonal distribution and foraging behaviour is a crucial step towards a better knowledge of the ecology and foraging strategies of this species. In this study, I explored the drivers shaping habitat selection in kittiwakes during the breeding season on Anda island, northern Norway. I used 12-year GPS tracking and reproductive rate data and combined them with information on diet based on 5 years of regurgitation samples collected from instrumented birds. The results showed that kittiwakes primarily used coastal habitats but relied on oceanic habitats as an alternative foraging habitat. Although the use of those two habitats varied substantially among years, kittiwakes appeared to track similar environmental niches rather than a fixed preferred habitat. However, greater reliance on oceanic habitats was associated with lower reproductive success, suggesting that increased use of distant offshore habitats may involve reproductive costs. Kittiwakes therefore appear to respond to a highly dynamic marine environment by adjusting their foraging behaviour. Taking this flexibility into consideration in conservation measures may help protect the habitats and prey resources needed to reduce further population decline.
+
+

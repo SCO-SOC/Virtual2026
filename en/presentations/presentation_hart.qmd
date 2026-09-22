@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_hart
+title: "Beyond habitat amount: Narrow seismic lines fragment habitat for a declining old-forest songbird"
+author: 
+   - Taylor Hart<sup>1</sup>
+   - Juan Andrés Martinez Lanfranco<sup>2</sup>
+   - Alessandro Franceschini<sup>3</sup>
+   - Erin Bayne<sup>4</sup>
+author-affiliation:
+  - 1. University of Alberta
+  - 2. University of Alberta
+  - 3. University of Alberta
+  - 4. University of Alberta
+session:  "Session 2: Habitat Use and Breeding Biology"
+date: 2026-10-06T19:10:00Z
+---
+
+
+
+### Abstract
+
+
+
+Habitat loss and fragmentation are primary drivers of forest degradation and biodiversity decline, but disentangling their effects is challenging because they co-occur, may interact, and are perceived differently by different species, requiring species-specific definitions and explicit tests for additive and interactive effects. To quantify the effects of these processes on Black-throated Green Warblers (BTNW), a species of conservation concern in Alberta, we developed species-specific definitions of BTNW habitat (80–140 year old mixedwood forest) and fragmentation (edge density). We compared spatial occupancy models with habitat amount only, edge density only, and their additive and interactive effects using three increasingly comprehensive definitions of fragmentation (large polygonal disturbances only; adding wide linear features >8 m; and all anthropogenic disturbances including narrow 2–8 m seismic lines), at three spatial scales (7, 78, and 314 ha). The most comprehensive definition, including seismic lines, provided the best model fit at the 7 and 78 ha scales, indicating BTNW perceive even narrow disturbances as habitat boundaries. Edge density negatively affected occupancy at the two finer scales, but habitat amount became the dominant predictor at the broader 314 ha scale. Our species-specific approach revealed responses that generic classifications would likely obscure, demonstrating that conservation strategies for this species must consider spatial configuration alongside habitat amount. Given the strong negative effects of edge density and major population declines reported for BTNW in Alberta, we urge managers to minimize cumulative edge creation through harvest planning and active seismic line regeneration.
+
+

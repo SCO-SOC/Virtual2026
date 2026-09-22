@@ -1,0 +1,30 @@
+---
+filename: presentations/presentation_duchene
+title: "L'oiseau qui criait au loup: les Courlis hudsoniens comme alarmes sentinelles dans le subarctique canadien"
+author: 
+   - Mark Duchene<sup>1</sup>
+   - Paul Smith<sup>2</sup>
+   - Janet Ng<sup>3</sup>
+   - Maggie MacPherson<sup>4</sup>
+   - Erica Nol<sup>5</sup>
+author-affiliation:
+  - 1. Programme d'études supérieures en sciences de l'environnement et de la vie, Université Trent
+  - 2. Environnement et Changement climatique Canada, Ottawa, Ontario
+  - 3. Environnement et Changement climatique Canada, Regina, Saskatchewan
+  - 4. Département de biologie, Université Trent
+  - 5. Département de biologie, Université Trent
+session:  "Session 2: L'utilisation de l'habitat et Biologie de la Reproduction"
+date: 2026-10-06T19:30:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les comportements agressifs, y compris les cris d’alarme et le harcèlement des prédateurs, sont fréquemment utilisés par les oiseaux nicheurs pour dissuader les prédateurs et améliorer le succès reproducteur. Ces comportements offrent également aux oiseaux nicheurs d’autres espèces à proximité des occasions d’intercepter et de glaner des informations sur les menaces de prédateurs, réduisant ainsi leur risque de prédation des nids. Dans le subarctique, les courlis (Numenius spp.) émettent fréquemment des cris d’alarme agressifs qui peuvent réduire le risque de prédation des nids et améliorer le succès reproducteur des oiseaux de rivage nichant à proximité. Cela a été suggéré en Europe entre les Barges rousses (Limosa lapponica) et les Courlis corlieux (N. phaeopus), où les barges choisissent leurs sites de nidification après les courlis et les placent plus près des courlis que ce qui serait attendu par le hasard, possiblement pour se protéger. Cependant, l’influence des courlis sur le comportement d’incubation des oiseaux de rivage voisins n’a pas été documentée. De plus, les associations de nidification restent inexplorées pour d’autres espèces de courlis, comme le Courlis hudsonien (N. hudsonicus) en Amérique du Nord. Ma recherche teste si les cris d’alarme du Courlis hudsonien affectent les comportements d’incubation de deux oiseaux de rivage cooccurrents, le Bécassin à bec court (Limnodromus griseus) et le Bécasseau variable (Calidris alpina) dans les écosystèmes de fens près de Churchill, au Manitoba. Pour ce faire, j’ai enregistré en vidéo des individus en incubation lors d’expériences de repasse présentant une séquence aléatoire de : 1) cris d’alarme du Courlis hudsonien, 2) cris d’alarme du Bécassin à bec court, 3) cris d’alarme du Bécasseau variable, et 4) un témoin de chœur de grenouilles sympatriques (Rainette faux-grillon boréale, Pseudacris maculata; et Grenouille des bois, Lithobates sylvaticus), chaque stimulus étant séparé par une période de latence de 10 minutes. Le travail de terrain a eu lieu à l’été 2026, et les résultats seront présentés. Alors que les populations de Courlis hudsoniens diminuent rapidement, cette étude pourrait démontrer leur importance dans la formation des stratégies anti-prédateurs des oiseaux de rivage et le succès des nids dans le subarctique canadien. Cela fournirait une justification pour rehausser leur statut de conservation, ce qui bénéficierait par conséquent à toute leur communauté d’oiseaux de rivage nicheurs.
+
+
+> **Corrections de traduction en cours**
+

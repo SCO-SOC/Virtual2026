@@ -19,6 +19,18 @@ listing:
       date: "Time"
       author: "Lead"
       length: "Length"
+  - id: presentations-list
+    contents: "presentations/*.qmd"
+    type: default
+    date-format: "h:mma z"
+    sort: ["date","session"]
+    filter-ui: true
+    max-description-length: 150
+    fields: [date, author, title, session, description]
+    field-display-names:
+      date: "Time"
+      author: "Presenters"
+      session: "Session"
   - id: showcases-list
     contents: "showcases/*.qmd"
     type: default
@@ -53,7 +65,7 @@ Schedule times are in your browser's local time.
 
 - - {{< localtime 2026-10-05 11:30 EDT format='%H:%M' >}}
   - []{rowspan=8  .workshops} [Workshops](#workshops)
-  - []{rowspan=10 .mainevents} Student Presentations
+  - []{rowspan=10 .mainevents} [Student Presentations](#presentations)
   - []{rowspan=3  .specialevents} [Plenary - Early Career Award Winner](#ECRA)
 
 - - {{< localtime 2026-10-05 11:45 EDT format='%H:%M' >}}
@@ -92,7 +104,7 @@ Schedule times are in your browser's local time.
   - []{.mainevents} [Avian Behaviour and Conservation Lab: Timing, Movement, and Conservation of Migratory Birds](showcases/showcase_uofm.qmd)
 
 - - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
-  - []{rowspan=4  .mainevents} Student Presentations
+  - []{rowspan=4  .mainevents} [Student Presentations](#presentations)
   - []{.mainevents} [Ecotoxicology and Conservation of Prairie Bird Communities](showcases/showcase_uofs.qmd)
   
 - - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
@@ -104,7 +116,7 @@ Schedule times are in your browser's local time.
 - - {{< localtime 2026-10-05 15:45 EDT format='%H:%M' >}} 
 
 - - {{< localtime 2026-10-05 16:00 EDT format='%H:%M' >}} 
-  - []{rowspan=4  .specialevents} Three-minute Thesis (3MT)
+  - []{rowspan=4  .specialevents} [Three-minute Thesis (3MT)](#presentations)
   <!-- - []{rowspan=5  .mainevents} Research Showcase -->
   - []{.mainevents} [Delivering Strong Science at Birds Canada](showcases/showcase_birds_canada.qmd)
 
@@ -154,6 +166,14 @@ As a seabird biologist, I have spent untold hours in a blind observing birds ret
 [*View all*](program_workshops.qmd)  
 
 :::{#workshops-list}
+:::
+
+## Student Presentations / 3MT {#presentations .no-border}
+
+**Tuesday, October 6th 2026**; Times are in Eastern Daylight Savings\
+[*View all*](program_presentations.qmd)  
+
+:::{#presentations-list}
 :::
 
 ## Cross-Country Research Showcases {#showcases .no-border}

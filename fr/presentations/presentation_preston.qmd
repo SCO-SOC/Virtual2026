@@ -1,0 +1,38 @@
+---
+filename: presentations/presentation_preston
+title: "Recensement mondial des oiseaux urbains"
+author: 
+   - Paul J Preston<sup>1</sup>
+   - Islamiat Abidemi Raji<sup>2</sup>
+   - Daniel J Mennill<sup>3</sup>
+   - Paul R Martin<sup>4</sup>
+   - Lynn B Martin<sup>5</sup>
+   - Alex M Syingi<sup>6</sup>
+   - Massamba Thiam<sup>7</sup>
+   - Guiherme Serpa<sup>8</sup>
+   - Frances Bonier<sup>9</sup>
+author-affiliation:
+  - 1. Université Queen's
+  - 2. Université Cornell
+  - 3. Université de Windsor
+  - 4. Université Queen's
+  - 5. Université de Floride du Sud
+  - 6. Musée national du Kenya
+  - 7. Université Cheikh Anta Diop
+  - 8. Serpa Birding
+  - 9. Université Queen's
+session:  "Session 1: Écologie Urbaine"
+date: 2026-10-06T16:00:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les oiseaux sont une composante essentielle de la biodiversité urbaine dans le monde entier, mais mesurer avec précision leur abondance et leur diversité est un défi, car la plupart des méthodes de relevé ne sont pas conçues pour les environnements urbains denses. Les relevés se limitent souvent aux espaces verts, aux quartiers plus riches et aux pays à revenu élevé, ce qui nuit à notre compréhension de la manière dont les oiseaux utilisent tous les habitats urbains. Nous avons développé et évalué le Global Urban Bird Survey, une méthode inclusive pour l'inventaire des oiseaux urbains dans divers environnements urbains. Des experts locaux ont formé et coordonné des membres de la communauté, qui ont effectué des relevés répétés à l'aide d'enregistreurs acoustiques dans cinq villes entre 2022 et 2024 : Dakar, Nairobi, Rio de Janeiro, Paris et Toronto. Les lieux de relevé ont été sélectionnés selon un plan d'échantillonnage stratifié randomisé par blocs dans les centres-villes, garantissant une couverture non biaisée de tous les habitats. Nous avons comparé la performance du Global Urban Bird Survey avec eBird, une plateforme de science citoyenne largement utilisée, pour évaluer la richesse spécifique, l'occurrence et la couverture spatiale. eBird a détecté une richesse spécifique moyenne significativement plus élevée que le Global Urban Bird Survey à Dakar, Nairobi, Paris et Rio de Janeiro, tandis qu'aucune différence significative n'a été observée à Toronto. Cependant, la couverture spatiale d'eBird était nettement inférieure à celle du Global Urban Bird Survey, en particulier dans les villes à faible revenu. Le Global Urban Bird Survey offre une approche robuste et adaptable pour le suivi de la biodiversité aviaire urbaine dans un éventail d'habitats et de contextes socio-économiques. Un échantillonnage plus large et plus représentatif des environnements urbains est essentiel pour comprendre les patrons mondiaux de la biodiversité. Le suivi acoustique communautaire complète les efforts de science citoyenne existants, offrant un outil pour une planification de la conservation inclusive et une gestion éclairée de la biodiversité urbaine dans le monde entier.
+
+
+> **Corrections de traduction en cours**
+

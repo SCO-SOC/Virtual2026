@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_bolger
+title: "Unforeseen effects of invasive birds on native birds after the simulated removal of mammalian nest predators in New Zealand"
+author: 
+   - Erin Bolger<sup>1</sup>
+   - Paul Martin<sup>2</sup>
+   - James Briskie<sup>3</sup>
+author-affiliation:
+  - 1. University of Saskatchewan
+  - 2. Queen's University
+  - 3. University of Canterbury, Christchurch, New Zealand
+session:  "Session 2: Conservation Biology"
+date: 2026-10-06T17:20:00Z
+---
+
+
+
+### Abstract
+
+
+
+Invasive predators are a major threat to native species on islands. Predator removal programs have been successfully implemented on many small islands to protect native species; however, the removal of invasive predators can have unforeseen negative effects on native species, mediated by other non-target invasive species. Identifying these indirect effects is important to maximize the effectiveness of predator removals. New Zealand is planning a country-wide predator removal program to conserve native species being threatened by invasive mammalian predators. However, predator removals are also expected to benefit invasive bird species that compete with native species. Life history data suggest the proliferation of invasive birds in response to island-wide predator removals, further endangering the native species. While previous localized predator removals in New Zealand suggested that the effects of invasive birds did not impact the success of predator removals for native birds, we found that on an island-wide scale, these effects are likely to be important. We tested for indirect effects from invasive birds on native birds using simulations that incorporated life-history and spatially explicit data, which allowed us to simulate the effects of different treatments on populations in a landscape. Our results suggest that island-wide predator removals will benefit native bird populations, but that these benefits are diminished by indirect effects mediated by invasive birds. Thus, we suggest that New Zealand plan to incorporate strategies to mitigate effects from invasive birds so that the success of the predator removal will be maximized for native species. Our simulation provides a modelling tool for predicting indirect interactions in an ecosystem and has the potential to be used as an invasive species management tool in the future.
+
+

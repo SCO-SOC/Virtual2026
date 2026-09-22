@@ -1,0 +1,25 @@
+---
+filename: presentations/presentation_sturch
+title: "Potentiel de dispersion des graines chez les oiseaux chanteurs migrateurs du Canada"
+author: 
+   - Tamara Sturch<sup>1</sup>
+   - Matt Fuirst et Kevin Fraser<sup>2</sup>
+author-affiliation:
+  - 1. Université du Manitoba
+  - 2. Oiseaux Canada
+  - 3. Université du Manitoba
+session:  "Session 2: Écologie Alimentaire et Régime Alimentaire"
+date: 2026-10-06T16:40:00Z
+---
+
+
+
+### Résumé
+
+
+
+À l'échelle mondiale, environ 50 % des plantes ligneuses dépendent d'une forme de dispersion des graines par les animaux. Les oiseaux constituent l'un des groupes les plus importants de disperseurs de graines en raison de la diversité de leur régime alimentaire et de leur capacité à déplacer les graines. Le déplacement des plantes par les oiseaux a des implications importantes pour la structure et la fonction des communautés, car ils peuvent faciliter l'expansion des aires de répartition et le sauvetage génétique des plantes indigènes et non indigènes. À mesure que la fragmentation du paysage augmente et que le changement climatique progresse, les interactions plantes-oiseaux auront une importance croissante pour l'adaptation des plantes. Nous étudions le potentiel de dispersion des graines des oiseaux chanteurs migrateurs canadiens en comparant le mouvement des graines au printemps et à l'automne, en déterminant le potentiel de dispersion à longue distance des graines par les oiseaux pendant les vols migratoires, et en quantifiant la viabilité des graines dispersées par les oiseaux. Nous utilisons une combinaison d'échantillons fécaux prélevés dans trois stations de suivi de la migration en Ontario et au Manitoba et l'analyse du contenu stomacal d'oiseaux migrateurs tués par des collisions avec des fenêtres, recueillis par le Programme de sensibilisation aux collisions d'oiseaux avec les édifices (Fatal Light Awareness Program) à Toronto, pour identifier et quantifier les graines de plantes transportées par différentes espèces d'oiseaux au cours des deux saisons migratoires. Nous avons évalué la viabilité des graines par des tests au tétrazolium et de germination. Les résultats à ce jour indiquent que 37 % des échantillons fécaux obtenus d'oiseaux interceptés pendant la migration à l'Observatoire d'oiseaux de Long Point à l'automne 2025, et 22 % des contenus stomacaux obtenus d'oiseaux tués pendant la migration d'automne et de printemps à Toronto en 2024 contenaient des graines de plantes, y compris des espèces des genres Cornus, Juniperus, Parthenocissus, Rhamnus, Viburnum et Vitis. Les disperseurs aviaires de graines de plantes comprenaient le Jaseur d'Amérique, les grives du genre Catharus, le Merle d'Amérique, le Viréo aux yeux rouges et le Bruant à gorge blanche. Ces résultats préliminaires suggèrent que les oiseaux migrateurs pourraient couramment déplacer des graines de plantes pendant leurs migrations, façonnant ainsi les communautés de plantes indigènes et non indigènes au Canada.
+
+
+> **Corrections de traduction en cours**
+

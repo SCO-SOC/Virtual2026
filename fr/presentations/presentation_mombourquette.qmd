@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_mombourquette
+title: "Impact de la température ambiante sur le succès de la nidification d'une population néo-écossaise d'Étourneaux sansonnet (<i>Sturnus vulgaris</i>) au cours de deux décennies"
+author: 
+   - Janine Mombourquette<sup>1</sup>
+   - Colleen Barber<sup>2</sup>
+author-affiliation:
+  - 1. Université Saint Mary's
+  - 2. Université Saint Mary's
+session:  "Session 2: Biologie de la Conservation"
+date: 2026-10-06T17:30:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les oiseaux en Amérique du Nord font face à de forts déclins de population. Cette tendance a été attribuée à plusieurs facteurs anthropiques, et les changements climatiques sont au premier plan. De nombreuses espèces à couvées multiples se reproduisent maintenant plus tôt et ont des saisons de reproduction prolongées, s'étendant dans les mois d'été plus chauds. En conséquence, les oisillons peuvent être confrontés à une surchauffe accrue, à une réduction de leur condition physique et à une mortalité plus élevée. Les effets de la température varient selon la localisation géographique, ce qui rend nécessaires des études localisées pour comprendre les impacts sur les espèces au sein d'une région. L'Étourneau sansonnet (Sturnus vulgaris), un passereau prospérant en milieu urbain, est en déclin en Amérique du Nord. Les étourneaux ont une double couvée, leur saison de reproduction se déroulant d'avril à juillet dans l'est du Canada. En utilisant une population sauvage d'étourneaux sansonnets nichant dans des nichoirs à Halifax, en Nouvelle-Écosse, nous avons examiné la condition des oisillons et le succès d'envol sur deux décennies (2007-2026) et leur relation avec la hausse des températures dans notre région. Nous avons prédit que la condition des oisillons et le succès d'envol diminueraient avec le temps à mesure que les températures annuelles augmentent. Nous avons également prédit que les oisillons des couvées tardives seraient en moins bonne condition générale et auraient des taux de succès d'envol plus faibles que ceux des couvées précoces. Notre étude à long terme fournira un aperçu de la manière dont une espèce d'oiseau en Nouvelle-Écosse réagit aux changements climatiques.
+
+
+> **Corrections de traduction en cours**
+

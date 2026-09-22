@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_fisher
+title: "Criez, criez, laissez tout sortir : l'amplitude comme facteur d'accouplement assortatif négatif chez le bruant à gorge blanche"
+author: 
+   - Kyle Fisher<sup>1</sup>
+   - Jennifer Foote<sup>2</sup>
+author-affiliation:
+  - 1. Université Algoma
+  - 2. Université Algoma
+session:  "3MT - Bioacoustique"
+date: 2026-10-06T20:08:00Z
+---
+
+
+
+### Résumé
+
+
+
+Le chant est un aspect crucial de la sélection sexuelle chez les oiseaux chanteurs et est souvent un indicateur de la qualité du mâle. L’amplitude du chant est un trait dynamique que les oiseaux peuvent faire varier au sein d’un même chant et entre les chants. Cependant, la manière dont la variation de l’amplitude du chant au sein d’un même chant reflète la qualité de celui-ci n’a pas été bien étudiée. Les morphes génétiques du Bruant à gorge blanche (Zonotrichia albicollis) (à couronne rousse ou à couronne blanche) diffèrent dans leur comportement vocal, mais partagent les deux mêmes types de chants (les chants ascendants augmentent en fréquence entre les notes tandis que les chants descendants diminuent en fréquence). Les mâles à couronne rousse sont préférés comme partenaires, mais chantent moins souvent que les mâles à couronne blanche. Il est donc probable que des composantes structurelles différentes du chant selon le morphe puissent contribuer au choix du partenaire. L’amplitude du chant n’a pas été étudiée en ce qui concerne les patrons d’appariement préférentiel négatif chez les bruants à gorge blanche, ni n’a été comparée entre les chants ascendants et descendants. Nous avons enregistré l’amplitude du chant des bruants à gorge blanche à l’aide d’un enregistreur de terrain portatif à Sault Ste. Marie, en Ontario, pendant la saison de reproduction de 2025. Nous avons mesuré l’amplitude absolue du chant entier, ainsi que l’amplitude absolue et relative de chaque note à l’aide d’un logiciel de bioacoustique. Nous avons constaté que les morphes ne différaient pas de manière significative en ce qui concerne l’amplitude absolue ou relative des notes. Cependant, nous démontrons que les chants ascendants augmentent en amplitude tout au long du chant, tandis que les chants descendants diminuent en amplitude. Les mâles à couronne blanche qui chantaient des chants ascendants avaient une amplitude moyenne et minimale plus élevée que ceux qui chantaient des chants descendants. Les mâles à couronne rousse ne présentaient aucune différence d’amplitude pour l’un ou l’autre type de chant. Notre travail préliminaire suggère que l’amplitude du chant pourrait être une caractéristique que les récepteurs pourraient utiliser pour évaluer le morphe des partenaires ou des rivaux.
+
+
+> **Corrections de traduction en cours**
+

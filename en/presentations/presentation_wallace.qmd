@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_wallace
+title: "Spring Migration Strategies and Carryover Effects on Reproductive Success in <i>Branta canadensis</i> interior"
+author: 
+   - Laura Wallace<sup>1</sup>
+   - Glen Brown<sup>2</sup>
+   - Rodney Brook<sup>3</sup>
+author-affiliation:
+  - 1. Trent University
+  - 2. Ontario Ministry of Natural Resources
+  - 3. Ontario Ministry of Natural Resources
+session:  "Session 1: Migration"
+date: 2026-10-06T19:20:00Z
+---
+
+
+
+### Abstract
+
+
+
+Arrival timing on breeding grounds is closely tied to reproductive success in migratory waterfowl. Better understanding of spring migration characteristics and carryover effects on annual productivity is needed to inform sustainable harvest management. Updated assessments of these population dynamics are notably important to guide harvest management decisions of the declining Southern Hudson Bay (SHB) population of Canada geese (<i>Branta canadensis</i> interior). Canada geese are the most harvested goose species across eastern North America, and SHB Canada geese are both culturally important and a key resource for subsistence hunters in Ontario’s northern communities. We investigated spring migration strategies of SHB Canada geese to assess how environmental conditions influence arrival timing and subsequent nesting success. From 2022–2025, we deployed 151 Ornitela GPS–GSM neck collar transmitters on adult breeding females, generating high-resolution movement data throughout the annual cycle. Using linear mixed effects models, we evaluated how snowmelt and temperature influence migration characteristics, and how those characteristics relate to nest success. Migration timing varied substantially among individuals, with arrivals to breeding areas ranging from mid-April to early May. Preliminary results indicate that regional snowmelt and temperature strongly influence the number and duration of migratory stopovers. Canada geese typically follow the snowline closely during spring migration, and some individuals arrived ahead of snowmelt and staged at lower latitudes until conditions improved. Importantly, later-arriving individuals exhibited lower nesting success, suggesting that delayed arrival may reduce reproductive performance. Our findings clarify spring migration strategies of the Southern Hudson Bay Population of Canada geese and highlight the importance of timely arrival for breeding success. Early arrival may benefit geese as spring phenology advances under climate change, yet mismatches between arrival timing and local environmental conditions could still affect productivity.
+
+

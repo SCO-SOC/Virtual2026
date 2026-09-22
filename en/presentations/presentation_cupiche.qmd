@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_cupiche
+title: "If you call them, will they come? Using playback to increase detectability of Canada Warbler in Northwestern Ontario"
+author: 
+   - Vianney Cupiche<sup>1</sup>
+   - Geovanni Balam<sup>2</sup>
+   - Brian McLaren<sup>3</sup>
+author-affiliation:
+  - 1. Intercultural Mayan University of Quintana Roo
+  - 2. Independent bioloogist
+  - 3. Lakehead University
+session:  "Session 1: Methods Matter"
+date: 2026-10-06T16:20:00Z
+---
+
+
+
+### Abstract
+
+
+
+Playback is commonly used to survey birds, as it is an efficient method for censusing elusive species by increasing their detection probability. However, in Ontario Breeding Atlas surveys, playback surveys are not recommended. Then, Canada Warbler <i>Cardellina canadensis</i> (CAWA). Within our study region, Northwestern Ontario, this species has been historically understudied and underestimated due to low accessibility, but also because these birds are small, hard to see, and spend little time during the breeding season. However, CAWA is also known as a species that is attracted by social cues; previous studies suggested CAWA uses social cues (acoustic) for habitat choices. For these reasons, my hypothesis is that the use of playback songs/calls rather than only silent point counts will increase its detection. Through our experiment, we attempted to provide a valid insight into a more effective playback method for surveying our target species. During the breeding seasons of 2021, 2022, and 2023, I implemented a bird survey protocol using a silent period followed by playback song/calls and registered the detection of the species with and without the playback. I found that in about 70% of the cases, the bird was detected mainly after playing the songs/calls. In addition, I found that the species approached but were silent in unharvested areas, whereas in post-harvest areas they used to approach singing and/or respond with territorial calls. These results suggest that using playback protocols in bird surveys will increase the likelihood of Canada Warbler detections, especially in unharvested areas, leading to more accurate population estimates.
+
+

@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_bygrove
+title: "Tracking nocturnal migration through flight calls: Insights from Motus Audio, a Canada-wide acoustic monitoring system"
+author: 
+   - Madison Bygrove<sup>1</sup>
+   - Natalie Emerick<sup>2</sup>
+   - Dan Mennill<sup>3</sup>
+author-affiliation:
+  - 1. University of Windsor
+  - 2. University of Windsor
+  - 3. University of Windsor
+session:  "3MT - Bioacoustics"
+date: 2026-10-06T20:12:00Z
+---
+
+
+
+### Abstract
+
+
+
+Many migratory birds produce short nocturnal flight calls while traveling at night, providing species-specific acoustic signals that offer a powerful, non-invasive method for monitoring migration. Despite their growing use in migration research, the geographic and temporal patterns in flight call activity remain poorly understood. In this project, we investigate how nocturnal flight call activity in migratory birds varies among major flyways across Canada. We established a Canada-wide acoustic monitoring network—the Motus Audio Network—­comprising 100 custom-built autonomous recording units deployed across diverse habitats and migratory regions from coast to coast. We collected nightly recordings during spring and fall migration and identified flight calls using Nighthawk, a machine-learning algorithm that identifies nocturnal flight calls to the species or species-group level. The Motus Audio Network enables near-real-time monitoring of migration patterns across geographic scales that would be nearly impossible to achieve through traditional surveys alone. At 100 sites spanning from Vancouver Island to Newfoundland, we quantified the timing and magnitude of peak flight call activity during spring 2026 across four major migratory flyways. We predicted that each migratory flyway would show distinct peaks in migration timing, reflected by increases in flight call activity. Our research provides the first country-wide acoustic quantification of migration timing at a continental scale while providing species-specific insights into nocturnal migration. A deeper understanding of flight call patterns improves our ability to accurately predict migratory movements, identify high-risk areas, and inform conservation strategies aimed at reducing threats to nocturnally migrating birds in Canada.
+
+

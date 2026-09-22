@@ -1,0 +1,21 @@
+---
+filename: presentations/presentation_reynolds
+title: "The Road to Winter: Linking Departure, Settlement, and Selection in Greater Sage-Grouse"
+author: 
+   - Jordan Reynolds<sup>1</sup>
+   - Dr Brad Fedy<sup>2</sup>
+author-affiliation:
+  - 1. University of Waterloo
+session:  "Session 1: Migration"
+date: 2026-10-06T19:00:00Z
+---
+
+
+
+### Abstract
+
+
+
+Greater sage-grouse (<i>Centrocercus urophasianus</i>) winter habitat is typically delineated from where birds are found, treating occupancy as a single outcome rather than the product of nested decisions made at different scales. We decomposed overwintering into its components: when birds departed, where they could have settled, where they did settle, and what they used once settled. We tracked 43 greater sage-grouse in northeastern Wyoming from 2017 – 2022, defining each individual's departure-to-settlement transition from net squared displacement changepoints rather than fixed calendar dates. Realized winter ranges were compared against potential ranges along each bird's own trajectory, then against the broader study area (second order), and GPS fixes against availability within each bird's range (third order), with collinear covariates screened a priori and candidate models ranked by AICc with k-fold cross-validation. Winter range placement was best explained by eastness, terrain ruggedness, topographic position, vegetation height, and sagebrush cover. Where greater sage-grouse avoided rugged terrain and selected for areas with higher vegetation cover and height (e.g., sagebrush and shrubs). Selection for taller, denser sagebrush at the scale of range placement suggests birds commit to areas where shrub structure is likely to remain exposed above snowpack across an entire winter, rather than locating such cover opportunistically once settled. Avoidance of rugged terrain is consistent with both the energetic cost of movement through snow and the tendency of broken terrain to accumulate drifts.
+
+

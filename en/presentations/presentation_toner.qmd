@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_toner
+title: "Diet of Bobolinks (<i>Dolichonyx oryzivorus</i>) during fall staging"
+author: 
+   - Charlotte Toner<sup>1</sup>
+   - Wendy Monk<sup>2</sup>
+   - Joe Nocera<sup>3</sup>
+author-affiliation:
+  - 1. University of New Brunswick
+  - 2. University of New Brunswick
+  - 3. University of New Brunswick
+session:  "Session 2: Foraging Ecology and Diet"
+date: 2026-10-06T16:30:00Z
+---
+
+
+
+### Abstract
+
+
+
+Agricultural ecosystems present complex trade-offs between human and conservation priorities, especially for migratory or at-risk species whose life cycles depend on managed habitats. Many avian species can provide valuable ecosystem services in agroecosystems, such as pest and weed control, yet these roles are often poorly quantified, especially during energetically demanding periods such as prior to migration. The Bobolink (<i>Dolichonyx oryzivorus</i>) is a long-distance migratory grassland passerine and species-at-risk with a distinct knowledge gap surrounding its dietary function within ecosystems, as well as its dietary patterns during pre-migratory staging. My study examines Bobolink diet during the post-breeding, pre-migratory staging period of July and August. I collected fecal samples across eight agricultural sites in the Annapolis Valley of Nova Scotia, Canada. Using DNA metabarcoding of fecal samples, I identified the dietary composition of plants and insects over time, between age groups, and in relation to plant origin and insect pest status. My results indicate that the Bobolink consumes a diverse dietary community of both plants and insects, including weeds and pests. This composition shifted significantly over time as migration approached, and insect dietary composition differed significantly between adults and juveniles. This study provides the first DNA metabarcoding analysis of the Bobolink, as well as the first fine-scale identification of the fall staging diet of the Bobolink. Together, these findings indicate that the Bobolink may contribute ecosystem services within agroecosystems while simultaneously shifting its diet to meet the energetic demands of migratory staging. By contributing to the knowledge of the Bobolink during a potentially limiting period of the life cycle, I hope to improve conservation management techniques by identifying important prey sources and emphasizing the value of this species-at-risk in agricultural ecosystems.
+
+

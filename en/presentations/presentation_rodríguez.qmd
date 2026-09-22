@@ -1,0 +1,25 @@
+---
+filename: presentations/presentation_rodríguez
+title: "Vocal mimicry is widespread in tropical Seedeaters"
+author: 
+   - Nelsy Niño Rodríguez<sup>1</sup>
+   - María Paula Sierra Oscar Laverde R<sup>2</sup>
+   - Daniel J Mennill<sup>3</sup>
+author-affiliation:
+  - 1. Department of Biology, University of Windsor
+  - 2. Departamento de Biología, Escuela de Ciencias e Ingeniería, Universidad del Rosario, Bogotá, Colombia
+  - 3. Departamento de Biología, Facultad de Ciencias, Pontificia Universidad Javeriana Bogotá, Colombia
+  - 4. Department of Biology, University of Windsor
+session:  "3MT - Bioacoustics"
+date: 2026-10-06T20:16:00Z
+---
+
+
+
+### Abstract
+
+
+
+Vocal mimicry occurs across diverse bird families, yet its ecological and evolutionary significance remains poorly understood. Although there are many well-documented examples of mimicry in temperate-zone birds, we know remarkably little about vocal mimicry in the tropics. The genus <i>Sporophila</i> comprises 41 species of small, seed-eating finches known as “Seedeaters”. To date, vocal mimicry has been reported in seven of these 41 species. Given the lack of detailed studies of the South American avifauna, we can anticipate that mimicry is more widespread and that many examples remain to be described. To assess the extent of vocal mimicry in the <i>Sporophila</i> genus, we retrieved sound recordings from two major sound libraries. We scanned all high-quality recordings to assess the presence of vocal mimicry and the percentage of recordings containing mimicry for each species. We mapped vocal mimicry onto a Thraupidae family phylogenetic hypothesis made from a time-calibrated global avian phylogeny. We pruned the tree to include all species of the <i>Sporophila</i> genus and six outgroup species to calibrate the tree. Our results reveal that mimicry is more widespread than previously recognized in this genus, suggesting an important role of vocal mimicry in this poorly studied genus.
+
+

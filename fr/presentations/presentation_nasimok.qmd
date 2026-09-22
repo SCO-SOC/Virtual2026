@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_nasimok
+title: "Différenciation des schémas d'escale migratoire entre les populations de Parulines rayées"
+author: 
+   - Jax Nasimok<sup>1</sup>
+   - Maggie MacPherson<sup>2</sup>
+author-affiliation:
+  - 1. étudiant à la maîtrise, Université Trent
+  - 2. Université Trent
+session:  "Session 1: La Migration"
+date: 2026-10-06T19:10:00Z
+---
+
+
+
+### Résumé
+
+
+
+La Paruline rayée (Setophaga striata) est l'un des passereaux au déclin le plus rapide en Amérique du Nord. Nous ne savons pas clairement quels problèmes de conservation sont responsables de son déclin documenté de 92 % au cours des 50 dernières années. Le schéma de migration transversale sur de longues distances de la paruline rayée est unique parmi les migrateurs néotropicaux. Selon la théorie de la migration, nous devrions nous attendre à ce que les populations ayant de plus longues migrations aient des taux de mortalité plus élevés. Cependant, des recherches récentes ont découvert le contraire. Les populations de parulines rayées se reproduisant à l'est migrent sur la plus courte distance et déclinent significativement plus vite que les populations de l'ouest. Ici, j'approfondis ce que nous savons sur la migration de la paruline rayée en utilisant le réseau Motus pour déterminer quel habitat les parulines rayées utilisent pendant leur migration vers le sud. Dans le cadre d'une recherche à long terme menée par une équipe de recherche collaborative, des balises Motus sont déployées sur des parulines rayées en Alaska, au Manitoba, au Québec et à Terre-Neuve. Je présenterai une évaluation de la qualité de l'habitat de migration qui utilise des données de télédétection pour quantifier les caractéristiques de l'habitat entourant les tours Motus que les parulines de chaque population croisent lors de leurs migrations post-reproduction vers le sud. Les travaux futurs évalueront comment la survie annuelle apparente est corrélée avec différents rythmes de migration, la qualité de l'habitat de migration et le site d'hivernage à travers l'aire de répartition de la paruline rayée. Les conclusions de cette recherche soutiendront des actions de conservation ciblées régionalement pour améliorer les résultats pour ce passereau en déclin rapide.
+
+
+> **Corrections de traduction en cours**
+

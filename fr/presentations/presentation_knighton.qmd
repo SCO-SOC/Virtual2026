@@ -1,0 +1,29 @@
+---
+filename: presentations/presentation_knighton
+title: "Lien entre le comportement d'incubation du Harle huppé (<i>Mergus serrator</i>) et la chronologie de la reproduction"
+author: 
+   - Emilie Knighton<sup>1</sup>
+   - Rodger Titman<sup>2</sup>
+   - Nicolas Lecomte<sup>3</sup>
+   - Mark Mallory et Shawn Craik<sup>4</sup>
+author-affiliation:
+  - 1. doctorante, Université Sainte-Anne
+  - 2. Département des sciences des ressources naturelles, Université McGill
+  - 3. Département de biologie, Université de Moncton
+  - 4. Département de biologie, Université Acadia
+  - 5. Département des sciences, Université Sainte-Anne
+session:  "Session 1: Biologie de la Reproduction"
+date: 2026-10-06T17:20:00Z
+---
+
+
+
+### Résumé
+
+
+
+On s'attend à ce que les oiseaux en incubation équilibrent leurs besoins énergétiques avec les exigences thermiques des embryons en développement. Nous avons examiné si la taille des couvées était liée aux schémas de présence au nid chez le Harle huppé (Mergus serrator), un canard de mer chez qui le parasitisme de couvée conspécifique est courant et où les femelles sont seules responsables de l'incubation. Nous avons utilisé des données de température des nids pour déterminer la durée des périodes d'incubation, la constance de l'incubation, ainsi que la fréquence et la durée quotidiennes des pauses d'incubation par les femelles dans 15 nids réussis. La taille maximale des couvées pendant l'incubation variait de 6 à 19 œufs et les cinq plus grandes couvées étaient parasitées par des congénères. La taille de la couvée s'est avérée être un mauvais prédicteur des paramètres d'incubation, mais les harles qui commençaient à incuber plus tard dans la saison avaient des périodes d'incubation plus courtes de 3,6 jours. Nous émettons l'hypothèse que les températures particulièrement chaudes des nids plus tard dans la saison (fin juillet-début août) ont minimisé la variation quotidienne des températures des œufs, entraînant ainsi des périodes d'incubation plus courtes pour les femelles nichant tardivement.
+
+
+> **Corrections de traduction en cours**
+

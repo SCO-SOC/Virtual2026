@@ -1,0 +1,29 @@
+---
+filename: presentations/presentation_hutchinson
+title: "Exercice d’équilibre: offre et demande d’ATP chez les Colibris à gorge rubis en état de torpeur"
+author: 
+   - Amalie Hutchinson<sup>1</sup>
+   - James Staples<sup>2</sup>
+   - Chris G Guglielmo<sup>3</sup>
+author-affiliation:
+  - 1. Université Western
+  - 2. Université Western
+  - 3. Université Western
+session:  "Session 2: Écologie Alimentaire et Régime Alimentaire"
+date: 2026-10-06T15:50:00Z
+---
+
+
+
+### Résumé
+
+
+
+L'approvisionnement en ATP par les mitochondries et la demande en ATP par les processus cellulaires sont soigneusement régulés pendant les périodes d'activité et les états de suppression métabolique, comme la torpeur. La torpeur est un état d'inactivité caractérisé par une diminution du taux métabolique (TM) et de la température corporelle qui peut être spontanément inversé en utilisant la chaleur produite de manière endogène. Pour éviter le coût élevé de la thermorégulation nocturne, les colibris entrent en torpeur. Nous avons recherché un site de suppression métabolique dans le muscle du vol de colibris à gorge rubis (Archilochus colubris) en état de torpeur.
+Nous avons été les premiers à étudier la dynamique mitochondriale chez les colibris. La phosphorylation oxydative (OXPHOS) était supprimée d'environ 20 % par le complexe I lorsque le pyruvate était le carburant métabolique, mais aucune suppression n'a été observée lorsque les mitochondries étaient alimentées par un substrat lipidique. Comme les graisses sont la principale source d'énergie pendant la torpeur, nous avons conclu que, contrairement aux modèles mammifères de torpeur, la suppression du TM de l'animal entier n'implique pas une régulation à la baisse des mitochondries.
+Ensuite, nous avons étudié les voies de demande d'ATP pour déterminer si l'inhibition de la SERCA ou de la Na+/K+ ATPase est à l'origine de la torpeur. L'activité de la SERCA n'a pas changé, cependant, le découplant sarcolipine était plus fortement phosphorylé. La phosphorylation inhibe la sarcolipine, ce qui entraîne une diminution de la demande en ATP et de la production de chaleur. L'activité de la Na+/K+ ATPase a diminué de 43 % pendant la torpeur, un mécanisme qui pourrait expliquer une proportion significative de la suppression du TM de l'animal entier.
+Globalement, nous suggérons que les colibris en torpeur suppriment les voies de demande d'ATP de concert avec une suppression métabolique passive initiée par l'ajustement de la thermorégulation et la chute de la température corporelle centrale. Ces résultats mettent en évidence des contrastes intéressants entre les oiseaux et les mammifères et fournissent un aperçu de leurs voies évolutives vers l'hétérothermie.
+
+
+> **Corrections de traduction en cours**
+

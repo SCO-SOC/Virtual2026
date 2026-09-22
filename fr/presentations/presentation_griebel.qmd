@@ -1,0 +1,43 @@
+---
+filename: presentations/presentation_griebel
+title: "Classification de la ponte, de l'incubation et de l'élevage des couvées à partir de données de télémesure recueillies à distance"
+author: 
+   - Ilsa Griebel<sup>1</sup>
+   - Érika G da Rocha<sup>2</sup>
+   - Abigail Butler<sup>3</sup>
+   - Laura R Dykstra<sup>4</sup>
+   - Cassidy L Waldrep<sup>5</sup>
+   - John M Coluccy; Patrick K Devers<sup>6</sup>
+   - Min T Huang<sup>7</sup>
+   - Tracy A G Rittenhouse<sup>8</sup>
+   - Joshua C Stiller<sup>9</sup>
+   - Jacob N Straub<sup>10</sup>
+   - Mitch D Weegman<sup>11</sup>
+author-affiliation:
+  - 1. Université de la Saskatchewan
+  - 2. Université de la Saskatchewan
+  - 3. SUNY Brockport
+  - 4. Université du Connecticut
+  - 5. Université de la Saskatchewan
+  - 6. Canards Illimités, Inc.
+  - 7. USFS
+  - 8. Département de la protection de l'énergie et de l'environnement du Connecticut
+  - 9. Université du Connecticut
+  - 10. Département de la conservation de l'environnement de l'État de New York
+  - 11. SUNY Brockport
+  - 12. Université de la Saskatchewan
+session:  "Session 1: L'importance des méthodes"
+date: 2026-10-06T16:50:00Z
+---
+
+
+
+### Résumé
+
+
+
+La connaissance des tentatives et des résultats de reproduction est impérative pour comprendre les moteurs de la croissance démographique et pour apprendre comment les décisions individuelles et les conditions environnementales expliquent la variation de la productivité. Cependant, la localisation des sites de reproduction dans des régions éloignées de la planète peut entraver notre capacité à suivre les tentatives de reproduction à l'aide de méthodes traditionnelles. L'objectif de cette étude était de développer une méthode d'apprentissage automatique basée sur les données qui identifie les comportements de ponte, d'incubation et d'élevage de la couvée pour deux espèces de canards barboteurs, le canard noir (Anas rubripes) et le canard colvert (A. platyrhynchos), afin de mesurer le succès reproducteur à distance à l'aide de données du système de positionnement mondial (GPS) et d'accélération triaxiale (ACC) collectées par des dispositifs de suivi. Nous avons développé avec succès un modèle de ponte/début d'incubation (classé comme nichant ou non), un modèle d'incubation à terme (non-incubation, tentative d'incubation échouée ou tentative d'incubation réussie) et des modèles d'élevage de la couvée précoce (1-15 jours après l'éclosion) et tardif (16-30 jours après l'éclosion) (résultat combiné en couvée échouée ou envolée), qui avaient tous des précisions globales >94 %. Nous avons appliqué notre méthode à deux grands ensembles de données collectées dans l'est de l'Amérique du Nord sur les canards noirs et les canards colverts et avons résumé les données par espèce, âge et année. Nous avons constaté que les canards colverts avaient un plus grand succès de reproduction que les canards noirs, en raison d'une propension à nicher et d'un succès d'envol de la couvée plus élevés. Pour chaque espèce, les femelles de plus de deux ans avaient une propension à nicher, un succès de nidification et un succès d'envol de la couvée plus élevés que les femelles de deuxième année. Notre méthode peut être utilisée pour comprendre de multiples mesures à fine échelle du succès reproducteur en utilisant l'analyse rétrospective des données de suivi, devrait être applicable à la plupart des espèces de canards barboteurs, et pourrait être ajustée pour d'autres taxons équipés de dispositifs de suivi qui présentent des mouvements restreints pendant la reproduction. Les résultats de cette approche permettent de tester des hypothèses sur les moteurs environnementaux de la productivité et d'évaluer leurs contributions aux changements de population.
+
+
+> **Corrections de traduction en cours**
+

@@ -1,0 +1,25 @@
+---
+filename: presentations/presentation_bernier
+title: "Heat tolerance in temperate birds: predicting their vulnerability to climate change"
+author: 
+   - Nathan Bernier<sup>1</sup>
+   - Anand Sachin<sup>2</sup>
+   - François Vézina<sup>3</sup>
+author-affiliation:
+  - 1. BSc Student, Université du Québec à Rimouski
+  - 2. Université du Québec à Rimouski
+  - 3. Université du Québec à Rimouski
+session:  "3MT - Physiology"
+date: 2026-10-06T20:32:00Z
+---
+
+
+
+### Abstract
+
+
+
+Temperate regions are known for their short, cool spring and summer during which birds breed and must forage intensely over days to provision their offspring. Such high levels of activities increase the heat generation, which the birds must effectively dissipate to maintain their activity. However, climate warming is projected to substantially increase temperatures during the breeding period, which may cause heat stress in birds and force them to reduce their activity and thereby negatively impact nestling quality. Currently, most studies measuring the avian mechanistic responses to heat stress are from arid and desert regions, while very few studies exist on those mechanisms in birds inhabiting colder regions. As climate change increases the likelihood of extreme heat events, avian responses to higher ambient temperatures must be studied in temperate regions. In this study, we aim to measure heat dissipation capacity of pine siskins (Spinus pinus), a small resident passerine distributed across North America. During autumn 2026, we plan to measure maximum thermal conductance and heat tolerance traits i.e. evaporative heat loss, resting metabolic rate, body temperature in captive siskins while exposing them to gradually increasing temperature in a metabolic chambers. Maximum thermal conductance (Cmax), which represents the highest capacity of the bird to dissipate heat without expending additional energy, will be calculated from the body temperature, ambient temperature, oxygen consumption and water vapor loss prior to the onset of panting.  Once Cmax and maximum evaporative heat dissipation capacity are quantified, we can feed them into theorical model such as the Thermoregulatory polygon. This model will allow us to predict ambient temperatures which may cause heat stress and reduce nestling provisioning, which are crucial informations to understand the effects of climate warming on temperate birds.  
+
+
+

@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_cupiche
+title: "Si vous les appelez, viendront-ils ? Utilisation de la diffusion des chants pour accroître la détectabilité de la Paruline du Canada dans le nord-ouest de l'Ontario."
+author: 
+   - Vianney Cupiche<sup>1</sup>
+   - Geovanni Balam<sup>2</sup>
+   - Brian McLaren<sup>3</sup>
+author-affiliation:
+  - 1. Université interculturelle maya de Quintana Roo
+  - 2. biologiste indépendant
+  - 3. Université Lakehead
+session:  "Session 1: L'importance des méthodes"
+date: 2026-10-06T16:20:00Z
+---
+
+
+
+### Résumé
+
+
+
+La repasse est couramment utilisée pour recenser les oiseaux, car c'est une méthode efficace pour inventorier les espèces difficiles à observer en augmentant leur probabilité de détection. Cependant, dans les relevés de l'Atlas des oiseaux nicheurs de l'Ontario, les relevés par repasse ne sont pas recommandés. Prenons le cas de la Paruline du Canada (Cardellina canadensis). Dans notre région d'étude, le nord-ouest de l'Ontario, cette espèce a été historiquement sous-étudiée et sous-estimée en raison de sa faible accessibilité, mais aussi parce que ces oiseaux sont petits, difficiles à voir et passent peu de temps sur les lieux durant la saison de reproduction. Cependant, la Paruline du Canada est également connue pour être une espèce attirée par les indices sociaux; des études antérieures ont suggéré que la Paruline du Canada utilise des indices sociaux (acoustiques) pour ses choix d'habitat. Pour ces raisons, mon hypothèse est que l'utilisation de la repasse de chants/cris, plutôt que de simples points d'écoute silencieux, augmentera sa détection. À travers notre expérience, nous avons tenté de fournir un aperçu valide d'une méthode de repasse plus efficace pour recenser notre espèce cible. Pendant les saisons de reproduction de 2021, 2022 et 2023, j'ai mis en œuvre un protocole de relevé d'oiseaux utilisant une période de silence suivie de la repasse de chants/cris et j'ai enregistré la détection de l'espèce avec et sans la repasse. J'ai constaté que dans environ 70 % des cas, l'oiseau était détecté principalement après la diffusion des chants/cris. De plus, j'ai constaté que l'espèce s'approchait mais restait silencieuse dans les zones non exploitées, tandis que dans les zones après coupe, elle avait l'habitude de s'approcher en chantant et/ou de répondre avec des cris territoriaux. Ces résultats suggèrent que l'utilisation de protocoles de repasse dans les relevés d'oiseaux augmentera la probabilité de détection de la Paruline du Canada, en particulier dans les zones non exploitées, ce qui mènera à des estimations de population plus précises.
+
+
+> **Corrections de traduction en cours**
+

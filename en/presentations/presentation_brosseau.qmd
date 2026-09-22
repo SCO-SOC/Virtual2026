@@ -1,0 +1,22 @@
+---
+filename: presentations/presentation_brosseau
+title: "Assessing Population Trends and Structure of a Cryptic Waterbird Across its Range"
+author: 
+   - Joe Brosseau<sup>1</sup>
+   - Joseph Brosseau<sup>2</sup>
+author-affiliation:
+  - 1. Biology MSc Student, University of Saskatchewan
+  - 2. Department of Biology, University of Saskatchewan
+session:  "3MT - Ecology: Populations"
+date: 2026-10-06T20:24:00Z
+---
+
+
+
+### Abstract
+
+
+
+The Forster’s Tern (<i>Sterna forsteri</i>) is an understudied North American waterbird with an indeterminate population status in potential decline. Compared to other North American Tern species, Forster’s Terns have shorter migrations, staying within North America throughout the annual cycle. The core of the Forster’s Tern breeding range is in interior wetlands of the Prairie Pothole Region, with additional breeding populations ranging across the southern Atlantic and Gulf of Mexico coasts of the United States. My research aims to improve our knowledge of Forster’s Tern population structure and movement across the full annual cycle, including determining whether different subspecies exist, as was proposed more than 80 years ago. For this, I have two objectives: 1) assess population trends in relation to environmental covariates with the use of Citizen Science and remotely sensed environmental data, and 2) analyze population structure with the use of a combination of morphological and genetic data collected across their breeding populations. These analyses together will allow for a more complete understanding of Forster’s Terns, providing insight into their population status and structure across the annual cycle and helping determine whether separate populations should be treated as separate “Designatable Units” for the most optimal conservation and management strategies for the species.
+
+

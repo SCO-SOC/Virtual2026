@@ -1,0 +1,29 @@
+---
+filename: presentations/presentation_wade
+title: "Thirty-seven years of change in an Arctic tundra bird community on Qikiqtaruk–Herschel Island, Yukon"
+author: 
+   - Maya Wade<sup>1</sup>
+   - Isla Myers-Smith<sup>2</sup>
+   - Cameron Eckert<sup>3</sup>
+   - Richard Gordon<sup>4</sup>
+   - Qikiqtaruk Territorial Park Rangers<sup>5</sup>
+author-affiliation:
+  - 1. University of British Columbia Faculty of Forestry & Environmental Stewardship
+  - 2. University of British Columbia
+  - 3. Yukon Parks
+  - 4. Yukon Parks
+  - 5. Yukon Parks
+session:  "Session 2: Conservation Biology"
+date: 2026-10-06T17:40:00Z
+---
+
+
+
+### Abstract
+
+
+
+Climate warming is driving the expansion of woody shrubs across the Arctic tundra, reshaping habitats critical to over 200 bird species. Shrub expansion is already altering avian ranges, behaviours, and population dynamics, yet the magnitude of these effects and the diversity of species affected remain unclear. We examined whether the breeding bird community on Qikiqtaruk–Herschel Island, Yukon, has changed over the past 37 years and whether these changes are associated with increasing tundra greenness. Using 37 years (1990–2026) of annual June breeding bird surveys conducted by Yukon Parks, we tested for long-term changes in community composition using multivariate statistical analyses. We found that the tundra bird community composition shifted significantly and was largely driven by species turnover. Species richness and Shannon diversity exhibited small but significant positive trends over the study period. Several shrub-associated species such as American Tree Sparrow (<i>Spizelloides arborea</i>) and Bluethroat (<i>Luscinia svecica</i>) have increased, while many open-tundra-nesting species like Baird’s Sandpiper (<i>Calidris bairdii</i>) and Lapland Longspur (<i>Calcarius lapponicus</i>) have decreased. Environmental vector fitting identified maximum annual NDVI, a proxy for tundra greenness that reflects vegetation change such as shrub expansion, as the strongest predictor of these compositional shifts. These findings support the hypothesis that climate-driven vegetation change is contributing to the long-term restructuring of tundra bird communities, with potential consequences for the persistence of open-tundra specialist species.
+
+
+

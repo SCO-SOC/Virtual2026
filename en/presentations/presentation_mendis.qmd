@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_mendis
+title: "Longer-distance migrations are not associated with higher productivity in a declining, aerial insectivore, Purple Martin (<i>Progne subis</i>)."
+author: 
+   - Vinuri Mendis<sup>1</sup>
+   - Joe Siegrist<sup>2</sup>
+   - Kevin Fraser<sup>3</sup>
+author-affiliation:
+  - 1. University of Manitoba
+  - 2. Purple Martin Conservation Association
+  - 3. University of Manitoba
+session:  "Session 1: Migration"
+date: 2026-10-06T19:30:00Z
+---
+
+
+
+### Abstract
+
+
+
+Longer-distance migrations by neotropical birds are expected to be associated with higher energy costs and lower survival, but may be compensated for by more food, longer daylengths, and fewer predators at more northern latitudes, resulting in higher productivity to offset the costs. However, there have been few empirical tests of these patterns and new conditions with climate change may limit the benefits of long-distance migration. We investigated the association between migration distance and nest productivity by using a rare, 30-year dataset (1995 – 2024) of over 100,000 nest monitoring records of the eastern subspecies of purple martin (<i>Progne subis</i> subis), spanning their entire North American breeding range (25–54° N). We analyzed the variation in clutch size and three measures of nest success across breeding latitude (where the most northern breeders migrate the furthest). We found strong latitudinal patterns of clutch size and nest success, where the most northern and southern breeders had the highest clutch sizes and fledged the most young, with intermediate latitudes showing lower productivity. Overall, these results contrast predictions that longer-distance migrations are compensated for by higher productivity at more northern latitudes. Further, regions with lower nest success in our study align with patterns of population decline in this species, suggesting a connection between productivity and population trends in this declining aerial insectivore. These findings overall highlight the importance of considering both spatial and temporal variation when determining the effects of migration distance on reproductive success and may help to explain steeper population declines in migratory songbirds.
+
+

@@ -1,0 +1,28 @@
+---
+filename: presentations/presentation_porter
+title: "From Collection to Conservation: Expert Perspectives on the Volunteer-Contributed Bird Data Lifecycle"
+author: 
+   - Elizabeth Porter<sup>1</sup>
+   - Adam C Smith<sup>2</sup>
+   - Shoshanah Jacobs<sup>3</sup>
+   - Shelby Bohn<sup>4</sup>
+   - Karl Cottenie<sup>5</sup>
+author-affiliation:
+  - 1. University of Guelph
+  - 2. Canadian Wildlife Service
+  - 3. University of Guelph
+  - 4. University of Calgary
+  - 5. University of Guelph
+session:  "Session 2: Conservation Biology"
+date: 2026-10-06T17:50:00Z
+---
+
+
+
+### Abstract
+
+
+
+Volunteer science is foundational to long-term avian monitoring; yet, without clear understanding of volunteer characteristics, complex strategies to model observer effects remain a necessary but compromised avenue for advancing ornithological research. I address this by investigating how observer characteristics are navigated across the data lifecycle. My previous research 1) quantified influence of observer characteristics on population trend estimates, and 2) found that 51% of uses of Canadian volunteer-contributed bird data in the peer-reviewed literature do not explicitly address the volunteer nature of the data. This study examines the perspectives of experts across stages of the data lifecycle, using interviews and reflexive thematic analysis to identify practical and epistemic constraints shaping how observer characteristics are operationalized in practice. Situating these effects within real-world data management constraints informs methodological improvements and transparent reporting standards in ornithological research. This presentation will discuss potential explanations for the lack of transparency identified in the literature, the diversity of approaches used across programs to ensure reliable data from planning stages through to end-use, and what experts might do differently given unlimited resources. These findings will help bridge the gap between statistical methods for addressing observer variation and their practical application in ornithology, supporting appropriate and respectful use of volunteer-contributed bird data for evidence-based conservation.
+
+

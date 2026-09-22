@@ -1,0 +1,27 @@
+---
+filename: presentations/presentation_hutchinson
+title: "Balancing act: ATP supply and demand in torpid ruby-throated hummingbirds"
+author: 
+   - Amalie Hutchinson<sup>1</sup>
+   - James Staples<sup>2</sup>
+   - Chris G Guglielmo<sup>3</sup>
+author-affiliation:
+  - 1. Western University
+  - 2. Western University
+  - 3. Western University
+session:  "Session 2: Foraging Ecology and Diet"
+date: 2026-10-06T15:50:00Z
+---
+
+
+
+### Abstract
+
+
+
+ATP supply by mitochondria and ATP demand by cellular processes is carefully regulated during active periods and during states of metabolic suppression, such as torpor. Torpor is a state of inactivity characterized by decreased metabolic rate (MR) and body temperature that can be spontaneously reversed using endogenously produced heat. To avoid the high cost of thermoregulation at night, hummingbirds use torpor. We searched for a site of metabolic suppression in the flight muscle of torpid ruby-throated hummingbirds (<i>Archilochus colubris</i>). 
+We were the first to investigate mitochondrial dynamics in hummingbirds. OXPHOS was suppressed by ~20% through CI when pyruvate was the metabolic fuel, but no suppression was observed when mitochondria were fueled with a lipid-based substrate. As fat is the main source of energy during torpor, we concluded that, unlike mammalian models of torpor, whole-animal MR suppression does not involve downregulating mitochondria. 
+Next, we investigated ATP demand pathways to determine if inhibiting SERCA or Na+/K+ ATPase drives torpor. SERCA activity did not change, however, the uncoupler sarcolipin was more highly phosphorylated. Phosphorylation inhibits sarcolipin, resulting in decreased ATP demand and heat generation. Na+/K+ ATPase activity decreased by 43% in torpor, a mechanism that could account for a significant proportion of whole-animal MR suppression. 
+Taken together, we suggest that torpid hummingbirds suppress pathways of ATP demand in concert with passive metabolic suppression initiated by adjusting thermoregulation and allowing core body temperature to drop. These findings highlight interesting contrasts between birds and mammals and provide insight into their evolutionary paths to heterothermy.
+
+

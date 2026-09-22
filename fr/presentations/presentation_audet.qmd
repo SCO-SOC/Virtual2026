@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_audet
+title: "Les Mésanges à tête noire (<i>Poecile atricapillus</i>) femelles étendent leur rayon de recherche de nourriture temporellement et spatialement afin d'atténuer la compétition par interférence."
+author: 
+   - Elène Haave Audet<sup>1</sup>
+   - Kimberley Mathot<sup>2</sup>
+author-affiliation:
+  - 1. Université du Québec à Montréal
+  - 2. Université de l'Alberta
+session:  "Session 2: Écologie Alimentaire et Régime Alimentaire"
+date: 2026-10-06T16:00:00Z
+---
+
+
+
+### Résumé
+
+
+
+La vie en groupe offre de nombreux avantages potentiels, mais peut aussi entraîner des coûts importants en raison de la compétition pour l'accès aux ressources. Même en l'absence d'épuisement des ressources, la compétition par interférence peut réduire l'accès à ces dernières, et on ne s'attend pas à ce que cette compétition affecte tous les membres du groupe de manière égale. Dans les groupes dotés de hiérarchies de dominance, les individus dominants ont un accès prioritaire aux ressources et devraient donc subir des coûts de compétition par interférence plus faibles que les individus subordonnés. Nous avons observé le comportement de recherche de nourriture au sein d'une population de 126 mésanges à tête noire (Poecile atricapillus) marquées au Jardin botanique de l'Université de l'Alberta, près d'Edmonton, en Alberta. Nous avons évalué l'effet de la manipulation du nombre de mangeoires disponibles avec de la nourriture ad libitum sur les territoires d'alimentation des mésanges, ce qui, selon notre hypothèse, affecterait l'intensité de la compétition, sur le nombre total de visites quotidiennes aux mangeoires. Comme prévu, nous avons trouvé des preuves solides de compétition par interférence : une réduction de 50 % de la disponibilité des mangeoires a réduit d'environ 50 % la moyenne des visites quotidiennes par individu aux mangeoires dans notre population. Étant donné que les volées de mésanges présentent des hiérarchies de dominance linéaires, où les mâles dominent les femelles et, dans certaines populations du moins, les adultes dominent les immatures, nous avons également cherché à savoir s'il existait des différences liées au sexe et/ou à l'âge dans l'intensité de la compétition par interférence. Nous avons constaté que les réductions du nombre total de visites quotidiennes aux mangeoires sous une plus faible disponibilité de nourriture manipulée étaient similaires pour toutes les catégories d'âge et de sexe, ce qui suggère que les femelles et les immatures ne subissaient pas une compétition par interférence plus élevée malgré leur statut de subordonnées par rapport aux mâles et aux adultes. Des analyses post-hoc ont révélé que les femelles adultes élargissaient leur aire de recherche de nourriture, tandis que les femelles immatures augmentaient à la fois la durée de leur fenêtre de recherche de nourriture et leur aire de recherche de nourriture lorsque la disponibilité des mangeoires était réduite. Nous suggérons que ces résultats pourraient indiquer que les femelles investissent davantage pour atténuer la compétition et gérer un accès imprévisible à la nourriture en raison de leur statut de subordonnées.
+
+
+> **Corrections de traduction en cours**
+

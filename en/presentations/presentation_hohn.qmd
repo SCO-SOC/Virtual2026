@@ -1,0 +1,24 @@
+---
+filename: presentations/presentation_hohn
+title: "Nest site selection of urban Spotted Towhees (<i>Pipilo maculatus</i>): Evidence of an ecological trap or predator shield?"
+author: 
+   - Triana Hohn<sup>1</sup>
+   - David Green<sup>2</sup>
+   - Elizabeth Gow<sup>3</sup>
+author-affiliation:
+  - 1. Simon Fraser University
+  - 2. Simon Fraser University
+  - 3. Environment and Climate Change Canada
+session:  "Session 1: Urban Ecology"
+date: 2026-10-06T15:50:00Z
+---
+
+
+
+### Abstract
+
+
+
+An ecological trap occurs when an animal shows a preference for a habitat that ultimately has negative fitness consequences. Birds nesting in urban areas may be particularly vulnerable to ecological traps. Alternatively, some parts of urban areas may act as shields, when human presence function as a deterrent to some common nest predators. Open-cup, ground-nesting birds are considered susceptible to disturbance from human recreation and predation by urban predators. Urban breeding Spotted Towhees (<i>Pipilo maculatus</i>) often nest in dense and shrubby habitat along edges, thus are a good study system to test for ecological traps. In urban areas, these edges often border walkways which may alter disturbance or predation risk due to human activity. From 2022-2025 we found and monitored 407 Spotted Towhee nests across five greenspaces of varying degree of urbanization within Metro Vancouver, British Columbia. We examined how daily nest survival and reproductive success are impacted by natural and anthropogenic factors across multiple spatial scales ranging from the level of nest sites to the entire urban greenspace. We also tested whether nesting decisions of Spotted Towhees breeding in urban greenspaces create an ecological trap or provide a shield from predation. We found that nest survival and the number of fledglings produced were both affected by weather and probability of nest survival increased with increasing degree of urbanization. We showed that Spotted Towhees preferably nest close to anthropogenic edges, like paths, but found that these edges are not functioning as a trap for towhees during the nesting stage because the distance to edge did not significantly impact nest survival or number of fledglings produced. Our findings support the hypothesis that human dominated environments benefit some native species, potentially through a shield phenomenon, highlighting the potential role urban environments can have for bird conservation.
+
+

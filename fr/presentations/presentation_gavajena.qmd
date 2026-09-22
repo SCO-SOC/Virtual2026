@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_gavajena
+title: "Évaluation de la contamination par les métaux toxiques et du transfert aux niveaux trophiques dans les rivières Deka et Lukosi, en utilisant des poissons et des oiseaux prédateurs comme bio-indicateurs."
+author: 
+   - Mavis Gavajena<sup>1</sup>
+   - <sup>2</sup>
+author-affiliation:
+  - 1. candidate à la maîtrise, Faculté d'agriculture, de gestion de l'environnement et des ressources naturelles, Midlands State University
+session:  "3MT - Pollution / écotoxicologie"
+date: 2026-10-06T20:36:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les écosystèmes d’eau douce sont de plus en plus menacés par la contamination par des éléments toxiques tels que l’arsenic, le manganèse et le plomb, principalement due à l’exploitation minière, aux rejets industriels et aux activités agricoles. Ces polluants peuvent persister dans les environnements aquatiques, s’accumuler dans les sédiments et entrer dans les réseaux trophiques, où ils présentent des risques pour les organismes aquatiques et les niveaux trophiques supérieurs. Dans les systèmes fluviaux tels que les rivières Deka et Lukosi, qui sont influencés par les activités anthropiques, l’étendue de la contamination et ses implications écologiques suscitent une préoccupation croissante.
+Les organismes aquatiques, en particulier les poissons, jouent un rôle essentiel dans le transfert des contaminants par le biais des interactions trophiques, tandis que les oiseaux aquatiques prédateurs peuvent servir de bio-indicateurs efficaces de la pollution environnementale en raison de leur position au sommet du réseau trophique. Malgré cela, il existe peu d’informations sur la distribution et la bioaccumulation des éléments toxiques dans ces systèmes fluviaux et sur leur amplification potentielle à travers les niveaux trophiques.
+Cette étude vise à étudier les concentrations d’arsenic, de manganèse et de plomb dans l’eau, les sédiments et les poissons des rivières Deka et Lukosi, et à évaluer leur bioaccumulation subséquente chez les oiseaux aquatiques prédateurs. Nous émettons l’hypothèse que les niveaux de contaminants varieront dans l’espace et que la bioaccumulation augmentera avec la position trophique, reflétant les processus de bioamplification.
+En reliant la contamination environnementale à l’absorption biologique à travers plusieurs niveaux trophiques, cette recherche cherche à fournir un aperçu de la santé de l’écosystème et des risques potentiels pour la biodiversité aquatique et les espèces aviaires, tout en éclairant les futures stratégies de surveillance et de conservation.
+
+
+> **Corrections de traduction en cours**
+

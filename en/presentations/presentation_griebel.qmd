@@ -1,0 +1,41 @@
+---
+filename: presentations/presentation_griebel
+title: "Classification of egg laying, incubation and brood rearing from remotely collected telemetry data"
+author: 
+   - Ilsa Griebel<sup>1</sup>
+   - Érika G da Rocha<sup>2</sup>
+   - Abigail Butler<sup>3</sup>
+   - Laura R Dykstra<sup>4</sup>
+   - Cassidy L Waldrep<sup>5</sup>
+   - John M Coluccy; Patrick K Devers<sup>6</sup>
+   - Min T Huang<sup>7</sup>
+   - Tracy A G Rittenhouse<sup>8</sup>
+   - Joshua C Stiller<sup>9</sup>
+   - Jacob N Straub<sup>10</sup>
+   - Mitch D Weegman<sup>11</sup>
+author-affiliation:
+  - 1. University of Saskatchewan
+  - 2. University of Saskatchewan
+  - 3. SUNY Brockport
+  - 4. University of Connecticut
+  - 5. University of Saskatchewan
+  - 6. Ducks Unlimited, Inc
+  - 7. USFS
+  - 8. Connecticut Department of Energy and Environmental Protection
+  - 9. University of Connecticut
+  - 10. New York State Department of Environmental Conservation
+  - 11. SUNY Brockport
+  - 12. University of Saskatchewan
+session:  "Session 1: Methods Matter"
+date: 2026-10-06T16:50:00Z
+---
+
+
+
+### Abstract
+
+
+
+Knowledge of reproductive attempts and outcomes is imperative for understanding drivers of population growth and learning how individual decisions and environmental conditions explain variation in productivity, but breeding locations in remote areas of the planet can hinder our ability to monitor reproductive attempts using traditional methods. The goal of this study was to develop a data-driven, machine-learning method that identified egg laying, incubation and brood rearing behaviour for two species of dabbling duck, American black ducks (<i>Anas rubripes</i>) and mallards (<i>A. platyrhynchos</i>), to measure reproductive success remotely using Global Positioning System (GPS) and tri-axial acceleration (ACC) data collected by tracking devices. We successfully developed an egg laying/early incubation model (classified as nesting or not), a full-term incubation model (non-incubating, failed incubation attempt or successful incubation attempt) and early (1-15 days post-hatch) and late (16-30 days post-hatch) brood rearing models (combined output as failed or fledged brood), which all had overall accuracies >94%. We applied our method to two large-scale datasets collected in eastern North America on black ducks and mallards and summarized data by species, age and year. We found mallards had greater breeding success than black ducks, due to higher nest propensity and brood fledging success. For each species, after second year females had higher nest propensity, nest success, and brood fledging success than second year females. Our method can be used to understand multiple fine-scale metrics of reproductive success using retrospective analysis of tracking data, should be applicable to most dabbling duck species, and could be adjusted for other taxa equipped with tracking devices that display restricted movements during breeding. Results from this approach allow hypothesis tests of environmental drivers of productivity and evaluations of their contributions to population change.
+
+

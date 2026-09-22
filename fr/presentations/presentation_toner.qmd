@@ -1,0 +1,26 @@
+---
+filename: presentations/presentation_toner
+title: "Régime alimentaire des Goglu des prés (<i>Dolichonyx oryzivorus</i>) lors des haltes migratoires automnales"
+author: 
+   - Charlotte Toner<sup>1</sup>
+   - Wendy Monk<sup>2</sup>
+   - Joe Nocera<sup>3</sup>
+author-affiliation:
+  - 1. Université du Nouveau-Brunswick
+  - 2. Université du Nouveau-Brunswick
+  - 3. Université du Nouveau-Brunswick
+session:  "Session 2: Écologie Alimentaire et Régime Alimentaire"
+date: 2026-10-06T16:30:00Z
+---
+
+
+
+### Résumé
+
+
+
+Les écosystèmes agricoles présentent des compromis complexes entre les priorités humaines et celles de la conservation, en particulier pour les espèces migratrices ou en péril dont le cycle de vie dépend d'habitats gérés. De nombreuses espèces d'oiseaux peuvent fournir des services écosystémiques précieux dans les agroécosystèmes, comme la lutte contre les ravageurs et les mauvaises herbes, mais ces rôles sont souvent mal quantifiés, surtout pendant les périodes énergétiquement exigeantes comme avant la migration. Le goglu des prés (Dolichonyx oryzivorus) est un passereau des prairies migrateur au long cours et une espèce en péril pour laquelle il existe une lacune de connaissances importante concernant sa fonction alimentaire au sein des écosystèmes, ainsi que ses habitudes alimentaires pendant la halte prémigratoire. Mon étude examine le régime alimentaire du goglu des prés pendant la période de halte postnuptiale et prémigratoire de juillet et août. J'ai recueilli des échantillons de matières fécales sur huit sites agricoles dans la vallée d'Annapolis, en Nouvelle-Écosse, au Canada. En utilisant le métacodage à barres de l'ADN des échantillons fécaux, j'ai identifié la composition du régime alimentaire en plantes et en insectes au fil du temps, entre les groupes d'âge, et en relation avec l'origine des plantes et le statut de ravageur des insectes. Mes résultats indiquent que le goglu des prés consomme une communauté alimentaire diversifiée de plantes et d'insectes, y compris des mauvaises herbes et des ravageurs. Cette composition a changé de manière significative au fil du temps à l'approche de la migration, et la composition du régime alimentaire en insectes différait de manière significative entre les adultes et les juvéniles. Cette étude fournit la première analyse par métacodage à barres de l'ADN du goglu des prés, ainsi que la première identification à fine échelle du régime alimentaire du goglu des prés pendant la halte automnale. Ensemble, ces résultats indiquent que le goglu des prés peut contribuer aux services écosystémiques au sein des agroécosystèmes tout en modifiant simultanément son régime alimentaire pour répondre aux exigences énergétiques de la halte migratoire. En contribuant à la connaissance du goglu des prés pendant une période potentiellement limitante de son cycle de vie, j'espère améliorer les techniques de gestion de la conservation en identifiant les sources de proies importantes et en soulignant la valeur de cette espèce en péril dans les écosystèmes agricoles.
+
+
+> **Corrections de traduction en cours**
+
