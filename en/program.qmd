@@ -83,7 +83,7 @@ Schedule times are in your browser's local time.
 - - {{< localtime 2026-10-05 13:15 EDT format='%H:%M' >}} 
   - []{.mainevents} [Twenty Years of Boreal Avian Modelling](showcases/showcase_bam.qmd)
 - - {{< localtime 2026-10-05 13:30 EDT format='%H:%M' >}} 
-  - []{rowspan=2  .socialevents} Break / Social Event
+  - []{rowspan=2  .socialevents} Break
   - []{rowspan=2  .socialevents} Break / Social Event
 
 - - {{< localtime 2026-10-05 13:45 EDT format='%H:%M' >}} 

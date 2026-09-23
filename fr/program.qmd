@@ -83,7 +83,7 @@ L’horaire correspond à l’heure locale de votre navigateur.
 - - {{< localtime 2026-10-05 13:15 EDT format='%H:%M' >}} 
   - []{.mainevents} [Vingt ans de modélisation de l’avifaune boréale](showcases/showcase_bam.qmd)
 - - {{< localtime 2026-10-05 13:30 EDT format='%H:%M' >}} 
-  - []{rowspan=2  .socialevents} Pause / Activité sociale
+  - []{rowspan=2  .socialevents} Pause
   - []{rowspan=2  .socialevents} Pause / Activité sociale
 
 - - {{< localtime 2026-10-05 13:45 EDT format='%H:%M' >}} 
