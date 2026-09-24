@@ -102,10 +102,10 @@ L’horaire correspond à l’heure locale de votre navigateur.
   - []{.mainevents} [Laboratoire de comportement et de conservation des oiseaux: synchronisation, mouvements et conservation des oiseaux migrateurs](showcases/showcase_uofm.qmd)
 - - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
   - []{rowspan=4  .mainevents} [Présentations des étudiant·e·s](#presentations)
-  - []{.mainevents} [Écotoxicologie et conservation des communautés d’oiseaux des prairies](showcases/showcase_uofs.qmd)
+  - []{.mainevents} [Changements paysagers et écologie aviaire à l’Université Thompson Rivers](showcases/showcase_tru.qmd)
 
 - - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} [Changements paysagers et écologie aviaire à l’Université Thompson Rivers](showcases/showcase_tru.qmd)
+  - []{.mainevents} [Écotoxicologie et conservation des communautés d’oiseaux des prairies](showcases/showcase_uofs.qmd)
 - - {{< localtime 2026-10-05 15:30 EDT format='%H:%M' >}} 
   - []{rowspan=2  .socialevents} Pause / Activité sociale
 

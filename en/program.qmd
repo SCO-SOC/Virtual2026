@@ -105,10 +105,10 @@ Schedule times are in your browser's local time.
 
 - - {{< localtime 2026-10-05 15:00 EDT format='%H:%M' >}} 
   - []{rowspan=4  .mainevents} [Student Presentations](#presentations)
-  - []{.mainevents} [Ecotoxicology and Conservation of Prairie Bird Communities](showcases/showcase_uofs.qmd)
+  - []{.mainevents} [Landscape Change and Avian Ecology at Thompson Rivers University](showcases/showcase_tru.qmd)
   
 - - {{< localtime 2026-10-05 15:15 EDT format='%H:%M' >}} 
-  - []{.mainevents} [Landscape Change and Avian Ecology at Thompson Rivers University](showcases/showcase_tru.qmd)
+  - []{.mainevents} [Ecotoxicology and Conservation of Prairie Bird Communities](showcases/showcase_uofs.qmd)
 
 - - {{< localtime 2026-10-05 15:30 EDT format='%H:%M' >}} 
   - []{rowspan=2  .socialevents} Break / Social Event
