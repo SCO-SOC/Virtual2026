@@ -85,7 +85,7 @@ Drs Ann McKellar, Nancy Mahony, Greg Mitchell, and Elizabeth Gow are Research Sc
 **Presenter(s)**: Christy Morrissey  
 **Affiliation(s)**: Professor of Biology, University of Saskatchewan  
 **Organization Type**: Academic  
-**Time**: {{< localtime 2026-10-07 19:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
+**Time**: {{< localtime 2026-10-07 19:15 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 
 ### Abstract
@@ -115,7 +115,7 @@ The Advanced Facility for Avian Research at Western University is a world class 
 **Presenter(s)**: Matt Reudink, Nancy Flood, Stephen Joly, Kara Lefevre  
 **Affiliation(s)**: Thompson Rivers University  
 **Organization Type**: Academic  
-**Time**: {{< localtime 2026-10-07 19:15 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
+**Time**: {{< localtime 2026-10-07 19:00 UTC format='%b %-d, %Y %-I:%M%P %Z' >}}  
 
 ### Abstract
 

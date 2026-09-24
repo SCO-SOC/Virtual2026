@@ -24,7 +24,7 @@ Le Réseau canadien de données aviaires (CanAvian) réunit une vaste communaut�
 **Présentateur·rice·s**: Matt Reudink, Nancy Flood, Stephen Joly, Kara Lefevre  
 **Affiliation·s**: Université Thompson Rivers  
 **Type d'organisation**: Académique  
-**Heure**: {{< localtime 2026-10-07 19:15 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
+**Heure**: {{< localtime 2026-10-07 19:00 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
 
 ### Résumé
 
@@ -213,7 +213,7 @@ Situé sur le campus de Saint John de l’Université du Nouveau-Brunswick, le L
 **Présentateur·rice·s**: Christy Morrissey  
 **Affiliation·s**: Professeure de biologie, Université de la Saskatchewan  
 **Type d'organisation**: Académique  
-**Heure**: {{< localtime 2026-10-07 19:00 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
+**Heure**: {{< localtime 2026-10-07 19:15 UTC format='%b %-d, %Y %-H:%M %Z' >}}  
 
 
 ### Résumé
