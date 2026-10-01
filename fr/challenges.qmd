@@ -1,0 +1,42 @@
+---
+title: "Défis de chasse au trésor"
+filename: challenges
+toc: true
+---
+
+Les participant·es à la chasse au trésor ornithologique peuvent observer les oiseaux de façon autonome ou en groupe pendant la période prévue. Voici les défis à relever pour participer au tirage des prix (vous obtenez une participation pour chaque défi réussi; même si vous ne pouvez pas tous les relever, veuillez soumettre les fichiers des défis que vous avez réussis). Pour relever un défi, vous pouvez prendre une photo ou enregistrer une vidéo/un extrait audio (gardez les fichiers courts).
+
+Défis liés aux oiseaux
+
+1. Un oiseau qui chante ou qui lance un cri.  
+2. Un oiseau en vol.  
+3. Un oiseau à la recherche de nourriture.  
+4. Un oiseau qui transporte quelque chose.  
+5. Un oiseau qui utilise une structure humaine.  
+6. Un oiseau qui visite une mangeoire.  
+7. Un oiseau commun.
+
+Défis liés à l’observation des oiseaux
+
+8. Des personnes qui observent les oiseaux. (N’oubliez pas de demander la permission avant de prendre quelqu’un·e en photo\!)  
+9. Un moment drôle pendant une sortie d’observation des oiseaux.  
+10. Une photo de votre équipement d’observation. (N’oubliez pas que l’observation des oiseaux est pour tout le monde: le simple fait d’être dans la nature compte comme une sortie d’observation, peu importe l’équipement que vous avez\!)
+
+Défi boni
+
+11. Publiez une photo de votre moment préféré de la chasse au trésor ornithologique dans The Roost (utilisez le sujet « Birding Scavenger Hunt » dans le canal SCO-SOC 2026\) et ajoutez le mot-clic **\#BirdingScavengerHuntSCO**.
+
+## Consignes d’éthique et de sécurité pour l’observation des oiseaux
+
+On rappelle aux participant·es de ne pas déranger les oiseaux, les nids, les œufs, les oisillons ou les habitats fragiles. Évitez de faire jouer des enregistrements de chants ou de cris, de vous approcher des nids ou de déranger les oiseaux pour prendre des photos. 
+
+Les participant·es doivent observer les oiseaux uniquement dans des endroits sûrs et accessibles. Il faut respecter les règles locales, les avis météorologiques, les règles de sécurité routière, les règlements des parcs et les exigences en matière de sécurité personnelle. N’accédez jamais à une propriété privée sans permission.
+
+Consultez le [ABA Code of Birding Ethics](https://www.aba.org/aba-code-of-birding-ethics/) pour en savoir plus sur un code d’éthique ornithologique largement utilisé; les personnes qui observent les oiseaux sont invitées à le mettre en pratique et à le promouvoir afin que l’observation des oiseaux soit respectueuse, agréable et réfléchie.
+
+## Comment soumettre votre participation?
+
+Veuillez renommer vos fichiers média selon le défi auquel vous les avez associés (p. ex., `3_foraging_bird_robin.jpg` ou `1_singing_chickadee.mp3`). Placez tous vos fichiers média pour les défis dans un seul dossier et nommez-le `Prenom_Nom_scavengerhunt` (p. ex., `Mark_Russell_scavengerhunt`).
+
+**Téléversez votre dossier sur Dropbox au plus tard à la fin de la journée du vendredi 9 octobre\
+(nous vous enverrons le lien par courriel le mercredi 7 octobre)**

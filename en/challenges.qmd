@@ -1,0 +1,42 @@
+---
+title: "Scavenger Hunt Challenges"
+filename: challenges
+toc: true
+---
+
+Birding scavenger hunt participants can go birding independently or in groups during the assigned time period. Below are the challenges participants must complete to enter the prize draw (you get one entry for every challenge you complete, so even if you are not able to complete all of them, please submit the media for challenges you completed). You can complete a challenge by capturing the subject in a photo, video or audio recording (keep them short). 
+
+Bird related
+
+1. Singing or calling bird.  
+2. Flying bird.  
+3. Foraging bird.  
+4. Bird carrying any object.  
+5. Bird using human-made structure.   
+6. Bird visiting a feeder.  
+7. Common backyard bird.
+
+Birder related
+
+8. Birders looking for birds. (Make sure to ask for permission before taking a photo of someone\!)  
+9. Funniest birding moment.  
+10. A photo of your birding setup. (Remember that birding is for everyone, and you out in nature counts as a birding setup regardless of what gear you have\!)
+
+Bonus
+
+11. Post a photo of your favourite birding scavenger hunt moment in The Roost (use Birding Scavenger Hunt topic in SCO-SOC 2026 channel) and use the tag \#**BirdingScavengerHuntSCO**
+
+## Ethical birding and safety guideline
+
+Participants are reminded not to disrupt birds, nests, eggs, chicks, or vulnerable habitats. They should avoid using song/call playbacks, approaching nests, or disturbing birds for photographs.
+
+Participants should only do birding in safe, accessible locations. They must adhere to local rules, weather advisories, traffic safety, park regulations, and personal safety requirements. Participants should never access private property without permission. 
+
+Please visit the [ABA Code of Birding Ethics](https://www.aba.org/aba-code-of-birding-ethics/) to learn more about widely used codes of birding ethics for all birders to practice and advocate for respectful, delightful, and mindful birdwatching.
+
+## How to Submit?
+
+Please rename the media to the specific challenge that you assigned it (e.g., `3_foraging_bird_robin.jpg`, or `1_singing_chickadee.mp3`). Put all your challenge media in a single folder and name the folder `Firstname_Lastname_scavengerhunt` (eg., `Mark_Russell_scavengerhunt`).
+
+**Upload your folder to Dropbox by the end of Friday October 9th\
+(we will email you the link on Wednesday October 7th)**
