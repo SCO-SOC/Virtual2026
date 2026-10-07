@@ -15,10 +15,10 @@ filename: index
 **Lundi 5 octobre 2026** -- [Lien Zoom pour la rencontre des ornithologues 2SLGBTQIA+](https://birdscanada-org.zoom.us/j/84924337889?pwd=5RLFYqhCbJAd1DGNaa2ipjkFvqnFTm.1 ) (17h30, heure de l’Est)
  -->
 
-**Mardi 6 octobre 2026** -- [Lien Zoom pour les présentations des étudiant·e·s](https://birdscanada-org.zoom.us/j/87998208146?pwd=5MhpRW1vHfbpf2KNBkbneIAD6ssub0.1) (voir le [programme](program.qmd#presentations))
+<!-- **Mardi 6 octobre 2026** -- [Lien Zoom pour les présentations des étudiant·e·s](https://birdscanada-org.zoom.us/j/87998208146?pwd=5MhpRW1vHfbpf2KNBkbneIAD6ssub0.1) (voir le [programme](program.qmd#presentations)) -->
 
-<!--
-**Mercredi 7 octobre 2026** -- [Lien Zoom pour les présentation de la recherche pancanadienne](https://birdscanada-org.zoom.us/j/85872200877?pwd=6pEE79DoIuW68tUUUvn0qJMa7epZ6Z.1) (voir le [programme](program.qmd#showcases)) -->
+
+**Mercredi 7 octobre 2026** -- [Lien Zoom pour les présentation de la recherche pancanadienne](https://birdscanada-org.zoom.us/j/85872200877?pwd=6pEE79DoIuW68tUUUvn0qJMa7epZ6Z.1) (voir le [programme](program.qmd#showcases))
 
 ### T-Shirts!
 
