@@ -7,7 +7,7 @@ filename: index
 
 ![](figs/logo_v3.svg){width=50% fig-align="center" fig-alt="" title="Logo by Sunny Tseng"}
 
-### Join us!
+<!-- ### Join us! -->
 <!-- 
 **Monday Oct 5th, 2026** -- [Zoom Link for the AGM](https://birdscanada-org.zoom.us/j/81081535269?pwd=jmPYvNG0PNRrK8Trr4PeOgOD86eVA5.1) (4:30pm Eastern)
 
@@ -17,7 +17,7 @@ filename: index
 <!-- **Tuesday Oct 6th, 2026** -- [Zoom Link for Student Presentations](https://birdscanada-org.zoom.us/j/87998208146?pwd=5MhpRW1vHfbpf2KNBkbneIAD6ssub0.1) (see the [Program](program.qmd#presentations)) -->
 
 
-**Wednesday Oct 7th, 2026** -- [Zoom Link for Cross-country Showcases](https://birdscanada-org.zoom.us/j/85872200877?pwd=6pEE79DoIuW68tUUUvn0qJMa7epZ6Z.1) (see the [Program](program.qmd#showcases))
+<!-- **Wednesday Oct 7th, 2026** -- [Zoom Link for Cross-country Showcases](https://birdscanada-org.zoom.us/j/85872200877?pwd=6pEE79DoIuW68tUUUvn0qJMa7epZ6Z.1) (see the [Program](program.qmd#showcases)) -->
 
 
 ### T-Shirts!
